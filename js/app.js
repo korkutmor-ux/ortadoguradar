@@ -195,14 +195,18 @@ function applyFilters() {
         result = result.filter(n => n.category === STATE.activeCategory);
     }
 
-    // Filter by Search (Tamamen Türkçe Uyumlu)
+    // Filter by Search (GELİŞMİŞ TÜRKÇE VE "İ" DESTEĞİ)
     if (STATE.searchQuery.trim() !== '') {
-        const trLower = (s) => s.replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
-        const q = trLower(STATE.searchQuery.trim());
+        // Türkçe karakterleri (İ/I) manuel olarak güvenli hale getiren fonksiyon
+        const trLower = (str) => {
+            if (!str) return '';
+            return str.replace(/İ/g, "i").replace(/I/g, "ı").toLowerCase().trim();
+        };
+        const q = trLower(STATE.searchQuery);
         
         result = result.filter(n => {
-            const title = trLower(n.title || '');
-            const summary = trLower(n.summary || '');
+            const title = trLower(n.title);
+            const summary = trLower(n.summary);
             return title.includes(q) || summary.includes(q);
         });
     }
