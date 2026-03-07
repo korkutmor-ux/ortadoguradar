@@ -178,7 +178,7 @@ function setupEventListeners() {
 
     // Search Input
     DOM.searchInput.addEventListener('input', (e) => {
-        STATE.searchQuery = e.target.value.toLowerCase();
+        STATE.searchQuery = e.target.value; // Ham veriyi al
         applyFilters();
     });
 
@@ -195,12 +195,14 @@ function applyFilters() {
         result = result.filter(n => n.category === STATE.activeCategory);
     }
 
-    // Filter by Search (Yenilenmiş: Türkçe karakter ve büyük/küçük harf duyarlı)
+    // Filter by Search (Tamamen Türkçe Uyumlu)
     if (STATE.searchQuery.trim() !== '') {
-        const q = STATE.searchQuery.trim().toLocaleLowerCase('tr-TR');
+        const trLower = (s) => s.replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
+        const q = trLower(STATE.searchQuery.trim());
+        
         result = result.filter(n => {
-            const title = n.title ? n.title.toLocaleLowerCase('tr-TR') : '';
-            const summary = n.summary ? n.summary.toLocaleLowerCase('tr-TR') : '';
+            const title = trLower(n.title || '');
+            const summary = trLower(n.summary || '');
             return title.includes(q) || summary.includes(q);
         });
     }
