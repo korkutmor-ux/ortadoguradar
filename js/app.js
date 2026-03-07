@@ -218,21 +218,28 @@ function switchView(view) {
     if (STATE.viewConfig === view) return;
     STATE.viewConfig = view;
     const mainApp = document.querySelector('.app-main');
+    const feedSec = document.getElementById('feedContainer');
+    const mapSec = document.getElementById('mapContainer');
+    const btnFeed = document.getElementById('btn-feed');
+    const btnMap = document.getElementById('btn-map');
     if (view === 'map') {
-        DOM.btnFeed.classList.remove('active');
-        DOM.btnMap.classList.add('active');
-        // Rasathane Modu: Harita merkeze, Akış sağa!
+        btnFeed.classList.remove('active');
+        btnMap.classList.add('active');
+        // Rasathane Aktif: Harita Merkeze, Canlı Akış Sağ Sütuna
         mainApp.classList.add('map-active');
-        DOM.secMap.classList.remove('hidden');
+        mapSec.classList.remove('hidden');
+        feedSec.style.gridColumn = "2"; 
+        
         if (typeof window.invalidateMapSize === 'function') {
             window.invalidateMapSize();
         }
     } else {
-        DOM.btnMap.classList.remove('active');
-        DOM.btnFeed.classList.add('active');
-        // Normal Mod: Akış merkeze, Kategoriler sağa!
+        btnMap.classList.remove('active');
+        btnFeed.classList.add('active');
+        // Normal Mod: Akış Merkeze, Kategoriler Sağa
         mainApp.classList.remove('map-active');
-        DOM.secMap.classList.add('hidden');
+        mapSec.classList.add('hidden');
+        feedSec.style.gridColumn = "1";
     }
 }
 
