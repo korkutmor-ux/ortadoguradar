@@ -195,7 +195,7 @@ function applyFilters() {
         result = result.filter(n => n.category === STATE.activeCategory);
     }
 
-    // Filter by Search (combines title and summary relevance)
+    // Filter by Search (Yenilenmiş: Türkçe karakter ve büyük/küçük harf duyarlı)
     if (STATE.searchQuery.trim() !== '') {
         const q = STATE.searchQuery.trim().toLocaleLowerCase('tr-TR');
         result = result.filter(n => {
@@ -204,7 +204,6 @@ function applyFilters() {
             return title.includes(q) || summary.includes(q);
         });
     }
-
     STATE.filteredNews = result;
     updateUI();
 }
