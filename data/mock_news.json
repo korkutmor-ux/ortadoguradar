@@ -1,5 +1,35 @@
 [
     {
+        "id": "1773086426354med6z",
+        "title": "Savaş tırmanırken ABD'nin İran'daki nihai hedefi ne?",
+        "summary": "İran genelinde saldırılar devam ederken, ABD Başkanı Trump değişen hedefler dile getirdi. Ancak bu hedeflerin gerçekleşme olasılığı sorgulanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T20:00:26.354Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773086468410h278u",
+        "title": "Anthropic, ABD'nin 'tedarik zinciri riski' etiketini kaldırmak için Trump yönetimine dava açtı",
+        "summary": "Yapay zeka şirketi Anthropic, ABD hükümetinin kendisini 'tedarik zinciri riski' olarak tanımlamasına karşı dava açtı. Şirket, bu tanımlamanın yasa dışı olduğunu ve ABD Anayasası'nda güvence altına alınan ifade özgürlüğü ile adil yargılanma haklarını ihlal ettiğini belirtti.",
+        "category": "Ekonomik",
+        "timestamp": "2026-03-09T20:01:08.410Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/9/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773079632007p3dkj",
         "title": "Macron: Fransa, savaşın yatışmasıyla Hürmüz Boğazı'nda gemilere eşlik etmeye hazırlanıyor",
         "summary": "Fransa Cumhurbaşkanı, bu görevin 'tamamen savunma amaçlı' olduğunu belirtti. Misyonun, petrol fiyatlarındaki artışın yaşandığı dönemde Körfez'deki önemli suyolunu kademeli olarak yeniden açmayı hedeflediği ifade edildi.",
