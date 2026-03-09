@@ -58,13 +58,17 @@ function updateMapMarkers(newsData) {
         const newsDate = new Date(item.timestamp);
         const diffHours = (now - newsDate) / (1000 * 60 * 60);
 
-        // Determine color class based on recency logic requested by user
-        let dotColor = 'blue'; // default >= 12h
-        if (diffHours < 6) {
-            dotColor = 'red';
-        } else if (diffHours < 12) {
-            dotColor = 'green';
+                // Determine color class based on recency logic requested by user
+        let dotColor = 'blue'; // default >= 24h or extremely old
+
+        if (diffHours >= 0 && diffHours <= 6) {
+            dotColor = 'red';   // 0-6 hours (HOT)
+        } else if (diffHours > 6 && diffHours <= 12) {
+            dotColor = 'green'; // 6-12 hours (WARM)
+        } else if (diffHours > 12 && diffHours <= 24) {
+            dotColor = 'blue';  // 12-24 hours (COLD)
         }
+
 
         // Create Custom HTML Icon (pulse)
         const customIcon = L.divIcon({
