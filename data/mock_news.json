@@ -1,5 +1,35 @@
 [
     {
+        "id": "1773019833394jqlgm",
+        "title": "Petrol Fiyatları İran Savaşı Ortamında Varil Başına 100 Doları Aştı",
+        "summary": "Genişleyen bölgesel çatışmanın küresel enerji arzını tehdit etmesiyle ham petrol fiyatları %20'ye varan oranlarda yükseldi. Bu durum, petrolün varil başına 100 doların üzerine çıkmasına neden oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T01:30:33.394Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773019843708h3zw5",
+        "title": "İran'da Mojtaba Hamenei Yüce Lider Olarak Adlandırıldı; İsrail Tahran'ı Bombaladı",
+        "summary": "ABD ve İsrail saldırıları devam ederken, İran'ın askeri ve siyasi liderleri Mojtaba Hamenei'ye bağlılık yemini etti. Bu gelişmeler, Mojtaba Hamenei'nin yüce lider olarak adlandırıldığı bir dönemde yaşanmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T01:30:43.708Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17730186686611rxg6",
         "title": "İran'daki Çatışmalar Ortasında Petrol Fiyatları Varil Başına 100 Doları Aştı",
         "summary": "Ham petrol fiyatları, küresel enerji tedarikini tehdit eden geniş çaplı bölgesel bir çatışma nedeniyle %20'ye varan oranlarda artış gösterdi. Bu yükseliş, İran'daki çatışmaların ortasında varil başına 100 doları aşmasına neden oldu.",
