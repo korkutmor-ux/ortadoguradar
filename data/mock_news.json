@@ -1,5 +1,50 @@
 [
     {
+        "id": "1773052300775mpczq",
+        "title": "İran, ABD-İsrail saldırılarında çoğu sivil 1.255 kişinin öldüğünü bildirdi",
+        "summary": "İran Sağlık Bakan Yardımcısı Ali Jafarian, Al Jazeera'ya yaptığı açıklamada, hava saldırılarının onlarca sağlık tesisine zarar verdiğini belirtti. Jafarian, bu saldırılarda çoğu sivil olmak üzere toplam 1.255 kişinin hayatını kaybettiğini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T10:31:40.775Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773052327281qw481",
+        "title": "Irak Teknik Direktörü, ABD-İsrail'in İran'a Yönelik Savaşı Ortamında Dünya Kupası Play-off Maçının Ertelenmesini Talep Etti",
+        "summary": "Irak teknik direktörü Graham Arnold, 31 Mart'taki fikstürün ertelenmesinin, takımının dağınık üyelerinin bir araya gelip hazırlanmasına olanak tanıyacağını belirtti. Bu talep, ABD ve İsrail'in İran'a yönelik savaşı ortamında FIFA'ya iletildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T10:32:07.281Z",
+        "location": {
+            "lat": 33,
+            "lng": 44,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/9/iraq-coach-urges-fifa-to-delay-world-cup-playoff-amid-us-israel-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773052352761k4gz3",
+        "title": "İran Savaşı Bağlamında ABD ve İsrailli Savunma Şirketlerinin Karlılığı",
+        "summary": "İran savaşı bağlamında, savunma şirketlerinin hisse senetleri rekor seviyelere yükseldi. Bu artış, milyarlarca dolarlık silah sistemleri üretme ihtiyacından kaynaklanmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T10:32:32.761Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773050869799aecoe",
         "title": "ABD Senatörü Graham'dan İran'a yönelik savaşın petrol kaynaklarıyla ilişkili olduğu iddiası",
         "summary": "Kıdemli Cumhuriyetçi senatör, İran'a karşı başlatılan savaşın ülkenin petrol kaynakları üzerinde kontrol sağlamak amacıyla yapıldığını ima etti. Bu açıklama, ABD'nin İran'a yönelik olası bir savaşın ekonomik boyutlarına dikkat çekiyor.",
