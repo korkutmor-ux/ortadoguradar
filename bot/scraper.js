@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import 'dotenv/config';
 import Parser from 'rss-parser';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenAI } from '@google/genai';
 
 // API Key Control
 if (!process.env.GEMINI_API_KEY) {
@@ -10,13 +10,13 @@ if (!process.env.GEMINI_API_KEY) {
     process.exit(1);
 }
 
-// Initialize AI and RSS Parser
-const ai = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+// Initialize AI (Yeni v0.1.0 SDK formatı)
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 const parser = new Parser();
 
 // Data Paths
 const RSS_FEEDS = [
-    { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+    { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
 ];
 const OUTPUT_FILE = path.resolve('../data/mock_news.json');
 
@@ -27,14 +27,11 @@ async function fetchAndProcessNews() {
     console.log("📡 Orta Doğu Radar Botu Başlatıldı...");
     let allNews = [];
 
-    // Step 1: Fetch News from RSS feeds
     for (const feedConfig of RSS_FEEDS) {
         console.log(`\n⏳ Veri çekiliyor: ${feedConfig.source}...`);
         try {
             const feed = await parser.parseURL(feedConfig.url);
-
-            // Limit to Top 5 latest news per source to save API costs
-            const topItems = feed.items.slice(0, 5);
+            const topItems = feed.items.slice(0, 5); // Günde bir API limiti aşılmasın diye ilk 5 haber
 
             for (const item of topItems) {
                 console.log(`  - İşleniyor: ${item.title}`);
@@ -43,18 +40,15 @@ async function fetchAndProcessNews() {
                 if (aiResult) {
                     allNews.push(aiResult);
                 }
-
-                // Wait 2 seconds between AI calls to avoid rate limits
-                await delay(2000);
+                
+                await delay(2000); // Wait 2s
             }
         } catch (error) {
             console.error(`❌ ${feedConfig.source} verisi çekilemedi:`, error.message);
         }
     }
 
-    // Step 2: Save to Output File
     if (allNews.length > 0) {
-        // Sort by recency (simulated by processing time or we can let AI extract real time. We'll use current date for simplicity)
         saveToDatabase(allNews);
     } else {
         console.log("❌ Yeni haber bulunamadı veya işlenemedi.");
@@ -87,14 +81,17 @@ LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Baş
 }`;
 
     try {
-const response = await ai.models.generateContent({
+        // Yeni GenAI Formatı
+        const response = await ai.models.generateContent({
             model: 'gemini-2.5-flash',
             contents: prompt,
             config: {
                 temperature: 0.2
             }
         });
-        // Temizleme: Eğer AI başına ve sonuna ```json koyarsa diye
+
+        let text = response.text().trim();
+        
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
         if (text.endsWith("```")) text = text.substring(0, text.length - 3);
@@ -106,7 +103,7 @@ const response = await ai.models.generateContent({
             title: aiData.title,
             summary: aiData.summary,
             category: aiData.category,
-            timestamp: new Date().toISOString(), // Use current time of scraping
+            timestamp: new Date().toISOString(),
             location: {
                 lat: parseFloat(aiData.lat),
                 lng: parseFloat(aiData.lng),
@@ -119,23 +116,19 @@ const response = await ai.models.generateContent({
 
     } catch (error) {
         console.error(`  ❌ AI Hatası (${newsItem.title}):`, error.message);
-        return null; // AI failed parsing
+        return null; // AI failed
     }
 }
 
 function saveToDatabase(newItems) {
     try {
         let existingData = [];
-        // Eğer zaten JSON varsa, oku
         if (fs.existsSync(OUTPUT_FILE)) {
             const fileContent = fs.readFileSync(OUTPUT_FILE, 'utf8');
             existingData = JSON.parse(fileContent);
         }
 
-        // Yeni verileri en başa (üst) ekle (Twitter Taym mantığı)
         const combinedData = [...newItems, ...existingData];
-
-        // Kapasite limiti: Son 100 haberi tutalım ki JSON şişmesin
         const trimmedData = combinedData.slice(0, 100);
 
         fs.writeFileSync(OUTPUT_FILE, JSON.stringify(trimmedData, null, 4));
