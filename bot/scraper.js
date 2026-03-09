@@ -14,7 +14,8 @@ const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 const parser = new Parser();
 
 const RSS_FEEDS = [
-    { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
+    { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+    { source: "BBC", url: "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
 ];
 const OUTPUT_FILE = path.resolve('../data/mock_news.json');
 
