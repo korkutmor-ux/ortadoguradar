@@ -1,5 +1,80 @@
 [
     {
+        "id": "17730430626766bboc",
+        "title": "Asimetrik Savaşın İran'ın Mücadele Potansiyeli Üzerindeki Etkisi",
+        "summary": "Savaş durumunda, daha zayıf bir taraf genellikle asimetrik savaş taktiklerine başvurur. Bu haber, İran'ın ABD'ye karşı bu tür taktikleri kullanma olasılığını değerlendirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T07:57:42.676Z",
+        "location": {
+            "lat": 32.5,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/3/9/what-asymmetric-warfare-may-tell-us-about-irans-fighting-chances?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773043083642ifslk",
+        "title": "Kenya'da Günlerdir Süren Sellerde En Az 42 Kişi Hayatını Kaybetti",
+        "summary": "Kenya genelinde günlerdir devam eden sellerde en az 42 kişi yaşamını yitirdi. Yetkililer, başkent Nairobi'de 26 kişinin hayatını kaybettiğini, sel sularının evleri bastığını ve araçları sürüklediğini açıkladı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T07:58:03.642Z",
+        "location": {
+            "lat": -1.29,
+            "lng": 36.82,
+            "name": "Nairobi, Kenya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/at-least-42-people-killed-in-days-of-floods-across-kenya?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773043105686vdbwg",
+        "title": "İran Devrim Muhafızları'ndan ABD-İsrail Saldırıları Sonrası Enerji Savaşı Uyarısı",
+        "summary": "İran Devrim Muhafızları sözcüsü, ABD'nin İran'ın enerji altyapısını bombalayarak savaşta yeni bir sayfa açtığını belirtti. Bu açıklama, ABD ve İsrail'in İran varlıklarına yönelik saldırılarının ardından geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T07:58:25.686Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/9/irgc-warns-of-energy-war-after-us-israeli-strikes-on-iranian-assets?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773043130388g4rzz",
+        "title": "Bangladeş, Orta Doğu'daki çatışmaların yol açtığı kıtlık nedeniyle üniversiteleri kapattı ve yakıt satışını kısıtladı",
+        "summary": "Bangladeş, enerji ihtiyacının %95'ini ithalat yoluyla karşılamaktadır. Orta Doğu'daki çatışmaların neden olduğu tedarik kesintileri, ülkenin enerji arzında aksaklıklara yol açarak bu önlemlerin alınmasına sebep olmuştur.",
+        "category": "Enerji ve Altyapı",
+        "timestamp": "2026-03-09T07:58:50.388Z",
+        "location": {
+            "lat": 23.8,
+            "lng": 90.4,
+            "name": "Dakika, Bangladeş"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773043153284up6fy",
+        "title": "HRW: İsrail Lübnan'da yasa dışı beyaz fosfor kullandı",
+        "summary": "İnsan Hakları İzleme Örgütü (HRW) tarafından doğrulanan görüntüler, İsrail'in Lübnan'ın güneyindeki yerleşim bölgelerine beyaz fosfor attığını gösteriyor. Örgüt, bu kullanımın uluslararası hukuka aykırı olduğunu belirtiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T07:59:13.284Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/israel-unlawfully-used-white-phosphorus-in-lebanon-hrw?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773028950372ised8",
         "title": "İran'dan Özür ve Devam Eden Füze Saldırıları",
         "summary": "İran Cumhurbaşkanı'ndan bir özür açıklaması gelmesine rağmen, füzelerin komşu ülkeleri vurmaya devam ettiği bildiriliyor. Bu durum, İran'daki kontrol mekanizmaları ve Körfez ülkelerinin bu saldırılara vereceği tepkiler hakkında soruları beraberinde getiriyor.",
