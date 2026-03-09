@@ -46,24 +46,26 @@ async function initApp() {
 
 async function fetchNewsData() {
     try {
-        // In a real app, this would be an API endpoint hitting our Node.js backend
         const response = await fetch('data/mock_news.json');
         let data = await response.json();
 
-        // Sort chronologically (newest first)
-               // Sort logic: First by breaking news (true > false), then chronologically (newest first)
+        // Sort logic: First by breaking news (true > false), then chronologically (newest first)
         data = data.sort((a, b) => {
-            // Priority 1: isBreaking
+            // Priority 1: isBreaking (Son Dakikalar Üste)
             if (a.isBreaking && !b.isBreaking) return -1;
             if (!a.isBreaking && b.isBreaking) return 1;
             
-            // Priority 2: Recency (Timestamp)
+            // Priority 2: Recency (En Yeniler Üste)
             return new Date(b.timestamp) - new Date(a.timestamp);
         });
 
         STATE.news = data;
         STATE.filteredNews = [...data];
-
+    } catch (err) {
+        console.error("Haberler çekilemedi:", err);
+        DOM.feedContainer.innerHTML = \`<div class="loading-state text-orange"><i class="fa-solid fa-triangle-exclamation"></i> Veri yüklenemedi. Lütfen sayfayı yenileyin.</div>\`;
+    }
+}
 
 // =========================================
 // UI RENDERERS
