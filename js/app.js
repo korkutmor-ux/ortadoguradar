@@ -278,5 +278,31 @@ function formatTimeAgo(date) {
     return `${Math.floor(hr / 24)} g`;
 }
 
+// =========================================
+// MULTI-LANGUAGE (Google Translate)
+// =========================================
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'tr',
+        includedLanguages: 'tr,en,ar',
+        autoDisplay: false
+    }, 'google_translate_element');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Dil değiştiğinde çalışacak kod
+    const langSelect = document.getElementById('languageSelect');
+    if (langSelect) {
+        langSelect.addEventListener('change', (e) => {
+            const targetLang = e.target.value;
+            const selectElement = document.querySelector('.goog-te-combo');
+            if (selectElement) {
+                selectElement.value = targetLang;
+                selectElement.dispatchEvent(new Event('change'));
+            }
+        });
+    }
+});
+
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initApp);
