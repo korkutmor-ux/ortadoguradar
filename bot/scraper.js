@@ -17,7 +17,6 @@ const parser = new Parser();
 // Data Paths
 const RSS_FEEDS = [
     { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
-    { source: "Al Arabiya", url: "https://english.alarabiya.net/feed/news" }
 ];
 const OUTPUT_FILE = path.resolve('../data/mock_news.json');
 
@@ -88,9 +87,13 @@ LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Baş
 }`;
 
     try {
-const model = ai.getGenerativeModel({ model: "gemini-1.5-flash" });
-        const response = await model.generateContent(prompt);
-        let text = response.response.text().trim();
+const response = await ai.models.generateContent({
+            model: 'gemini-2.5-flash',
+            contents: prompt,
+            config: {
+                temperature: 0.2
+            }
+        });
         // Temizleme: Eğer AI başına ve sonuna ```json koyarsa diye
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
