@@ -182,6 +182,7 @@ function setupEventListeners() {
         STATE.searchQuery = '';
         DOM.searchInput.value = '';
         await fetchNewsData();
+        updateUI(); 
         switchView('feed');
         document.querySelector('.feed-container').scrollTop = 0;
     });
