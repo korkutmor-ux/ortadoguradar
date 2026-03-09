@@ -14,6 +14,7 @@ const STATE = {
 
 // DOM Elements
 const DOM = {
+    logo: document.querySelector('.logo'),
     feedContainer: document.getElementById('newsFeed'),
     trendList: document.getElementById('trendList'),
     categoryList: document.getElementById('categoryList'),
@@ -23,6 +24,7 @@ const DOM = {
     secFeed: document.getElementById('feedContainer'),
     secMap: document.getElementById('mapContainer')
 };
+
 
 // Icons Mapping for Categories
 const CAT_ICONS = {
@@ -173,6 +175,16 @@ function renderCategories() {
 // =========================================
 function setupEventListeners() {
 
+   // Logo Click (Akışı Tazele ve Üste Çık)
+    DOM.logo.addEventListener('click', async () => {
+        DOM.feedContainer.innerHTML = `<div class="loading-state"><i class="fa-solid fa-circle-notch fa-spin"></i> Akış Yenileniyor...</div>`;
+        STATE.activeCategory = 'Tümü';
+        STATE.searchQuery = '';
+        DOM.searchInput.value = '';
+        await fetchNewsData();
+        switchView('feed');
+        document.querySelector('.feed-container').scrollTop = 0;
+    });
     // Category Clicks
     DOM.categoryList.addEventListener('click', (e) => {
         const li = e.target.closest('li');
