@@ -217,10 +217,12 @@ body {
     position: sticky;
     top: calc(var(--header-height) + 24px);
     height: max-content;
+    align-self: start;
     display: flex;
     flex-direction: column;
     gap: 24px;
 }
+
 
 .sidebar-widget {
     background: var(--bg-surface);
