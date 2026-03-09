@@ -1,5 +1,35 @@
 [
     {
+        "id": "1773079632007p3dkj",
+        "title": "Macron: Fransa, savaşın yatışmasıyla Hürmüz Boğazı'nda gemilere eşlik etmeye hazırlanıyor",
+        "summary": "Fransa Cumhurbaşkanı, bu görevin 'tamamen savunma amaçlı' olduğunu belirtti. Misyonun, petrol fiyatlarındaki artışın yaşandığı dönemde Körfez'deki önemli suyolunu kademeli olarak yeniden açmayı hedeflediği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T18:07:12.007Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773079652210tvbeb",
+        "title": "ABD Senatörleri, İran'daki Kız Okuluna Yönelik Saldırının Soruşturulmasını Talep Ediyor",
+        "summary": "Önde gelen Demokrat Partili senatörler, İran'ın Minab kentindeki bir kız okuluna düzenlenen ve en az 170 kişinin ölümüne yol açan bombalı saldırının tam ve tarafsız bir şekilde incelenmesi gerektiğini belirtti. Senatörler, bu 'dehşet verici' saldırının detaylarının aydınlatılmasını istiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T18:07:32.210Z",
+        "location": {
+            "lat": 27.15,
+            "lng": 57.08,
+            "name": "Minab, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17730709954374wkl3",
         "title": "İsrail saldırısında Filistinli gazeteci Amal Shamali Gazze'de hayatını kaybetti",
         "summary": "Katar Radyosu için çalışan gazeteci Amal Shamali, Gazze'nin merkezindeki Nuseyrat mülteci kampına düzenlenen bir İsrail hava saldırısında yaşamını yitirdi.",
