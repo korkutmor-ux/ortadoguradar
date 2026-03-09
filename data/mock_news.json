@@ -1,5 +1,50 @@
 [
     {
+        "id": "1773025565616dgzzm",
+        "title": "Petrol Fiyatları Bölgesel Çatışmaların Ortasında Varil Başına 100 Doları Aştı",
+        "summary": "Ham petrol fiyatları, genişleyen bölgesel çatışmanın küresel enerji arzını tehdit etmesiyle yüzde 20'den fazla artış gösterdi. Bu artışla birlikte petrolün varil fiyatı 100 doların üzerine çıktı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T03:06:05.616Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773025616818eslj2",
+        "title": "İran'da kontrolün kimde olduğu ve Körfez ülkelerinin saldırılara tepkisi",
+        "summary": "İran Cumhurbaşkanı'ndan bir özür gelmesine rağmen, füzeler komşu ülkeleri vurmaya devam etmektedir. Bu durum, İran'daki kontrol mekanizmalarını ve Körfez ülkelerinin bu saldırılara nasıl bir tepki vereceğini gündeme getirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T03:06:56.818Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773025638392arw9a",
+        "title": "Gine, ana muhalefet partilerini feshetti",
+        "summary": "Gine'de çıkarılan bir kararname ile ana muhalefet partilerinin yasal statüleri ve mal varlıkları ellerinden alındı. Bu gelişme üzerine muhalefet lideri Gine halkını direnişe çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T03:07:18.392Z",
+        "location": {
+            "lat": 9.5,
+            "lng": -13.7,
+            "name": "Conakry, Gine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773019833394jqlgm",
         "title": "Petrol Fiyatları İran Savaşı Ortamında Varil Başına 100 Doları Aştı",
         "summary": "Genişleyen bölgesel çatışmanın küresel enerji arzını tehdit etmesiyle ham petrol fiyatları %20'ye varan oranlarda yükseldi. Bu durum, petrolün varil başına 100 doların üzerine çıkmasına neden oldu.",
