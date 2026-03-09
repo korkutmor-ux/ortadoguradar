@@ -77,7 +77,8 @@ SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
             config: { temperature: 0.2 }
         });
 
-        let text = response.text().trim();
+        let text = response.text.trim();
+
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
         if (text.endsWith("```")) text = text.substring(0, text.length - 3);
