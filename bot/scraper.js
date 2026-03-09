@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import 'dotenv/config';
 import Parser from 'rss-parser';
-import { GoogleGenAI } from '@google/genai';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // API Key Control
 if (!process.env.GEMINI_API_KEY) {
@@ -10,17 +10,16 @@ if (!process.env.GEMINI_API_KEY) {
     process.exit(1);
 }
 
-// Initialize AI (Yeni v0.1.0 SDK formatı)
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+// Initialize AI and RSS Parser
+const ai = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const parser = new Parser();
 
-// Data Paths
+// Sadece Al Jazeera kaynağı kullanılacak
 const RSS_FEEDS = [
     { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" }
 ];
 const OUTPUT_FILE = path.resolve('../data/mock_news.json');
 
-// Helper to delay (rate limiting AI)
 const delay = ms => new Promise(res => setTimeout(res, ms));
 
 async function fetchAndProcessNews() {
@@ -31,17 +30,13 @@ async function fetchAndProcessNews() {
         console.log(`\n⏳ Veri çekiliyor: ${feedConfig.source}...`);
         try {
             const feed = await parser.parseURL(feedConfig.url);
-            const topItems = feed.items.slice(0, 5); // Günde bir API limiti aşılmasın diye ilk 5 haber
+            const topItems = feed.items.slice(0, 5);
 
             for (const item of topItems) {
                 console.log(`  - İşleniyor: ${item.title}`);
                 const aiResult = await paraphraseWithAI(item, feedConfig.source);
-
-                if (aiResult) {
-                    allNews.push(aiResult);
-                }
-                
-                await delay(2000); // Wait 2s
+                if (aiResult) allNews.push(aiResult);
+                await delay(2000);
             }
         } catch (error) {
             console.error(`❌ ${feedConfig.source} verisi çekilemedi:`, error.message);
@@ -68,7 +63,7 @@ Son olarak bu haber Orta Doğu'da veya dünyada hangi ülkede/şehirde geçiyor?
 HABER BAŞLIĞI: ${newsItem.title}
 HABER İÇERİĞİ/ÖZETİ: ${newsItem.contentSnippet || newsItem.content || newsItem.summary || ''}
 
-LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Başka hiçbir açıklama yazma, markdown veya \`\`\`json tagi koyma!):
+LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Başka hiçbir açıklama yazma, markdown veya json tagi koyma!):
 {
   "title": "Türkçe tarafsız başlık",
   "summary": "Türkçe tarafsız haber özeti (2-3 cümle)",
@@ -81,16 +76,9 @@ LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Baş
 }`;
 
     try {
-        // Yeni GenAI Formatı
-        const response = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
-            contents: prompt,
-            config: {
-                temperature: 0.2
-            }
-        });
-
-        let text = response.text().trim();
+        const model = ai.getGenerativeModel({ model: "gemini-1.5-pro" });
+        const response = await model.generateContent(prompt);
+        let text = response.response.text().trim();
         
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
@@ -116,7 +104,7 @@ LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Baş
 
     } catch (error) {
         console.error(`  ❌ AI Hatası (${newsItem.title}):`, error.message);
-        return null; // AI failed
+        return null;
     }
 }
 
@@ -139,5 +127,4 @@ function saveToDatabase(newItems) {
     }
 }
 
-// Botu Başlat
 fetchAndProcessNews();
