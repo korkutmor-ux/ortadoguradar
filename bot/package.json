@@ -1,16 +1,17 @@
 {
     "name": "ortadogu-radar-bot",
     "version": "1.0.0",
-    "description": "Al Jazeera and Al Arabiya News Scraper & AI Paraphraser",
+    "description": "Al Jazeera News Scraper & AI Paraphraser",
     "main": "scraper.js",
     "type": "module",
     "scripts": {
         "start": "node scraper.js"
     },
-     "dependencies": {
-      "axios": "^1.6.0",
-      "rss-parser": "^3.13.0",
-      "cheerio": "^1.0.0-rc.12",
-      "dotenv": "^16.3.1",
-      "@google/genai": "^0.1.0"
-  }
+    "dependencies": {
+        "axios": "^1.6.0",
+        "rss-parser": "^3.13.0",
+        "cheerio": "^1.0.0-rc.12",
+        "dotenv": "^16.3.1",
+        "@google/genai": "^0.1.0"
+    }
+}
