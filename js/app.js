@@ -61,11 +61,11 @@ async function fetchNewsData() {
 
         STATE.news = data;
         STATE.filteredNews = [...data];
-    } catch (err) {
+       } catch (err) {
         console.error("Haberler çekilemedi:", err);
-        DOM.feedContainer.innerHTML = \`<div class="loading-state text-orange"><i class="fa-solid fa-triangle-exclamation"></i> Veri yüklenemedi. Lütfen sayfayı yenileyin.</div>\`;
     }
 }
+
 
 // =========================================
 // UI RENDERERS
