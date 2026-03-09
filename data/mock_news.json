@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "id": "1773027942421al4z5",
+        "title": "Petrol Fiyatları Bölgesel Çatışmanın Yayılmasıyla Varil Başına 100 Doları Aştı",
+        "summary": "Ham petrol fiyatları, yaygın bölgesel çatışmanın küresel enerji arzını tehdit etmesiyle yüzde 20'den fazla artış gösterdi. Bu durum, petrolün varil fiyatının 100 doları aşmasına neden oldu.",
+        "category": "Enerji ve Altyapı",
+        "timestamp": "2026-03-09T03:45:42.421Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773027963776tyb7y",
+        "title": "İran'da Mojtaba Hamenei Yüce Lider Atandı; İsrail Tahran'ı Bombaladı",
+        "summary": "ABD ve İsrail'in devam eden saldırıları sırasında, İran'ın askeri ve siyasi liderleri Mojtaba Hamenei'ye bağlılıklarını bildirdi. Bu gelişmeler, Mojtaba Hamenei'nin yüce lider olarak atanması ve İsrail'in Tahran'ı bombalaması haberleriyle birlikte aktarılıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T03:46:03.776Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773027989693xfdfo",
+        "title": "İran'da Ayetullah Hamaney'in oğlunun, babasının öldürülmesinin ardından yeni lider olarak atandığı bildirildi",
+        "summary": "İran devlet televizyonu, Uzmanlar Meclisi tarafından Ayetullah Hamaney'in oğlu Mojtaba Hamaney'in yüce lider olarak seçildiğini açıkladı. Bu atama, önceki liderin öldürülmesinin ardından gerçekleşen bir gelişme olarak belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T03:46:29.693Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    }
+]
