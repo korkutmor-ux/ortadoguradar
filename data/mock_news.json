@@ -1,5 +1,110 @@
 [
     {
+        "id": "1773118916931ctuzw",
+        "title": "Avustralya, BAE'ye füze ve Körfez savunmasına destek için gözetleme uçağı gönderecek",
+        "summary": "Avustralya Başbakanı Anthony Albanese, Birleşik Arap Emirlikleri'ne füze ve bölgeye bir keşif uçağı gönderileceğini duyurdu. Bu adımın Körfez savunmasına yardımcı olmayı amaçladığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T05:01:56.932Z",
+        "location": {
+            "lat": 24.5,
+            "lng": 54.4,
+            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/10/australia-to-send-missiles-to-uae-surveillance-plane-to-help-gulf-defence?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773118939698716bg",
+        "title": "Trump, İran'ın ABD saldırısından önce Orta Doğu'yu ele geçirme planları olduğunu iddia etti",
+        "summary": "ABD Başkanı Donald Trump, İran'ın ABD saldırısından önce Orta Doğu'yu ele geçirmeyi planladığı yönündeki iddiasını dile getirdi. Trump, bu iddiasını 'bilgi ve inanca' dayandırdığını ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T05:02:19.698Z",
+        "location": {
+            "lat": 36,
+            "lng": 51,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177311897087225sts",
+        "title": "Trump, İran Savaşı Ortamında Bazı Petrol Üreticilerine Yaptırımların Kaldırılacağını Açıkladı",
+        "summary": "Ham petrol fiyatları, 24 saat içinde neredeyse 120 dolara yükseldikten sonra varil başına 90 doların altına düştü. Bu dalgalanma, ABD Başkanı Trump'ın İran savaşı ortamında bazı petrol üreticilerine yönelik yaptırımların kaldırılacağını belirtmesinin ardından yaşandı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T05:02:50.872Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773118991740cbl0v",
+        "title": "İran, 'acı tecrübe' sonrası ABD ile gelecekte müzakere yapmayacağını belirtti",
+        "summary": "İran Dışişleri Bakanı Abbas Arağçi, PBS News'e verdiği demeçte, ABD ile görüşme veya müzakere yapmanın artık gündemlerinde olmadığını belirtti. İran, 'acı tecrübe' sonrası ABD ile gelecekte müzakere yapmayacağını ifade etti.",
+        "category": "Diplomatik",
+        "timestamp": "2026-03-10T05:03:11.740Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iran-says-no-future-negotiations-with-us-after-bitter-experience?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773119014257mi6zo",
+        "title": "Trump, İran'ın enerji tedarikini engellemesi halinde daha sert karşılık vereceğini belirtti",
+        "summary": "ABD Başkanı Donald Trump, İran'ın küresel petrol tedarikini aksatması durumunda bu ülkeye yönelik saldırıları artırma tehdidinde bulundu. Trump, İran'ın enerji tedarik yollarını kapatması halinde daha sert misillemelerle karşılaşacağını ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T05:03:34.257Z",
+        "location": {
+            "lat": 32.5,
+            "lng": 53.5,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17731190418200w1j8",
+        "title": "Mojtaba Hamenei'nin iktidara yükselişi konusunda İranlılar arasında derin bölünme yaşanıyor",
+        "summary": "Mojtaba Hamenei'nin babasının halefi olarak atanması, kuruluş yanlısı kalabalıklar tarafından kutlanırken, diğerleri bunun İran'ın yönetim şeklinde herhangi bir değişiklik anlamına gelmediğine inanıyor. Bu durum, İranlılar arasında derin bir ayrılığa yol açmış durumda.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-10T05:04:01.820Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773119064835ys5z6",
+        "title": "Video Analizi: ABD Füzesi İran'daki Bir Okul Yakınındaki Askeri Üssü Vurdu",
+        "summary": "Uzman video analizlerine göre, bir ABD Tomahawk füzesi güney İran'da bir ilkokul yakınındaki askeri bir üssü hedef aldı. İranlı yetkililer, bu olayda 168 kişinin hayatını kaybettiğini belirtiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T05:04:24.835Z",
+        "location": {
+            "lat": 29,
+            "lng": 53,
+            "name": "Güney İran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773110363096wa7xt",
         "title": "Trump, Cumhuriyetçilere İran Savaşı'nın Hızla Bitebileceğini Söyledi",
         "summary": "ABD Başkanı Trump, Cumhuriyetçilere yaptığı açıklamada, İran ile olası bir savaşın 'oldukça hızlı' sona erebileceğini belirtti. Konuşmasında, İran'a karşı yürütülen 'Epic Fury Operasyonu'nun başarılarını vurguladı.",
