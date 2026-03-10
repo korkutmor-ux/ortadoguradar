@@ -1,5 +1,65 @@
 [
     {
+        "id": "1773137210981ym3q3",
+        "title": "ABD-İsrail'in İran ile Olası Çatışması Küresel Enflasyonu Körükler mi?",
+        "summary": "ABD ve İsrail'in İran ile yaşayabileceği olası bir çatışmanın küresel enflasyon üzerindeki potansiyel etkileri gündemde. Piyasalar, bölgedeki gerilimin her yeni gelişmesine tepki göstererek petrol fiyatlarında dalgalanmalara neden oluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T10:06:50.981Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/3/10/could-the-us-israel-war-with-iran-fuel-global-inflation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773137233419vugpc",
+        "title": "ABD müfettişleri, Epstein'ın New Mexico'daki eski çiftliğinde arama başlattı",
+        "summary": "Soruşturma, cinsel suçlu Jeffrey Epstein'ın Zorro Çiftliği'ndeki faaliyetlerine yönelik yayımlanan soruşturma dosyalarının yeniden dikkat çekmesinin ardından gerçekleştiriliyor. Bu arama, Epstein'ın geçmişteki suçlarına ilişkin devam eden soruşturmaların bir parçasıdır.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-10T10:07:13.419Z",
+        "location": {
+            "lat": 35.1,
+            "lng": -105.8,
+            "name": "Zorro Çiftliği, New Mexico, ABD"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/10/us-investigators-begin-search-of-epsteins-former-ranch-in-new-mexico?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773137255035q3qvs",
+        "title": "İran'a Yönelik Dayatılan Savaşın Jeopolitik Analizi",
+        "summary": "Haber, İran'a karşı dayatılan bir savaşın jeopolitik analizini sunmaktadır. Bu savaşın bir beka mücadelesi olduğu ve küresel sonuçları olacağı ifade edilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T10:07:35.035Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/10/geopolitical-analysis-of-the-imposed-war-against-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773137278009mv1o2",
+        "title": "İran'da Yüz Binlerce Kişi Yeni Lider Mojtaba Hamenei'ye Destek İçin Toplandı",
+        "summary": "Tahran'da yüz binlerce İranlı, yeni dini lider Mojtaba Hamenei'ye desteklerini göstermek amacıyla bir miting düzenledi. Bu büyük halk buluşması, yeni liderliğe yönelik toplumsal desteği yansıttı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-10T10:07:58.009Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/10/iran-war-what-is-happening-on-day-11-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773129301179fhvoy",
         "title": "Bahreyn'de Konut Binasına Düzenlenen Şüpheli İran Saldırısında Bir Kadın Hayatını Kaybetti",
         "summary": "Bahreyn'in başkenti Manama'da yüksek katlı bir konut binasına şüpheli bir İran saldırısı düzenlendi. Bu saldırı sonucunda bir kadın yaşamını yitirdi.",
@@ -686,66 +746,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aljazeera.com/news/2026/3/9/israel-unlawfully-used-white-phosphorus-in-lebanon-hrw?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773028950372ised8",
-        "title": "İran'dan Özür ve Devam Eden Füze Saldırıları",
-        "summary": "İran Cumhurbaşkanı'ndan bir özür açıklaması gelmesine rağmen, füzelerin komşu ülkeleri vurmaya devam ettiği bildiriliyor. Bu durum, İran'daki kontrol mekanizmaları ve Körfez ülkelerinin bu saldırılara vereceği tepkiler hakkında soruları beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T04:02:30.372Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773028971569h25xr",
-        "title": "Gine ana muhalefet partilerini feshetti",
-        "summary": "Gine'de çıkarılan bir kararname ile ana muhalefet partilerinin yasal statüleri ve mal varlıkları ellerinden alındı. Muhalefet lideri ise Gineli vatandaşları direnişe çağırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-09T04:02:51.569Z",
-        "location": {
-            "lat": 9.51,
-            "lng": -13.71,
-            "name": "Gine"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773028997524n6ch2",
-        "title": "İran'ın Yeni Yüce Lideri Mojtaba Hamenei Kimdir?",
-        "summary": "İran'ın yeni yüce lideri olarak adı geçen Mojtaba Hamenei'nin, babasının sert politikalarını sürdürmesi bekleniyor. Genellikle gözlerden uzak duran 56 yaşındaki Hamenei'nin, bu pozisyona gelmesi halinde mevcut siyasi çizgiyi devam ettireceği düşünülüyor.",
-        "category": "Tümü",
-        "timestamp": "2026-03-09T04:03:17.524Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773029023006cjt3q",
-        "title": "İran Savaşı Nedeniyle Petrol Fiyatları 110 Doların Üzerine Çıktı, Borsalar Düştü",
-        "summary": "Enerji arzında yaşanan büyük aksaklıklar, dünya genelinde tüketiciler ve işletmeler için fiyatların artmasına neden olma tehdidi taşıyor. Bu durum, İran'da olası bir savaşın küresel ekonomiye etkilerini gösteriyor.",
-        "category": "Ekonomik",
-        "timestamp": "2026-03-09T04:03:43.006Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
