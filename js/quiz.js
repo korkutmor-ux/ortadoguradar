@@ -85,33 +85,54 @@ function selectRandomTarget() {
 // =========================================
 function setupQuizListeners() {
     QDOM.btnQuiz.addEventListener('click', () => {
-        // Deactivate others
-        QDOM.btnFeed.classList.remove('active');
-        QDOM.btnMap.classList.remove('active');
-        QDOM.btnQuiz.classList.add('active');
+            // Deactivate others
+    QDOM.btnFeed.classList.remove('active');
+    QDOM.btnMap.classList.remove('active');
+    QDOM.btnQuiz.classList.add('active');
 
-        // Layout handling
-        const mainApp = document.querySelector('.app-main');
-        mainApp.classList.remove('map-active'); 
-        
-        QDOM.secFeed.classList.add('hidden');
-        QDOM.secMap.classList.add('hidden');
-        QDOM.secQuiz.classList.remove('hidden');
+    // Layout handling
+    const mainApp = document.querySelector('.app-main');
+    const sidebar = document.querySelector('.sidebar-right');
+    
+    mainApp.classList.remove('map-active'); 
+    
+    QDOM.secFeed.classList.add('hidden');
+    QDOM.secMap.classList.add('hidden');
+    if(sidebar) sidebar.classList.add('hidden'); // hide sidebar for quiz
+    QDOM.secQuiz.classList.remove('hidden');
 
-        // Span full width
-        QDOM.secQuiz.style.gridColumn = "1 / -1"; 
-    });
+    // Span full width
+    QDOM.secQuiz.style.gridColumn = "1 / -1"; 
+});
 
-    QDOM.btnFeed.addEventListener('click', () => {
-        QDOM.secQuiz.classList.add('hidden');
-        QDOM.secFeed.classList.remove('hidden');
-        QDOM.btnQuiz.classList.remove('active');
-    });
+QDOM.btnFeed.addEventListener('click', () => {
+    QDOM.secQuiz.classList.add('hidden');
+    QDOM.secFeed.classList.remove('hidden');
+    QDOM.btnQuiz.classList.remove('active');
+    
+    const sidebar = document.querySelector('.sidebar-right');
+    if(sidebar) sidebar.classList.remove('hidden'); // show sidebar again
+});
 
-    QDOM.btnMap.addEventListener('click', () => {
-        QDOM.secQuiz.classList.add('hidden');
-        QDOM.btnQuiz.classList.remove('active');
-    });
+QDOM.btnMap.addEventListener('click', () => {
+    QDOM.secQuiz.classList.add('hidden');
+    QDOM.btnQuiz.classList.remove('active');
+    
+    const sidebar = document.querySelector('.sidebar-right');
+    if(sidebar) sidebar.classList.remove('hidden'); // show sidebar again
+});
+
+// Game Inputs
+QDOM.searchInput.addEventListener('input', handleSearchInput);
+QDOM.searchInput.addEventListener('click', handleSearchInput); 
+
+document.addEventListener('click', (e) => {
+    // Close suggestions if clicked outside
+    if (!e.target.closest('.quiz-search-area')) {
+        hideSuggestions();
+    }
+});
+
 
     // Game Inputs
     QDOM.searchInput.addEventListener('input', handleSearchInput);
