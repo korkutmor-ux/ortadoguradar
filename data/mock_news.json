@@ -1,5 +1,35 @@
 [
     {
+        "id": "1773172465324pfm88",
+        "title": "ABD'nin Stratejisinde İran'ın Doğal Kaynaklarının Kontrolü Bir Faktör mü?",
+        "summary": "İran'ın geniş petrol ve doğalgaz rezervlerine sahip olduğu ve Çin için önemli bir tedarikçi konumunda bulunduğu belirtilmektedir. Bu durum, uluslararası arenada İran'ın enerji piyasasındaki stratejik önemini vurgulamaktadır. Amerika Birleşik Devletleri'nin dış politikasında ve bölgesel stratejilerinde, İran'ın bu doğal kaynaklarının kontrolünün önemli bir faktör olup olmadığı sorusu gündeme gelmektedir. Bu tartışmalar, enerji güvenliği ve jeopolitik çıkarlar arasındaki karmaşık ilişkiyi gözler önüne sermektedir.",
+        "category": "Diplomatik",
+        "timestamp": "2026-03-10T19:54:25.324Z",
+        "location": {
+            "lat": 35,
+            "lng": 51,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/10/is-control-of-irans-natural-resources-a-factor-in-us-strategy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773172488908rwjl5",
+        "title": "Almanya Şansölyesi, ABD-İsrail'in İran Savaşı İçin Çıkış Planı Olmadığından Endişeli",
+        "summary": "Almanya Şansölyesi, Amerika Birleşik Devletleri ve İsrail'in İran'a karşı olası bir savaşı sona erdirmeye yönelik \"açıkça ortak bir planı\" bulunmadığı yönündeki endişelerini dile getirdi. Şansölye'nin bu açıklaması, bölgedeki mevcut gerilimlerin ve potansiyel çatışma risklerinin uluslararası arenada nasıl algılandığını gözler önüne serdi. Bu durumun, Orta Doğu'da uzun vadeli istikrarsızlığa yol açabileceği ve diplomatik çözüm çabalarını zorlaştırabileceği belirtildi. Almanya'nın bu konudaki tutumu, uluslararası toplumun İran meselesine yönelik endişelerini ve diplomatik bir çıkış yolu arayışını yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T19:54:48.908Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/german-chancellor-concerned-us-israel-have-no-exit-plan-for-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773164151066ybj4t",
         "title": "İran'daki Savaşın Maliyetleri Artırmasıyla Küresel Havayolları Bilet Fiyatlarını Yükseltti",
         "summary": "İran'daki savaş, petrol fiyatlarında büyük bir artışa neden oldu. Bu durum, küresel seyahat düzenini bozarak bazı rotalardaki uçak bileti maliyetlerini önemli ölçüde yükseltti.",
@@ -716,36 +746,6 @@
             "name": "Gazze Şeridi, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773052327281qw481",
-        "title": "Irak Teknik Direktörü, ABD-İsrail'in İran'a Yönelik Savaşı Ortamında Dünya Kupası Play-off Maçının Ertelenmesini Talep Etti",
-        "summary": "Irak teknik direktörü Graham Arnold, 31 Mart'taki fikstürün ertelenmesinin, takımının dağınık üyelerinin bir araya gelip hazırlanmasına olanak tanıyacağını belirtti. Bu talep, ABD ve İsrail'in İran'a yönelik savaşı ortamında FIFA'ya iletildi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T10:32:07.281Z",
-        "location": {
-            "lat": 33,
-            "lng": 44,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/9/iraq-coach-urges-fifa-to-delay-world-cup-playoff-amid-us-israel-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773052352761k4gz3",
-        "title": "İran Savaşı Bağlamında ABD ve İsrailli Savunma Şirketlerinin Karlılığı",
-        "summary": "İran savaşı bağlamında, savunma şirketlerinin hisse senetleri rekor seviyelere yükseldi. Bu artış, milyarlarca dolarlık silah sistemleri üretme ihtiyacından kaynaklanmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T10:32:32.761Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
