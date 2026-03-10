@@ -9,12 +9,12 @@ const STATE = {
     categories: ['Tümü', 'Diplomatik', 'Ekonomik', 'Çatışma ve Güvenlik', 'Toplum ve İnsan Hakları', 'Enerji ve Altyapı', 'Çevre ve İklim'],
     activeCategory: 'Tümü',
     searchQuery: '',
-    viewConfig: 'feed' // 'feed' or 'map'
+    viewConfig: 'feed', // 'feed' or 'map'
+    activeCountry: ''
 };
 
 // DOM Elements
 const DOM = {
-    logo: document.querySelector('.logo'),
     feedContainer: document.getElementById('newsFeed'),
     trendList: document.getElementById('trendList'),
     categoryList: document.getElementById('categoryList'),
@@ -22,8 +22,22 @@ const DOM = {
     btnFeed: document.getElementById('btn-feed'),
     btnMap: document.getElementById('btn-map'),
     secFeed: document.getElementById('feedContainer'),
-    secMap: document.getElementById('mapContainer')
+    secMap: document.getElementById('mapContainer'),
+    btnShowCountries: document.getElementById('btnShowCountries'),
+    countryList: document.getElementById('countryList'),
+    btnCloseCountries: document.getElementById('btnCloseCountries'),
+    categoriesTitleText: document.getElementById('categoriesTitleText')
 };
+
+// Middle East Countries
+const MIDDLE_EAST_COUNTRIES = [
+    "TÜRKİYE", "SURİYE", "LÜBNAN", "FİLİSTİN", "İSRAİL", "ÜRDÜN", 
+    "IRAK", "İRAN", "KUVEYT", "KATAR", "BAE", "UMMAN", "YEMEN", 
+    "SUUDİ ARABİSTAN", "AFGANİSTAN", "PAKİSTAN"
+];
+
+// Icons Mapping for Categories
+
 
 
 // Icons Mapping for Categories
@@ -76,6 +90,7 @@ function updateUI() {
     renderNewsCards();
     renderTrends();
     renderCategories(); // updates counts
+    renderCountries();
 
     // If Map is initialize-able (and window.initMap is in scope from map.js)
     if (typeof window.initMap === 'function') {
@@ -154,25 +169,42 @@ function renderCategories() {
     listItems.forEach(li => {
         const cat = li.getAttribute('data-cat');
 
-        // Update active robustly
-        if (cat === STATE.activeCategory) {
-            li.classList.add('active');
-        } else {
-            li.classList.remove('active');
-        }
-
-        // Update counts (only if not 'Tümü')
+                // Update counts (only if not 'Tümü')
         const badge = li.querySelector('.badge');
-        if (badge && cat !== 'Tümü') {
+        if (badge && cat !== 'Tümü' && badge.tagName) {
             const count = STATE.news.filter(n => n.category === cat).length;
             badge.textContent = count > 0 ? count : '';
         }
     });
 }
 
+function renderCountries() {
+    if (!DOM.countryList) return;
+    
+    let listHTML = `<li class="${STATE.activeCountry === '' ? 'active' : ''}" data-country="">Tümü (Orta Doğu)</li>`;
+    const trLower = (s) => s.replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
+    
+    MIDDLE_EAST_COUNTRIES.forEach(country => {
+        const isActive = (STATE.activeCountry === country) ? 'active' : '';
+        const countryQ = trLower(country);
+        
+        const count = STATE.news.filter(n => {
+            const title = trLower(n.title || '');
+            const summary = trLower(n.summary || '');
+            const cat = trLower(n.category || '');
+            return title.includes(countryQ) || summary.includes(countryQ) || cat.includes(countryQ);
+        }).length;
+        
+        listHTML += `<li class="${isActive}" data-country="${country}">${country} <span class="badge">${count > 0 ? count : ''}</span></li>`;
+    });
+    
+    DOM.countryList.innerHTML = listHTML;
+}
+
 // =========================================
 // EVENT LISTENERS & FILTERING
 // =========================================
+
 function setupEventListeners() {
 
    // Logo Click (Akışı Tazele ve Üste Çık)
@@ -186,14 +218,52 @@ function setupEventListeners() {
         switchView('feed');
         document.querySelector('.feed-container').scrollTop = 0;
     });
-    // Category Clicks
-    DOM.categoryList.addEventListener('click', (e) => {
-        const li = e.target.closest('li');
-        if (!li) return;
+     // Category Clicks
+  DOM.categoryList.addEventListener('click', (e) => {
+      const li = e.target.closest('li');
+      if (!li) return;
 
-        STATE.activeCategory = li.getAttribute('data-cat');
-        applyFilters();
-    });
+      if (li.id === 'btnShowCountries') {
+          DOM.categoryList.classList.add('hidden');
+          DOM.countryList.classList.remove('hidden');
+          DOM.categoriesTitleText.innerHTML = '<i class="fa-solid fa-earth-africa"></i> Ülkeler';
+          DOM.btnCloseCountries.classList.remove('hidden');
+
+          STATE.activeCategory = 'Tümü';
+          renderCategories(); // reset visual active class on categories
+          applyFilters(); // Apply filter since category was reset
+          return;
+      }
+
+      STATE.activeCategory = li.getAttribute('data-cat');
+      applyFilters();
+  });
+
+  // Close Countries List
+  if (DOM.btnCloseCountries) {
+      DOM.btnCloseCountries.addEventListener('click', () => {
+          DOM.countryList.classList.add('hidden');
+          DOM.categoryList.classList.remove('hidden');
+          DOM.categoriesTitleText.innerHTML = '<i class="fa-solid fa-layer-group"></i> Kategoriler';
+          DOM.btnCloseCountries.classList.add('hidden');
+          
+          STATE.activeCountry = '';
+          applyFilters();
+      });
+  }
+
+  // Country Clicks
+  if (DOM.countryList) {
+      DOM.countryList.addEventListener('click', (e) => {
+          const li = e.target.closest('li');
+          if (!li) return;
+
+          STATE.activeCountry = li.getAttribute('data-country') || '';
+          renderCountries(); // to update active class
+          applyFilters();
+      });
+  }
+
 
     // Search Input
     DOM.searchInput.addEventListener('input', (e) => {
@@ -209,9 +279,22 @@ function setupEventListeners() {
 function applyFilters() {
     let result = [...STATE.news];
 
-    // Filter by Category
-    if (STATE.activeCategory !== 'Tümü') {
+        // Filter by Category
+    if (STATE.activeCategory !== 'Tümü' && STATE.activeCategory !== null) {
         result = result.filter(n => n.category === STATE.activeCategory);
+    }
+
+    // Filter by Country
+    if (STATE.activeCountry !== '') {
+        const trLower = (s) => s.replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
+        const countryQ = trLower(STATE.activeCountry);
+
+        result = result.filter(n => {
+            const title = trLower(n.title || '');
+            const summary = trLower(n.summary || '');
+            const cat = trLower(n.category || '');
+            return title.includes(countryQ) || summary.includes(countryQ) || cat.includes(countryQ);
+        });
     }
 
     // Filter by Search (GELİŞMİŞ TÜRKÇE VE "İ" DESTEĞİ)
