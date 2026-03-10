@@ -234,7 +234,6 @@ function applyFilters() {
 }
 
 function switchView(view) {
-    if (STATE.viewConfig === view) return;
     STATE.viewConfig = view;
     const mainApp = document.querySelector('.app-main');
     const feedSec = document.getElementById('feedContainer');
