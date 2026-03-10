@@ -51,18 +51,18 @@ async function fetchNewsData() {
         const response = await fetch('data/mock_news.json');
         let data = await response.json();
 
-        // Sort logic: First by breaking news (true > false), then chronologically (newest first)
-        data = data.sort((a, b) => {
-            // Priority 1: isBreaking (Son Dakikalar Üste)
-            if (a.isBreaking && !b.isBreaking) return -1;
-            if (!a.isBreaking && b.isBreaking) return 1;
-            
-            // Priority 2: Recency (En Yeniler Üste)
-            return new Date(b.timestamp) - new Date(a.timestamp);
+                // Sort chronologically (newest first)
+        data = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+
+        // Dynamically set 'Son Dakika' (Breaking News) to only the most recent 2 articles
+        data = data.map((item, index) => {
+            item.isBreaking = (index < 2);
+            return item;
         });
 
         STATE.news = data;
         STATE.filteredNews = [...data];
+
        } catch (err) {
         console.error("Haberler çekilemedi:", err);
     }
