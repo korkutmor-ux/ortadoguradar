@@ -758,3 +758,258 @@ body {
 @media (max-width: 1024px) {
     .app-main.map-active .feed-container { display: none; }
 }
+/* =========================================
+   QUIZ GAME (Guess Who)
+   ========================================= */
+.quiz-container {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+    min-height: calc(100vh - var(--header-height) - 48px);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+}
+
+.quiz-container.hidden {
+    display: none;
+}
+
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 16px;
+}
+
+.quiz-header h2 {
+    font-size: 1.5rem;
+    color: var(--text-primary);
+}
+
+.quiz-status {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.attempt-dots {
+    display: flex;
+    gap: 6px;
+}
+
+.attempt-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #475569; /* Empty/Unused */
+}
+
+.attempt-dot.used {
+    background: var(--accent-red);
+}
+
+.quiz-search-area {
+    position: relative;
+    width: 100%;
+}
+
+.quiz-input-wrapper {
+    background: var(--bg-base);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    transition: var(--transition);
+}
+
+.quiz-input-wrapper:focus-within {
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 0 3px var(--accent-blue-glow);
+}
+
+.quiz-input-wrapper input {
+    background: transparent;
+    border: none;
+    color: var(--text-primary);
+    width: 100%;
+    outline: none;
+    font-size: 1rem;
+}
+
+.quiz-suggestions {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--bg-surface-hover);
+    border: 1px solid var(--border-color);
+    border-radius: 0 0 var(--radius-md) var(--radius-md);
+    list-style: none;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 100;
+    margin-top: -2px; /* overlap border */
+}
+
+.quiz-suggestions.hidden {
+    display: none;
+}
+
+.quiz-suggestions li {
+    padding: 12px 20px;
+    cursor: pointer;
+    border-bottom: 1px solid var(--border-color);
+    transition: background 0.2s;
+}
+
+.quiz-suggestions li:hover {
+    background: var(--bg-base);
+    color: var(--accent-blue);
+}
+
+/* Guess Grid */
+.quiz-table-header {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1.5fr 1.5fr 1.5fr;
+    gap: 12px;
+    padding: 12px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--text-secondary);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.quiz-table-header.hidden {
+    display: none;
+}
+
+.quiz-guesses {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.guess-row {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1.5fr 1.5fr 1.5fr;
+    gap: 12px;
+    animation: fadeIn 0.4s ease forwards;
+}
+
+.guess-box {
+    background: var(--bg-base);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: white;
+    transition: all 0.5s ease;
+    word-break: break-word;
+}
+
+/* Wordle State Colors */
+.guess-box.correct {
+    background-color: var(--accent-green);
+    border-color: var(--accent-green);
+}
+
+.guess-box.wrong {
+    background-color: var(--accent-red);
+    border-color: var(--accent-red);
+}
+
+/* Modal */
+.quiz-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(15, 17, 21, 0.85);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 200;
+    border-radius: inherit;
+}
+
+.quiz-modal.hidden {
+    display: none;
+}
+
+.quiz-modal-content {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    padding: 40px;
+    border-radius: var(--radius-lg);
+    text-align: center;
+    max-width: 400px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.quiz-modal-content h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.quiz-modal-content p {
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+    font-size: 1.1rem;
+}
+
+.btn-primary {
+    background: var(--accent-blue);
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    border-radius: var(--radius-sm);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.btn-primary:hover {
+    background: #2563eb;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 768px) {
+    .quiz-table-header, .guess-row {
+        grid-template-columns: 1fr;
+        gap: 4px;
+    }
+    
+    .guess-row {
+        margin-bottom: 16px;
+        border: 1px solid var(--border-color);
+        padding: 8px;
+        border-radius: var(--radius-md);
+    }
+
+    .quiz-table-header {
+        display: none; /* Hide table headers on mobile, looks too squished */
+    }
+}
