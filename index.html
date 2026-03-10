@@ -83,18 +83,26 @@
 
         <!-- Right Sidebar: Categories & Trends -->
         <aside class="sidebar-right">
-            <div class="sidebar-widget">
-                <h3><i class="fa-solid fa-layer-group"></i> Kategoriler</h3>
-                <ul class="category-list" id="categoryList">
-                    <li class="active" data-cat="Tümü">Tümü</li>
-                    <li data-cat="Diplomatik">Diplomatik <span class="badge"></span></li>
-                    <li data-cat="Ekonomik">Ekonomik <span class="badge"></span></li>
-                    <li data-cat="Çatışma ve Güvenlik">Çatışma ve Güvenlik <span class="badge"></span></li>
-                    <li data-cat="Toplum ve İnsan Hakları">Toplum ve İnsan Hakları <span class="badge"></span></li>
-                    <li data-cat="Enerji ve Altyapı">Enerji ve Altyapı <span class="badge"></span></li>
-                    <li data-cat="Çevre ve İklim">Çevre ve İklim <span class="badge"></span></li>
-                </ul>
-            </div>
+                  <div class="sidebar-widget">
+            <h3 id="categoriesTitle">
+                <span id="categoriesTitleText"><i class="fa-solid fa-layer-group"></i> Kategoriler</span>
+                <i class="fa-solid fa-xmark hidden" id="btnCloseCountries" style="cursor: pointer; float: right;" title="Kategorilere Dön"></i>
+            </h3>
+            <ul class="category-list" id="categoryList">
+                <li class="active" data-cat="Tümü">Tümü</li>
+                <li data-cat="Diplomatik">Diplomatik <span class="badge"></span></li>
+                <li data-cat="Ekonomik">Ekonomik <span class="badge"></span></li>
+                <li data-cat="Çatışma ve Güvenlik">Çatışma ve Güvenlik <span class="badge"></span></li>
+                <li data-cat="Toplum ve İnsan Hakları">Toplum ve İnsan Hakları <span class="badge"></span></li>
+                <li data-cat="Enerji ve Altyapı">Enerji ve Altyapı <span class="badge"></span></li>
+                <li data-cat="Çevre ve İklim">Çevre ve İklim <span class="badge"></span></li>
+                <li id="btnShowCountries"><i class="fa-solid fa-earth-africa"></i> Ülkeler</li>
+            </ul>
+            <ul class="category-list hidden" id="countryList">
+                <!-- Javascript will inject countries here -->
+            </ul>
+        </div>
+
 
             <div class="sidebar-widget trends-widget">
                 <h3><i class="fa-solid fa-fire text-orange"></i> Gündem (Trendler)</h3>
