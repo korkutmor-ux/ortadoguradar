@@ -247,6 +247,8 @@ function switchView(view) {
         mainApp.classList.add('map-active');
         mapSec.classList.remove('hidden');
         feedSec.style.gridColumn = "2"; 
+               feedSec.classList.remove('hidden');
+
         
         if (typeof window.invalidateMapSize === 'function') {
             window.invalidateMapSize();
