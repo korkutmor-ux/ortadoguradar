@@ -880,7 +880,7 @@ body {
 /* Guess Grid */
 .quiz-table-header {
     display: grid;
-    grid-template-columns: 2fr 1fr 1.5fr 1.5fr 1.5fr;
+    grid-template-columns: 2fr 1fr 1.5fr 1.5fr;
     gap: 12px;
     padding: 12px;
     font-size: 0.8rem;
@@ -902,7 +902,7 @@ body {
 
 .guess-row {
     display: grid;
-    grid-template-columns: 2fr 1fr 1.5fr 1.5fr 1.5fr;
+    grid-template-columns: 2fr 1fr 1.5fr 1.5fr;
     gap: 12px;
     animation: fadeIn 0.4s ease forwards;
 }
