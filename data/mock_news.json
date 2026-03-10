@@ -1,5 +1,20 @@
 [
     {
+        "id": "1773179963407ixdym",
+        "title": "Pentagon: İran Savaşı'nda Yaklaşık 140 ABD Askeri Yaralandı",
+        "summary": "ABD Savunma Bakanlığı Pentagon'dan yapılan açıklamaya göre, İran ile yaşanan çatışmalarda yaklaşık 140 ABD askeri yaralandı. Bakanlık, yaralı askerlerden sekizinin durumunun kritik olduğunu bildirdi. Bu gelişmeler yaşanırken, Beyaz Saray'ın söz konusu saldırının ilerleyişini olumlu karşıladığı belirtildi. Haber, ABD'nin Orta Doğu'daki askeri varlığı ve İran ile ilişkileri bağlamında bölgedeki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T21:59:23.407Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/10/around-140-us-service-members-wounded-in-iran-war-pentagon-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773174196299wm38b",
         "title": "İsrail saldırısında Beyrut'ta İranlıların hayatını kaybetmesiyle çatışmalar Lübnan başkentine sıçradı",
         "summary": "İsrail ordusu, Lübnan'daki Hizbullah hareketiyle çatışmaların yeniden başlamasının ardından Beyrut'ta gerçekleştirdiği saldırıda İran Devrim Muhafızları Kudüs Gücü mensuplarını hedef aldığını açıkladı. Saldırının Beyrut'un merkezindeki lüks bir otelde gerçekleştiği ve İranlıların hayatını kaybettiği bildirildi. İran ise hayatını kaybeden kişilerin diplomat olduğunu iddia ederek İsrail'in açıklamasına karşı çıktı. Bu olay, çatışmaların Lübnan'ın başkentine sıçradığına işaret ediyor ve bölgedeki gerilimi artırıyor.",
@@ -734,21 +749,6 @@
             "name": "Manama, Bahreyn"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bahrain-king-calls-iranian-attacks-unjustifiable?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773057673900wznu2",
-        "title": "Newcastle United ile Barcelona Arasında Şampiyonlar Ligi Maçı: Takım Haberleri, Başlangıç, Kadrolar",
-        "summary": "Şampiyonlar Ligi son 16 turu ilk maçında Newcastle United, yıldızlarla dolu Barcelona'yı kendi sahasında ağırlayacak. Bu karşılaşma, ev sahibi ekip için zorlu bir mücadele olacak.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-09T12:01:13.900Z",
-        "location": {
-            "lat": 54.9783,
-            "lng": -1.6178,
-            "name": "Newcastle upon Tyne, İngiltere"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/9/newcastle-united-vs-barcelona-champions-league-team-news-start?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
