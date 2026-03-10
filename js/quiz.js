@@ -104,23 +104,33 @@ function setupQuizListeners() {
     // Span full width
     QDOM.secQuiz.style.gridColumn = "1 / -1"; 
 });
+    QDOM.btnFeed.addEventListener('click', () => {
+        QDOM.secQuiz.classList.add('hidden');
+        QDOM.secFeed.classList.remove('hidden');
+        QDOM.btnQuiz.classList.remove('active');
+        
+        const sidebar = document.querySelector('.sidebar-right');
+        if(sidebar) sidebar.classList.remove('hidden');
 
-QDOM.btnFeed.addEventListener('click', () => {
-    QDOM.secQuiz.classList.add('hidden');
-    QDOM.secFeed.classList.remove('hidden');
-    QDOM.btnQuiz.classList.remove('active');
-    
-    const sidebar = document.querySelector('.sidebar-right');
-    if(sidebar) sidebar.classList.remove('hidden'); // show sidebar again
-});
+        // Let app.js handle the rest of its layout if fn exists
+        if(typeof window.switchView === 'function') {
+            window.switchView('feed');
+        }
+    });
 
-QDOM.btnMap.addEventListener('click', () => {
-    QDOM.secQuiz.classList.add('hidden');
-    QDOM.btnQuiz.classList.remove('active');
-    
-    const sidebar = document.querySelector('.sidebar-right');
-    if(sidebar) sidebar.classList.remove('hidden'); // show sidebar again
-});
+    QDOM.btnMap.addEventListener('click', () => {
+        QDOM.secQuiz.classList.add('hidden');
+        QDOM.btnQuiz.classList.remove('active');
+        
+        const sidebar = document.querySelector('.sidebar-right');
+        if(sidebar) sidebar.classList.remove('hidden');
+
+        // Most important: let app.js trigger the Leaflet map resize and grid adjustments
+        if(typeof window.switchView === 'function') {
+            window.switchView('map');
+        }
+    });
+
 
 // Game Inputs
 QDOM.searchInput.addEventListener('input', handleSearchInput);
