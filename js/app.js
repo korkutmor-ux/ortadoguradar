@@ -134,7 +134,8 @@ function renderNewsCards() {
                         <i class="fa-solid fa-link"></i> Kaynak Taramasını Gör
                     </a>
                     <div class="card-actions">
-                        <button class="action-btn" title="Yerini Göster (Rasathane)"><i class="fa-solid fa-location-dot"></i></button>
+                        <button class="action-btn" title="Yerini Göster (Rasathane)"
+                        onclick="if(window.focusMapOnItem) window.focusMapOnItem('${item.id}')"><i class="fa-solid fa-location-dot"></i></button>
                         <button class="action-btn" title="Paylaş"><i class="fa-regular fa-share-from-square"></i></button>
                     </div>
                 </div>
