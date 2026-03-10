@@ -1,5 +1,20 @@
 [
     {
+        "id": "1773186878692lr5gl",
+        "title": "Demokratlar, Beyaz Saray'ın İran Savaşı Hedefleri Konusunda Belirsizliğini Eleştirdi",
+        "summary": "ABD'deki Demokrat Parti üyeleri, Beyaz Saray'ın İran'a yönelik olası savaş hedefleri konusunda yeterli netlik sağlamadığını ifade etti. Parti üyeleri, 11 gün geçmesine ve son yapılan gizli brifinge rağmen savaşın gerekçeleri ve amaçları hakkında hala bir açıklık olmamasını \"rahatsız edici\" olarak nitelendirdi. Bu durum, Beyaz Saray'ın İran politikasına dair belirsizliklerin devam ettiğini ve Demokratlar arasında endişe yarattığını gösteriyor. Muhalefet, ABD'nin Orta Doğu'daki potansiyel askeri adımlarına ilişkin daha şeffaf bir bilgilendirme talep ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T23:54:38.692Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/10/democrats-say-white-house-still-giving-no-clarity-on-iran-war-after-eleven-days?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773179963407ixdym",
         "title": "Pentagon: İran Savaşı'nda Yaklaşık 140 ABD Askeri Yaralandı",
         "summary": "ABD Savunma Bakanlığı Pentagon'dan yapılan açıklamaya göre, İran ile yaşanan çatışmalarda yaklaşık 140 ABD askeri yaralandı. Bakanlık, yaralı askerlerden sekizinin durumunun kritik olduğunu bildirdi. Bu gelişmeler yaşanırken, Beyaz Saray'ın söz konusu saldırının ilerleyişini olumlu karşıladığı belirtildi. Haber, ABD'nin Orta Doğu'daki askeri varlığı ve İran ile ilişkileri bağlamında bölgedeki gerilimin devam ettiğini gösteriyor.",
@@ -734,21 +749,6 @@
             "name": "Kudüs, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/3/9/walid-khalidi-historian-of-the-palestinian-cause-dies-aged-100?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773057648671yx258",
-        "title": "Bahreyn Kralı, İran Saldırılarını Haksız Buldu",
-        "summary": "Bahreyn Kralı Hamad bin İsa Al Halife, İran'ın Bahreyn'e yönelik gerçekleştirdiği \"benzeri görülmemiş saldırıların\" \"haklı çıkarılamayacağını\" belirtti.",
-        "category": "Diplomatik",
-        "timestamp": "2026-03-09T12:00:48.671Z",
-        "location": {
-            "lat": 26.23,
-            "lng": 50.59,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bahrain-king-calls-iranian-attacks-unjustifiable?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
