@@ -1,5 +1,20 @@
 [
     {
+        "id": "1773174196299wm38b",
+        "title": "İsrail saldırısında Beyrut'ta İranlıların hayatını kaybetmesiyle çatışmalar Lübnan başkentine sıçradı",
+        "summary": "İsrail ordusu, Lübnan'daki Hizbullah hareketiyle çatışmaların yeniden başlamasının ardından Beyrut'ta gerçekleştirdiği saldırıda İran Devrim Muhafızları Kudüs Gücü mensuplarını hedef aldığını açıkladı. Saldırının Beyrut'un merkezindeki lüks bir otelde gerçekleştiği ve İranlıların hayatını kaybettiği bildirildi. İran ise hayatını kaybeden kişilerin diplomat olduğunu iddia ederek İsrail'in açıklamasına karşı çıktı. Bu olay, çatışmaların Lübnan'ın başkentine sıçradığına işaret ediyor ve bölgedeki gerilimi artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T20:23:16.299Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773172465324pfm88",
         "title": "ABD'nin Stratejisinde İran'ın Doğal Kaynaklarının Kontrolü Bir Faktör mü?",
         "summary": "İran'ın geniş petrol ve doğalgaz rezervlerine sahip olduğu ve Çin için önemli bir tedarikçi konumunda bulunduğu belirtilmektedir. Bu durum, uluslararası arenada İran'ın enerji piyasasındaki stratejik önemini vurgulamaktadır. Amerika Birleşik Devletleri'nin dış politikasında ve bölgesel stratejilerinde, İran'ın bu doğal kaynaklarının kontrolünün önemli bir faktör olup olmadığı sorusu gündeme gelmektedir. Bu tartışmalar, enerji güvenliği ve jeopolitik çıkarlar arasındaki karmaşık ilişkiyi gözler önüne sermektedir.",
@@ -731,21 +746,6 @@
             "name": "Newcastle upon Tyne, İngiltere"
         },
         "source": "https://www.aljazeera.com/sports/2026/3/9/newcastle-united-vs-barcelona-champions-league-team-news-start?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773052300775mpczq",
-        "title": "İran, ABD-İsrail saldırılarında çoğu sivil 1.255 kişinin öldüğünü bildirdi",
-        "summary": "İran Sağlık Bakan Yardımcısı Ali Jafarian, Al Jazeera'ya yaptığı açıklamada, hava saldırılarının onlarca sağlık tesisine zarar verdiğini belirtti. Jafarian, bu saldırılarda çoğu sivil olmak üzere toplam 1.255 kişinin hayatını kaybettiğini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T10:31:40.775Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
