@@ -34,13 +34,21 @@ window.initMap = function(newsData) {
 };
 
 // Expose map resize functionality (for when tab switches)
-window.invalidateMapSize = function() {
+window.invalidateMapSize = function () {
     if (radarMap) {
+        // Force a resize event dispatch for full invalidation
+        window.dispatchEvent(new Event('resize'));
+        
+        requestAnimationFrame(() => {
+            radarMap.invalidateSize(true);
+        });
+
         setTimeout(() => {
-            radarMap.invalidateSize();
-        }, 300); // slight delay to allow CSS transitions to finish before recalculating
+            radarMap.invalidateSize(true);
+        }, 300); // Increased delay to ensure CSS display:none -> block transition and grid layout is fully painted
     }
 };
+
 
 function updateMapMarkers(newsData) {
     if (!radarMap) return;
