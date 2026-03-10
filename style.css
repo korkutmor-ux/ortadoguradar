@@ -499,11 +499,15 @@ body {
 }
 .card-image-wrapper {
     width: 100%;
-    height: 200px;
+    /* Sabit yükseklik yerine maksimum yükseklik ve orantı kullanıyoruz */
+    max-height: 400px; 
+    aspect-ratio: 16 / 9;
     overflow: hidden;
     border-radius: 8px;
     margin-bottom: 15px;
+    background-color: var(--bg-base); /* Yüklenirken arkada koyu renk görünsün */
 }
+
 
 .news-image {
     width: 100%;
