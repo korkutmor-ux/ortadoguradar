@@ -574,18 +574,18 @@ body {
     gap: 6px;
 }
 
-.legend .dot.red {
-    background: var(--map-6h);
+.dot.red {
+    background-color: var(--map-6h) !important;
     animation: heartbeat 1.5s infinite;
 }
 
-.legend .dot.green {
-    background: var(--map-12h);
-    animation: none;
+.dot.green {
+    background-color: var(--map-12h) !important;
+    animation: pulse 2.5s infinite; /* slower pulse for medium age */
 }
 
-.legend .dot.blue {
-    background: var(--map-24h);
+.dot.blue {
+    background-color: var(--map-24h) !important;
     animation: none;
 }
 
@@ -594,11 +594,20 @@ body {
     width: 100%;
 }
 
+.custom-div-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Custom Marker CSS for Leaflet */
 .pulse-marker {
     border-radius: 50%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 12px;
+    height: 12px;
 }
+
 
 /* Map Popup Styling override for Dark Mode */
 .leaflet-popup-content-wrapper,
