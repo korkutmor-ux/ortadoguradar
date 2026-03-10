@@ -36,19 +36,16 @@ window.initMap = function(newsData) {
 // Expose map resize functionality (for when tab switches)
 window.invalidateMapSize = function () {
     if (radarMap) {
-        // Force a resize event dispatch for full invalidation
-        window.dispatchEvent(new Event('resize'));
-        
-        requestAnimationFrame(() => {
-            radarMap.invalidateSize(true);
-        });
-
+        // Deep fix: Force Leaflet to recalculate offset and clear cached DOM bounds
         setTimeout(() => {
             radarMap.invalidateSize(true);
-        }, 300); // Increased delay to ensure CSS display:none -> block transition and grid layout is fully painted
+            if(radarMap._onResize) radarMap._onResize(); 
+        }, 100); 
+        setTimeout(() => {
+            radarMap.invalidateSize(true);
+        }, 400); 
     }
 };
-
 
 function updateMapMarkers(newsData) {
     if (!radarMap) return;
