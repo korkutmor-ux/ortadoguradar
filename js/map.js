@@ -38,7 +38,7 @@ window.invalidateMapSize = function() {
     if (radarMap) {
         setTimeout(() => {
             radarMap.invalidateSize();
-        }, 100); // slight delay to allow CSS transitions to finish before recalculating
+        }, 300); // slight delay to allow CSS transitions to finish before recalculating
     }
 };
 
