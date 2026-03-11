@@ -10,8 +10,16 @@ if (!process.env.GEMINI_API_KEY) {
 }
 
 // YENİ SİSTEM
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-const parser = new Parser();
+const parser = new Parser({
+    customFields: {
+        item: [
+            ['media:content', 'mediaContent'],
+            ['media:thumbnail', 'mediaThumbnail'],
+            ['image', 'image']
+        ]
+    }
+});
+
 
 const RSS_FEEDS = [
     { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
@@ -49,8 +57,24 @@ async function fetchAndProcessNews() {
                 continue; 
             }
 
-                console.log(`  - İşleniyor: ${item.title}`);
-                const aiResult = await paraphraseWithAI(item, feedConfig.source);
+                        console.log(`  - İşleniyor: ${item.title}`);
+        
+        let imageUrl = '';
+        if (item.enclosure && item.enclosure.url) {
+            imageUrl = item.enclosure.url;
+        } else if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
+            imageUrl = item.mediaContent.$.url;
+        } else if (item.mediaThumbnail && item.mediaThumbnail.$ && item.mediaThumbnail.$.url) {
+            imageUrl = item.mediaThumbnail.$.url;
+        } else if (item.image) {
+            imageUrl = item.image;
+        } else if (item.content && item.content.match(/<img[^>]+src="([^">]+)"/)) {
+            const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
+            imageUrl = imgMatch[1];
+        }
+
+        const aiResult = await paraphraseWithAI(item, feedConfig.source, imageUrl);
+
                 if (aiResult) allNews.push(aiResult);
                 await delay(15000);
             }
@@ -118,6 +142,8 @@ SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
             title: aiData.title,
             summary: aiData.summary,
             category: aiData.category,
+                        imageUrl: imageUrl || 'https://via.placeholder.com/600x400?text=Orta+Dogu+Radar',
+
             timestamp: new Date().toISOString(),
             location: {
                 lat: parseFloat(aiData.lat),
