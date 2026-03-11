@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773250733817mrt8x",
+        "title": "2026 FIFA Dünya Kupası'nın Önündeki Zorluklar: İran Gerilimi ve Irak Elemeleri",
+        "summary": "2026 FIFA Dünya Kupası'nın organizasyonunun kolay olacağı düşünülse de, çeşitli zorluklar devam etmektedir. Bu zorluklar arasında ABD'nin İran'a yönelik politikaları, Meksika'daki şiddet olayları ve vize yasakları gibi konular yer almaktadır. Ayrıca, Irak'ın eleme maçları da organizasyon açısından dikkat çekilen hususlardan biridir. Dünya Kupası'nın ev sahipliği sürecinde bu tür siyasi ve güvenlik odaklı meselelerin yönetilmesi gerekmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-11T17:38:53.817Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/11/fifa-world-cup-iran-participation-mexico-violence-visa-ban?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773250756077nab84",
+        "title": "Trump: İran Savaşı Yakında Bitecek; İsrail: Zaman Sınırı Yok",
+        "summary": "ABD Başkanı Donald Trump, İran ile yaşanan gerilimin ve 'savaşın' yakında sona ereceğini dile getirmiştir. Bu açıklamalara karşılık İsrail, mevcut duruma ilişkin herhangi bir zaman sınırı olmadığını belirtmiştir. ABD Başkanı, 'savaş ilerlemesini' olumlu bir şekilde değerlendirdiğini ifade ederken, İran'ın Hürmüz Boğazı'nı engelleme eylemlerini sürdürdüğü ve bölge genelinde saldırılar düzenlemeye devam ettiği kaydedilmiştir. Bu gelişmeler, Orta Doğu'daki mevcut gerilimin ve bölgesel güvenlik endişelerinin devam ettiğini göstermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-11T17:39:16.077Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/11/trump-says-iran-war-to-end-soon-as-israel-claims-no-time-limit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17732401022251ry9o",
         "title": "ABD'nin THAAD Füze Savunma Sistemini Orta Doğu'ya Konuşlandırması Yakın",
         "summary": "ABD'ye ait THAAD füze savunma sisteminin Güney Kore'den Orta Doğu'ya konuşlandırılmasının yakın olduğu bildirildi. Yonhap haber ajansının aktardığı bilgilere göre, önleyici füzelerin ABD askeri uçakları aracılığıyla kısa süre içinde Orta Doğu'ya sevk edilmesi bekleniyor. Bu hamlenin, bölgedeki güvenlik dengeleri üzerinde etkili olabileceği ve ABD'nin Orta Doğu'daki askeri varlığını güçlendirme çabalarının bir parçası olduğu düşünülüyor. THAAD sisteminin bölgeye konuşlandırılmasıyla, potansiyel tehditlere karşı savunma kapasitesinin artırılması hedefleniyor.",
@@ -737,21 +769,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773118991740cbl0v",
-        "title": "İran, 'acı tecrübe' sonrası ABD ile gelecekte müzakere yapmayacağını belirtti",
-        "summary": "İran Dışişleri Bakanı Abbas Arağçi, PBS News'e verdiği demeçte, ABD ile görüşme veya müzakere yapmanın artık gündemlerinde olmadığını belirtti. İran, 'acı tecrübe' sonrası ABD ile gelecekte müzakere yapmayacağını ifade etti.",
-        "category": "Diplomatik",
-        "timestamp": "2026-03-10T05:03:11.740Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iran-says-no-future-negotiations-with-us-after-bitter-experience?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
