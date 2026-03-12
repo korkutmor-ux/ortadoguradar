@@ -113,9 +113,13 @@ function renderNewsCards() {
 
         const cardClass = item.isBreaking ? 'news-card breaking' : 'news-card';
         const breakingBadge = item.isBreaking ? `<span class="breaking-tag"><i class="fa-solid fa-bolt"></i> Son Dakika</span>` : '';
+        
+        // YENİ EKLENEN KISIM: Pexels görseli varsa kartın en üstüne şık bir şekilde ekle, yoksa boş bırak
+        const imageHTML = item.imageUrl ? `<img src="${item.imageUrl}" alt="Haber Görseli" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px 8px 0 0; display: block; border-bottom: 1px solid #333;">` : '';
 
         const cardHTML = `
             <article class="${cardClass}">
+                ${imageHTML}
                 <div class="card-header">
                     <div class="card-meta-left">
                         ${breakingBadge}
