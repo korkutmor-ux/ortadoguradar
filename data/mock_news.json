@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773273633114aumjj",
+        "title": "Irak Sularında İki Petrol Tankerine Saldırı Sonrası Büyük Yangınlar Çıktı",
+        "summary": "Irak karasularında, el-Faw limanı yakınlarında iki yabancı tankerde büyük yangınlar çıktığı bildirildi. Görgü tanıkları ve yerel kaynaklar, tankerlerin bir saldırı sonucu alev aldığını belirtti. Olayın, Basra Körfezi'ndeki denizcilik güvenliği ve enerji taşımacılığı açısından endişelere yol açtığı ifade edildi. Yetkililer, yangınlara müdahale edildiğini ve saldırının nedeninin ve sorumlularının belirlenmesi için kapsamlı bir soruşturma başlatıldığını duyurdu. Petrol taşımacılığı için stratejik öneme sahip bu bölgedeki saldırı, uluslararası kamuoyunun dikkatini çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T00:00:33.114Z",
+        "location": {
+            "lat": 29.98,
+            "lng": 48.47,
+            "name": "Al-Faw, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17732736702670r3qa",
+        "title": "Trump, ABD'nin Minab'daki okul saldırısından sorumlu olduğuna dair rapor hakkında bilgisinin olmadığını belirtti",
+        "summary": "Eski ABD Başkanı Donald Trump, ABD ordusunun İran'ın Minab kentindeki bir kız okuluna yönelik saldırıdan sorumlu olduğunu ortaya koyan askeri bir soruşturma raporu hakkında bilgisi olmadığını ifade etti. Bu açıklama, ABD'nin bölgedeki askeri operasyonları ve sivil hedeflere yönelik olası etkileri konusundaki tartışmaları yeniden alevlendirdi. Söz konusu soruşturmanın detayları ve bulguları hakkında kamuoyuna henüz tam bir bilgi sunulmazken, Trump'ın bu konudaki bilgisizliği dikkat çekti. Olayın, ABD'nin İran ile olan gergin ilişkileri bağlamında değerlendirilmesi bekleniyor ve bölgedeki güvenlik dinamikleri açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T00:01:10.267Z",
+        "location": {
+            "lat": 27.15,
+            "lng": 57.08,
+            "name": "Minab, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/trump-i-dont-know-about-report-us-at-fault-in-school-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177326654988419125",
         "title": "BM Güvenlik Konseyi, Körfez ülkelerinin karar taslağını kabul etti",
         "summary": "Birleşmiş Milletler Güvenlik Konseyi, Körfez İşbirliği Konseyi (KİK) üyesi ülkeler tarafından sunulan bir karar taslağını onayladı. Kabul edilen bu karar, İran'a Körfez bölgesine yönelik saldırılarını derhal durdurması yönünde çağrıda bulunuyor. Bu diplomatik gelişme, bölgedeki güvenlik endişelerini gidermeyi ve istikrarı sağlamayı hedefliyor. Karar, uluslararası toplumun Körfez'deki denizcilik güvenliği ve bölgesel barışa verdiği önemi vurgularken, İran'ın bölgedeki eylemlerine karşı ortak bir duruş sergiliyor.",
@@ -744,36 +776,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773129444386agaz7",
-        "title": "Beş İranlı futbolcu marş protestosu sonrası Avustralya vizesi aldı",
-        "summary": "İran milli marşı sırasında selam vermeyi reddettikleri için bir eleştirmen tarafından \"savaş zamanı hainleri\" olarak nitelendirilen takım için endişeler artmıştı. Bu olayların ardından beş İranlı futbolcuya Avustralya vizesi verildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-10T07:57:24.386Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773129465418n6pmn",
-        "title": "GPS Karıştırma: Orta Doğu'daki Görünmez Mücadele",
-        "summary": "Körfez bölgesinde GPS karıştırmanın navigasyonu tehlikeli hale getirmesi, alternatif sistemler geliştirme çabalarını hızlandırmıştır. Bu durum, bölgedeki seyrüsefer güvenliği konusunda endişeleri artırmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T07:57:45.418Z",
-        "location": {
-            "lat": 26,
-            "lng": 50,
-            "name": "Körfez Bölgesi, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
