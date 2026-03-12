@@ -11,15 +11,8 @@ if (!process.env.GEMINI_API_KEY) {
 
 // YENİ SİSTEM
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-const parser = new Parser({
-    customFields: {
-        item: [
-            ['media:content', 'mediaContent'],
-            ['media:thumbnail', 'mediaThumbnail'],
-            ['image', 'image']
-        ]
-    }
-});
+const parser = new Parser();
+
 
 
 const RSS_FEEDS = [
@@ -60,45 +53,7 @@ async function fetchAndProcessNews() {
 
                         console.log(`  - İşleniyor: ${item.title}`);
         
-                        let imageUrl = '';
-                
-                // 1. Önce sitenin arka kapısına gidip ana manşet resmini zorla çekelim
-                if (item.link) {
-                    try {
-                        const htmlRes = await fetch(item.link);
-                        const htmlText = await htmlRes.text();
-                        const ogMatch = htmlText.match(/<meta\s+(?:property|name)=["']og:image["']\s+content=["']([^"']+)["']/i);
-                        if (ogMatch && ogMatch[1]) {
-                            imageUrl = ogMatch[1];
-                        }
-                    } catch (e) {
-                        console.error("Linkten resim çekilemedi:", e.message);
-                    }
-                }
-
-                // 2. Eğer site izin vermezse eski yöntemle RSS içindeki resimleri bul (Yedek plan)
-                if (!imageUrl || imageUrl.length < 5) {
-                    if (item.enclosure && item.enclosure.url) {
-                        imageUrl = item.enclosure.url;
-                    } else if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
-                        imageUrl = item.mediaContent.$.url;
-                    } else if (item.mediaThumbnail && item.mediaThumbnail.$ && item.mediaThumbnail.$.url) {
-                        imageUrl = item.mediaThumbnail.$.url;
-                    } else if (item.image) {
-                        imageUrl = item.image;
-                    } else if (item.content && item.content.match(/<img[^>]+src="([^">]+)"/)) {
-                        const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
-                        imageUrl = imgMatch[1];
-                    }
-                }
-                
-                // 3. BBC'nin ufak resimlerini HD boyutlara çek (Son kurtarıcı)
-                if (imageUrl && imageUrl.includes('ichef.bbci.co.uk') && imageUrl.includes('/240/')) {
-                    imageUrl = imageUrl.replace('/240/', '/800/'); 
-                }
-
-
-        const aiResult = await paraphraseWithAI(item, feedConfig.source, imageUrl);
+                                       const aiResult = await paraphraseWithAI(item, feedConfig.source);
 
                 if (aiResult) allNews.push(aiResult);
                 await delay(15000);
@@ -112,7 +67,7 @@ async function fetchAndProcessNews() {
     else console.log("❌ Yeni haber bulunamadı veya işlenemedi.");
 }
 
-async function paraphraseWithAI(newsItem, sourceName, imageUrl) {
+async function paraphraseWithAI(newsItem, sourceName) {
        const prompt = `
 Aşağıda İngilizce veya Arapça olabilen bir haberin başlığı ve özeti var.
 Bu haberin Orta Doğu coğrafyasına veya Orta Doğu siyasetine (örnek: ABD'nin İran açıklaması, Filistin olayları, Körfez ekonomisi vb.) doğrudan VEYA dolaylı yoldan ilgisi YOKSA (örneğin Şampiyonlar Ligi maçı, Haiti'deki bir olay, Orta Doğu ülkelerini ilgilendirmeyen başka kıtalardaki bir kaza vs. ise), LÜTFEN SADECE null DÖNDÜR. Başka hiçbir şey yazma.
@@ -167,7 +122,8 @@ SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
             title: aiData.title,
             summary: aiData.summary,
             category: aiData.category,
-                        imageUrl: imageUrl || 'https://via.placeholder.com/600x400?text=Orta+Dogu+Radar',
+                             imageUrl: '',
+
 
             timestamp: new Date().toISOString(),
             location: {
