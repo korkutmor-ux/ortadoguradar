@@ -413,3 +413,50 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initApp);
+// =========================================
+// ENVANTER (ARSENAL) SAYFASI MANTIĞI
+// =========================================
+
+document.addEventListener('DOMContentLoaded', () => {
+    const btnArsenal = document.getElementById('btn-arsenal');
+    const secArsenal = document.getElementById('arsenalContainer');
+    const secFeed = document.getElementById('feedContainer');
+    const secMap = document.getElementById('mapContainer');
+    const secQuiz = document.getElementById('quizContainer');
+    const btnFeed = document.getElementById('btn-feed');
+    const btnMap = document.getElementById('btn-map');
+    const btnQuiz = document.getElementById('btn-quiz');
+    const mainApp = document.querySelector('.app-main');
+    const sidebar = document.querySelector('.sidebar-right');
+
+    // Butona Tıklanınca Envanter Sayfasını Aç
+    if(btnArsenal) {
+        btnArsenal.addEventListener('click', () => {
+            // Buton aktiflik durumları
+            btnFeed.classList.remove('active');
+            btnMap.classList.remove('active');
+            if(btnQuiz) btnQuiz.classList.remove('active');
+            btnArsenal.classList.add('active');
+
+            // Ekranları gizle
+            secFeed.classList.add('hidden');
+            secMap.classList.add('hidden');
+            if(secQuiz) secQuiz.classList.add('hidden');
+            if(sidebar) sidebar.classList.add('hidden');
+            mainApp.classList.remove('map-active');
+
+            // Envanteri Göster
+            secArsenal.classList.remove('hidden');
+        });
+    }
+
+    // Diğer sekmelere tıklandığında Envanteri Gizle
+    const hideArsenal = () => {
+        if(secArsenal) secArsenal.classList.add('hidden');
+        if(btnArsenal) btnArsenal.classList.remove('active');
+    };
+
+    if(btnFeed) btnFeed.addEventListener('click', hideArsenal);
+    if(btnMap) btnMap.addEventListener('click', hideArsenal);
+    if(btnQuiz) btnQuiz.addEventListener('click', hideArsenal);
+});
