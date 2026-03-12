@@ -13,31 +13,47 @@ if (!process.env.GEMINI_API_KEY) {
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 const parser = new Parser();
 
-
-
 const RSS_FEEDS = [
     { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
     { source: "BBC", url: "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
     { source: "Anadolu Ajansı", url: "https://www.aa.com.tr/en/rss/default?cat=middle-east" },
-
 ];
 
 const OUTPUT_FILE = path.resolve('../data/mock_news.json');
-
 const delay = ms => new Promise(res => setTimeout(res, ms));
+
+// --- PEXELS API FONKSİYONU ---
+async function fetchPexelsImage(keyword) {
+    if (!process.env.PEXELS_API_KEY || !keyword) return '';
+    
+    try {
+        const response = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(keyword)}&per_page=15&orientation=landscape`, {
+            headers: { 'Authorization': process.env.PEXELS_API_KEY }
+        });
+        
+        const data = await response.json();
+        
+        if (data.photos && data.photos.length > 0) {
+            const randomIndex = Math.floor(Math.random() * data.photos.length);
+            return data.photos[randomIndex].src.large;
+        }
+        return '';
+    } catch (error) {
+        console.error("❌ Pexels API Hatası:", error.message);
+        return '';
+    }
+}
 
 async function fetchAndProcessNews() {
     console.log("📡 Orta Doğu Radar Botu Başlatıldı...");
-        let allNews = [];
+    let allNews = [];
     let existingLinks = new Set();
     
-    // Önceki haberleri oku ki kopya kontrolü yapabilelim
     if (fs.existsSync(OUTPUT_FILE)) {
         const fileContent = fs.readFileSync(OUTPUT_FILE, 'utf8');
         const existingData = JSON.parse(fileContent);
         existingData.forEach(item => existingLinks.add(item.source));
     }
-
 
     for (const feedConfig of RSS_FEEDS) {
         console.log(`\n⏳ Veri çekiliyor: ${feedConfig.source}...`);
@@ -45,15 +61,14 @@ async function fetchAndProcessNews() {
             const feed = await parser.parseURL(feedConfig.url);
             const topItems = feed.items.slice(0, 5);
 
-            for (const item of topItems) {            // Eğer link zaten varsa, atla!
-            if (existingLinks.has(item.link)) {
-                console.log(`  ⏩ Atlandı (Zaten var): ${item.title}`);
-                continue; 
-            }
+            for (const item of topItems) {
+                if (existingLinks.has(item.link)) {
+                    console.log(`  ⏩ Atlandı (Zaten var): ${item.title}`);
+                    continue; 
+                }
 
-                        console.log(`  - İşleniyor: ${item.title}`);
-        
-                                       const aiResult = await paraphraseWithAI(item, feedConfig.source);
+                console.log(`  - İşleniyor: ${item.title}`);
+                const aiResult = await paraphraseWithAI(item, feedConfig.source);
 
                 if (aiResult) allNews.push(aiResult);
                 await delay(15000);
@@ -68,33 +83,30 @@ async function fetchAndProcessNews() {
 }
 
 async function paraphraseWithAI(newsItem, sourceName) {
-       const prompt = `
+    const prompt = `
 Aşağıda İngilizce veya Arapça olabilen bir haberin başlığı ve özeti var.
-Bu haberin Orta Doğu coğrafyasına veya Orta Doğu siyasetine (örnek: ABD'nin İran açıklaması, Filistin olayları, Körfez ekonomisi vb.) doğrudan VEYA dolaylı yoldan ilgisi YOKSA (örneğin Şampiyonlar Ligi maçı, Haiti'deki bir olay, Orta Doğu ülkelerini ilgilendirmeyen başka kıtalardaki bir kaza vs. ise), LÜTFEN SADECE null DÖNDÜR. Başka hiçbir şey yazma.
+Bu haberin Orta Doğu coğrafyasına veya Orta Doğu siyasetine doğrudan VEYA dolaylı yoldan ilgisi YOKSA LÜTFEN SADECE null DÖNDÜR.
 
 Eğer haber Orta Doğu'yu ilgilendiriyorsa:
-Bu haberi Türkçe olarak TARAfsız, yorumsuz (paraphrase edilmiş) bir şekilde özetle. Haber ajansı dili kullan.
+Bu haberi Türkçe olarak tarafsız özetle. Haber ajansı dili kullan.
 
-Ayrıca bu haberin aşağıdaki kategorilerden HANGİSİNE en uygun olduğunu seç (Sadece birini seç):
-
+Kategori Seç (Sadece birini seç):
 [Diplomatik, Ekonomik, Çatışma ve Güvenlik, Toplum ve İnsan Hakları, Enerji ve Altyapı, Çevre ve İklim, Tümü]
-
-Son olarak bu haber Orta Doğu'da veya dünyada hangi ülkede/şehirde geçiyor? Ana konumu belirle. Yaklaşık enlem ve boylamını bul.
 
 HABER BAŞLIĞI: ${newsItem.title}
 HABER İÇERİĞİ/ÖZETİ: ${newsItem.contentSnippet || newsItem.content || newsItem.summary || ''}
 
-SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
+SADECE JSON ÇIKTISI VER:
 {
-  "title": "Türkçe tarafsız başlık",
-  "summary": "Türkçe tarafsız detaylı haber özeti, lütfen haberin önemli tüm detaylarını içeren daha uzun, 4-5 cümlelik zengin ve akıcı bir özet yaz.",
-
-  "category": "Seçilen Kategori Adı",
+  "title": "Türkçe başlık",
+  "summary": "Türkçe detaylı özet (4-5 cümle)",
+  "category": "Seçilen Kategori",
   "location_name": "Şehir, Ülke",
   "lat": 33.0,
   "lng": 35.0,
   "trendScore": 85,
-  "isBreaking": false
+  "isBreaking": false,
+  "search_keyword": "Haberle ilgili tek kelimelik İngilizce görsel arama terimi (Örn: war, oil, meeting, city)"
 }`;
 
     try {
@@ -105,26 +117,26 @@ SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
         });
 
         let text = response.text.trim();
-                if (text === 'null') {
-            console.log(`  ⏭️ Atlandı (Orta Doğu ile ilgisiz): ${newsItem.title}`);
-            return null;
-        }
-
+        if (text === 'null') return null;
 
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
         if (text.endsWith("```")) text = text.substring(0, text.length - 3);
 
         const aiData = JSON.parse(text.trim());
+        
+        // Pexels'ten görseli çekiyoruz
+        let fetchedImageUrl = '';
+        if (aiData.search_keyword) {
+            fetchedImageUrl = await fetchPexelsImage(aiData.search_keyword);
+        }
 
         return {
             id: Date.now().toString() + Math.random().toString(36).substr(2, 5),
             title: aiData.title,
             summary: aiData.summary,
             category: aiData.category,
-                             imageUrl: '',
-
-
+            imageUrl: fetchedImageUrl, // Pexels linki buraya geliyor!
             timestamp: new Date().toISOString(),
             location: {
                 lat: parseFloat(aiData.lat),
@@ -137,7 +149,7 @@ SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
         };
 
     } catch (error) {
-        console.error(`  ❌ AI Hatası (${newsItem.title}):`, error.message);
+        console.error(`  ❌ AI Hatası:`, error.message);
         return null;
     }
 }
@@ -149,14 +161,11 @@ function saveToDatabase(newItems) {
             const fileContent = fs.readFileSync(OUTPUT_FILE, 'utf8');
             existingData = JSON.parse(fileContent);
         }
-
         const combinedData = [...newItems, ...existingData];
-        const trimmedData = combinedData.slice(0, 50);
-
-        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(trimmedData, null, 4));
-        console.log(`\n✅ Başarılı! Toplam ${newItems.length} haber kaydedildi.`);
+        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(combinedData.slice(0, 50), null, 4));
+        console.log(`\n✅ Başarılı! ${newItems.length} haber kaydedildi.`);
     } catch (error) {
-        console.error("❌ Dosya kaydetme hatası:", error.message);
+        console.error("❌ Dosya hatası:", error.message);
     }
 }
 
