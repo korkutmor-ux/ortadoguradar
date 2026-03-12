@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773292127831pu1q7",
+        "title": "İsrailli Gazeteci: İran Savaşı'nı Bitirme Kararı Sadece Trump'ta",
+        "summary": "İsrailli gazeteci ve yazar Gideon Levy, İran'a karşı olası bir savaşı sona erdirme kararının yalnızca dönemin ABD Başkanı Trump'a ait olduğunu belirtti. Levy'nin bu açıklaması, İran ile ilgili gerilimlerin çözümünde ABD'nin ve özellikle başkanın kilit rolünü vurgulamaktadır. Bu durum, Orta Doğu'daki bölgesel güvenlik dinamikleri ve uluslararası ilişkiler açısından önemli bir bakış açısı sunmaktadır. Açıklama, bölgedeki potansiyel çatışma riskleri ve diplomatik çabaların geleceği üzerine tartışmaları beraberinde getirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T05:08:47.831Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/12/there-is-only-one-person-who-can-decide-to-end-the-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773292210814ubpij",
+        "title": "BBC Editörü Bowen: Trump'ın İran'da Ayaklanma Çağrısı ve 1991 Irak Deneyimi",
+        "summary": "BBC'nin uluslararası editörü Bowen, ABD Başkanı Trump'ın İran'da bir ayaklanma çağrısı yaptığını belirtmiştir. Bowen, bu çağrının 1991'deki Irak deneyiminden çıkarılması gereken önemli dersleri akıllara getirdiğini ifade etmiştir. Editör, savaşları başlatmanın bitirmekten çok daha kolay olduğunu vurgulayarak, ABD başkanının bu gerçeği öğrenebileceği yorumunda bulunmuştur. Haber, ABD'nin Orta Doğu'daki müdahalelerinin potansiyel sonuçlarına dair bir uyarı niteliğindedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c9d9/live/89059d00-1d7d-11f1-a17e-358a512ba0b9.jpg",
+        "timestamp": "2026-03-12T05:10:10.814Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773292304589h1ba4",
+        "title": "Umman, önemli petrol ihracat terminalinden tüm gemileri tedbir amaçlı tahliye etti",
+        "summary": "Umman makamları, deniz seyrüseferinin ve ülkenin kritik petrol tesislerinin güvenliğini sağlamak amacıyla önleyici tedbirler kapsamında önemli bir petrol ihracat terminalinden tüm gemilerin tahliyesine karar verdi. Bu stratejik adım, potansiyel risklere karşı hazırlıklı olmayı ve enerji altyapısının korunmasını amaçlamaktadır. Yetkililer, tahliye işleminin sorunsuz bir şekilde gerçekleştirildiğini ve gemilerin güvenli bölgelere yönlendirildiğini bildirdi. Bölgedeki denizcilik faaliyetlerinin emniyetini artırmaya yönelik bu önlemle, olası tehditlerin önüne geçilmesi hedefleniyor. Durumun yakından takip edildiği ve gerekli görüldüğü takdirde ek tedbirlerin alınabileceği belirtildi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_fb582d5361846065a4e71dd473966a3e.jpg?v=072653",
+        "timestamp": "2026-03-12T05:11:44.589Z",
+        "location": {
+            "lat": 23.5859,
+            "lng": 58.4059,
+            "name": "Muscat, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oman-evacuates-all-ships-from-key-oil-export-terminal-as-precautionary-measure/3860856",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773273633114aumjj",
         "title": "Irak Sularında İki Petrol Tankerine Saldırı Sonrası Büyük Yangınlar Çıktı",
         "summary": "Irak karasularında, el-Faw limanı yakınlarında iki yabancı tankerde büyük yangınlar çıktığı bildirildi. Görgü tanıkları ve yerel kaynaklar, tankerlerin bir saldırı sonucu alev aldığını belirtti. Olayın, Basra Körfezi'ndeki denizcilik güvenliği ve enerji taşımacılığı açısından endişelere yol açtığı ifade edildi. Yetkililer, yangınlara müdahale edildiğini ve saldırının nedeninin ve sorumlularının belirlenmesi için kapsamlı bir soruşturma başlatıldığını duyurdu. Petrol taşımacılığı için stratejik öneme sahip bu bölgedeki saldırı, uluslararası kamuoyunun dikkatini çekti.",
@@ -731,51 +779,6 @@
             "name": "Manama, Bahreyn"
         },
         "source": "https://www.aljazeera.com/news/2026/3/10/woman-killed-in-bahrain-as-other-gulf-states-intercept-iranian-missiles?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773129365115dgobl",
-        "title": "Afganistan-Sri Lanka Kriket Serisi İran Savaşı Nedeniyle İptal Edildi",
-        "summary": "Afganistan ile Sri Lanka arasında Birleşik Arap Emirlikleri'nde (BAE) oynanması planlanan altı maçlık kriket serisi iptal edildi. İptal gerekçesi olarak, BAE'nin İran'dan gelen saldırılardan etkilenmesi gösterildi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T07:56:05.116Z",
-        "location": {
-            "lat": 25.2,
-            "lng": 55.3,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/10/afghanistan-vs-sri-lanka-cricket-series-called-off-due-to-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773129394947sycdu",
-        "title": "ABD, Türkiye'nin Halkbank'ına Yönelik Kovuşturmayı Sonlandırıyor",
-        "summary": "ABD savcıları, Türkiye'nin Halkbank'ına yönelik İran ile iş yapma iddialarına ilişkin kovuşturmayı sonlandırma kararı aldı. Bu kararda, Türkiye'nin Gazze'de ateşkes müzakerelerine ve esirlerin serbest bırakılmasına yaptığı katkının etkili olduğu belirtildi.",
-        "category": "Diplomatik",
-        "timestamp": "2026-03-10T07:56:34.947Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/10/us-to-end-prosecution-of-turkiyes-halkbank-over-alleged-business-with-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17731294206409qvr9",
-        "title": "Artan Fiyatlar ve Çelişkili Mesajlar: İran Savaşı Trump İçin Siyasi Riskler Taşıyor",
-        "summary": "İran ile olası bir çatışmanın ekonomik maliyetleri ve ABD Başkanı Trump üzerindeki siyasi etkileri henüz tam olarak belirginleşmemiştir. Haberde, bu durumun hem ekonomiye zarar vereceği hem de Trump için önemli siyasi riskler barındırdığı ifade edilmektedir.",
-        "category": "Tümü",
-        "timestamp": "2026-03-10T07:57:00.640Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
