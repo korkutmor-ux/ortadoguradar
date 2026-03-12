@@ -1,5 +1,21 @@
 [
     {
+        "id": "17733159613666l5d5",
+        "title": "Dubai'deki Bir Gökdelene İnsansız Hava Aracı İsabet Etti",
+        "summary": "Birleşik Arap Emirlikleri'nin önemli şehirlerinden Dubai'de bir gökdelenin insansız hava aracı (İHA) tarafından vurulduğu bildirildi. Gece saatlerinde meydana geldiği belirtilen olayda, söz konusu yüksek katlı binada hasar oluştuğu kaydedildi. Olayın ardından çekilen ve sosyal medyada paylaşılan videolarda, binanın dış cephesindeki hasarın boyutları gözler önüne serildi. Yetkililerden henüz resmi bir açıklama gelmezken, olayın nedenleri ve sorumluları hakkında araştırmaların sürdüğü tahmin ediliyor. Bu tür bir saldırının bölgedeki güvenlik endişelerini artırabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T11:46:01.366Z",
+        "location": {
+            "lat": 25.2,
+            "lng": 55.3,
+            "name": "Dubai, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/dubai-high-rise-building-damaged-in-overnight-drone-hit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773310136498h6sfv",
         "title": "Al Jazeera, İngiltere'deki ABD Üssünde Uçaklara Bomba Yüklendiğini Görüntüledi",
         "summary": "Katar merkezli haber kuruluşu Al Jazeera'ya ait bir ekip, Birleşik Krallık'taki bir askeri üste ABD askeri uçaklarına sığınak delici bombaların yüklendiği anları görüntüledi. Görüntülerde, bu özel nitelikli bombaların ABD Hava Kuvvetleri'ne ait nakliye uçaklarına aktarıldığı açıkça görüldü. Bu olay, ABD'nin küresel askeri operasyonları ve potansiyel hedeflerine yönelik hazırlıkları hakkında önemli ipuçları sunuyor. Özellikle Orta Doğu'daki gerilimler ve ABD'nin bölgedeki askeri varlığı göz önüne alındığında, bu tür silahların yüklenmesi bölgedeki güvenlik dinamikleri açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Washington D.C., ABD"
         },
         "source": "https://www.aljazeera.com/news/2026/3/10/democrats-say-white-house-still-giving-no-clarity-on-iran-war-after-eleven-days?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773179963407ixdym",
-        "title": "Pentagon: İran Savaşı'nda Yaklaşık 140 ABD Askeri Yaralandı",
-        "summary": "ABD Savunma Bakanlığı Pentagon'dan yapılan açıklamaya göre, İran ile yaşanan çatışmalarda yaklaşık 140 ABD askeri yaralandı. Bakanlık, yaralı askerlerden sekizinin durumunun kritik olduğunu bildirdi. Bu gelişmeler yaşanırken, Beyaz Saray'ın söz konusu saldırının ilerleyişini olumlu karşıladığı belirtildi. Haber, ABD'nin Orta Doğu'daki askeri varlığı ve İran ile ilişkileri bağlamında bölgedeki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-06T165434Z_736105291_RC2XXJAWYKV2_RTRMADP_3_IRAN-CRISIS-1773174239.jpg?resize=770%2C513&quality=80",
-        "timestamp": "2026-03-10T21:59:23.407Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/10/around-140-us-service-members-wounded-in-iran-war-pentagon-says?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
