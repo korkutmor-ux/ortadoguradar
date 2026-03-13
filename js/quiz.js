@@ -366,3 +366,19 @@ document.addEventListener('click', function(e) {
         }
     }
 });
+
+// Oyundan Çıkıp Menüye Dönme Komutu
+document.addEventListener('click', function(e) {
+    if (e.target.closest('#btnCloseGame')) {
+        const menu = document.getElementById('quizMenu');
+        const game = document.getElementById('actualGuessGame');
+        
+        if (menu && game) {
+            game.classList.add('hidden');    // Oyunu kapat
+            menu.classList.remove('hidden'); // Menüyü aç
+            
+            // Oyunu sıfırla ki bir dahaki girişte yeni karakter gelsin
+            if (typeof startNewGame === "function") startNewGame();
+        }
+    }
+});
