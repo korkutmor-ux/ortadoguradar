@@ -58,10 +58,14 @@ function checkFlagAnswer() {
     const input = document.getElementById('flagInput');
     if(!input) return;
     
-    const userGuess = input.value.trim().toLowerCase();
-    const correctAnswer = currentFlags[currentIndex].name.toLowerCase();
+    // Kullanıcının yazdığını Türkçe karakterlere duyarlı şekilde küçült
+    const userGuess = input.value.trim().toLocaleLowerCase('tr-TR');
+    
+    // Doğru cevabı da Türkçe karakterlere duyarlı şekilde küçült
+    const correctAnswer = currentFlags[currentIndex].name.toLocaleLowerCase('tr-TR');
 
-    // Küçük harf/büyük harf ve boşluk duyarlılığını kaldırdık
+    console.log("Tahmin:", userGuess, "Doğru Cevap:", correctAnswer); // Kontrol için
+
     if (userGuess === correctAnswer) {
         currentIndex++;
         showNextFlag();
