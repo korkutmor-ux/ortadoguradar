@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773435784119u76u9",
+        "title": "İsrail'in Lübnan'daki Askeri Harekatı Yıkıcı Yeni Bir Aşamaya Ulaştı",
+        "summary": "İsrail'in Lübnan'a yönelik askeri harekatının yıkıcı yeni bir aşamaya girdiği bildirildi. İsrail, Lübnan'ın Gazze Şeridi'ndekine benzer bir yıkımla karşı karşıya kalabileceği yönünde sert bir uyarıda bulundu. Bu açıklama, bölgedeki gerilimin tırmandığını ve çatışmanın potansiyel olarak genişleyebileceğini gözler önüne seriyor. Uluslararası toplum, olası bir bölgesel çatışmanın önüne geçmek için gelişmeleri yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T21:03:04.119Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773435819235tfo9f",
+        "title": "Katar İçişleri Bakanı: İran Savaşı Ortamında Güvenlik Durumu 'İstikrarlı'",
+        "summary": "Katar İçişleri Bakanı Şeyh Halife bin Hamad, ülkesinin güvenlik durumunun istikrarlı olduğunu açıkladı. Bakan Halife, ABD-İsrail'in İran'a yönelik savaşının devam ettiği bir dönemde Katar'ın kendi istikrarını sağlamak için \"tereddüt etmeyeceğini\" vurguladı. Bu açıklama, bölgesel gerilimlerin arttığı ve Orta Doğu'daki güvenlik endişelerinin yükseldiği bir zamanda geldi. Katar'ın üst düzey yetkilisi, ülkesinin iç güvenliğini ve bölgesel istikrarı koruma konusundaki kararlılığını bir kez daha dile getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T21:03:39.235Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17734358605848v5z2",
+        "title": "İran'da Rejim Değişikliği Umutları Azalırken Netanyahu Siyasi Sınavla Karşı Karşıya",
+        "summary": "İran'da rejim değişikliği beklentilerinin azalmasıyla birlikte İsrail Başbakanı Binyamin Netanyahu'nun siyasi bir sınavla karşı karşıya olduğu belirtiliyor. İsrailli liderler, devam eden bombalama kampanyasını Orta Doğu'yu kendi lehlerine dönüştüren bir gelişme olarak yorumluyor. Bölgedeki çatışmayı sona erdirme yönündeki uluslararası baskılar artarken, Netanyahu hükümetinin bu süreçteki stratejileri ve bölgesel algıları siyasi geleceğini etkiliyor. Bu durum, İsrail'in hem iç hem de dış politikada önemli kararlar almasını gerektiren kritik bir döneme işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36550610/pexels-photo-36550610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T21:04:20.584Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773429758814lweyz",
         "title": "İsrail'in Lübnan'daki nihai hedefi ne?",
         "summary": "İsrail'in Lübnan'ın güneyinde yeni topraklar ele geçirdiği ve bu bölgeleri elinde tutmaya devam etme niyetinde olduğu bildirildi. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor. İsrail'in bu adımı, Lübnan'daki nihai hedeflerine dair soruları gündeme getiriyor. Uluslararası toplum, durumun yakından takip edildiğini ve taraflara itidal çağrısı yapıldığını bildirdi.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/12/iran-war-what-is-happening-on-day-13-of-us-israel-attacks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1773310254509m3efc",
-        "title": "İsrail: Savaşın Başlangıcından Bu Yana İran Saldırılarında Yaklaşık 2.750 Kişi Yaralandı",
-        "summary": "İsrail, savaşın başlangıcından bu yana İran kaynaklı saldırılarda yaklaşık 2.750 kişinin yaralandığını bildirdi. Sağlık Bakanlığı tarafından yapılan açıklamaya göre, yaralılardan 85'i halen hastanelerde tedavi altında tutuluyor. Hastanede yatan bu kişilerden 11'inin durumunun ciddi olduğu belirtildi. Bu veriler, bölgedeki devam eden çatışmaların insani etkilerini ortaya koymaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_f1c412ad19d65580dcab5a960c9156c2.jpg?v=130559",
-        "timestamp": "2026-03-12T10:10:54.509Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-says-nearly-2-750-people-injured-in-iranian-attacks-since-war-outbreak/3861327",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17733102767737qswl",
-        "title": "Batı Irak'ta Haşdi Şabi Karargahlarına Düzenlenen Saldırılarda En Az 30 Kişi Hayatını Kaybetti",
-        "summary": "Batı Irak'ta Haşdi Şabi (PMF) karargahlarına düzenlenen hava saldırılarında en az 30 kişinin hayatını kaybettiği bildirildi. Yerel medya kaynaklarına göre, saldırılar Akaşat kasabasında Haşdi Şabi'nin 19. Tugayı'na ait üç farklı noktayı hedef aldı. Bu saldırılar, bölgedeki güvenlik durumunu yeniden gündeme getirirken, olayın failleri hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin tırmanabileceği ve yeni çatışmalara yol açabileceği endişesi hakim.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_f8f09fbcc6bc2f8ed6a76c2d78ce638f.jpg?v=122912",
-        "timestamp": "2026-03-12T10:11:16.773Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 39.8,
-            "name": "Akashat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-30-killed-in-strikes-on-pmf-headquarters-in-western-iraq/3861264",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177331030329867b4b",
-        "title": "ABD-İsrail Saldırıları ve İran Misillemelerinin Körfez Güvenliğine Yansımaları",
-        "summary": "ABD ve İsrail'in gerçekleştirdiği saldırılar ile İran'ın misillemelerinin Körfez güvenliği üzerindeki potansiyel etkileri değerlendirilmektedir. Haberde, İran'ın belirsiz siyasi sürecinin bölgedeki dinamikleri şekillendiren önemli bir faktör olduğu belirtiliyor. Ayrıca, Körfez bölgesinin yüksek maliyetli askeri saldırılara maruz kalma riski taşıdığına dikkat çekiliyor. Washington'ın devam eden operasyonlarının da bu süreçte belirleyici olabileceği ifade edilmekte olup, tüm bu unsurların bölgesel gerilimi ve ekonomik riskleri artırabileceği öngörülüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_d2f947bbb932567f092fe395135a7650.jpg?v=120626",
-        "timestamp": "2026-03-12T10:11:43.298Z",
-        "location": {
-            "lat": 26.22,
-            "lng": 50.58,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/opinion-reflections-of-us-israel-attacks-and-iranian-retaliations-on-gulf-security/3861218",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
