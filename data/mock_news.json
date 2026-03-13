@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773421596778byq0p",
+        "title": "Küresel Enerji Krizinde Kimler Kazanıyor, Kimler Kaybediyor?",
+        "summary": "Küresel enerji piyasalarında yaşanan kriz ve petrol fiyatlarındaki yükseliş, dünya ekonomilerini farklı şekillerde etkilemektedir. Bu durum, bazı ülkelerin ekonomik olarak güçlenmesine yol açarken, enerji ithalatçısı konumundaki diğer ülkeler için maliyetleri artırmaktadır. Özellikle Orta Doğu coğrafyasındaki petrol üreticisi ülkeler, artan fiyatlardan önemli ölçüde gelir elde ederek ekonomik avantaj sağlamaktadır. Ancak bölgedeki enerji tüketicisi ve ithalatçısı ülkeler ise yükselen enerji maliyetleriyle mücadele etmek zorunda kalmaktadır. Bu küresel dinamikler, Orta Doğu'nun jeopolitik ve ekonomik dengelerini doğrudan etkilemektedir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/18948352/pexels-photo-18948352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T17:06:36.778Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17734216197550rbze",
+        "title": "Kudüs Günü'nde Filistin ve İran'a Destek Yürüyüşleri Düzenlendi",
+        "summary": "Her yıl düzenlenen Kudüs Günü etkinlikleri kapsamında dünya genelinde ve İran'da Filistin ile dayanışma yürüyüşleri gerçekleştirildi. İran'ın başkenti Tahran'da binlerce kişi, devam eden çatışmalara rağmen sokaklara çıkarak İsrail ve ABD karşıtı sloganlar attı. Göstericiler, Filistin davasına desteklerini dile getirirken, bölgedeki gerilime dikkat çekti. Bu yürüyüşler, özellikle Orta Doğu'daki siyasi ve sosyal dinamiklerin bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2990604/pexels-photo-2990604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T17:06:59.755Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773412421606897u0",
         "title": "İran'daki Petrol Yangını Bölgesel Hava Kalitesini Tehdit Ediyor",
         "summary": "İran'da meydana gelen büyük bir petrol yangını, bölge genelinde hava kalitesi üzerinde ciddi endişelere yol açmıştır. Çevre uzmanları, yangından kaynaklanan kirletici bulutların potansiyel asit yağmurları taşıma riskiyle Türkmenistan ve Pakistan yönüne doğru sürüklendiği konusunda uyarıda bulundu. Bu durum, komşu ülkeler için çevresel ve sağlık açısından potansiyel riskler barındırmaktadır. Yetkililer, bölgesel hava kalitesinin izlenmesi ve olası etkilerin değerlendirilmesi gerektiğini belirtmektedir.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/3/12/trump-admin-estimates-us-war-on-iran-cost-11-3bn-in-first-6-days-report?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302131156wai8z",
-        "title": "İsrail'in Beyrut Sahilindeki Saldırısında Sekiz Kişi Hayatını Kaybetti",
-        "summary": "Lübnan'ın başkenti Beyrut'un sahil şeridinde yerinden edilmiş kişileri hedef alan bir saldırı meydana geldi. İsrail tarafından gerçekleştirildiği belirtilen 'çifte vuruş' olarak tanımlanan bu saldırıda sekiz kişi yaşamını yitirdi. Olayın, İsrail'in geleneksel olarak hedef aldığı bölgelerin dışında gerçekleştirilen bir suikast girişimi olduğu değerlendiriliyor. Bu durum, bölgedeki çatışmanın coğrafi kapsamının genişlediğine dair endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T07:55:31.156Z",
-        "location": {
-            "lat": 33.8,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/israeli-double-tap-strike-hits-displaced-on-beirut-seafront-kills-eight?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302153060mb201",
-        "title": "İran'ın Körfez Ülkelerini Füze ve İHA'larla Hedef Aldığı İddia Edildi, Petrol Fiyatları Yükselişte",
-        "summary": "İran'ın Körfez ülkelerini füze ve insansız hava araçlarıyla hedef aldığına dair haberler gündeme geldi. Bahreyn, ülkedeki yakıt tanklarına yönelik bir saldırı yaşandığını bildirirken, Suudi Arabistan ise bir petrol sahasına doğru ilerleyen insansız hava araçlarını başarıyla etkisiz hale getirdiğini duyurdu. Bu olaylar, küresel petrol fiyatlarında yaşanan artışla eş zamanlı olarak gerçekleşti. Bölgedeki gerilimin tırmandığına işaret eden bu gelişmeler, enerji güvenliği ve bölgesel istikrar açısından endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T07:55:53.060Z",
-        "location": {
-            "lat": 26.23,
-            "lng": 50.59,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
