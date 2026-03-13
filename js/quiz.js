@@ -386,28 +386,28 @@ document.addEventListener('click', function(e) {
         }
     }
 });
-// SİTE LOGOSUNA TIKLANDIĞINDA HER ŞEYİ SIFIRLA
+// SİTE LOGOSUNA TIKLANDIĞINDA HER ŞEYİ SIFIRLA VE ANA SAYFAYA DÖN
 document.getElementById('siteLogo')?.addEventListener('click', function(e) {
-    // Sayfanın tamamen yenilenmesini istemiyorsan e.preventDefault(); ekleyebilirsin 
-    // Ama yenilenmesi daha garantidir.
+    // Sayfa yenilenmeden anlık geçiş yapmak için:
+    e.preventDefault(); 
     
-    // Tüm oyun kutularını bul ve gizle
-    const containers = [
-        'quizContainer', 
-        'actualGuessGame', 
-        'actualFlagGame', 
-        'quizMenu'
-    ];
-    
-    containers.forEach(id => {
-        const el = document.getElementById(id);
-        if (el) el.classList.add('hidden');
-    });
+    // Tüm ana bölümleri değişkenlere alalım
+    const feed = document.getElementById('feedContainer');
+    const map = document.getElementById('mapContainer');
+    const quiz = document.getElementById('quizContainer');
+    const arsenal = document.getElementById('arsenalContainer');
 
-    // Ana haritayı veya haber akışını gösteren kutuların ID'sini buraya ekle
-    // Örneğin harita kutun:
-    const mapBox = document.getElementById('leafletMap');
-    if (mapBox) mapBox.classList.remove('hidden');
-    
-    console.log("Sistem sıfırlandı, ana sayfaya dönüldü.");
+    // 1. Tüm "diğer" bölümleri gizle
+    if (quiz) quiz.classList.add('hidden');
+    if (arsenal) arsenal.classList.add('hidden');
+    if (map) map.classList.add('hidden');
+
+    // 2. Ana Haber Akışını göster
+    if (feed) feed.classList.remove('hidden');
+
+    // 3. Menüdeki butonların "mavi/aktif" yanma durumunu Akış'a çek
+    document.querySelectorAll('.toggle-btn').forEach(btn => btn.classList.remove('active'));
+    document.getElementById('btn-feed')?.classList.add('active');
+
+    console.log("Sistem sıfırlandı, Akış ekranına dönüldü.");
 });
