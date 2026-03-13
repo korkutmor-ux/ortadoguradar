@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773429758814lweyz",
+        "title": "İsrail'in Lübnan'daki nihai hedefi ne?",
+        "summary": "İsrail'in Lübnan'ın güneyinde yeni topraklar ele geçirdiği ve bu bölgeleri elinde tutmaya devam etme niyetinde olduğu bildirildi. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor. İsrail'in bu adımı, Lübnan'daki nihai hedeflerine dair soruları gündeme getiriyor. Uluslararası toplum, durumun yakından takip edildiğini ve taraflara itidal çağrısı yapıldığını bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7395450/pexels-photo-7395450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T19:22:38.814Z",
+        "location": {
+            "lat": 33.07,
+            "lng": 35.45,
+            "name": "Bint Jbeil, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/13/what-is-israels-endgame-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773429875499fduc9",
+        "title": "Türk Dışişleri Bakanı Fidan, İspanyol ve Singapurlu Mevkidaşlarıyla Orta Doğu'daki Savaşı Görüştü",
+        "summary": "Türk Dışişleri Bakanı Hakan Fidan, İspanya Dışişleri Bakanı Jose Manuel Albares ve Singapur Dışişleri Bakanı Vivian Balakrishnan ile telefon görüşmeleri gerçekleştirdi. Görüşmelerde Orta Doğu'daki savaş durumu ve bölgedeki son gelişmeler ele alındı. Bakan Fidan, mevkidaşlarıyla bölgesel istikrarın sağlanması ve gerilimin azaltılması yönündeki çabaları değerlendirdi. Diplomatik kaynaklar, bu görüşmelerin uluslararası toplumun Orta Doğu'daki barış arayışlarının bir parçası olduğunu belirtti. Görüşmelerin, bölgedeki insani durum ve çözüm yolları üzerine odaklandığı aktarıldı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30067321/pexels-photo-30067321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T19:24:35.499Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/turkish-foreign-minister-discusses-war-in-middle-east-with-spanish-singaporean-counterparts/3863881",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773421596778byq0p",
         "title": "Küresel Enerji Krizinde Kimler Kazanıyor, Kimler Kaybediyor?",
         "summary": "Küresel enerji piyasalarında yaşanan kriz ve petrol fiyatlarındaki yükseliş, dünya ekonomilerini farklı şekillerde etkilemektedir. Bu durum, bazı ülkelerin ekonomik olarak güçlenmesine yol açarken, enerji ithalatçısı konumundaki diğer ülkeler için maliyetleri artırmaktadır. Özellikle Orta Doğu coğrafyasındaki petrol üreticisi ülkeler, artan fiyatlardan önemli ölçüde gelir elde ederek ekonomik avantaj sağlamaktadır. Ancak bölgedeki enerji tüketicisi ve ithalatçısı ülkeler ise yükselen enerji maliyetleriyle mücadele etmek zorunda kalmaktadır. Bu küresel dinamikler, Orta Doğu'nun jeopolitik ve ekonomik dengelerini doğrudan etkilemektedir.",
@@ -764,38 +796,6 @@
             "name": "Manama, Bahreyn"
         },
         "source": "https://www.aa.com.tr/en/middle-east/opinion-reflections-of-us-israel-attacks-and-iranian-retaliations-on-gulf-security/3861218",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773310342458eru43",
-        "title": "İran Cumhurbaşkanı, ABD'nin Komşu Ülkelerdeki Üslerinden Gelecek Saldırıları Kabul Edilemez Bulduğunu Açıkladı",
-        "summary": "İran Cumhurbaşkanı Pezeşkian, Umman Sultanı ile gerçekleştirdiği telefon görüşmesinde, ABD'nin İran'a komşu ülkelerdeki askeri üslerinden gelebilecek olası saldırıların kabul edilemez olduğunu açıkça ifade etti. Bölgedeki gerilimin tırmandığı bir dönemde yapılan bu açıklama, Tahran'ın bölgesel güvenlik endişelerini ve dış askeri müdahalelere karşı sert duruşunu bir kez daha ortaya koydu. Pezeşkian, bu tür eylemlerin bölgenin istikrarını daha da bozacağını ve mevcut gerilimi tehlikeli boyutlara taşıyacağını vurguladı. İran lideri, bölge ülkelerinin işbirliğiyle sorunların çözülmesi gerektiğini belirtirken, dış güçlerin askeri varlığının ve potansiyel saldırılarının bölge barışı için tehdit oluşturduğunu dile getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_dc2b334e55d23cd7c9413c255d2fd9de.jpg?v=113504",
-        "timestamp": "2026-03-12T10:12:22.458Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-strikes-from-us-bases-in-neighboring-countries-unacceptable-president-says/3861157",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302109588k4twp",
-        "title": "Trump Yönetimi, ABD'nin İran Savaşı'nın İlk 6 Günlük Maliyetini 11.3 Milyar Dolar Olarak Tahmin Ediyor",
-        "summary": "Bir rapora göre, Trump yönetimi tarafından yapılan tahminler, Amerika Birleşik Devletleri'nin İran'a karşı olası bir savaşının ilk altı gününde 11.3 milyar dolarlık bir maliyete ulaşabileceğini gösteriyor. Yetkililer, savaşın devamı için ek olarak 50 milyar dolara daha ihtiyaç duyulabileceğini öngörüyor. Bu maliyet tahminleri, ABD'li yasa koyucular arasında ciddi endişelere yol açtı. Kongre üyeleri, potansiyel bir çatışmanın hem finansal yükü hem de bölgesel sonuçları hakkında kaygılarını dile getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T07:55:09.588Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/trump-admin-estimates-us-war-on-iran-cost-11-3bn-in-first-6-days-report?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
