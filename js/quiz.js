@@ -346,39 +346,27 @@ function endGame(isWin) {
 
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initQuiz);
-// Operasyon Merkezi Seçim Mantığı
-document.addEventListener('click', function(e) {
-    // "Gizli Figür" kartına tıklandı mı kontrol et
-    const card = e.target.closest('#startGuessGame');
-    
-    if (card) {
-        const menu = document.getElementById('quizMenu');
-        const game = document.getElementById('actualGuessGame');
-        
-        if (menu && game) {
-            menu.classList.add('hidden');    // Menüyü sakla
-            game.classList.remove('hidden'); // Oyunu göster
-            
-            // Eğer oyun başlatma fonksiyonu varsa çalıştır
-            if (typeof startNewGame === "function") {
-                startNewGame();
-            }
-        }
-    }
-});
 
-// Oyundan Çıkıp Menüye Dönme Komutu
 document.addEventListener('click', function(e) {
-    if (e.target.closest('#btnCloseGame')) {
-        const menu = document.getElementById('quizMenu');
-        const game = document.getElementById('actualGuessGame');
-        
-        if (menu && game) {
-            game.classList.add('hidden');    // Oyunu kapat
-            menu.classList.remove('hidden'); // Menüyü aç
-            
-            // Oyunu sıfırla ki bir dahaki girişte yeni karakter gelsin
-            if (typeof startNewGame === "function") startNewGame();
-        }
+    const startBtn = e.target.closest('#startGuessGame'); // Giriş butonu
+    const closeBtn = e.target.closest('#btnCloseGame');   // X (Çıkış) butonu
+    const menu = document.getElementById('quizMenu');
+    const game = document.getElementById('actualGuessGame');
+
+    if (!menu || !game) return;
+
+    // Oyuna Giriş Yapma
+    if (startBtn) {
+        menu.classList.add('hidden');
+        game.classList.remove('hidden');
+        if (typeof startNewGame === 'function') startNewGame();
+    }
+
+    // Oyundan Çıkış Yapma (X Butonuna Basıldığında)
+    if (closeBtn) {
+        game.classList.add('hidden');
+        menu.classList.remove('hidden');
+        // Menüye dönünce oyunu sıfırla ki tertemiz kalsın
+        if (typeof startNewGame === 'function') startNewGame();
     }
 });
