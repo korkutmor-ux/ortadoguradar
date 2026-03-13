@@ -1,11 +1,23 @@
+// 1. Veri Yapısını Genişletiyoruz (Alternatif İsimler Eklendi)
 const flagData = [
-    { name: "Türkiye", code: "tr" }, { name: "İran", code: "ir" }, { name: "Irak", code: "iq" },
-    { name: "Suriye", code: "sy" }, { name: "Lübnan", code: "lb" }, { name: "İsrail", code: "il" },
-    { name: "Filistin", code: "ps" }, { name: "Ürdün", code: "jo" }, { name: "Mısır", code: "eg" },
-    { name: "Suudi Arabistan", code: "sa" }, { name: "Birleşik Arap Emirlikleri", code: "ae" },
-    { name: "Katar", code: "qa" }, { name: "Kuveyt", code: "kw" }, { name: "Umman", code: "om" },
-    { name: "Bahreyn", code: "bh" }, { name: "Yemen", code: "ye" }, { name: "Amerika", code: "us" },
-    { name: "Rusya", code: "ru" }
+    { name: "Türkiye", code: "tr", accept: ["Türkiye", "Turkey"] },
+    { name: "İran", code: "ir", accept: ["İran", "Iran"] },
+    { name: "Irak", code: "iq", accept: ["Irak", "Iraq"] },
+    { name: "Suriye", code: "sy", accept: ["Suriye", "Syria"] },
+    { name: "Lübnan", code: "lb", accept: ["Lübnan", "Lebanon"] },
+    { name: "İsrail", code: "il", accept: ["İsrail", "Israel"] },
+    { name: "Filistin", code: "ps", accept: ["Filistin", "Palestine"] },
+    { name: "Ürdün", code: "jo", accept: ["Ürdün", "Jordan"] },
+    { name: "Mısır", code: "eg", accept: ["Mısır", "Egypt"] },
+    { name: "Suudi Arabistan", code: "sa", accept: ["Suudi Arabistan", "Arabistan", "Saudi Arabia", "Saudi"] },
+    { name: "Birleşik Arap Emirlikleri", code: "ae", accept: ["Birleşik Arap Emirlikleri", "BAE", "UAE", "United Arab Emirates"] },
+    { name: "Katar", code: "qa", accept: ["Katar", "Qatar"] },
+    { name: "Kuveyt", code: "kw", accept: ["Kuveyt", "Kuwait"] },
+    { name: "Umman", code: "om", accept: ["Umman", "Oman"] },
+    { name: "Bahreyn", code: "bh", accept: ["Bahreyn", "Bahrain"] },
+    { name: "Yemen", code: "ye", accept: ["Yemen"] },
+    { name: "Amerika", code: "us", accept: ["Amerika", "ABD", "USA", "United States", "America"] },
+    { name: "Rusya", code: "ru", accept: ["Rusya", "Russia"] }
 ];
 
 let currentFlags = [];
@@ -54,6 +66,7 @@ function showNextFlag() {
     if(progressElem) progressElem.innerText = `KALAN ÜLKE: ${currentFlags.length - currentIndex}/${currentFlags.length}`;
 }
 
+// 2. Kontrol Mekanizmasını Güncelliyoruz
 function checkFlagAnswer() {
     const input = document.getElementById('flagInput');
     if(!input) return;
@@ -61,12 +74,11 @@ function checkFlagAnswer() {
     // Kullanıcının yazdığını Türkçe karakterlere duyarlı şekilde küçült
     const userGuess = input.value.trim().toLocaleLowerCase('tr-TR');
     
-    // Doğru cevabı da Türkçe karakterlere duyarlı şekilde küçült
-    const correctAnswer = currentFlags[currentIndex].name.toLocaleLowerCase('tr-TR');
+    // Geçerli kabul edilen tüm isimleri küçük harfe çevirip kontrol et
+    const acceptedAnswers = currentFlags[currentIndex].accept.map(ans => ans.toLocaleLowerCase('tr-TR'));
 
-    console.log("Tahmin:", userGuess, "Doğru Cevap:", correctAnswer); // Kontrol için
-
-    if (userGuess === correctAnswer) {
+    // Eğer kullanıcının yazdığı, kabul edilen listesinde varsa
+    if (acceptedAnswers.includes(userGuess)) {
         currentIndex++;
         showNextFlag();
     } else {
