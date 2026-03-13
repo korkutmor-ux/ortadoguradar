@@ -172,6 +172,28 @@
                 </div>
             </div>
 </div>
+            <div id="actualFlagGame" class="hidden" style="padding: 20px; text-align: center;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <h2 style="color: var(--text-primary); margin: 0; font-size: 1.5rem;"><i class="fa-solid fa-flag"></i> Bayrak Tahmini</h2>
+        <div id="flagTimer" style="background: #e74c3c; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold; font-family: monospace; font-size: 1.2rem; min-width: 80px;">00:00</div>
+        <button id="btnCloseFlagGame" style="background: none; border: none; color: #666; cursor: pointer; font-size: 1.8rem; line-height: 1;"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+
+    <div id="flagDisplay" style="margin: 20px auto; max-width: 350px; height: 220px; background: #1a1a1a; border-radius: 12px; display: flex; align-items: center; justify-content: center; border: 2px solid #333; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+        <img id="currentFlagImg" src="" style="max-width: 90%; max-height: 90%; object-fit: contain; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.3));">
+    </div>
+
+    <div style="max-width: 400px; margin: 0 auto;">
+        <input type="text" id="flagInput" placeholder="Ülke adını yazın..." autocomplete="off" style="width: 100%; padding: 15px; border-radius: 12px; border: 2px solid #333; background: #111; color: white; text-align: center; font-size: 1.1rem; outline: none; transition: 0.3s; margin-bottom: 15px;">
+        
+        <div style="display: flex; gap: 10px;">
+            <button id="btnSkipFlag" style="flex: 1; padding: 12px; border-radius: 10px; background: #333; color: white; border: none; cursor: pointer; font-weight: bold; transition: 0.3s;">Geç</button>
+            <button id="btnSubmitFlag" style="flex: 2; padding: 12px; border-radius: 10px; background: var(--accent-blue); color: white; border: none; cursor: pointer; font-weight: bold; transition: 0.3s;">Tahmin Et</button>
+        </div>
+        
+        <p id="flagProgress" style="margin-top: 25px; color: #666; font-size: 0.9rem; letter-spacing: 1px;">KALAN ÜLKE: 18/18</p>
+    </div>
+</div>
         </section>
        <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto; padding-bottom: 40px;">
             <div class="arsenal-header" style="text-align: center; margin-bottom: 30px;">
