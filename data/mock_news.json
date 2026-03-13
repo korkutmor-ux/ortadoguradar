@@ -1,5 +1,165 @@
 [
     {
+        "id": "1773395981723ky5kb",
+        "title": "Umman'da Drone Saldırısında İki Kişi Hayatını Kaybetti, Suudi Arabistan'a da Saldırılar Düzenlendi",
+        "summary": "Umman'ın Sohar vilayetinde düzenlenen drone saldırılarında iki yabancı uyruklu kişi hayatını kaybetti, çok sayıda kişi de yaralandı. Devlet haber ajansı tarafından bildirilen bilgilere göre, saldırılar Sohar bölgesini hedef aldı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Aynı zamanda, Suudi Arabistan'a yönelik de birden fazla drone saldırısı gerçekleştirildiği belirtildi. Saldırıların sorumluluğunu henüz üstlenen olmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2152/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T09:59:41.723Z",
+        "location": {
+            "lat": 24.3,
+            "lng": 56.7,
+            "name": "Sohar, Umman"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/13/two-killed-in-oman-by-drones-several-also-fired-at-saudi-arabia?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773396003851hym32",
+        "title": "ABD'li Milletvekilleri Hind Rajab İçin Adalet Yasası Teklifini Sundu",
+        "summary": "ABD Kongresi'nde bir grup milletvekili, Gazze'de İsrail saldırıları sırasında hayatını kaybeden altı yaşındaki Filistinli kız çocuğu Hind Rajab'ın anısına 'Hind Rajab İçin Adalet Yasası' başlıklı bir yasa tasarısı sundu. Tasarı, Rajab'ın ölümüyle ilgili bağımsız bir soruşturma yapılmasını talep ediyor ve olayda sorumluluğu olanların hesap vermesini amaçlıyor. Bu yasa teklifi, İsrail'in Gazze'deki askeri operasyonları sırasında sivillerin korunması ve uluslararası hukukun ihlalleri iddiaları konusunda ABD'nin tutumunu sorgulayan tartışmaları yeniden alevlendirdi. Teklif, özellikle çocukların çatışma bölgelerindeki güvenliğine dikkat çekerek, bölgedeki insan hakları ihlallerine yönelik uluslararası baskıyı artırmayı hedefliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13748655/pexels-photo-13748655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:00:03.851Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/us-lawmakers-introduce-justice-for-hind-rajab-act-2?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1773396025892uft7r",
+        "title": "Irak'ın kuzeyinde Fransız askerine yönelik saldırı: Bir ölü, çok sayıda yaralı",
+        "summary": "Irak'ın kuzeyinde bulunan ortak bir Fransız-Kürt askeri üssüne insansız hava aracıyla saldırı düzenlendi. Gerçekleşen saldırıda bir Fransız askeri hayatını kaybederken, çok sayıda asker de yaralandı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, Irak'taki uluslararası askeri varlığın güvenliği konusundaki endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8139067/pexels-photo-8139067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:00:25.892Z",
+        "location": {
+            "lat": 36.5,
+            "lng": 44,
+            "name": "Kuzey Irak, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/french-soldier-killed-and-others-wounded-in-attack-in-iraq?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773396047667sczzn",
+        "title": "İsrail, Beyrut'a Saldırılar Düzenledi, Güneyde Can Kayıpları Yaşandı",
+        "summary": "İsrail'in Lübnan'a yönelik saldırıları devam ediyor. Son olarak, İsrail'in 'hedefli suikast' girişimiyle Beyrut'taki bazı bölgelere saldırı düzenlediği bildirildi. Bu saldırıların, mevcut çatışmada ve 2024 savaşında daha önce hedef alınmayan Beyrut bölgelerini vurduğu belirtildi. Ayrıca, ülkenin güneyinde düzenlenen saldırılarda çok sayıda kişinin hayatını kaybettiği aktarıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8386357/pexels-photo-8386357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:00:47.667Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17733960679210j89y",
+        "title": "ABD Yakıt İkmal Uçağı Irak'ta Düştü: Dört Ölü",
+        "summary": "ABD Merkez Komutanlığı (CENTCOM), Irak'ın batısında bir yakıt ikmal uçağının düştüğünü ve olayda dört kişinin hayatını kaybettiğini doğruladı. Komutanlık, kazanın ardından kurtarma çalışmalarının devam ettiğini bildirdi. Olayın nedeni hakkında henüz detaylı bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32265086/pexels-photo-32265086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:01:07.921Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Irak"
+        },
+        "source": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773396092702gzwda",
+        "title": "İran Yakınlarında Mahsur Kalan Denizcilerin Zorlu Koşulları",
+        "summary": "İran yakınlarında ve Basra Körfezi'nde gemilerde mahsur kalan denizcilerin içinde bulunduğu zorlu koşullar dikkat çekiyor. Bölgedeki artan askeri hareketlilik, drone'lar, seyir füzeleri ve savaş uçaklarının bu denizciler için sıradan bir görüntü haline gelmesine neden oldu. Gemilerde saklanacak bir yerlerinin olmaması, denizcilerin yaşadığı tehlikeyi ve çaresizliği daha da belirginleştiriyor. Bu durum, Orta Doğu'daki gerilimin sivil denizcilik ve insan yaşamı üzerindeki doğrudan etkilerini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7994998/pexels-photo-7994998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:01:32.702Z",
+        "location": {
+            "lat": 27.5,
+            "lng": 52,
+            "name": "Basra Körfezi, İran yakınları"
+        },
+        "source": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773396113996th08k",
+        "title": "BBC, İsrail'in Güney Lübnan Saldırılarını Acil Durum Ekipleriyle Takip Etti",
+        "summary": "BBC, İsrail ile Hizbullah arasındaki çatışmaların tırmanmaya devam ettiği bir dönemde güney Lübnan'daki Nabatiye şehrini ziyaret etti. Haber ajansı, İsrail'in bölgeye düzenlediği bombardımanın hızı ve ölçeğine yerinde tanıklık etti. Acil durum ekipleriyle geçirilen gün, sahadaki durumun ciddiyetini ve bölgedeki gerilimin artışını gözler önüne serdi. Bu ziyaret, İsrail'in Lübnan'a yönelik askeri operasyonlarının yoğunluğunu ve bölgedeki insani durumu yansıttı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:01:53.996Z",
+        "location": {
+            "lat": 33.6,
+            "lng": 35.5,
+            "name": "Nabatiye, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1773396136971r5xey",
+        "title": "2003'teki 'Görev Tamamlandı' İddiası Günümüz İran Çatışmasını Nasıl Etkiliyor?",
+        "summary": "2003 yılında Irak Savaşı'nın büyük muharebe operasyonlarının sona erdiğini ilan eden 'Görev Tamamlandı' pankartı, günümüzdeki İran ile ilgili çatışma ve gerilimlerle karşılaştırılıyor. Haberde, geçmişteki bu iddia ile mevcut durum arasında belirgin yankılar bulunsa da, iki dönem arasında derin farklılıkların da olduğu vurgulanıyor. Bu analiz, Orta Doğu'daki askeri müdahalelerin uzun vadeli sonuçlarını ve bölgesel dinamiklerin karmaşıklığını ele alıyor. Makale, geçmişteki hatalardan ders çıkarılması veya benzer senaryoların tekrarlanması riskini değerlendirerek, bölgedeki mevcut gerilimlerin tarihsel bağlamını inceliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:02:16.971Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773396164041cv6q8",
+        "title": "ABD Demokratları, 6 yaşındaki Gazalı Hind Rajab'ın ölümüyle ilgili film Oscar gündemindeyken 'Hind Rajab için Adalet Yasası'nı destekliyor",
+        "summary": "Amerika Birleşik Devletleri'nde Demokrat Parti üyeleri, 6 yaşındaki Gazalı Hind Rajab'ın ölümüyle ilgili bir filmin Oscar gündemine gelmesiyle birlikte 'Hind Rajab için Adalet Yasası'nı destekliyor. Bu yasa tasarısı, ABD Dışişleri ve Savunma Bakanlıklarını, İsrail'in Hind Rajab ve beş aile üyesini öldürmesi olayına ilişkin rapor sunmaya zorlayacak. Ayrıca, olayda herhangi bir ABD katılımının olup olmadığının da araştırılması hedefleniyor. Tasarı, Gazze'deki sivil ölümler ve uluslararası sorumluluk konularını ABD gündemine taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13748651/pexels-photo-13748651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:02:44.041Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-democrats-push-justice-for-hind-rajab-act-amid-oscar-buzz-for-film-about-death-of-6-year-old-gazan/3863021",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773396184786xtrcw",
+        "title": "Batı Şeria'da Gerilim: İsrail Güçleri Filistinlileri Darp Etti, Yerleşimciler Köy Meclisi Binasını Yaktı",
+        "summary": "Batı Şeria'da yaşanan olaylarda, İsrail güçlerinin dört Filistinliyi darp ettiği bildirildi. Aynı zamanda, yasa dışı yerleşimciler Nablus yakınlarındaki bir köy meclisi binasına ait depoyu ateşe verdi. Bu saldırı, bölgedeki güvenlik durumunun kırılganlığını ve yerleşimciler ile Filistinliler arasındaki gerilimi bir kez daha gözler önüne serdi. Olaylar, bölgedeki tansiyonun yükseldiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13742845/pexels-photo-13742845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T10:03:04.786Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-beat-4-palestinians-in-west-bank-settlers-torch-part-of-village-council-building/3863000",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
         "id": "17733885341485uhr9",
         "title": "Körfez Ülkeleri Petrol ve Gaz Sevkiyatında Mücbir Sebep İlan Etti",
         "summary": "ABD ve İsrail'in İran'a karşı başlattığı savaşın ardından, birçok Körfez ülkesi petrol ve gaz sevkiyatlarında mücbir sebep ilan etti. Bu durum, söz konusu ülkelerin kontrol dışı gelişen olaylar nedeniyle sözleşmeden doğan yükümlülüklerini yerine getiremeyeceklerini belirtmeleri anlamına geliyor. Bölgedeki gerilimin tırmanmasıyla ilişkilendirilen bu karar, küresel enerji piyasalarında potansiyel aksaklıklara işaret ediyor. Mücbir sebep ilanı, Orta Doğu'dan gelen enerji arzını etkileyen jeopolitik riskleri bir kez daha gözler önüne seriyor.",
@@ -638,165 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773302246034ce0h2",
-        "title": "ABD'den İran'daki Mayın Döşeme Gemilerine Saldırı: Hürmüz Boğazı'nda Gerilim Tırmanıyor",
-        "summary": "ABD istihbarat birimleri, İran'ın dünyanın en işlek petrol nakliye kanalı olan Hürmüz Boğazı'nda deniz mayınları yerleştirmeye hazırlandığına inanıyor. Daha önce \"yoğun bir bombalama günü\" uyarısı yapan ABD, bu gelişme üzerine İran'daki mayın döşeme gemilerini hedef aldı. Bu saldırı, bölgedeki askeri gerilimi tırmandırırken, küresel enerji piyasaları ve denizcilik güvenliği açısından önemli endişelere yol açıyor. Hürmüz Boğazı'nın stratejik önemi göz önüne alındığında, bu tür eylemler uluslararası toplumda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6905/live/3f130600-1cac-11f1-801d-ed3cff6bf876.jpg",
-        "timestamp": "2026-03-12T07:57:26.034Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177330226870520vcw",
-        "title": "Suudi Arabistan Savunma Bakanlığı: Şeybe Petrol Sahasını Hedef Alan İnsansız Hava Aracı Engellendi",
-        "summary": "Suudi Arabistan Savunma Bakanlığı, ülkenin doğusundaki Şeybe petrol sahasını hedef alan bir insansız hava aracının (İHA) başarıyla engellendiğini bildirdi. Bakanlık tarafından yapılan açıklamada, askeri güçlerin İHA'yı büyük bir enerji tesisine ulaşmadan önce Rub' al Khali Çölü üzerinde imha ettiği belirtildi. Bu olay, Suudi Arabistan'ın kritik enerji altyapısına yönelik güvenlik tehditlerinin devam ettiğini gösterirken, bölgedeki gerilimi bir kez daha gündeme getirdi. Suudi Arabistan, daha önce de benzer saldırı girişimleriyle karşı karşıya kalmıştı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_9b014bb96c47b9586db0b563ce6db377.jpg?v=104224",
-        "timestamp": "2026-03-12T07:57:48.705Z",
-        "location": {
-            "lat": 22.48,
-            "lng": 53.78,
-            "name": "Şeybe Petrol Sahası, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-drone-targeting-shaybah-oilfield-defense-ministry/3860996",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17733022930085swau",
-        "title": "DSÖ, Orta Doğu'daki Sağlık Sistemlerinin Çatışma Tırmanışı Sonrası Ağır Baskı Altında Olduğunu Uyardı",
-        "summary": "Dünya Sağlık Örgütü (DSÖ), Orta Doğu'daki sağlık sistemlerinin bölgedeki çatışmaların tırmanması sonucunda ciddi bir baskı altında olduğunu açıkladı. Birleşmiş Milletler'e bağlı ajans, hastanelere yönelik saldırıların giderek arttığını ve bu durumun sağlık hizmetlerinin sunumunu olumsuz etkilediğini belirtti. Ayrıca, bölgedeki yerinden edilmelerin hızla yükselmesiyle birlikte, sağlık altyapısının üzerindeki yükün daha da arttığı ve insani yardım ihtiyacının büyüdüğü ifade edildi. DSÖ, bu durumun bölgedeki milyonlarca insanın temel sağlık hizmetlerine erişimini tehdit ettiğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_698fca9af925f962abdd179d85583902.jpg?v=103700",
-        "timestamp": "2026-03-12T07:58:13.008Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/who-warns-middle-east-health-systems-under-severe-strain-after-conflict-escalation/3860980",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302317975nb3kf",
-        "title": "İran, Hürmüz Boğazı Üzerindeki Kontrolünü Yineledi, ABD ve Ortaklarını Uyardı",
-        "summary": "İran, ABD ve ülkesine yönelik son saldırılarla bağlantılı ülkelerin gemilerinin Hürmüz Boğazı'ndan geçiş hakkı olmadığını belirtti. Tahran yönetimi, Basra Körfezi ile Umman Denizi'ni birbirine bağlayan bu stratejik deniz koridoru üzerindeki kontrolünü yeniden vurguladı. Yapılan açıklamada, ABD ve müttefiklerine yönelik açık bir uyarıda bulunularak, bu gemilerin bölgeden geçişine izin verilmeyeceği ifade edildi. Bu durum, bölgedeki deniz güvenliği ve uluslararası seyrüsefer hakları konusunda gerilimi artırabilecek nitelikte olup, İran'ın bölgedeki askeri duruşunu yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_bc04581cc175baacbc4045dd8acfa780.jpg?v=103141",
-        "timestamp": "2026-03-12T07:58:37.975Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-no-right-to-pass-iran-reiterates-control-of-strait-of-hormuz-warns-us-and-its-partners/3860960",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302342849430it",
-        "title": "Orta Doğu Gerilimleri Ortasında NATO'nun Türkiye'ye Desteği İttifak Hazırlığını Sınayabilir",
-        "summary": "Bir uzmana göre, NATO'nun Türkiye'ye sağlayacağı destek, Orta Doğu'daki mevcut gerilimler ışığında ittifakın hazırlığını test edebilir. Paris'te düzenlenen bir yuvarlak masa toplantısında konuşmacılar, bölgedeki herhangi bir tırmanışın küresel güvenlik ve ekonomiyi etkileyebileceği konusunda uyarılarda bulundu. Bu durum, Orta Doğu'daki istikrarın uluslararası ilişkilerle olan derin bağlantısını gözler önüne sermektedir. Toplantıda, Türkiye'nin NATO içindeki stratejik önemi ve bölgesel çatışmaların geniş çaplı sonuçları vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_1e41969641528832bfe902404523a743.jpg?v=102030",
-        "timestamp": "2026-03-12T07:59:02.849Z",
-        "location": {
-            "lat": 48.86,
-            "lng": 2.35,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/nato-support-for-turkiye-would-test-alliance-readiness-amid-middle-east-tensions-expert-says/3860938",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177330237245535xcn",
-        "title": "ABD, İran ile gerilim ortamında stratejik petrol rezervinden 172 milyon varil serbest bırakacak",
-        "summary": "Amerika Birleşik Devletleri, İran ile yaşanan gerilim ortamında stratejik petrol rezervinden 172 milyon varil petrolü piyasaya süreceğini duyurdu. ABD Enerji Bakanlığı tarafından yapılan açıklamaya göre, bu adım Uluslararası Enerji Ajansı (IEA) üyesi ülkeler tarafından piyasaları istikrara kavuşturmak amacıyla yürütülen koordineli bir çabanın parçasıdır. Söz konusu hamle, küresel enerji piyasalarındaki dalgalanmaları ve arz endişelerini hafifletmeyi hedeflemektedir. Bu karar, özellikle Orta Doğu'daki jeopolitik gelişmelerin enerji fiyatları üzerindeki potansiyel etkilerine karşı bir önlem olarak değerlendirilmektedir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_ad86cf1cfe5347a20e894797510af38c.jpg?v=100638",
-        "timestamp": "2026-03-12T07:59:32.455Z",
-        "location": {
-            "lat": 38.9,
-            "lng": -77,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-to-release-172m-barrels-from-strategic-reserve-amid-war-with-iran/3860937",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773292127831pu1q7",
-        "title": "İsrailli Gazeteci: İran Savaşı'nı Bitirme Kararı Sadece Trump'ta",
-        "summary": "İsrailli gazeteci ve yazar Gideon Levy, İran'a karşı olası bir savaşı sona erdirme kararının yalnızca dönemin ABD Başkanı Trump'a ait olduğunu belirtti. Levy'nin bu açıklaması, İran ile ilgili gerilimlerin çözümünde ABD'nin ve özellikle başkanın kilit rolünü vurgulamaktadır. Bu durum, Orta Doğu'daki bölgesel güvenlik dinamikleri ve uluslararası ilişkiler açısından önemli bir bakış açısı sunmaktadır. Açıklama, bölgedeki potansiyel çatışma riskleri ve diplomatik çabaların geleceği üzerine tartışmaları beraberinde getirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T05:08:47.831Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/12/there-is-only-one-person-who-can-decide-to-end-the-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773292210814ubpij",
-        "title": "BBC Editörü Bowen: Trump'ın İran'da Ayaklanma Çağrısı ve 1991 Irak Deneyimi",
-        "summary": "BBC'nin uluslararası editörü Bowen, ABD Başkanı Trump'ın İran'da bir ayaklanma çağrısı yaptığını belirtmiştir. Bowen, bu çağrının 1991'deki Irak deneyiminden çıkarılması gereken önemli dersleri akıllara getirdiğini ifade etmiştir. Editör, savaşları başlatmanın bitirmekten çok daha kolay olduğunu vurgulayarak, ABD başkanının bu gerçeği öğrenebileceği yorumunda bulunmuştur. Haber, ABD'nin Orta Doğu'daki müdahalelerinin potansiyel sonuçlarına dair bir uyarı niteliğindedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c9d9/live/89059d00-1d7d-11f1-a17e-358a512ba0b9.jpg",
-        "timestamp": "2026-03-12T05:10:10.814Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773292304589h1ba4",
-        "title": "Umman, önemli petrol ihracat terminalinden tüm gemileri tedbir amaçlı tahliye etti",
-        "summary": "Umman makamları, deniz seyrüseferinin ve ülkenin kritik petrol tesislerinin güvenliğini sağlamak amacıyla önleyici tedbirler kapsamında önemli bir petrol ihracat terminalinden tüm gemilerin tahliyesine karar verdi. Bu stratejik adım, potansiyel risklere karşı hazırlıklı olmayı ve enerji altyapısının korunmasını amaçlamaktadır. Yetkililer, tahliye işleminin sorunsuz bir şekilde gerçekleştirildiğini ve gemilerin güvenli bölgelere yönlendirildiğini bildirdi. Bölgedeki denizcilik faaliyetlerinin emniyetini artırmaya yönelik bu önlemle, olası tehditlerin önüne geçilmesi hedefleniyor. Durumun yakından takip edildiği ve gerekli görüldüğü takdirde ek tedbirlerin alınabileceği belirtildi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_fb582d5361846065a4e71dd473966a3e.jpg?v=072653",
-        "timestamp": "2026-03-12T05:11:44.589Z",
-        "location": {
-            "lat": 23.5859,
-            "lng": 58.4059,
-            "name": "Muscat, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-evacuates-all-ships-from-key-oil-export-terminal-as-precautionary-measure/3860856",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773273633114aumjj",
-        "title": "Irak Sularında İki Petrol Tankerine Saldırı Sonrası Büyük Yangınlar Çıktı",
-        "summary": "Irak karasularında, el-Faw limanı yakınlarında iki yabancı tankerde büyük yangınlar çıktığı bildirildi. Görgü tanıkları ve yerel kaynaklar, tankerlerin bir saldırı sonucu alev aldığını belirtti. Olayın, Basra Körfezi'ndeki denizcilik güvenliği ve enerji taşımacılığı açısından endişelere yol açtığı ifade edildi. Yetkililer, yangınlara müdahale edildiğini ve saldırının nedeninin ve sorumlularının belirlenmesi için kapsamlı bir soruşturma başlatıldığını duyurdu. Petrol taşımacılığı için stratejik öneme sahip bu bölgedeki saldırı, uluslararası kamuoyunun dikkatini çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T00:00:33.114Z",
-        "location": {
-            "lat": 29.98,
-            "lng": 48.47,
-            "name": "Al-Faw, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/massive-fires-on-two-oil-tankers-after-attack-in-iraqi-waters?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
