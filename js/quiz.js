@@ -386,3 +386,28 @@ document.addEventListener('click', function(e) {
         }
     }
 });
+// SİTE LOGOSUNA TIKLANDIĞINDA HER ŞEYİ SIFIRLA
+document.getElementById('siteLogo')?.addEventListener('click', function(e) {
+    // Sayfanın tamamen yenilenmesini istemiyorsan e.preventDefault(); ekleyebilirsin 
+    // Ama yenilenmesi daha garantidir.
+    
+    // Tüm oyun kutularını bul ve gizle
+    const containers = [
+        'quizContainer', 
+        'actualGuessGame', 
+        'actualFlagGame', 
+        'quizMenu'
+    ];
+    
+    containers.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.classList.add('hidden');
+    });
+
+    // Ana haritayı veya haber akışını gösteren kutuların ID'sini buraya ekle
+    // Örneğin harita kutun:
+    const mapBox = document.getElementById('leafletMap');
+    if (mapBox) mapBox.classList.remove('hidden');
+    
+    console.log("Sistem sıfırlandı, ana sayfaya dönüldü.");
+});
