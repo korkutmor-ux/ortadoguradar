@@ -352,16 +352,16 @@ document.addEventListener('click', function(e) {
     const menu = document.getElementById('quizMenu');
     if (!menu) return;
 
-    // 1. GİZLİ FİGÜR OYUNU
+    // 1. GİZLİ FİGÜR ELEMENTLERİ
     const startGuessBtn = e.target.closest('#startGuessGame'); 
     const closeGuessBtn = e.target.closest('#btnCloseGame');   
     const guessGame = document.getElementById('actualGuessGame');
 
-    // 2. BAYRAK TAHMİNİ OYUNU
+    // 2. BAYRAK TAHMİNİ ELEMENTLERİ
     const startFlagBtn = e.target.closest('#startFlagGame');   
     const flagGame = document.getElementById('actualFlagGame');
 
-    // --- GİZLİ FİGÜR GEÇİŞLERİ ---
+    // --- GİZLİ FİGÜR MANTIĞI ---
     if (startGuessBtn && guessGame) {
         menu.classList.add('hidden');
         guessGame.classList.remove('hidden');
@@ -372,11 +372,17 @@ document.addEventListener('click', function(e) {
         menu.classList.remove('hidden');
     }
 
-    // --- BAYRAK TAHMİNİ GEÇİŞLERİ ---
+    // --- BAYRAK TAHMİNİ MANTIĞI ---
     if (startFlagBtn && flagGame) {
+        console.log("SİSTEM: Bayrak kartına tıklandı.");
         menu.classList.add('hidden');
         flagGame.classList.remove('hidden');
-        // Bayrak oyununu tetikler (flags.js içindeki fonksiyon)
-        if (typeof startFlagGame === 'function') startFlagGame();
+        
+        if (typeof startFlagGame === 'function') {
+            console.log("SİSTEM: startFlagGame fonksiyonu çalıştırılıyor.");
+            startFlagGame();
+        } else {
+            console.error("HATA: flags.js dosyası yüklü değil veya fonksiyon bulunamadı!");
+        }
     }
 });
