@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773518339804m2unj",
+        "title": "AB, Rusya Yaptırımlarını Uzattı; Orta Doğu Savaşı Küresel Enerji Piyasalarını Etkiliyor",
+        "summary": "Avrupa Birliği (AB), Rusya'ya yönelik yaptırımlarını uzatma kararı aldı. Bu karar, Ukrayna'da düzenlenen saldırılarda altı kişinin hayatını kaybetmesinin ardından geldi. AB, Rusya üzerindeki baskıyı sürdürürken, ABD'yi Rus petrol ihracatına yönelik yaptırımları kaldırdığı için eleştirdi. Bu gelişmeler, Orta Doğu'daki savaşın küresel enerji piyasaları üzerindeki etkisinin arttığı bir dönemde yaşanıyor. Orta Doğu'daki çatışmaların enerji politikaları ve uluslararası ilişkiler üzerindeki belirgin etkisi, AB'nin kararlarında da hissediliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/3216911/pexels-photo-3216911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T19:58:59.804Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773518363519qgq03",
+        "title": "Trump yönetimi, İran hakkındaki eleştirel haberler nedeniyle medya kuruluşlarını tehdit ediyor",
+        "summary": "ABD'de Trump yönetimi, İran hakkındaki eleştirel haberler nedeniyle medya kuruluşlarına yönelik tehditlerde bulundu. Federal İletişim Komisyonu (FCC) başkanı, ABD'nin İran ile olası bir savaşı hakkında \"çarpıtmalar\" yayan haber kuruluşlarının lisanslarını kaybedebileceğini açıkladı. Bu açıklama, yönetimin İran politikalarına yönelik medya eleştirilerine karşı sert bir duruş sergilediğini ortaya koyuyor. Söz konusu tehditler, basın özgürlüğü ve medya kuruluşlarının bağımsızlığı konularında ulusal ve uluslararası düzeyde tartışmalara yol açabilir. Gelişmeler, ABD'nin İran ile ilişkileri ve iç siyasette medya ile olan gerilimi bağlamında yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12618199/pexels-photo-12618199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T19:59:23.519Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/trump-administration-threatens-news-outlets-over-critical-coverage-of-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773518387331ydw1t",
+        "title": "İran'da Patlama Ortasında Amerikalılara 'Allahu Ekber' Açıklaması",
+        "summary": "İran'da meydana gelen bir patlamanın ardından, bir İranlı kadının Amerikalılara yönelik bir video mesajı kaydettiği bildirildi. Videoda kadın, 'Allahu Ekber' ifadesinin anlamını açıklayarak, bu ifadenin terörle ilişkilendirilmemesi gerektiğini vurguluyor. Bu olay, İran'daki toplumsal duyarlılıkları ve uluslararası algıları etkileme potansiyeli taşıyor. Haber, İran'daki mevcut durumu ve halkın duygusal tepkilerini yansıtması açısından önem arz ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32040770/pexels-photo-32040770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T19:59:47.331Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iranian-woman-explains-allahu-akbar-to-americans-amid-explosion-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177351598380616md2",
         "title": "İran Rejimiyle Yüzleşmeyi Bekleyen Sürgündeki Kürtler İHA Saldırısı Altında",
         "summary": "Irak'ta konuşlu bir grup savaşçı, İran rejimine karşı mücadele etmeye hazır olduklarını ve \"evlerine dönmeye\" istekli olduklarını belirtti. Bu grup, Tahran'dan gelen insansız hava aracı (İHA) saldırılarına maruz kaldıklarını ifade etti. İran'ın Irak topraklarındaki bu gruplara yönelik operasyonları, bölgesel gerilimi artırıyor. Sürgündeki Kürt savaşçılar, İran'daki siyasi durumu değiştirmeyi hedeflediklerini dile getiriyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/us-lawmakers-introduce-justice-for-hind-rajab-act-2?traffic_source=rss",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1773396025892uft7r",
-        "title": "Irak'ın kuzeyinde Fransız askerine yönelik saldırı: Bir ölü, çok sayıda yaralı",
-        "summary": "Irak'ın kuzeyinde bulunan ortak bir Fransız-Kürt askeri üssüne insansız hava aracıyla saldırı düzenlendi. Gerçekleşen saldırıda bir Fransız askeri hayatını kaybederken, çok sayıda asker de yaralandı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, Irak'taki uluslararası askeri varlığın güvenliği konusundaki endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8139067/pexels-photo-8139067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T10:00:25.892Z",
-        "location": {
-            "lat": 36.5,
-            "lng": 44,
-            "name": "Kuzey Irak, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/french-soldier-killed-and-others-wounded-in-attack-in-iraq?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773396047667sczzn",
-        "title": "İsrail, Beyrut'a Saldırılar Düzenledi, Güneyde Can Kayıpları Yaşandı",
-        "summary": "İsrail'in Lübnan'a yönelik saldırıları devam ediyor. Son olarak, İsrail'in 'hedefli suikast' girişimiyle Beyrut'taki bazı bölgelere saldırı düzenlediği bildirildi. Bu saldırıların, mevcut çatışmada ve 2024 savaşında daha önce hedef alınmayan Beyrut bölgelerini vurduğu belirtildi. Ayrıca, ülkenin güneyinde düzenlenen saldırılarda çok sayıda kişinin hayatını kaybettiği aktarıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8386357/pexels-photo-8386357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T10:00:47.667Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17733960679210j89y",
-        "title": "ABD Yakıt İkmal Uçağı Irak'ta Düştü: Dört Ölü",
-        "summary": "ABD Merkez Komutanlığı (CENTCOM), Irak'ın batısında bir yakıt ikmal uçağının düştüğünü ve olayda dört kişinin hayatını kaybettiğini doğruladı. Komutanlık, kazanın ardından kurtarma çalışmalarının devam ettiğini bildirdi. Olayın nedeni hakkında henüz detaylı bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32265086/pexels-photo-32265086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T10:01:07.921Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Irak"
-        },
-        "source": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
