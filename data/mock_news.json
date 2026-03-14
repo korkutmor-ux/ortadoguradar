@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773475361751qavji",
+        "title": "Bağdat'taki ABD Büyükelçiliği Füze Saldırısına Uğradı",
+        "summary": "Irak'ın başkenti Bağdat'ta bulunan ABD Büyükelçiliği'ne yönelik bir füze saldırısı gerçekleştirildi. Saldırıda büyükelçilik yerleşkesindeki helikopter pistinin hedef alındığı bildirildi. Güvenlik kaynaklarından alınan bilgilere göre, füze saldırısı sonucunda misyonda maddi hasar meydana geldi. Olayın ardından büyükelçilik binasından dumanların yükseldiği gözlemlendi. Saldırının sorumluluğunu henüz üstlenen olmadı ve olayla ilgili detaylı incelemeler sürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T08:02:41.751Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "177347538298411vcs",
+        "title": "İsrail'in Güney Lübnan Saldırısında 12 Sağlık Çalışanı Hayatını Kaybetti",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği bir saldırıda 12 sağlık çalışanı yaşamını yitirdi. Saldırıda görev başında olan doktorlar, paramedikler ve hemşireler hedef alındı. Bu olay, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Haber ajansları, saldırının İsrail'in Gazze'de neden olduğu benzer olayları hatırlattığını belirtti. Bölgede devam eden savaş, insani krizleri derinleştirmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700176/pexels-photo-5700176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T08:03:02.984Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773475411235s6h6i",
+        "title": "Bağdat'taki ABD Büyükelçiliği'ne Roketli Saldırı Düzenlendi",
+        "summary": "Irak'ın başkenti Bağdat'ta bulunan ABD Büyükelçiliği'ne roketli saldırı düzenlendiği bildirildi. Yerel medya kaynaklarına göre, saldırı sonucunda büyükelçiliğin C-RAM hava savunma sistemi tamamen kullanılamaz hale geldi. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, bölgedeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/256297/pexels-photo-256297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T08:03:31.235Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/rocket-attack-targets-us-embassy-in-baghdad-damages-defense-system/3864214",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17734731635917vcjl",
         "title": "ABD, İran'ın Harg Adası'ndaki Askeri Bölgelere Saldırı Düzenledi",
         "summary": "ABD güçleri, İran'ın Basra Körfezi'nde yer alan ve ülkenin önemli petrol tesislerine ev sahipliği yapan Harg Adası'ndaki askeri bölgelere saldırı düzenledi. Bu saldırı, bölgedeki gerilimi artırdı. Tahran yönetimi, adadaki petrol yapılarının hedef alınması durumunda ABD bağlantılı petrol tesislerini 'kül yığınına' çevirme tehdidinde bulundu. İran'dan yapılan açıklamada, bu tür bir eylemin ciddi sonuçları olacağı vurgulandı.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/2-drones-crash-in-oman-s-sohar-killing-2/3862739",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17733783701192xknr",
-        "title": "Petrol Fiyatları, İran'ın Hürmüz Boğazı Üzerindeki Kontrolü Nedeniyle 100 Doların Üzerinde Seyrediyor",
-        "summary": "Orta Doğu'da uzun süreli bir savaş olasılığının artmasıyla enerji piyasalarında gerilim devam ediyor. İran'ın Hürmüz Boğazı üzerindeki stratejik kontrolü, küresel petrol arzı için kritik bir tehdit oluşturuyor. Bu durum, ham petrol fiyatlarının varil başına 100 doların üzerinde kalmasına neden olurken, bölgedeki jeopolitik gelişmelerin enerji piyasaları üzerindeki baskısı sürüyor. Piyasa analistleri, Orta Doğu'daki istikrarsızlığın enerji güvenliği ve küresel ekonomi üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/30580208/pexels-photo-30580208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T05:06:10.119Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1773378392794biy2p",
-        "title": "İsrail, askerlere yönelik istismar suçlamalarını düşürdü",
-        "summary": "İsrail ordusu, Filistinli bir tutukluya cinsel istismarda bulunmakla suçlanan beş askere yönelik suçlamaları düşürdü. Bu gelişme, bölgedeki insan hakları örgütleri ve uluslararası toplum nezdinde dikkatle takip ediliyor. Olay, İsrail-Filistin çatışması bağlamında askeri disiplin ve hesap verebilirlik konularını yeniden gündeme getirdi. Suçlamaların düşürülmesi kararı, adalet arayışları ve mağdurların hakları konusunda tartışmaları beraberinde getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7231495/pexels-photo-7231495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T05:06:32.794Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773356318536srh9y",
-        "title": "ABD ordusu, Irak'ta yakıt ikmali uçağının düşmesinin ardından kurtarma operasyonu başlattı",
-        "summary": "ABD ordusu, Irak'ta bir yakıt ikmali uçağının düşmesinin ardından kurtarma operasyonu başlattığını duyurdu. Olayda şu ana kadar herhangi bir can kaybı yaşanmadığı bildirildi. Askeri yetkililer, kazaya iki uçağın karıştığını ve bunlardan birinin güvenli bir şekilde iniş yaptığını açıkladı. Düşen uçağa yönelik kurtarma çalışmaları devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/613778/pexels-photo-613778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-12T22:58:38.536Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
