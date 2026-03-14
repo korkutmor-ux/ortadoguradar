@@ -1,5 +1,69 @@
 [
     {
+        "id": "1773464610580wmjam",
+        "title": "Trump, ABD'nin Harg Adası'nı vurduğunu söylemesinin ardından bombalama videosu paylaştı",
+        "summary": "Eski ABD Başkanı Donald Trump, ABD'nin İran'ın Basra Körfezi'ndeki stratejik Harg Adası'na düzenlediği hava saldırılarına ait görüntüleri sosyal medya hesabından paylaştı. Trump'ın bu paylaşımı, daha önce ABD'nin adayı hedef aldığını iddia etmesinin ardından geldi. Harg Adası, İran'ın en büyük petrol ihracat terminaline ev sahipliği yapması nedeniyle büyük önem taşımaktadır. Bu tür askeri eylem iddiaları ve görüntü paylaşımları, bölgedeki jeopolitik gerilimi artırma potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163425/war-desert-guns-gunshow-163425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T05:03:30.580Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-posts-bombing-video-after-saying-us-hit-kharg-island?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1773464664430r48xb",
+        "title": "Uzmanlar, Hürmüz Boğazı Endişesi İddialarını Sorguluyor",
+        "summary": "Uzmanlar, ABD'li Pete Hegseth'in, ABD'nin Hürmüz Boğazı'nı yeniden açmak için etkili bir şekilde çalıştığı yönündeki iddialarına şüpheyle yaklaşıyor. Küresel petrol taşımacılığı için hayati bir geçiş noktası olan Hürmüz Boğazı, Basra Körfezi ile Umman Denizi'ni birbirine bağlamaktadır. Bu stratejik su yolu, özellikle İran ile ABD arasındaki gerilimlerde sıkça gündeme gelmekte ve bölgedeki enerji güvenliği açısından kritik bir öneme sahiptir. Uzmanlar, boğazın güvenliği ve serbest geçişi konusunda ABD'nin mevcut çabalarının etkinliği hakkında endişelerini dile getirerek, bölgedeki denizcilik ve enerji politikaları üzerindeki potansiyel etkilerine dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14000470/pexels-photo-14000470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T05:04:24.430Z",
+        "location": {
+            "lat": 26,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/experts-doubt-hegseth-claim-no-need-to-worry-about-hormuz?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773464719525lfbau",
+        "title": "Suudi Arabistan'da İnsansız Hava Aracı Saldırıları Engellendi",
+        "summary": "Suudi Arabistan Savunma Bakanlığı, ülkeye yönelik insansız hava aracı saldırılarının başarıyla engellendiğini duyurdu. Bakanlıktan yapılan açıklamada, en az sekiz adet insansız hava aracının imha edildiği belirtildi. Bu olay, bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi. Suudi Arabistan, son dönemde sık sık insansız hava aracı ve füze saldırılarına maruz kalıyor. Yetkililer, ülkenin hava savunma sistemlerinin etkinliğini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19453550/pexels-photo-19453550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T05:05:19.525Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-attacks-thwarted-in-saudi-arabia-defense-ministry/3864156",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773464789984f1vgs",
+        "title": "Katar Savunma Bakanlığı Ülkeyi Hedef Alan Füze Saldırısını Engelledi",
+        "summary": "Katar Savunma Bakanlığı, ülkeyi hedef alan bir füze saldırısının başarıyla engellendiğini duyurdu. Başkent Doha semalarında, hava hedeflerinin engellenmesinin ardından patlama sesleri kaydedildi. Bakanlık, saldırının bertaraf edildiğini ve durumun kontrol altında olduğunu belirtti. Olayla ilgili gelişmelerin yakından takip edildiği bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31016437/pexels-photo-31016437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T05:06:29.984Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-s-ministry-of-defense-says-it-intercepted-missile-attack-targeting-country/3864145",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773442126022fs91o",
         "title": "Kudüs Günü'nde Mescid-i Aksa Kapatıldı, İbadetler Dışarıda Yapıldı",
         "summary": "İsrail makamları, Kudüs Günü dolayısıyla Kudüs'teki Mescid-i Aksa külliyesini ibadete kapattı. Bu kararın ardından, Müslüman ibadet edenler kutsal mekanın dışında toplanarak namazlarını eda etti. Her yıl Ramazan ayının son Cuma günü kutlanan Kudüs Günü, Filistinlilerle dayanışma ve Kudüs'ün statüsüne dikkat çekme amacı taşıyor. İsrail güvenlik güçlerinin bölgedeki kısıtlamaları, ibadet özgürlüğü konusunda tartışmaları yeniden alevlendirdi. Olay, Kudüs'teki hassas dini ve siyasi gerilimi bir kez daha gözler önüne serdi.",
@@ -732,70 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773326304467n29d2",
-        "title": "BM: ABD ve İsrail Saldırıları Nedeniyle İran'da 3,2 Milyon Kişi Yerinden Edildi",
-        "summary": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (UNHCR) tarafından yapılan açıklamaya göre, İran genelinde ABD ve İsrail'in devam eden saldırıları nedeniyle yaklaşık 3,2 milyon kişi yerinden edildi. Kurum, ABD ve İsrail'in İran'daki ölümcül saldırılarını sürdürmesiyle birlikte zorla yerinden edilmelerin artmasının muhtemel olduğunu belirtti. Bu durum, ülkedeki insani krizi derinleştirme potansiyeli taşıyor ve bölgedeki sivillerin güvenliği ile insani yardıma erişimi konusunda endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T14:38:24.467Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/up-to-3-2-million-people-displaced-across-iran-amid-us-israeli-attacks-un?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773326327863zxyt4",
-        "title": "ABD-İsrail Saldırılarının Ardından İran ve Bölgede Patlamalar Sürüyor",
-        "summary": "Tahran'a yönelik ABD ve İsrail tarafından gerçekleştirildiği belirtilen saldırıların ardından bölgede gerilim tırmanıyor. İran, İsrail ve Orta Doğu'daki çeşitli ülkelerde art arda 13 gündür patlama sesleri duyulduğu bildirildi. Bu durum, bölgedeki güvenlik endişelerini derinleştirirken, devam eden olayların geniş çaplı bir istikrarsızlığa yol açtığı değerlendiriliyor. Yaşanan gelişmeler, Orta Doğu'da süregelen çatışma ve güvenlik krizinin boyutlarını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T14:38:47.863Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/3/12/aftermath-of-us-israeli-attacks-on-tehran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17733159613666l5d5",
-        "title": "Dubai'deki Bir Gökdelene İnsansız Hava Aracı İsabet Etti",
-        "summary": "Birleşik Arap Emirlikleri'nin önemli şehirlerinden Dubai'de bir gökdelenin insansız hava aracı (İHA) tarafından vurulduğu bildirildi. Gece saatlerinde meydana geldiği belirtilen olayda, söz konusu yüksek katlı binada hasar oluştuğu kaydedildi. Olayın ardından çekilen ve sosyal medyada paylaşılan videolarda, binanın dış cephesindeki hasarın boyutları gözler önüne serildi. Yetkililerden henüz resmi bir açıklama gelmezken, olayın nedenleri ve sorumluları hakkında araştırmaların sürdüğü tahmin ediliyor. Bu tür bir saldırının bölgedeki güvenlik endişelerini artırabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T11:46:01.366Z",
-        "location": {
-            "lat": 25.2,
-            "lng": 55.3,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/dubai-high-rise-building-damaged-in-overnight-drone-hit?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773310136498h6sfv",
-        "title": "Al Jazeera, İngiltere'deki ABD Üssünde Uçaklara Bomba Yüklendiğini Görüntüledi",
-        "summary": "Katar merkezli haber kuruluşu Al Jazeera'ya ait bir ekip, Birleşik Krallık'taki bir askeri üste ABD askeri uçaklarına sığınak delici bombaların yüklendiği anları görüntüledi. Görüntülerde, bu özel nitelikli bombaların ABD Hava Kuvvetleri'ne ait nakliye uçaklarına aktarıldığı açıkça görüldü. Bu olay, ABD'nin küresel askeri operasyonları ve potansiyel hedeflerine yönelik hazırlıkları hakkında önemli ipuçları sunuyor. Özellikle Orta Doğu'daki gerilimler ve ABD'nin bölgedeki askeri varlığı göz önüne alındığında, bu tür silahların yüklenmesi bölgedeki güvenlik dinamikleri açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T10:08:56.498Z",
-        "location": {
-            "lat": 52.38,
-            "lng": 0.55,
-            "name": "Lakenheath, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
