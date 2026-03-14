@@ -1,5 +1,133 @@
 [
     {
+        "id": "17734731635917vcjl",
+        "title": "ABD, İran'ın Harg Adası'ndaki Askeri Bölgelere Saldırı Düzenledi",
+        "summary": "ABD güçleri, İran'ın Basra Körfezi'nde yer alan ve ülkenin önemli petrol tesislerine ev sahipliği yapan Harg Adası'ndaki askeri bölgelere saldırı düzenledi. Bu saldırı, bölgedeki gerilimi artırdı. Tahran yönetimi, adadaki petrol yapılarının hedef alınması durumunda ABD bağlantılı petrol tesislerini 'kül yığınına' çevirme tehdidinde bulundu. İran'dan yapılan açıklamada, bu tür bir eylemin ciddi sonuçları olacağı vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4764311/pexels-photo-4764311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:26:03.591Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773473185562k6g9x",
+        "title": "ABD, İran'ın Harg Adası'nı Vurdu: Hürmüz Boğazı İçin Petrol Tesisi Uyarısı",
+        "summary": "Amerika Birleşik Devletleri, İran'ın stratejik Harg Adası'na saldırı düzenledi. Bu eylem, ABD'nin Tahran'ı Hürmüz Boğazı'ndaki deniz trafiğini aksatması durumunda İran'ın petrol tesislerinin de hedef alınabileceği yönündeki sert uyarısının ardından geldi. Haber başlığı, ABD ve İsrail'in İran'a yönelik saldırılarının 15. gününde yaşanan gelişmeleri ele alıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/89112/pexels-photo-89112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:26:25.562Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1773473206324fbzyk",
+        "title": "Bağdat'taki ABD Büyükelçiliği'nden Dumanlar Yükseldiği Görüldü",
+        "summary": "Sosyal medya kullanıcıları tarafından paylaşılan videolarda, Irak'ın başkenti Bağdat'taki ABD Büyükelçiliği binasından dumanlar yükseldiği görüldü. Olayın, büyükelçiliğe yönelik bir saldırının ardından meydana geldiği bildirildi. Bölgedeki güvenlik kaynakları henüz olayın detaylarına ilişkin resmi bir açıklama yapmazken, saldırının niteliği ve sorumluları hakkında belirsizlik devam ediyor. Bu gelişme, ABD'nin Irak'taki diplomatik misyonlarının güvenliğine dair endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14000469/pexels-photo-14000469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:26:46.324Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-seen-rising-from-us-embassy-in-baghdad?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773473230471o1eut",
+        "title": "Yemen Limanlarında Nakliye Ücreti Zammı Gerilimi",
+        "summary": "Yemen limanlarında nakliye ücretlerine zam yapılması gündeme geldi. Yemen hükümeti, insani kriz endişelerinin arttığı bir dönemde bu yeni ek nakliye ücretlerini reddettiğini duyurdu. İran ile yaşanan bölgesel çatışmaların ortasında ortaya çıkan bu durum, ülkedeki insani durumu daha da kötüleştirebileceği yönündeki endişeleri artırıyor. Hükümet, bu zammın Yemen halkı üzerindeki yükü artıracağını belirtiyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11097030/pexels-photo-11097030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:27:10.471Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/yemeni-ports-face-shipping-fee-hike-amid-iran-conflict?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773473260019zlf1y",
+        "title": "İran'da Mojtaba Hamenei'nin ilk konuşması sonrası liderlik tartışmaları",
+        "summary": "İran'da devlet televizyonunda bir sunucu aracılığıyla yayınlanan Mojtaba Hamenei'nin ilk konuşmasının ardından halk, ülkedeki gerçek liderliğin kim olduğu konusunda sorular yöneltiyor. Bu durum, İran'ın siyasi geleceği ve potansiyel liderlik değişimi üzerine spekülasyonları artırdı. Halkın tepkileri ve liderlik sorgulamaları, ülkedeki iç siyasi dinamiklerin karmaşıklığını gözler önüne seriyor. Gelişmeler, İran'ın iç istikrarı açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19856609/pexels-photo-19856609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:27:40.019Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773473284814j2tbz",
+        "title": "Iraklı Grup, ABD Üslerine Sekiz Saldırı Düzenlediğini İddia Etti",
+        "summary": "Irak'ta faaliyet gösteren 'İslami Direniş' adlı grup, son 24 saat içinde ABD üslerine yönelik sekiz saldırı gerçekleştirdiğini duyurdu. Grup tarafından yapılan açıklamada, Irak ve çevresindeki bölgelerde bulunan ABD üslerinin hedef alındığı belirtildi. Saldırılarda insansız hava araçları (İHA) ve füzelerin kullanıldığı iddia edildi. Bu saldırı iddiaları, bölgedeki güvenlik durumuna ilişkin endişeleri artırıyor ve tansiyonu yükseltiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5623204/pexels-photo-5623204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:28:04.814Z",
+        "location": {
+            "lat": 33,
+            "lng": 44,
+            "name": "Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-group-claims-8-attacks-on-us-bases-in-last-24-hours/3864154",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773473308511vf0rx",
+        "title": "İran'da Starlink Alıcıları ve Rejim Karşıtı Kanalla Bağlantı İddialarıyla Gözaltılar",
+        "summary": "İran'da güvenlik güçleri, iki ayrı olayda toplam 17 kişiyi gözaltına aldı. Kum kentinde, Starlink uydu alıcılarına sahip oldukları iddiasıyla 13 kişi yakalanırken, bu kişilerin yasa dışı internet erişimi sağladığı belirtildi. Başkent Tahran'da ise, rejim karşıtı bir televizyon kanalına gizli bilgi gönderdiği öne sürülen 4 kişi gözaltına alındı. Yetkililer, bu kişilerin ulusal güvenliği tehdit eden faaliyetlerde bulunduğunu iddia etti. Olaylar, İran'da bilgi akışı ve internet erişimi üzerindeki kontrolün sıkılaştırıldığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10475180/pexels-photo-10475180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:28:28.511Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/13-detained-in-irans-qom-for-allegedly-possessing-starlink-satellite-receivers/3864147",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773473327842rojp7",
+        "title": "Bağdat'ta bir eve insansız hava aracı düşmesi sonucu 2 kişi yaralandı",
+        "summary": "Irak'ın başkenti Bağdat'ta bir eve insansız hava aracı (İHA) düştü. Güvenlik kaynaklarından edinilen bilgiye göre, olay Arasat mahallesinde meydana geldi. Kazada iki kişinin yaralandığı bildirildi. İHA'nın düşüş nedeni ve kime ait olduğu hakkında henüz resmi bir açıklama yapılmadı. Olayla ilgili detaylı soruşturma başlatıldığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T07:28:47.842Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-wounded-when-drone-crashes-into-baghdad-home/3864146",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1773464610580wmjam",
         "title": "Trump, ABD'nin Harg Adası'nı vurduğunu söylemesinin ardından bombalama videosu paylaştı",
         "summary": "Eski ABD Başkanı Donald Trump, ABD'nin İran'ın Basra Körfezi'ndeki stratejik Harg Adası'na düzenlediği hava saldırılarına ait görüntüleri sosyal medya hesabından paylaştı. Trump'ın bu paylaşımı, daha önce ABD'nin adayı hedef aldığını iddia etmesinin ardından geldi. Harg Adası, İran'ın en büyük petrol ihracat terminaline ev sahipliği yapması nedeniyle büyük önem taşımaktadır. Bu tür askeri eylem iddiaları ve görüntü paylaşımları, bölgedeki jeopolitik gerilimi artırma potansiyeli taşımaktadır.",
@@ -670,133 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1773356414438u96wx",
-        "title": "İsrail, Hizbullah'ın roket saldırısının ardından Beyrut banliyölerini ve Güney Lübnan'ı vurdu",
-        "summary": "İsrail ordusu, Hizbullah tarafından gerçekleştirilen roket saldırısına misilleme olarak Beyrut banliyölerini ve Güney Lübnan'daki hedefleri bombaladı. Saldırılar, Lübnan'ın başkenti Beyrut'un diğer bölgelerine de yayıldı. İlk belirlemelere göre, sahil şeridinde meydana gelen olaylarda 12 kişinin hayatını kaybettiği bildirildi. Bu gelişmeler, bölgedeki gerilimin ciddi şekilde tırmandığını gösteriyor ve uluslararası endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/371838/pexels-photo-371838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-12T23:00:14.439Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773352199702ubonh",
-        "title": "İran'a Yönelik Bir Savaş ABD Ekonomisini Nasıl Etkiler?",
-        "summary": "Uzmanlar, İran'a karşı olası bir savaşın ABD ekonomisi üzerindeki etkilerinin, petrol tankerlerinin Hürmüz Boğazı'na ne kadar hızlı dönebileceğine bağlı olacağını belirtiyor. Bu durum, küresel petrol arzı ve fiyatları üzerinde doğrudan bir etki yaratabilir. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle, bölgedeki herhangi bir çatışma küresel enerji piyasalarını derinden sarsma potansiyeli taşıyor. Uzmanlar, boğazdaki kesintilerin süresinin, ekonomik sonuçların şiddetini belirleyecek ana faktör olacağını vurguluyor.",
-        "category": "Ekonomik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T21:49:59.702Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773345370151m77wo",
-        "title": "Somali, İsrail'in Somaliland'da Üs Kurma Planlarına Karşı Uyardı",
-        "summary": "Somali hükümeti, İsrail'in ayrılıkçı Somaliland bölgesinde askeri üs kurma olasılığına ilişkin ciddi endişelerini dile getirdi. Somali'li bir bakan, Al Jazeera'ye yaptığı açıklamada, bu tür planların Somali'yi 'dış çatışmalara' sürükleme riski taşıdığını belirtti. Mogadişu yönetimi, Somaliland'ı kendi topraklarının bir parçası olarak görmekte ve uluslararası hukuka göre tanınmamış bir devlet olarak kabul etmektedir. İsrail'in bölgedeki potansiyel askeri varlığı, Kızıldeniz ve Aden Körfezi'nin stratejik önemini artırırken, bölgesel istikrara yönelik yeni gerilimler yaratabileceği değerlendiriliyor. Bu durum, Doğu Afrika ve Orta Doğu arasındaki ilişkilerde yeni bir boyut açabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T19:56:10.151Z",
-        "location": {
-            "lat": 2.0469,
-            "lng": 45.3182,
-            "name": "Mogadişu, Somali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/somalia-warns-against-any-israeli-base-plans-on-somaliland?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773345440996f2foz",
-        "title": "İran Savaşı, Dünyanın Körfez Petrol ve Gazına Bağımlılığını Gözler Önüne Serdi",
-        "summary": "Haber başlığı, İran ile ilgili bir savaşın, küresel enerji piyasalarının Körfez bölgesindeki petrol ve doğalgaz kaynaklarına olan derin bağımlılığını açıkça ortaya koyduğunu belirtiyor. Dünya genelindeki ülkeler, bu çatışmanın ve beraberinde getirdiği enerji fiyat şokunun etkilerini hissetmektedir. Bu durum, enerji arz güvenliği ve küresel ekonominin kırılganlığı konularını yeniden gündeme getirdi. Özellikle Körfez ülkeleri, dünya enerji tedarik zincirindeki kritik konumlarıyla dikkat çekmektedir. Yaşanan gelişmeler, uluslararası toplumun enerji stratejilerini gözden geçirmesi gerektiğine işaret ediyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T19:57:20.996Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 51.5,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17733454796799klx2",
-        "title": "İran'da Savaşa Destek Verenler Arasında Endişeler Artıyor: 'Geride Yıkıntılar Kalırsa Ne Olur?'",
-        "summary": "BBC'ye konuşan öğretmenler, mühendisler ve esnaflar gibi farklı meslek gruplarından İranlılar, ülkelerinin geleceği hakkında derin endişeler taşıdıklarını ifade etti. Daha önce savaşı desteklemiş olsalar dahi, İran'ın kaosa sürüklenmesinden korktuklarını dile getirdiler. Toplumun çeşitli kesimlerinden yükselen bu sesler, ülkedeki belirsizlik ortamına ve olası iç istikrarsızlığa dikkat çekiyor. Bu durum, İran'ın bölgesel ve iç dinamiklerden kaynaklanan zorluklarla karşı karşıya olduğunu gösteriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T19:57:59.679Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773338228525j0foj",
-        "title": "İran Enerji Hedeflerine Yönelik Saldırılarını Artırırken Tankerler Vuruldu",
-        "summary": "İran'ın enerji hedeflerine yönelik saldırılarını artırdığı bildirildi. Bahreyn ve Umman'da İran kaynaklı saldırılar rapor edilirken, Irak yakınlarında iki yabancı yakıt tankerinin vurulduğu bilgisi paylaşıldı. Bu gelişmeler, Basra Körfezi ve çevresindeki denizcilik güvenliği ile enerji arzı üzerindeki gerilimi yükseltiyor. Bölgedeki ülkeler ve uluslararası aktörler, durumu yakından takip ediyor. Saldırıların sorumluluğu ve detaylarına ilişkin resmi açıklamalar bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T17:57:08.525Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.bbc.com/news/articles/c743gpd9z72o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773337157093v4hpt",
-        "title": "Trump'tan İran'ın Dünya Kupası'na Katılımına İlişkin Açıklama",
-        "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, İran'ın ABD'de düzenlenecek olan Dünya Kupası'na katılımının 'uygun olmadığını' dile getirdi. FIFA Barış Ödülü sahibi olan Trump, İran'ın ülkesinde hoş karşılanacağını ancak oyuncularının güvenliği gerekçesiyle turnuvaya gelmemesi gerektiğini belirtti. Bu açıklama, ABD ile İran arasındaki gergin ilişkilerin spor etkinliklerine yansıması olarak değerlendirildi. Trump'ın bu sözleri, uluslararası spor organizasyonlarında siyasi ve güvenlik endişelerinin rolünü bir kez daha gündeme getirdi ve tartışmalara yol açtı.",
-        "category": "Diplomatik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T17:39:17.093Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/trump-says-not-appropriate-for-iran-to-participate-in-the-world-cup-in-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773337301520sesfx",
-        "title": "İran Polis Şefinden Eylem Çağrılarına Sert Uyarı: \"Düşman Olarak Görülecekler\"",
-        "summary": "İran polis şefi, sokağa çıkan herkesi \"düşmanın isteği üzerine\" hareket eden bir düşman olarak değerlendireceklerini ve güçlerinin bu kişilere karşı sert önlemler alacağını açıkladı. Bu açıklama, ülkede olası protesto veya eylemlere karşı hükümetin kararlı duruşunu ve güvenlik güçlerinin müdahale etmeye hazır olduğunu net bir şekilde ortaya koyuyor. Şefin uyarıları, İran'da iç karışıklık potansiyeli ve güvenlik güçlerinin bu tür durumlara karşı hazırlıklı olduğu mesajını taşıyor. Bu tür eylemlere katılanların \"tetikteki parmaklar\" ile karşılaşacağı ima edilerek, potansiyel göstericilere yönelik ölümcül sonuçlar doğurabilecek bir tehdit dile getirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "",
-        "timestamp": "2026-03-12T17:41:41.520Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
