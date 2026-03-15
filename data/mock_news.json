@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773603944972g059o",
+        "title": "Mücbir Sebep Nedir ve Bazı Körfez Ülkeleri Neden Buna Başvuruyor?",
+        "summary": "Körfez ülkelerindeki bazı enerji üreticileri, deniz taşımacılığında yaşanan aksaklıklar nedeniyle petrol ve doğalgaz sevkiyatlarında mücbir sebep ilan etti. Mücbir sebep, sözleşmelerde öngörülen yükümlülüklerin, tarafların kontrolü dışındaki beklenmedik olaylar nedeniyle geçici olarak askıya alınmasını sağlayan yasal bir hükümdür. Bu durum, küresel enerji piyasalarında arz güvenliği ve fiyatlar üzerinde potansiyel etkiler yaratabilir. Karar, özellikle bölgedeki jeopolitik gerilimler ve deniz yollarındaki güvenlik endişeleri bağlamında önem taşımaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/3107189/pexels-photo-3107189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T19:45:44.972Z",
+        "location": {
+            "lat": 26,
+            "lng": 50,
+            "name": "Basra Körfezi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/what-is-force-majeure-and-why-are-some-gulf-countries-invoking-it?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773604000820kgihv",
+        "title": "Netanyahu karşıtı sağ içinde farklı partiler 'yükselişte'",
+        "summary": "İsrail siyasetinde Başbakan Binyamin Netanyahu'nun popülaritesindeki dalgalanmalar dikkat çekiyor. Siyasi analist Dahlia Scheindlin, Netanyahu'nun destek oranlarındaki bu iniş çıkışların altında yatan nedenleri analiz etti. Habere göre, Netanyahu karşıtı sağ kanatta yeni partilerin veya grupların yükselişe geçtiği gözlemleniyor. Bu durum, İsrail'in iç siyasetinde önemli değişimlerin habercisi olarak yorumlanıyor. Scheindlin'in değerlendirmeleri, ülkedeki siyasi dinamiklerin anlaşılmasına ışık tutuyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/6044576/pexels-photo-6044576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T19:46:40.820Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/different-parties-on-the-rise-within-the-anti-netanyahu-right?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773604051630qxek9",
+        "title": "İsrail güçleri işgal altındaki Batı Şeria'da Filistinli bir çifti ve iki çocuğunu öldürdü",
+        "summary": "Filistin Sağlık Bakanlığı'nın bildirdiğine göre, işgal altındaki Batı Şeria'da yaşanan olaylarda Filistinli bir çift ile beş yaşındaki Mohammed ve yedi yaşındaki Othman adlı iki çocukları hayatını kaybetti. Bakanlık, ölümlerin İsrail güçleri tarafından gerçekleştirildiğini belirtti. Bu olay, bölgedeki gerilimi daha da artırdı ve uluslararası kamuoyunda endişelere yol açtı. Filistinli yetkililer, sivil kayıpların soruşturulması çağrısında bulunurken, İsrail tarafından henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/88692/pexels-photo-88692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T19:47:31.630Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773594136924p02e1",
         "title": "El Cezire'nin ilk yüzü Cemal Reyyan 73 yaşında hayatını kaybetti",
         "summary": "Filistinli sunucu Cemal Reyyan, 73 yaşında yaşamını yitirdi. Reyyan, 1996 yılında yayın hayatına başlayan El Cezire televizyonunun ilk haber bültenini sunan isim olarak tanınıyordu. Kanalın kuruluşunda önemli bir rol oynayan Reyyan, Arap dünyasında medya sektörünün önde gelen figürlerinden biriydi. Vefatı, bölge medyasında derin üzüntüyle karşılandı.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1773482254524o5rvx",
-        "title": "BAE'nin Füceyre Limanı'nda İHA Saldırısı Petrol Yükleme Operasyonlarını Aksattı",
-        "summary": "Birleşik Arap Emirlikleri'nin (BAE) Füceyre Limanı'ndaki petrol yükleme operasyonlarının bir insansız hava aracı (İHA) saldırısı sonucu aksadığı bildirildi. Olay, ABD'nin İran'ın Harg Adası'na yönelik gerçekleştirdiği saldırıların ardından ve Hürmüz Boğazı çevresindeki gerilimin tırmandığı bir dönemde meydana geldi. Saldırının sorumluluğunu henüz üstlenen bir grup veya ülke bulunmazken, bölgedeki güvenlik endişeleri arttı. Bu tür saldırılar, Orta Doğu'daki enerji altyapısının kırılganlığını gözler önüne sererek küresel petrol piyasaları üzerinde potansiyel etkilere yol açabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:57:34.524Z",
-        "location": {
-            "lat": 25.1167,
-            "lng": 56.35,
-            "name": "Füceyre, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-attack-disrupts-oil-loading-operations-at-uae-s-fujairah-port-report/3864354",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17734822785404459e",
-        "title": "Suriye'de Devrik Rejimin Askeri Karargahı Yakınlarında Toplu Mezar Bulundu",
-        "summary": "Suriye'nin güneyindeki Daraa vilayetinde, devrik rejimin eski bir askeri karargahının yakınlarında toplu bir mezar keşfedildi. Suriye resmi haber ajansı SANA'nın bildirdiğine göre, mezarda elleri bağlı ve işkence izleri taşıyan 11 kişinin kalıntıları bulundu. Bu keşif, Suriye iç savaşında yaşanan insan hakları ihlallerine dair yeni kanıtlar sunuyor ve bölgedeki geçmiş çatışmaların acı mirasını bir kez daha gözler önüne seriyor. Olayla ilgili soruşturmanın devam ettiği ve cesetlerin kimlik tespiti çalışmalarının sürdürüldüğü belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35987395/pexels-photo-35987395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:57:58.540Z",
-        "location": {
-            "lat": 32.6167,
-            "lng": 36.1,
-            "name": "Daraa, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/mass-grave-found-near-military-headquarters-of-ousted-regime-in-syria/3864332",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773482299149socg5",
-        "title": "ABD-İsrail Saldırılarında İran'da 12 Kişi Hayatını Kaybetti",
-        "summary": "İran'ın orta ve batı bölgelerine yönelik ABD ve İsrail tarafından gerçekleştirildiği belirtilen saldırılarda toplam 12 kişi hayatını kaybetti. Batı İran'da bulunan Eyvan şehrinde meydana gelen saldırılarda ise aralarında 6 aylık bir bebeğin de bulunduğu 6 sivilin yaşamını yitirdiği bildirildi. Olayla ilgili detaylar ve saldırıların kesin hedefleri hakkında henüz resmi bir açıklama yapılmadı. Bu saldırılar, bölgedeki güvenlik durumunu ve gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/804804/pexels-photo-804804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:58:19.149Z",
-        "location": {
-            "lat": 33.8,
-            "lng": 46.15,
-            "name": "Eyvan, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/12-killed-in-us-israeli-strikes-on-central-western-iran/3864331",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
