@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773611708720a4o69",
+        "title": "İran'ın Suudi Arabistan Büyükelçisi, petrol tesislerine yönelik saldırıları yalanladı",
+        "summary": "İran'ın Suudi Arabistan Büyükelçisi Alireza Enayati, ülkesinin petrol tesislerine yönelik saldırı iddialarını kesin bir dille yalanladı. Büyükelçi Enayati, Suudi Arabistan ile ilişkilerin \"doğal bir şekilde ilerlediğini\" ve iki ülke arasındaki diplomatik bağların güçlendiğini belirtti. Enayati, Suudi yetkililerle sürekli temas halinde olduğunu ve karşılıklı anlayışın devam ettiğini ifade etti. Bu açıklama, iki Orta Doğu gücü arasındaki normalleşme sürecinin olumlu yönde ilerlediğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386426/pexels-photo-4386426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T21:55:08.720Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17736117445438i98p",
+        "title": "Lübnan'da Yerinden Edilmiş Aileler Araçlarını Barınağa Dönüştürüyor",
+        "summary": "Lübnan'ın Sayda kentinde yerinden edilmiş aileler, zorlu yaşam koşulları altında araçlarını geçici barınaklara dönüştürmek zorunda kalıyor. Yağmurdan korunmak amacıyla araçlarının üzerini brandalarla kapatan aileler, temel barınma ihtiyaçlarını bu şekilde karşılamaya çalışıyor. Bu durum, bölgedeki yerinden edilmiş kişilerin karşılaştığı barınma sorunlarının ciddiyetini ve insani krizin boyutunu gözler önüne seriyor. Uluslararası yardım kuruluşları, bu ailelerin acil ihtiyaçlarının karşılanması için çağrıda bulunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6916080/pexels-photo-6916080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T21:55:44.543Z",
+        "location": {
+            "lat": 33.56,
+            "lng": 35.37,
+            "name": "Sayda, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1773608334931c4iy5",
         "title": "Ukrayna, Orta Doğu'ya İHA Desteği Karşılığında Para ve Teknoloji Hedefliyor",
         "summary": "Ukrayna'nın, Orta Doğu ülkelerine insansız hava aracı (İHA) desteği sağlamak karşılığında finansal kaynaklar ve teknoloji elde etmeyi hedeflediği bildirildi. Ukrayna lideri daha önce yaptığı açıklamalarda, İran'ın İHA saldırılarını engellemeye yardımcı olmak amacıyla Katar, Birleşik Arap Emirlikleri ve Suudi Arabistan'a danışmanlar gönderildiğini belirtmişti. Bu hamle, Ukrayna'nın savaş çabalarını desteklemek için yeni gelir ve teknoloji kaynakları arayışının bir parçası olarak değerlendiriliyor. Aynı zamanda, Orta Doğu'daki bölgesel güvenlik dinamiklerinde Ukrayna'nın potansiyel rolünü de ortaya koyuyor. Bu iş birliği, bölgedeki İHA tehditlerine karşı ortak bir savunma mekanizması oluşturma potansiyeli taşıyor.",
@@ -764,38 +796,6 @@
             "name": "Harg Adası, İran"
         },
         "source": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773496879738vdptw",
-        "title": "BAE Başsavcılığı, Hava Savunma Görüntülerini Paylaşan 10 Şüphelinin Tutuklanmasını Emretti",
-        "summary": "Birleşik Arap Emirlikleri (BAE) Başsavcılığı, ülkenin hava savunma sistemlerinin saldırıları engellediğini gösteren görüntüleri paylaştığı iddia edilen 10 şüphelinin tutuklanması talimatını verdi. Şüpheliler, ayrıca yere düşen mermileri ve olayları izleyen insan kalabalıklarını gösteren görüntüleri yaymakla suçlanıyor. Bu adım, BAE'de yaşanan güvenlik olaylarına ilişkin hassas bilgilerin kamuoyuyla paylaşılmasına karşı yasal bir müdahale olarak değerlendiriliyor. Başsavcılık, bu tür görüntülerin ulusal güvenliği tehlikeye atabileceği gerekçesiyle soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39584/censorship-limitations-freedom-of-expression-restricted-39584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T14:01:19.738Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-s-attorney-general-orders-arrest-of-10-suspects/3864594",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773489066496k5ftq",
-        "title": "Trump, Putin'in İran'ın zenginleştirilmiş uranyumunu Rusya'ya devretme teklifini reddetti",
-        "summary": "ABD Başkanı Donald Trump'ın, Rusya Devlet Başkanı Vladimir Putin'in İran'ın zenginleştirilmiş uranyumunu Rusya'ya devretme teklifini reddettiği öne sürüldü. Söz konusu teklifin, iki lider arasında gerçekleşen bir telefon görüşmesi sırasında gündeme geldiği belirtildi. Putin'in bu öneriyi, ABD ile İran arasındaki olası bir savaşı sona erdirmeye yönelik potansiyel bir anlaşmanın parçası olarak sunduğu ifade edildi. Ancak haberlere göre Trump, bu teklifi kabul etmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33421996/pexels-photo-33421996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T11:51:06.496Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/trump-rejects-putins-proposal-to-transfer-iran-s-enriched-uranium-to-russia-report/3864487",
         "trendScore": 85,
         "isBreaking": false
     }
