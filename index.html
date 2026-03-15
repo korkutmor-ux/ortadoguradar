@@ -196,6 +196,55 @@
         <p id="flagProgress" style="margin-top: 25px; color: #666; font-size: 0.9rem; letter-spacing: 1px;">KALAN ÜLKE: 18/18</p>
     </div>
 </div>
+            <div id="actualOilGame" class="hidden oil-game-container">
+    <div class="oil-header">
+        <h2><i class="fa-solid fa-oil-well"></i> Kim Bir Milyon Varil İster?</h2>
+        <div class="oil-status">
+            <span id="oilCurrentPrize" class="oil-badge">0 Varil</span>
+            <button id="btnCloseOilGame" class="btn-close-oil"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+    </div>
+    
+    <div class="oil-layout">
+        <div class="oil-main">
+            <div class="oil-lifelines">
+                <button id="ll-50" class="lifeline-btn" title="Yarı Yarıya (İki Şıkkı Ele)">50:50</button>
+                <button id="ll-phone" class="lifeline-btn" title="Liderler Hattı (Saddam, Kaddafi, Nasır)"><i class="fa-solid fa-phone"></i></button>
+                <button id="ll-audience" class="lifeline-btn" title="Halkın Sesi (İstihbarat Grafiği)"><i class="fa-solid fa-users"></i></button>
+                <button id="ll-double" class="lifeline-btn locked" title="Çift Cevap Hakkı (7. Soruda Açılır)"><i class="fa-solid fa-check-double"></i></button>
+            </div>
+            
+            <div class="oil-question-box">
+                <h3 id="oilQuestionText">Soru sistemi başlatılıyor, lütfen bekleyin...</h3>
+            </div>
+            
+            <div class="oil-options-grid">
+                <button class="oil-option" id="opt-0" data-index="0"><span class="opt-letter">A:</span> <span class="opt-text">...</span></button>
+                <button class="oil-option" id="opt-1" data-index="1"><span class="opt-letter">B:</span> <span class="opt-text">...</span></button>
+                <button class="oil-option" id="opt-2" data-index="2"><span class="opt-letter">C:</span> <span class="opt-text">...</span></button>
+                <button class="oil-option" id="opt-3" data-index="3"><span class="opt-letter">D:</span> <span class="opt-text">...</span></button>
+            </div>
+            
+            <div class="oil-actions">
+                <button id="btnWithdraw" class="btn-withdraw">Varilleri Al ve Oyundan Çekil</button>
+            </div>
+        </div>
+        
+        <div class="oil-ladder-container">
+            <h4 style="text-align: center; color: #888; margin-bottom: 10px; font-size: 0.9rem;">ÖDÜL TABLOSU</h4>
+            <ul class="oil-ladder" id="oilLadderList">
+                </ul>
+        </div>
+    </div>
+
+    <div id="oilJokerModal" class="hidden quiz-modal">
+        <div class="quiz-modal-content" style="border: 2px solid #f1c40f; background: #111;">
+            <h3 id="oilJokerTitle" style="color: #f1c40f;">Joker Devrede</h3>
+            <div id="oilJokerContent" style="color: #fff; margin: 20px 0; font-size: 1.1rem; line-height: 1.5;">...</div>
+            <button id="btnOilJokerClose" class="btn-primary" style="background: #f1c40f; color: #000;">Anlaşıldı</button>
+        </div>
+    </div>
+</div>
         </section>
        <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto; padding-bottom: 40px;">
             <div class="arsenal-header" style="text-align: center; margin-bottom: 30px;">
