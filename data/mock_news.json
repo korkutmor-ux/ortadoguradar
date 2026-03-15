@@ -1,5 +1,21 @@
 [
     {
+        "id": "177361567542834rf6",
+        "title": "Iraklı Kürt lider, KRG ve Irak federal hükümetini görüşmeye ve anlaşmazlıkları çözmeye çağırdı",
+        "summary": "Irak Kürdistan Demokrat Partisi lideri Mesud Barzani, Irak Kürdistan Bölgesel Yönetimi (KRG) ile Irak federal hükümeti arasında görüşmeler yapılması ve mevcut anlaşmazlıkların çözülmesi çağrısında bulundu. Barzani, yaptığı açıklamada, Irak'ın çeşitli kriz tehditleri altında olduğunu ve siyasi partiler arasındaki çatışmaların giderek arttığını vurguladı. Bu durumun ülkenin istikrarını olumsuz etkilediğini belirten Barzani, tarafları bir araya gelerek sorunlara çözüm bulmaya davet etti. Çağrı, Bağdat ile Erbil arasındaki uzun süredir devam eden anlaşmazlıkların diyalog yoluyla aşılması gerektiği mesajını taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5686014/pexels-photo-5686014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T23:01:15.428Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-kurdish-leader-calls-on-krg-and-iraq-s-federal-govt-to-meet-resolve-disputes/3865907",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773611708720a4o69",
         "title": "İran'ın Suudi Arabistan Büyükelçisi, petrol tesislerine yönelik saldırıları yalanladı",
         "summary": "İran'ın Suudi Arabistan Büyükelçisi Alireza Enayati, ülkesinin petrol tesislerine yönelik saldırı iddialarını kesin bir dille yalanladı. Büyükelçi Enayati, Suudi Arabistan ile ilişkilerin \"doğal bir şekilde ilerlediğini\" ve iki ülke arasındaki diplomatik bağların güçlendiğini belirtti. Enayati, Suudi yetkililerle sürekli temas halinde olduğunu ve karşılıklı anlayışın devam ettiğini ifade etti. Bu açıklama, iki Orta Doğu gücü arasındaki normalleşme sürecinin olumlu yönde ilerlediğini gösteriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1773496778461l7hcl",
-        "title": "ABD neden İran'ın Harg Adası'nı hedef aldı?",
-        "summary": "ABD'nin İran'ın Harg Adası'nı neden hedef aldığına dair bir analiz sunulmaktadır. Harg Adası, İran'ın enerji altyapısının en kritik parçalarından birine ev sahipliği yapmaktadır. Bu küçük ada, ülkenin petrol ihracatı operasyonları için hayati bir merkez olup, İran ekonomisi için stratejik öneme sahiptir. ABD'nin bu tür önemli bir konumu hedef alması, bölgesel güvenlik dinamikleri ve uluslararası ilişkiler bağlamında potansiyel bir gerilimi veya stratejik bir hamleyi işaret etmektedir. Bu durumun küresel enerji piyasaları ve Orta Doğu'nun jeopolitik dengeleri üzerinde geniş çaplı etkileri olabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16852979/pexels-photo-16852979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T13:59:38.461Z",
-        "location": {
-            "lat": 29.23,
-            "lng": 50.33,
-            "name": "Harg Adası, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
