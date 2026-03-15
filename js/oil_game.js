@@ -46,6 +46,11 @@ let guaranteedPrize = "0";
 let activeQuestions = []; // O anki oyun için rastgele seçilen 12 soru
 let isAnswerLocked = false; // Tıklama spamini önlemek için
 
+// JOKER DURUMLARI (Global Değişkenler)
+let used50 = false;
+let usedPhone = false;
+let usedAudience = false;
+
 // 4. Oyunu Başlat
 function startOilGame() {
     currentQuestionIndex = 0;
@@ -53,7 +58,15 @@ function startOilGame() {
     isAnswerLocked = false;
     document.getElementById('oilCurrentPrize').innerText = "0 Varil";
     
-    // Rastgele 12 soru seç (2 Kolay, 5 Orta, 5 Zor)
+    // YENİ EKLENEN: Jokerleri Sıfırla
+    used50 = false;
+    usedPhone = false;
+    usedAudience = false;
+    document.getElementById('ll-50').classList.remove('used');
+    document.getElementById('ll-phone').classList.remove('used');
+    document.getElementById('ll-audience').classList.remove('used');
+
+    // Rastgele 12 soru seç
     activeQuestions = [
         ...shuffleArray([...oilQuestionPool.easy]).slice(0, 2),
         ...shuffleArray([...oilQuestionPool.medium]).slice(0, 5),
