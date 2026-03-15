@@ -1,5 +1,69 @@
 [
     {
+        "id": "17735896630630vyj2",
+        "title": "Trump'tan Hürmüz Boğazı İçin Deniz Koalisyonu Çağrısı",
+        "summary": "ABD Başkanı Donald Trump'ın, stratejik Hürmüz Boğazı'nı uluslararası deniz trafiğine açık tutmak ve güvenliğini sağlamak amacıyla bir deniz koalisyonu oluşturulması çağrısında bulunduğu belirtildi. Bu çağrı, bölgedeki gerilimin arttığı bir dönemde geldi. Ancak analistler, ABD başkanının boğazın güvenliğini sağlamaya yönelik bu çözüm önerisinin uygulanabilirliği konusunda ciddi sorunlar barındırdığını ifade ediyor. Uzmanlar, böyle bir koalisyonun kurulmasının diplomatik ve lojistik zorluklarla karşılaşabileceği uyarısında bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35372365/pexels-photo-35372365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T15:47:43.063Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/15/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17735896848742k9id",
+        "title": "İran Füzesinin Tel Aviv'i Vurduğu Anlar Güvenlik Kameralarına Yansıdı",
+        "summary": "İsrail polisi tarafından kamuoyuna duyurulan güvenlik kamerası görüntülerinde, bir İran füzesinin Tel Aviv'deki bir caddeye isabet ettiği anlar kaydedildi. Yayımlanan görüntüler, füzenin düşüş anını ve çevredeki etkiyi net bir şekilde gözler önüne seriyor. Bu olay, İsrail ve İran arasındaki mevcut gerilimin somut bir yansıması olarak değerlendiriliyor. Güvenlik güçleri, olayın ardından bölgede incelemelerde bulunurken, görüntüler uluslararası kamuoyunda geniş yankı uyandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30765227/pexels-photo-30765227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T15:48:04.874Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/moment-iranian-missile-hits-tel-aviv?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1773589705482cxbtd",
+        "title": "İspanya-Arjantin 'Finalissima' Maçı Çatışma Nedeniyle Katar'da İptal Edildi",
+        "summary": "Katar'da düzenlenmesi planlanan İspanya ile Arjantin arasındaki 'Finalissima' futbol maçı iptal edildi. Katar Futbol Festivali kapsamında oynanması beklenen karşılaşmanın, bölgedeki mevcut gerilimler nedeniyle yapılamayacağı açıklandı. İptal kararının, ABD ve İsrail'in İran'a yönelik devam eden savaşı olarak belirtilen çatışma ortamı sebebiyle alındığı bildirildi. Bu durum, Orta Doğu'daki siyasi ve askeri gerginliklerin spor etkinlikleri üzerindeki etkisini gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T15:48:25.482Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/15/spain-v-argentina-finalissima-match-in-qatar-cancelled-amid-conflict?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17735897764959xsa0",
+        "title": "Finalissima 2026 Katar'da Bölgesel Gerilim Nedeniyle İptal Edildi",
+        "summary": "Finalissima 2026 futbol karşılaşmasının Katar'da düzenlenmesi planlanıyordu. Ancak, bölgedeki mevcut gerilimler nedeniyle organizasyonun iptal edildiği duyuruldu. UEFA tarafından yapılan açıklamada, Katar'daki maçın iptal edilmesinin ardından Arjantin ile alternatif bir tarih veya mekan konusunda anlaşmaya varılamadığı belirtildi. Bu karar, bölgedeki güvenlik endişelerinin uluslararası etkinlikler üzerindeki etkisini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32663965/pexels-photo-32663965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T15:49:36.495Z",
+        "location": {
+            "lat": 25.3,
+            "lng": 51.5,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/finalissima-2026-in-qatar-cancelled-amid-tension-in-region/3865631",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17735832636839mpwg",
         "title": "İran'a Yönelik Savaşın İlk İki Haftası Geleceğe Ne Vadediyor?",
         "summary": "Orta Doğu'da, İran'a karşı olası bir savaşın ilk iki haftasının ardından yeni ve kritik dinamikler ortaya çıkmaktadır. Bu gelişmeler, bölgenin coğrafi ve siyasi yapısını köklü bir şekilde yeniden şekillendirme potansiyeli taşımaktadır. Bölgesel güç dengeleri ve uluslararası ilişkiler üzerinde önemli etkiler yaratması beklenen bu süreç, gelecekteki gelişmelere dair belirsizlikleri artırmaktadır. Uzmanlar, ortaya çıkan bu dinamiklerin uzun vadeli sonuçlarını yakından takip etmektedir.",
@@ -732,70 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/23-killed-in-israeli-airstrikes-on-lebanon-since-early-saturday/3864318",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773475361751qavji",
-        "title": "Bağdat'taki ABD Büyükelçiliği Füze Saldırısına Uğradı",
-        "summary": "Irak'ın başkenti Bağdat'ta bulunan ABD Büyükelçiliği'ne yönelik bir füze saldırısı gerçekleştirildi. Saldırıda büyükelçilik yerleşkesindeki helikopter pistinin hedef alındığı bildirildi. Güvenlik kaynaklarından alınan bilgilere göre, füze saldırısı sonucunda misyonda maddi hasar meydana geldi. Olayın ardından büyükelçilik binasından dumanların yükseldiği gözlemlendi. Saldırının sorumluluğunu henüz üstlenen olmadı ve olayla ilgili detaylı incelemeler sürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T08:02:41.751Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "177347538298411vcs",
-        "title": "İsrail'in Güney Lübnan Saldırısında 12 Sağlık Çalışanı Hayatını Kaybetti",
-        "summary": "İsrail'in güney Lübnan'a düzenlediği bir saldırıda 12 sağlık çalışanı yaşamını yitirdi. Saldırıda görev başında olan doktorlar, paramedikler ve hemşireler hedef alındı. Bu olay, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Haber ajansları, saldırının İsrail'in Gazze'de neden olduğu benzer olayları hatırlattığını belirtti. Bölgede devam eden savaş, insani krizleri derinleştirmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700176/pexels-photo-5700176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T08:03:02.984Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773475411235s6h6i",
-        "title": "Bağdat'taki ABD Büyükelçiliği'ne Roketli Saldırı Düzenlendi",
-        "summary": "Irak'ın başkenti Bağdat'ta bulunan ABD Büyükelçiliği'ne roketli saldırı düzenlendiği bildirildi. Yerel medya kaynaklarına göre, saldırı sonucunda büyükelçiliğin C-RAM hava savunma sistemi tamamen kullanılamaz hale geldi. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, bölgedeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/256297/pexels-photo-256297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T08:03:31.235Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/rocket-attack-targets-us-embassy-in-baghdad-damages-defense-system/3864214",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17734731635917vcjl",
-        "title": "ABD, İran'ın Harg Adası'ndaki Askeri Bölgelere Saldırı Düzenledi",
-        "summary": "ABD güçleri, İran'ın Basra Körfezi'nde yer alan ve ülkenin önemli petrol tesislerine ev sahipliği yapan Harg Adası'ndaki askeri bölgelere saldırı düzenledi. Bu saldırı, bölgedeki gerilimi artırdı. Tahran yönetimi, adadaki petrol yapılarının hedef alınması durumunda ABD bağlantılı petrol tesislerini 'kül yığınına' çevirme tehdidinde bulundu. İran'dan yapılan açıklamada, bu tür bir eylemin ciddi sonuçları olacağı vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4764311/pexels-photo-4764311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T07:26:03.591Z",
-        "location": {
-            "lat": 29.23,
-            "lng": 50.33,
-            "name": "Harg Adası, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
