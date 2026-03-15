@@ -1317,3 +1317,8 @@ body {
 .ladder-step.milestone.passed .step-val { color: #2ecc71 !important; }
 
 .ladder-step.active.milestone .step-val { color: #000 !important; }
+
+/* Kullanılmış jokerlerdeki üst üste binen X (çarpı) işaretini kaldır */
+.lifeline-btn.used::after {
+    display: none !important;
+}
