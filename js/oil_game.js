@@ -410,6 +410,18 @@ function checkOilAnswer(btn, selectedOption, correctAnswer) {
 
         } else {
             // YANLIŞ CEVAP
+           // --- ÇİFT CEVAP (KALKAN) KONTROLÜ ---
+        if (isDoubleChanceActive) {
+            isDoubleChanceActive = false; // Kalkanı kullandık
+            btn.className = "oil-option wrong"; // Şıkkı kırmızı yap
+            btn.disabled = true; // Bu yanlış şıkka bir daha basamasın
+            isAnswerLocked = false; // Kilidi aç ki başka şık seçebilsin
+            
+            // Seçilen şıkkın içindeki metni sarıdan beyaza çekelim (opsiyonel ama şık durur)
+            btn.style.color = "#fff"; 
+            
+            return; // FONKSİYONDAN ÇIK! (Aşağıdaki oyunu bitiren kodlar çalışmasın)
+        }
             btn.className = "oil-option wrong";
             
             // Doğru cevabı bul ve yeşil yap
@@ -592,3 +604,17 @@ function useAudience() {
 
     showJokerModal("👥 İstihbarat Raporu", html);
 }
+// ÇİFT CEVAP JOKERİ AKTİF ETME
+document.getElementById('ll-double').addEventListener('click', () => {
+    // Eğer zaten kullanıldıysa, 7. sorudan küçükse veya cevap kilitliyse bir şey yapma
+    if (usedDouble || currentQuestionIndex < 6 || isAnswerLocked) return;
+    
+    isDoubleChanceActive = true;
+    usedDouble = true;
+    
+    // Butonu görsel olarak "kullanıldı" yap
+    document.getElementById('ll-double').classList.add('used');
+    
+    // Oyuncuya moral verelim
+    showJokerModal("🛡️ Çelik Zırh Aktif", "Bu soruda iki kez deneme hakkın var. İlk yanlışında kuyu patlamayacak, ikinci bir şık seçebileceksin!");
+});
