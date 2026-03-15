@@ -276,6 +276,8 @@ let isAnswerLocked = false; // Tıklama spamini önlemek için
 let used50 = false;
 let usedPhone = false;
 let usedAudience = false;
+let usedDouble = false;
+let isDoubleChanceActive = false;
 
 // 4. Oyunu Başlat
 function startOilGame() {
@@ -291,6 +293,11 @@ function startOilGame() {
     document.getElementById('ll-50').classList.remove('used');
     document.getElementById('ll-phone').classList.remove('used');
     document.getElementById('ll-audience').classList.remove('used');
+   usedDouble = false;
+    isDoubleChanceActive = false;
+    const doubleBtn = document.getElementById('ll-double');
+    doubleBtn.classList.remove('used');
+    doubleBtn.classList.add('locked');
 
     // Rastgele 12 soru seç
     activeQuestions = [
@@ -325,6 +332,21 @@ function renderLadder() {
 // 6. Soruyu Ekrana Yükle
 function loadQuestion() {
     if (currentQuestionIndex >= 12) return; // Oyun bitti
+   // --- ÇİFT CEVAP KİLİDİ KONTROLÜ ---
+    const doubleBtn = document.getElementById('ll-double');
+    if (currentQuestionIndex >= 6) { // 7. soru ve sonrası (30.000 varil barajı)
+        doubleBtn.classList.remove('locked');
+        doubleBtn.style.opacity = "1";
+        doubleBtn.style.pointerEvents = "auto";
+        doubleBtn.style.filter = "none";
+    } else {
+        doubleBtn.classList.add('locked');
+        doubleBtn.style.opacity = "0.3";
+        doubleBtn.style.pointerEvents = "none";
+        doubleBtn.style.filter = "grayscale(1)";
+    }
+    // Her yeni soruda aktiflik durumunu sıfırla
+    if (typeof isDoubleChanceActive !== 'undefined') isDoubleChanceActive = false;
 
     isAnswerLocked = false;
     const qData = activeQuestions[currentQuestionIndex];
