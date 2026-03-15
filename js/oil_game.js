@@ -98,7 +98,17 @@ function loadQuestion() {
     for (let i = 0; i < 4; i++) {
         const btn = document.getElementById(`opt-${i}`);
         btn.innerHTML = `<span class="opt-letter">${letters[i]}:</span> <span class="opt-text">${shuffledOptions[i]}</span>`;
-        btn.className = "oil-option"; // Stilleri sıfırla
+        
+        // Sınıfları ve satır içi stilleri tamamen sıfırla
+        btn.className = "oil-option"; 
+        
+        // --- YENİ EKLENEN: Eski sorudan kalan renkleri temizle ---
+        btn.style.background = "";
+        btn.style.borderColor = "";
+        btn.style.color = "";
+        btn.style.visibility = "visible"; // İleride %50 jokeri için gerekecek
+        // --------------------------------------------------------
+
         btn.disabled = false;
         
         // Tıklama olayı
