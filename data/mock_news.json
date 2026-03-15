@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773553508233iw6uw",
+        "title": "Suriye'de Esad Karşıtı Ayaklanmanın 15. Yılında Güvenlik Sorunları Sürüyor",
+        "summary": "Suriye'de 2011 yılında başlayan ve Beşar Esad yönetimine karşı yapılan ayaklanmanın 15. yılı anılıyor. Haber içeriğine göre, Suriye halkı, 2024 yılında Beşar Esad'ın iktidarına son veren bu ayaklanmanın başlangıcını kutluyor. Ancak, ülkedeki güvenlik sorunları hala devam ediyor. Bu durum, ayaklanmanın üzerinden geçen uzun süreye rağmen bölgedeki istikrarsızlığın sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30786526/pexels-photo-30786526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T05:45:08.233Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1773553528901rrrx9",
+        "title": "Irak'taki ABD Üssüne FPV Drone Saldırısı",
+        "summary": "Irak'ın başkenti Bağdat'ta bulunan ABD'ye ait Victory Üssü'ne yönelik bir FPV drone saldırısı gerçekleşti. Saldırının sorumluluğunu İran destekli Irak'taki Kataib Hizbullah üstlendi. Grup, saldırıya ait drone görüntülerini de kamuoyuyla paylaştı. Olay, bölgedeki güvenlik gerilimlerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/22500569/pexels-photo-22500569.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T05:45:28.901Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773518339804m2unj",
         "title": "AB, Rusya Yaptırımlarını Uzattı; Orta Doğu Savaşı Küresel Enerji Piyasalarını Etkiliyor",
         "summary": "Avrupa Birliği (AB), Rusya'ya yönelik yaptırımlarını uzatma kararı aldı. Bu karar, Ukrayna'da düzenlenen saldırılarda altı kişinin hayatını kaybetmesinin ardından geldi. AB, Rusya üzerindeki baskıyı sürdürürken, ABD'yi Rus petrol ihracatına yönelik yaptırımları kaldırdığı için eleştirdi. Bu gelişmeler, Orta Doğu'daki savaşın küresel enerji piyasaları üzerindeki etkisinin arttığı bir dönemde yaşanıyor. Orta Doğu'daki çatışmaların enerji politikaları ve uluslararası ilişkiler üzerindeki belirgin etkisi, AB'nin kararlarında da hissediliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/opinions/2026/3/13/the-bad-leader-trap?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773395981723ky5kb",
-        "title": "Umman'da Drone Saldırısında İki Kişi Hayatını Kaybetti, Suudi Arabistan'a da Saldırılar Düzenlendi",
-        "summary": "Umman'ın Sohar vilayetinde düzenlenen drone saldırılarında iki yabancı uyruklu kişi hayatını kaybetti, çok sayıda kişi de yaralandı. Devlet haber ajansı tarafından bildirilen bilgilere göre, saldırılar Sohar bölgesini hedef aldı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Aynı zamanda, Suudi Arabistan'a yönelik de birden fazla drone saldırısı gerçekleştirildiği belirtildi. Saldırıların sorumluluğunu henüz üstlenen olmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2152/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T09:59:41.723Z",
-        "location": {
-            "lat": 24.3,
-            "lng": 56.7,
-            "name": "Sohar, Umman"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/13/two-killed-in-oman-by-drones-several-also-fired-at-saudi-arabia?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773396003851hym32",
-        "title": "ABD'li Milletvekilleri Hind Rajab İçin Adalet Yasası Teklifini Sundu",
-        "summary": "ABD Kongresi'nde bir grup milletvekili, Gazze'de İsrail saldırıları sırasında hayatını kaybeden altı yaşındaki Filistinli kız çocuğu Hind Rajab'ın anısına 'Hind Rajab İçin Adalet Yasası' başlıklı bir yasa tasarısı sundu. Tasarı, Rajab'ın ölümüyle ilgili bağımsız bir soruşturma yapılmasını talep ediyor ve olayda sorumluluğu olanların hesap vermesini amaçlıyor. Bu yasa teklifi, İsrail'in Gazze'deki askeri operasyonları sırasında sivillerin korunması ve uluslararası hukukun ihlalleri iddiaları konusunda ABD'nin tutumunu sorgulayan tartışmaları yeniden alevlendirdi. Teklif, özellikle çocukların çatışma bölgelerindeki güvenliğine dikkat çekerek, bölgedeki insan hakları ihlallerine yönelik uluslararası baskıyı artırmayı hedefliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13748655/pexels-photo-13748655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T10:00:03.851Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/us-lawmakers-introduce-justice-for-hind-rajab-act-2?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
