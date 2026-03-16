@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773690221938q3hq5",
+        "title": "Trump'tan Hürmüz Boğazı Açıklaması: Müttefikler Askeri Eylemi Reddediyor",
+        "summary": "ABD Başkanı Trump, Hürmüz Boğazı'nda ticaret yolunu açmak için deniz koalisyonu çağrısına yanıt veren ülkelerin 'yolda olduğunu' belirtti. Ancak Trump, bu ülkelerin hangileri olduğunu açıklamaktan kaçındı. Açıklama, ABD'nin müttefiklerinin bölgede askeri bir eyleme karşı çıktığı bir dönemde geldi. Hürmüz Boğazı, küresel petrol ticareti için hayati öneme sahip bir geçiş noktasıdır ve bölgedeki gerilimlerin odak noktası olmaya devam etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18844210/pexels-photo-18844210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T19:43:41.938Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Umman Denizi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773690244536kjqc9",
+        "title": "ABD ile Görev Yapan Afgan Sığınmacının ICE Gözaltında Ölümü Tepkilere Neden Oldu",
+        "summary": "ABD ile birlikte görev yapmış Afgan sığınmacı Mohommad Nazeer Paktyawal'ın ABD Göçmenlik ve Gümrük Muhafaza (ICE) gözaltında hayatını kaybetmesi büyük tepkilere yol açtı. Paktyawal'ın gözaltına alındıktan 24 saatten kısa bir süre sonra yaşamını yitirmesi üzerine ailesi ve insan hakları savunucuları olayın tam olarak soruşturulması çağrısında bulundu. Bu olay, ABD'nin Afganistan'daki askeri operasyonlarında görev alan ve daha sonra sığınma arayışıyla ülkeye gelen kişilerin durumunu bir kez daha gündeme getirdi. Söz konusu ölüm, ABD'nin göçmenlik politikaları ve gözaltı merkezlerindeki koşullar hakkında endişeleri artırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/1036381/pexels-photo-1036381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T19:44:04.536Z",
+        "location": {
+            "lat": 39.8283,
+            "lng": -98.5795,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/outrage-as-afghan-asylum-seeker-who-fought-alongside-us-dies-in-ice-custody?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17736903599557jc85",
+        "title": "Abu Dabi'deki Şah petrol sahasında insansız hava aracı saldırısı sonrası yangın çıktı",
+        "summary": "Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de bulunan Şah petrol sahasında bir insansız hava aracı saldırısı meydana geldi. Saldırının ardından petrol sahasında yangın çıktığı bildirildi. Yetkililer, olayın ardından çıkan yangının kontrol altına alındığını ve herhangi bir can kaybı veya yaralanma yaşanmadığını açıkladı. Güvenlik güçleri, saldırının faillerini ve detaylarını belirlemek üzere soruşturma başlattı. Bölgedeki enerji altyapısına yönelik bu tür saldırılar, güvenlik endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16862261/pexels-photo-16862261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T19:45:59.955Z",
+        "location": {
+            "lat": 23.6,
+            "lng": 53.7,
+            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/fire-erupts-at-shah-oil-field-in-abu-dhabi-after-drone-attack/3867211",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1773677852278uqqet",
         "title": "İran Savaşı Sonrası Rus Petrolü ve ABD Kararı",
         "summary": "İran'a yönelik savaşın ardından küresel enerji piyasalarında yaşanan yükseliş, denizde mahsur kalan Rus petrolünün durumunu gündeme getirdi. ABD, artan enerji fiyatları karşısında bu Rus petrolünün alımına izin verme kararı aldı. Bu gelişme, Rusya'nın İran'daki savaştan ekonomik olarak fayda sağlayıp sağlamadığı sorusunu ortaya çıkardı. ABD'nin bu adımı, küresel enerji arzı ve fiyat istikrarı üzerindeki potansiyel etkileriyle dikkat çekiyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "177356839472247ydw",
-        "title": "Toronto'da Kudüs Günü Mitingi: İran ve Lübnan'daki Savaşın Sona Ermesi Çağrısı",
-        "summary": "Kanada'nın Toronto kentinde düzenlenen Kudüs Günü mitinginde göstericiler bir araya geldi. Mitingde, ABD ve İsrail'in İran ve Lübnan'a yönelik saldırıları kınandı. Katılımcılar, bölgedeki savaşın sona ermesi yönünde çağrıda bulunarak, Orta Doğu'daki gerilimin azaltılması talebini dile getirdi. Etkinlik, Filistin davasına destek ve bölgesel çatışmalara karşı duruş sergilemek amacıyla düzenlendi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1464228/pexels-photo-1464228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:53:14.722Z",
-        "location": {
-            "lat": 43.6532,
-            "lng": -79.3832,
-            "name": "Toronto, Kanada"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/al-quds-day-rally-in-toronto-calls-for-an-end-to-the-war-in-iran-lebanon?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1773568415500gdd36",
-        "title": "İran'ın Minab Kentinde Bir Okul Füze Saldırısıyla Hedef Alındı",
-        "summary": "İran'ın Minab kentinde bir okulun hedef alınması ve çocukların toplu şekilde öldürülmesi olayı uluslararası kamuoyunda yankı buldu. Haberde, dünyanın en hassas füzelerinden birinin bir sınıfı vurmasıyla gerçekleştiği belirtilen bu eylemlerin savaş suçu teşkil ettiği vurgulandı. Uluslararası hukuka göre, okulların hedef alınması ve çocukların katledilmesi kabul edilemez ihlaller olarak değerlendirilmektedir. Olayın sorumlularının tespit edilerek hesap vermesi gerektiği çağrısı yapıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:53:35.500Z",
-        "location": {
-            "lat": 27.15,
-            "lng": 57.08,
-            "name": "Minab, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773568441699q7p6q",
-        "title": "İsrail Ordusu'nun İran'a Yönelik Saldırıları Sonrası Hamedan ve İsfahan'da Patlama Sesleri Duyuldu",
-        "summary": "İsrail ordusu, İran'ın batı bölgelerine yönelik \"geniş çaplı\" bir saldırı dalgası başlattığını açıkladı. Bu açıklamanın ardından, İran'ın Hamedan ve İsfahan şehirlerinde patlama sesleri duyulduğu bildirildi. Saldırıların tam hedefleri ve yol açtığı sonuçlar hakkında henüz detaylı bilgi verilmedi. Bölgedeki güvenlik kaynakları, durumun yakından takip edildiğini ve gerilimin arttığını belirtiyor. Bu olay, Orta Doğu'daki mevcut siyasi ve askeri gerilimi daha da tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/572470/pexels-photo-572470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:54:01.699Z",
-        "location": {
-            "lat": 32.7,
-            "lng": 51.7,
-            "name": "İsfahan, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-hamedan-isfahan-as-israeli-army-launches-new-attacks-in-iran/3865325",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
