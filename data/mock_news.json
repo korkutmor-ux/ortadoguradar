@@ -1,5 +1,229 @@
 [
     {
+        "id": "1773734864054bf5gl",
+        "title": "İsrail Saldırıları Lübnan'daki Filistinli Mültecileri Yeni Bir Yerinden Edilme Tehdidiyle Karşı Karşıya Bıraktı",
+        "summary": "İsrail'in Lübnan'a düzenlediği saldırılar, bölgedeki Filistinli mülteciler arasında yeni bir yerinden edilme endişesi yaratmıştır. Lübnan'daki Filistinli mülteciler, devam eden savaş koşulları altında güvensizlik ve travma ile mücadele etmektedir. Saldırıların hedefi olan mülteci kamplarında yaşam koşulları ağırlaşmakta ve insani kriz derinleşmektedir. Bu durum, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne sermektedir. Uluslararası kuruluşlar, mültecilerin korunması ve insani yardımların ulaştırılması konusunda çağrıda bulunmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27395744/pexels-photo-27395744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:07:44.054Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/17/palestinian-refugees-face-new-displacement-as-israels-bombs-hit-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773734890827spmoy",
+        "title": "İran'ın Gemileri Hedef Alması: ABD-İsrail Gerilimi ve Bölgesel Güvenlik Endişeleri",
+        "summary": "Haber, İran'ın ABD saldırılarına misilleme olarak gemileri hedef aldığı iddialarını ele alıyor. Bu durum, ABD ve İsrail'in İran'a karşı yürüttüğü belirtilen çatışmanın devam eden bir parçası olarak değerlendiriliyor. Bölgedeki gerilimin tırmanmasıyla birlikte, bu gelişmeler 1980'lerdeki \"tanker savaşı\" dönemini anımsatan bir senaryoyu akıllara getiriyor. Haberde, ABD'nin İran'ın bu tür eylemlerini durdurup durduramayacağı sorusu üzerinde duruluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4016667/pexels-photo-4016667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:08:10.827Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/project-force-2/2026/3/17/iran-is-targeting-ships-in-response-to-us-attacks-can-the-us-stop-them?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17737349292148rct4",
+        "title": "İsrail Saldırıları Beyrut ve Güney Lübnan'ı Hedef Aldı, Bir Milyon Kişi Yerinden Edildi",
+        "summary": "İsrail güçlerinin Beyrut'un güneyindeki üç mahalleye yönelik saldırılar düzenlediği bildirildi. Lübnan'ın güneyinde ise çatışmaların yoğunlaştığı ve Hizbullah ile İsrail ordusu arasında şiddetli çatışmaların yaşandığı belirtildi. Bölgedeki gerilimin artmasıyla birlikte bir milyon kişinin yerinden edildiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640807/pexels-photo-7640807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:08:49.214Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/israeli-strikes-target-beirut-southern-lebanon-one-million-displaced?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773734952770qx67z",
+        "title": "İran Savaşı: ABD-İsrail Saldırılarının 18. Gününde Neler Yaşanıyor?",
+        "summary": "ABD ve İsrail'in İran şehirlerini hedef alan saldırıları 18. gününe girerken, bölgedeki çatışmaların yayılma eğilimi gösterdiği bildirildi. Bu gerilim, Orta Doğu coğrafyasında istikrarsızlığı artırırken, küresel enerji piyasaları üzerinde de ciddi baskı oluşturuyor. Saldırıların İran'ın kritik altyapılarına yönelik olduğu ve sivil kayıplara yol açabileceği endişeleri dile getiriliyor. Uluslararası toplum, çatışmanın daha geniş bir bölgesel savaşa dönüşmesini engellemek amacıyla diplomatik çabalarını sürdürüyor ancak tırmanan gerilim, küresel bir enerji krizini tetikleme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/737471/pexels-photo-737471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:09:12.770Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran Şehirleri, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773734978200pcoiv",
+        "title": "Trump'ın Güveni Sarsılmaz Ancak Her İran Seçeneği Risk Taşıyor",
+        "summary": "ABD Başkanı Trump'ın İran'a yönelik politikaları ve olası seçenekleri, önemli riskler barındırmaktadır. Başkanın bu konudaki güveni devam etse de, her bir adımın ciddi sonuçları olabileceği belirtiliyor. Genel olarak, devam eden bir savaşın hızlı bir çözüme ulaşma ihtimali her geçen gün azalmaktadır. Bu durum, başkan için siyasi riskleri artırmakta ve dış politika gündemini daha da karmaşık hale getirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7760175/pexels-photo-7760175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:09:38.200Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735001102fx2qe",
+        "title": "'Annem son bir kez çığlık attı': 12 yaşındaki Filistinli çocuk, İsrail güçlerinin ailesini arabada nasıl öldürdüğünü anlattı",
+        "summary": "İşgal altındaki Batı Şeria'da alışveriş dönüşü evlerine giden Filistinli Khaled Bani Odeh'in ailesi, İsrail güçleri tarafından açılan ateş sonucu hayatını kaybetti. 12 yaşındaki Khaled, anne ve babası ile iki erkek kardeşinin araçlarında vurularak öldürüldüğünü anlattı. Olay, bölgedeki gerilimi ve sivil kayıpları bir kez daha gündeme getirdi. Filistinli çocuk, ailesinin son anlarına tanıklık ettiğini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6090781/pexels-photo-6090781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:10:01.102Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735022870sfhmg",
+        "title": "Temkinli Müttefikler, Trump'ın İran Krizine Hızlı Bir Çözüm Olmadığını Gösteriyor",
+        "summary": "Avrupa liderleri, eski ABD Başkanı Trump dönemindeki İran krizinde Hürmüz Boğazı'nın güvenliğini sağlamak için ABD'ye yardım etme konusunda isteksiz davranmaktadır. Ancak aynı zamanda, İran ile ilgili potansiyel bir çatışmada eylemsiz kalmanın da bir seçenek olmadığının farkında oldukları belirtiliyor. Bu durum, müttefikler arasında İran politikası ve bölgesel güvenlik konusunda farklı yaklaşımların olduğunu ortaya koymaktadır. Bölgedeki gerilimin devam ettiği ve uluslararası aktörlerin çözüm arayışlarının karmaşık bir hal aldığı ifade edilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10629465/pexels-photo-10629465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:10:22.870Z",
+        "location": {
+            "lat": 26,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17737350443440693d",
+        "title": "İsrail, Lübnan'da 'sınırlı' kara operasyonlarının devam ettiğini duyurdu",
+        "summary": "İsrail ordusu, Lübnan'ın güneyinde 'sınırlı' kara operasyonları başlattığını bildirdi. Yapılan açıklamada, operasyonların Hizbullah'ın bölgedeki mevzilerini hedef aldığı belirtildi. Pazartesi günü düzenlenen saldırılarda dokuz kişinin hayatını kaybettiği rapor edildi. Bu gelişmeler, İsrail ile Lübnan arasındaki gerilimi tırmandırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147132/pexels-photo-6147132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:10:44.344Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735065752ivmi1",
+        "title": "İngiltere Hürmüz Boğazı'nda Deniz Taşımacılığını Nasıl Destekleyebilir?",
+        "summary": "BBC Verify'den Ben Chu, İngiliz Kraliyet Donanması'nın Hürmüz Boğazı'nda deniz taşımacılığını destekleme potansiyelini inceledi. Bu çalışma, küresel enerji tedariki için hayati önem taşıyan bu stratejik su yolunda uluslararası deniz güvenliğinin nasıl sağlanabileceği üzerine odaklanıyor. İngiltere'nin bölgedeki ticari gemilerin emniyetli geçişini temin etme ve bölgesel istikrara katkıda bulunma yolları değerlendiriliyor. Kraliyet Donanması'nın potansiyel rolü, Orta Doğu'daki güvenlik dinamikleri ve uluslararası denizcilik faaliyetleri açısından önem arz ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/132200/pexels-photo-132200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:11:05.752Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/videos/cvgj29dgrxwo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735091234tbibm",
+        "title": "İranlı Yetkililer ABD ve İsrail'e Karşı İvme Kazandıklarını İddia Etti",
+        "summary": "İranlı yetkililer, ABD ve İsrail'e karşı bölgedeki gerilimin tırmandığı bir dönemde ivme kazandıklarını öne sürdü. Ülkenin üst düzey bir güvenlik yetkilisi, bu durumu 'tarihi bir zafer' olarak nitelendirdi. Meclis Başkanı ise İran'ın düşman planlarını etkisiz hale getirdiğini ve savunma kapasitesini artırdığını ifade etti. Bu açıklamalar, Tahran'ın bölgesel politikalarına ve güvenlik stratejilerine dair mesajlar olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7298634/pexels-photo-7298634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:11:31.234Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-officials-claim-momentum-against-us-israel-as-tensions-escalate/3867596",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735112322amqmp",
+        "title": "İsrail Ordusu, Güney Lübnan İçin Yeni Tahliye Emirleri Yayınladı",
+        "summary": "İsrail ordusu, Lübnan'ın güneyindeki Zahrani Nehri'nin güneyinde ikamet eden sivillerin bölgeyi derhal terk etmeleri yönünde yeni tahliye emirleri verdi. Askeri sözcü tarafından yapılan açıklamada, bölgede olası askeri operasyonların beklendiği belirtildi. Bu emirler, İsrail ile Lübnan arasındaki sınırda artan gerilimin ve karşılıklı saldırıların bir parçası olarak değerlendiriliyor. Bölgedeki sivillerin güvenliğini sağlamak amacıyla tahliye çağrısı yapıldığı ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19926830/pexels-photo-19926830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:11:52.322Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-new-evacuation-orders-for-southern-lebanon-ahead-of-strikes/3867583",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "177373513568497w1p",
+        "title": "İsrailli Yerleşimciler Ürdün Vadisi'nde Filistinli Bir Erkeğe Cinsel Saldırıda Bulundu",
+        "summary": "İsrail'in Haaretz gazetesinin haberine göre, Ürdün Vadisi'ndeki Khirbet Humsa bölgesine düzenlenen baskında İsrailli yerleşimciler Filistinli bir erkeğe cinsel saldırıda bulundu. Bölge sakinleri, maskeli yerleşimcilerin sivilleri darp edip bağladığını, çocukları öldürmekle ve kadınlara tecavüz etmekle tehdit ettiğini belirtti. Bu olay, bölgedeki İsrail-Filistin gerilimini artıran yerleşimci şiddeti vakalarına bir yenisini ekledi ve uluslararası insan hakları örgütlerinin dikkatini çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8553132/pexels-photo-8553132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:12:15.684Z",
+        "location": {
+            "lat": 32.3,
+            "lng": 35.5,
+            "name": "Khirbet Humsa, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-settlers-sexually-assault-palestinian-man-in-raid-in-jordan-valley-report/3867530",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735156734p5xry",
+        "title": "İran: Savaşın Sonucu Tweetlerle Belirlenemez",
+        "summary": "İran, savaşın sonucunun sosyal medya paylaşımlarıyla değil, sahada belirlendiğini açıkladı. İran ordusu birleşik muharip komutanlığı karargahı sözcüsü, bu açıklamaları ABD Başkanı Trump'a yönelik yaptı. Sözcü, savaşın akıbetinin sahadaki gelişmelerle şekillendiğini vurguladı. Bu açıklama, ABD ile İran arasındaki gerilimin devam ettiği bir dönemde geldi ve iki ülke arasındaki sözlü atışmaların bir parçası olarak değerlendirildi. İranlı yetkililer, ABD'nin bölgedeki politikalarına karşı duruşlarını bu tür açıklamalarla sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:12:36.734Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-outcome-of-war-cannot-be-determined-by-tweets/3867502",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773735178666ae8jq",
+        "title": "Suudi Arabistan Salı Sabahından Bu Yana 26 İHA'nın Düşürüldüğünü Duyurdu",
+        "summary": "Suudi Arabistan Savunma Bakanlığı, Salı sabahından bu yana 26 insansız hava aracının (İHA) düşürüldüğünü bildirdi. Bakanlık açıklamasında, bu İHA'ların ülkenin Doğu Bölgesi'nde tespit edilerek imha edildiği belirtildi. Söz konusu olay, Orta Doğu'daki silahlı çatışmaların devam ettiği bir dönemde yaşandı. Bu durum, krallığa yönelik hava tehditlerinin sürdüğüne işaret ediyor. Bakanlık, İHA'ların kaynağı hakkında detay vermedi ancak savunma önlemlerinin başarıyla uygulandığını vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6536172/pexels-photo-6536172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T08:12:58.666Z",
+        "location": {
+            "lat": 24.71,
+            "lng": 46.68,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-announces-downing-of-26-drones-since-early-tuesday/3867497",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17737258752216xvfj",
         "title": "Eski Deniz Piyadesi ve Savaş Karşıtı Protestocu: Trump'ın İsrail ve İran Politikaları Yanlış",
         "summary": "Eski deniz piyadesi Brian McGinnis, ABD'nin eski başkanı Donald Trump'ın İsrail ve İran'a yönelik politikalarını eleştirdi. Savaş karşıtı bir aktivist olan McGinnis, Trump'ın bu iki ülkeye ilişkin yaklaşımlarının hatalı olduğunu ifade etti. McGinnis, bu açıklamalarıyla ABD'nin Orta Doğu'daki dış politikasına dair farklı bir bakış açısı sundu. Bu tür eleştiriler, genellikle ABD'nin bölgedeki stratejileri ve müttefik ilişkileri üzerine yapılan tartışmaların bir parçası olarak değerlendirilmektedir.",
@@ -573,230 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17736117445438i98p",
-        "title": "Lübnan'da Yerinden Edilmiş Aileler Araçlarını Barınağa Dönüştürüyor",
-        "summary": "Lübnan'ın Sayda kentinde yerinden edilmiş aileler, zorlu yaşam koşulları altında araçlarını geçici barınaklara dönüştürmek zorunda kalıyor. Yağmurdan korunmak amacıyla araçlarının üzerini brandalarla kapatan aileler, temel barınma ihtiyaçlarını bu şekilde karşılamaya çalışıyor. Bu durum, bölgedeki yerinden edilmiş kişilerin karşılaştığı barınma sorunlarının ciddiyetini ve insani krizin boyutunu gözler önüne seriyor. Uluslararası yardım kuruluşları, bu ailelerin acil ihtiyaçlarının karşılanması için çağrıda bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6916080/pexels-photo-6916080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T21:55:44.543Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.37,
-            "name": "Sayda, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/displaced-families-in-lebanon-turn-vehicles-into-rain-soaked-shelters?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773608334931c4iy5",
-        "title": "Ukrayna, Orta Doğu'ya İHA Desteği Karşılığında Para ve Teknoloji Hedefliyor",
-        "summary": "Ukrayna'nın, Orta Doğu ülkelerine insansız hava aracı (İHA) desteği sağlamak karşılığında finansal kaynaklar ve teknoloji elde etmeyi hedeflediği bildirildi. Ukrayna lideri daha önce yaptığı açıklamalarda, İran'ın İHA saldırılarını engellemeye yardımcı olmak amacıyla Katar, Birleşik Arap Emirlikleri ve Suudi Arabistan'a danışmanlar gönderildiğini belirtmişti. Bu hamle, Ukrayna'nın savaş çabalarını desteklemek için yeni gelir ve teknoloji kaynakları arayışının bir parçası olarak değerlendiriliyor. Aynı zamanda, Orta Doğu'daki bölgesel güvenlik dinamiklerinde Ukrayna'nın potansiyel rolünü de ortaya koyuyor. Bu iş birliği, bölgedeki İHA tehditlerine karşı ortak bir savunma mekanizması oluşturma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T20:58:54.931Z",
-        "location": {
-            "lat": 25,
-            "lng": 48,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/15/money-technology-important-in-return-for-middle-east-support-zelenskyy?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773608374502fer4c",
-        "title": "İsrail askerlerinin işgal altındaki Batı Şeria'da bir aileyi öldürmesinin ardından iki kardeş hayatta kaldı",
-        "summary": "İşgal altındaki Batı Şeria'da trajik bir olay yaşandı. Tammun kasabasında İsrail askerlerinin düzenlediği operasyonda bir Filistinli aile hedef alındı. Olayda ailenin anne ve babası ile iki çocuğu hayatını kaybetti. Saldırıdan sadece iki Filistinli kardeş sağ kurtulmayı başardı. Bölgedeki gerilim devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T20:59:34.502Z",
-        "location": {
-            "lat": 32.325,
-            "lng": 35.408,
-            "name": "Tammun, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/two-brothers-survive-after-israeli-troops-kill-family-in-occupied-west-bank?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "17736084466872d9l3",
-        "title": "İsrail, Gazze'deki Refah Sınır Kapısı'nı Çarşamba Günü Yeniden Açacağını Duyurdu",
-        "summary": "İsrail, Gazze Şeridi ile Mısır arasındaki Refah Sınır Kapısı'nı Çarşamba günü yeniden açacağını bildirdi. Yapılan açıklamaya göre, sınır kapısından sınırlı sayıda kişinin geçişine izin verilecek. Bu geçişler, Mısır ile güvenlik koordinasyonu çerçevesinde gerçekleştirilecek. Ayrıca, Avrupa Birliği'nin denetiminde olacağı belirtildi. Refah Sınır Kapısı, Gazze'nin dış dünyaya açılan önemli kapılarından biri olarak biliniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6421276/pexels-photo-6421276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T21:00:46.687Z",
-        "location": {
-            "lat": 31.2917,
-            "lng": 34.2583,
-            "name": "Refah, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-says-to-reopen-gaza-s-rafah-crossing-on-wednesday/3865838",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773603944972g059o",
-        "title": "Mücbir Sebep Nedir ve Bazı Körfez Ülkeleri Neden Buna Başvuruyor?",
-        "summary": "Körfez ülkelerindeki bazı enerji üreticileri, deniz taşımacılığında yaşanan aksaklıklar nedeniyle petrol ve doğalgaz sevkiyatlarında mücbir sebep ilan etti. Mücbir sebep, sözleşmelerde öngörülen yükümlülüklerin, tarafların kontrolü dışındaki beklenmedik olaylar nedeniyle geçici olarak askıya alınmasını sağlayan yasal bir hükümdür. Bu durum, küresel enerji piyasalarında arz güvenliği ve fiyatlar üzerinde potansiyel etkiler yaratabilir. Karar, özellikle bölgedeki jeopolitik gerilimler ve deniz yollarındaki güvenlik endişeleri bağlamında önem taşımaktadır.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/3107189/pexels-photo-3107189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T19:45:44.972Z",
-        "location": {
-            "lat": 26,
-            "lng": 50,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/what-is-force-majeure-and-why-are-some-gulf-countries-invoking-it?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773604000820kgihv",
-        "title": "Netanyahu karşıtı sağ içinde farklı partiler 'yükselişte'",
-        "summary": "İsrail siyasetinde Başbakan Binyamin Netanyahu'nun popülaritesindeki dalgalanmalar dikkat çekiyor. Siyasi analist Dahlia Scheindlin, Netanyahu'nun destek oranlarındaki bu iniş çıkışların altında yatan nedenleri analiz etti. Habere göre, Netanyahu karşıtı sağ kanatta yeni partilerin veya grupların yükselişe geçtiği gözlemleniyor. Bu durum, İsrail'in iç siyasetinde önemli değişimlerin habercisi olarak yorumlanıyor. Scheindlin'in değerlendirmeleri, ülkedeki siyasi dinamiklerin anlaşılmasına ışık tutuyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/6044576/pexels-photo-6044576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T19:46:40.820Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/different-parties-on-the-rise-within-the-anti-netanyahu-right?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773604051630qxek9",
-        "title": "İsrail güçleri işgal altındaki Batı Şeria'da Filistinli bir çifti ve iki çocuğunu öldürdü",
-        "summary": "Filistin Sağlık Bakanlığı'nın bildirdiğine göre, işgal altındaki Batı Şeria'da yaşanan olaylarda Filistinli bir çift ile beş yaşındaki Mohammed ve yedi yaşındaki Othman adlı iki çocukları hayatını kaybetti. Bakanlık, ölümlerin İsrail güçleri tarafından gerçekleştirildiğini belirtti. Bu olay, bölgedeki gerilimi daha da artırdı ve uluslararası kamuoyunda endişelere yol açtı. Filistinli yetkililer, sivil kayıpların soruşturulması çağrısında bulunurken, İsrail tarafından henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/88692/pexels-photo-88692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T19:47:31.630Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773594136924p02e1",
-        "title": "El Cezire'nin ilk yüzü Cemal Reyyan 73 yaşında hayatını kaybetti",
-        "summary": "Filistinli sunucu Cemal Reyyan, 73 yaşında yaşamını yitirdi. Reyyan, 1996 yılında yayın hayatına başlayan El Cezire televizyonunun ilk haber bültenini sunan isim olarak tanınıyordu. Kanalın kuruluşunda önemli bir rol oynayan Reyyan, Arap dünyasında medya sektörünün önde gelen figürlerinden biriydi. Vefatı, bölge medyasında derin üzüntüyle karşılandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/2324364/pexels-photo-2324364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T17:02:16.924Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/15/jamal-rayyan-who-opened-al-jazeeras-first-broadcast-dies-at-73?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773594174708d0rkt",
-        "title": "ABD, Irak'taki yakıt ikmal uçağı kazasında ölen altı mürettebatın kimliklerini açıkladı",
-        "summary": "Amerika Birleşik Devletleri, Irak'ın batısında meydana gelen bir yakıt ikmal uçağı kazasında hayatını kaybeden altı mürettebatın kimliklerini duyurdu. Perşembe günü gerçekleşen kaza, uçağın İran'a yönelik devam eden ABD operasyonları kapsamında bir muharebe görevi sırasında meydana geldi. Olay, bölgedeki ABD askeri faaliyetlerinin ve gerilimin bir parçası olarak değerlendiriliyor. Kazanın nedenine ilişkin soruşturma başlatıldığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4149733/pexels-photo-4149733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T17:02:54.708Z",
-        "location": {
-            "lat": 33,
-            "lng": 41,
-            "name": "Batı Irak, Irak"
-        },
-        "source": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17735896630630vyj2",
-        "title": "Trump'tan Hürmüz Boğazı İçin Deniz Koalisyonu Çağrısı",
-        "summary": "ABD Başkanı Donald Trump'ın, stratejik Hürmüz Boğazı'nı uluslararası deniz trafiğine açık tutmak ve güvenliğini sağlamak amacıyla bir deniz koalisyonu oluşturulması çağrısında bulunduğu belirtildi. Bu çağrı, bölgedeki gerilimin arttığı bir dönemde geldi. Ancak analistler, ABD başkanının boğazın güvenliğini sağlamaya yönelik bu çözüm önerisinin uygulanabilirliği konusunda ciddi sorunlar barındırdığını ifade ediyor. Uzmanlar, böyle bir koalisyonun kurulmasının diplomatik ve lojistik zorluklarla karşılaşabileceği uyarısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35372365/pexels-photo-35372365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T15:47:43.063Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/15/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17735896848742k9id",
-        "title": "İran Füzesinin Tel Aviv'i Vurduğu Anlar Güvenlik Kameralarına Yansıdı",
-        "summary": "İsrail polisi tarafından kamuoyuna duyurulan güvenlik kamerası görüntülerinde, bir İran füzesinin Tel Aviv'deki bir caddeye isabet ettiği anlar kaydedildi. Yayımlanan görüntüler, füzenin düşüş anını ve çevredeki etkiyi net bir şekilde gözler önüne seriyor. Bu olay, İsrail ve İran arasındaki mevcut gerilimin somut bir yansıması olarak değerlendiriliyor. Güvenlik güçleri, olayın ardından bölgede incelemelerde bulunurken, görüntüler uluslararası kamuoyunda geniş yankı uyandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30765227/pexels-photo-30765227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T15:48:04.874Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/moment-iranian-missile-hits-tel-aviv?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1773589705482cxbtd",
-        "title": "İspanya-Arjantin 'Finalissima' Maçı Çatışma Nedeniyle Katar'da İptal Edildi",
-        "summary": "Katar'da düzenlenmesi planlanan İspanya ile Arjantin arasındaki 'Finalissima' futbol maçı iptal edildi. Katar Futbol Festivali kapsamında oynanması beklenen karşılaşmanın, bölgedeki mevcut gerilimler nedeniyle yapılamayacağı açıklandı. İptal kararının, ABD ve İsrail'in İran'a yönelik devam eden savaşı olarak belirtilen çatışma ortamı sebebiyle alındığı bildirildi. Bu durum, Orta Doğu'daki siyasi ve askeri gerginliklerin spor etkinlikleri üzerindeki etkisini gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T15:48:25.482Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/15/spain-v-argentina-finalissima-match-in-qatar-cancelled-amid-conflict?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17735897764959xsa0",
-        "title": "Finalissima 2026 Katar'da Bölgesel Gerilim Nedeniyle İptal Edildi",
-        "summary": "Finalissima 2026 futbol karşılaşmasının Katar'da düzenlenmesi planlanıyordu. Ancak, bölgedeki mevcut gerilimler nedeniyle organizasyonun iptal edildiği duyuruldu. UEFA tarafından yapılan açıklamada, Katar'daki maçın iptal edilmesinin ardından Arjantin ile alternatif bir tarih veya mekan konusunda anlaşmaya varılamadığı belirtildi. Bu karar, bölgedeki güvenlik endişelerinin uluslararası etkinlikler üzerindeki etkisini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32663965/pexels-photo-32663965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T15:49:36.495Z",
-        "location": {
-            "lat": 25.3,
-            "lng": 51.5,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/finalissima-2026-in-qatar-cancelled-amid-tension-in-region/3865631",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17735832636839mpwg",
-        "title": "İran'a Yönelik Savaşın İlk İki Haftası Geleceğe Ne Vadediyor?",
-        "summary": "Orta Doğu'da, İran'a karşı olası bir savaşın ilk iki haftasının ardından yeni ve kritik dinamikler ortaya çıkmaktadır. Bu gelişmeler, bölgenin coğrafi ve siyasi yapısını köklü bir şekilde yeniden şekillendirme potansiyeli taşımaktadır. Bölgesel güç dengeleri ve uluslararası ilişkiler üzerinde önemli etkiler yaratması beklenen bu süreç, gelecekteki gelişmelere dair belirsizlikleri artırmaktadır. Uzmanlar, ortaya çıkan bu dinamiklerin uzun vadeli sonuçlarını yakından takip etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/930711/pexels-photo-930711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T14:01:03.683Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
