@@ -1,5 +1,37 @@
 [
     {
+        "id": "177379166928476vlh",
+        "title": "CAF, Senegal'in AFCON Şampiyonluğunu İptal Etti, Fas Afrika Şampiyonu İlan Edildi",
+        "summary": "Afrika Futbol Konfederasyonu (CAF) temyiz kurulu, Senegal'in Afrika Uluslar Kupası (AFCON) finalinde hakem kararına itiraz ederek sahadan çekilmesi nedeniyle şampiyonluğunu kaybettiğine hükmetti. Bu kararla birlikte, daha önce finalde mücadele eden Fas, Afrika şampiyonu ilan edildi. Kurul, Senegal'in davranışını kural ihlali olarak değerlendirerek şampiyonluğu Fas'a verdi. Bu gelişme, Afrika futbolunda önemli bir tartışma konusu yarattı ve spor camiasında geniş yankı buldu.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/260606/pexels-photo-260606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T23:54:29.284Z",
+        "location": {
+            "lat": 34,
+            "lng": -6,
+            "name": "Fas"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773791694235fhels",
+        "title": "İrlanda'nın Gazze ve İran Politikaları, Başbakan Martin'in Pasiflik Eleştirileriyle Gündemde",
+        "summary": "İrlanda, Gazze'deki duruma ilişkin güçlü bir duruş sergilemekte ve İran konusunda da benzer şekilde kararlı bir tutum içindedir. Ancak İrlanda Başbakanı Micheal Martin, bu konulardaki pasifliği nedeniyle eleştirilere maruz kalmaktadır. Bu eleştiriler, Martin'in ABD'de eski Başkan Trump ile St. Patrick Günü'nde yaşadığı gergin anların arka planını oluşturmaktadır. İrlanda'nın Orta Doğu politikaları ve liderinin bu konudaki tutumu, uluslararası kamuoyunda yakından takip edilmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33722552/pexels-photo-33722552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T23:54:54.235Z",
+        "location": {
+            "lat": 53.3498,
+            "lng": -6.2603,
+            "name": "Dublin, İrlanda"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/irelands-micheal-martin-and-trump-in-awkward-st-patricks-day-exchange?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1773785040463n2kal",
         "title": "Trump: ABD'nin Hürmüz Boğazı'nda yardıma ihtiyacı yok",
         "summary": "ABD Başkanı Donald Trump, müttefiklerin bir koalisyona katılmayı reddetmesine rağmen, ABD'nin Hürmüz Boğazı'nda yardıma ihtiyacı olmadığını belirtti. Trump, bazı ülkelerin yolda olduğunu iddia etse de bu ülkelerin isimlerini açıklamadı. Bu açıklama, Orta Doğu'da stratejik öneme sahip olan ve küresel petrol ticareti için hayati bir geçit olan Hürmüz Boğazı'ndaki deniz güvenliği tartışmaları ve gerilimler bağlamında geldi. ABD, bölgede deniz güvenliğini sağlamak amacıyla uluslararası bir koalisyon oluşturma çabası içindeydi.",
@@ -764,38 +796,6 @@
             "name": "Doha, Katar"
         },
         "source": "https://www.aa.com.tr/en/middle-east/qatar-calls-on-iran-to-halt-attacks-on-gulf-countries/3866584",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17736630361531letq",
-        "title": "İran, ABD ile Savaşta 'Zafer' Beklediğini Açıkladı, Ateşkes Arayışını Reddetti",
-        "summary": "İran Dışişleri Bakanı, ABD ile yaşanan 'savaşta' zafer beklediklerini ve ateşkes arayışında olmadıklarını açıkladı. Bakan, bu çatışmanın düşmanların İran'ı işgal etme fikrinden vazgeçeceği ve ülkeye yönelik saldırıların bir daha tekrarlanmayacağı bir sonla bitmesi gerektiğini vurguladı. Bu açıklamalar, Tahran'ın Washington ile olan gerilimli ilişkilerinde uzlaşmacı bir tutum sergilemediğini gösteriyor. İranlı yetkililer, ulusal güvenliklerini ve egemenliklerini koruma konusundaki kararlılıklarını sıkça dile getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T12:10:36.153Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-expects-victory-in-war-with-us-denies-seeking-ceasefire/3866518",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773656111999jkrau",
-        "title": "İsrail ordusu güney Lübnan'da kara operasyonları başlattı",
-        "summary": "İsrail ordusu, güney Lübnan'da kara operasyonları başlattığını duyurdu. Yapılan açıklamada, İsrail güçlerinin güney Lübnan'daki kilit noktaları hedef aldığı ve ileri savunma bölgelerini genişletmeyi amaçladığı belirtildi. Bu operasyonların, bölgedeki güvenlik durumunu doğrudan etkileyeceği ve gerilimi artırabileceği ifade ediliyor. Gelişmeler yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:15:11.999Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Tyre, Lebanon"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/16/israeli-military-launches-limited-ground-operations-in-southern-lebanon?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
