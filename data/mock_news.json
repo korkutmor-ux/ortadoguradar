@@ -1,5 +1,69 @@
 [
     {
+        "id": "1773705764442vq5zw",
+        "title": "Filistin Yanlısı Protestocu Leqaa Kordia ABD Gözaltından Serbest Bırakıldı",
+        "summary": "Filistin yanlısı protestocu Leqaa Kordia, ABD'deki göçmenlik gözaltı merkezinden serbest bırakıldı. Columbia Üniversitesi'nde Filistin'e destek gösterilerine katılan 33 yaşındaki Kordia, bir yıldır göçmenlik gözaltında tutuluyordu. Kordia'nın serbest bırakılması, ABD'deki Filistin yanlısı aktivistlerin hukuki durumu ve ifade özgürlüğü üzerindeki tartışmaları yeniden gündeme getirdi. Olay, Filistin meselesine yönelik küresel desteğin ve bu desteğin aktivistler üzerindeki etkilerinin bir göstergesi olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/1464228/pexels-photo-1464228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T00:02:44.442Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773705786748grs9v",
+        "title": "Irak'ın başkenti Bağdat'ta bir otel vuruldu, ABD Büyükelçiliği'ne yönelik saldırılar engellendi",
+        "summary": "Irak'ın başkenti Bağdat'ta bir otel saldırıya uğrarken, ABD Büyükelçiliği'ne yönelik saldırı girişimleri engellendi. Yetkililer, saldırıların sorumluluğunu henüz üstlenen bir grubun olmadığını belirtti. Bu olaylar, bölgede İsrail ve ABD'nin İran'a karşı yürüttüğü gerilimin tırmandığı bir dönemde meydana geldi. Saldırının detayları ve olası failleri hakkında soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5829726/pexels-photo-5829726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T00:03:06.748Z",
+        "location": {
+            "lat": 33.32,
+            "lng": 44.37,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773705807228nph8z",
+        "title": "Trump: İran'a Yönelik Saldırılar Nükleer Savaşı Engelledi",
+        "summary": "Eski ABD Başkanı Donald Trump, İran'a karşı verdiği saldırı emirlerinin nükleer bir çatışmayı ve Üçüncü Dünya Savaşı'nı önlediğini iddia etti. Trump'ın bu açıklaması, görev süresi boyunca ABD ile İran arasında yaşanan gerilimleri ve askeri müdahaleleri yeniden gündeme getirdi. Eski Başkan, bu eylemlerin daha büyük bir küresel felaketi engellediğini savundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11846456/pexels-photo-11846456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T00:03:27.228Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773705937895yn5t8",
+        "title": "Hizbullah, İsrail Hedeflerine Yönelik 12 Operasyon Gerçekleştirdiğini Duyurdu",
+        "summary": "Lübnan merkezli Hizbullah örgütü, İsrail hedeflerine yönelik 12 ayrı operasyon gerçekleştirdiğini duyurdu. Örgütten yapılan açıklamada, saldırıların İsrail'in kuzey bölgeleri ile Lübnan'ın güneyinde konuşlu İsrail araçlarını ve askerlerini hedef aldığı belirtildi. Bu eylemlerin, bölgedeki güvenlik gerilimini artırdığı ve sınır hattındaki çatışmaların devam ettiğini gösterdiği ifade edildi. Hizbullah'ın bu tür operasyonları, İsrail ile Lübnan arasındaki hassas güvenlik durumunu yakından etkilemektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T00:05:37.895Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.5,
+            "name": "Kuzey İsrail, Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-12-operations-against-israeli-targets/3867355",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17736982270541qvg3",
         "title": "Trump'tan Somali ve Ilhan Omar Hakkında Açıklama",
         "summary": "ABD Başkanı Donald Trump, Oval Ofis'te yaptığı bir konuşmada Somali'yi \"dördüncü dünya ülkesi\" olarak tanımladı. Bu açıklama, ABD'nin Afrika Boynuzu'ndaki ülkelerle olan ilişkileri ve göçmenlik politikaları bağlamında önemli bir gündem maddesi oluşturdu. Trump'ın bu yorumları, Somali kökenli ABD Temsilciler Meclisi Üyesi Ilhan Omar'a yönelik eleştirileriyle birlikte dile getirildi. Söz konusu ifadeler, uluslararası kamuoyunda ve özellikle Somali diasporasında geniş yankı uyandırırken, diplomatik çevrelerde de tartışmalara yol açtı.",
@@ -732,70 +796,6 @@
             "name": "Birleşik Arap Emirlikleri"
         },
         "source": "https://www.aa.com.tr/en/middle-east/uae-says-it-intercepted-4-ballistic-missiles-6-drones-launched-from-iran/3865581",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17735725125527i697",
-        "title": "Paris'te binlerce kişi İran, Lübnan ve Filistin'deki askeri eylemleri protesto etti",
-        "summary": "Fransa'nın başkenti Paris'te binlerce kişi, Orta Doğu'daki askeri operasyonları protesto etmek amacıyla bir araya geldi. Göstericiler, özellikle İran, Lübnan ve Filistin'deki askeri eylemlere dikkat çekti. Bu protesto, ülke genelinde düzenlenen 85'ten fazla gösteriden biri olarak kaydedildi. Eylemciler, bölgedeki çatışmaların son bulması çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3929141/pexels-photo-3929141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T11:01:52.552Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773572645384k82oq",
-        "title": "İsrail, İran Savaşı Başladığından Bu Yana Yaklaşık 3.200 Kişinin Yaralandığını Açıkladı",
-        "summary": "İsrail Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İran ile yaşanan çatışmaların başlangıcından bu yana yaklaşık 3.200 İsraillinin yaralandığı bildirildi. Bakanlık, son 24 saat içinde en az 108 İsraillinin daha yaralandığını belirtti. Bu veriler, bölgedeki gerilimin ve çatışmaların devam ettiğini ve insani etkilerinin sürdüğünü gözler önüne seriyor. Yaralıların durumu hakkında detaylı bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T11:04:05.384Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-says-nearly-3-200-people-injured-since-onset-of-iran-war/3865384",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773568333681yb5mj",
-        "title": "İran Savaşı: ABD-İsrail Saldırılarının 16. Gününde Neler Yaşanıyor?",
-        "summary": "İran'da yaşanan çatışmaların 16. gününde bölgedeki gerilim tırmanmaya devam ediyor. İsrail ve ABD güçlerinin İsfahan kentine düzenlediği saldırılarda 15 kişinin hayatını kaybettiği bildirildi. Bu saldırılara karşılık olarak Tahran, İsrail ve Körfez ülkelerine yönelik misilleme saldırıları gerçekleştirdi. Bölgedeki güvenlik durumu ve çatışmaların yayılma riski endişe verici seviyeye ulaştı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7132576/pexels-photo-7132576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:52:13.681Z",
-        "location": {
-            "lat": 32.65,
-            "lng": 51.67,
-            "name": "İsfahan, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773568353585x4w0q",
-        "title": "MotoGP Katar Grand Prix'si Orta Doğu Çatışması Nedeniyle Ertelendi",
-        "summary": "MotoGP, 10-12 Nisan tarihlerinde yapılması planlanan Katar Grand Prix'sini erteleme kararı aldı. Yarışın Kasım ayına alındığı duyuruldu. Ertelemenin gerekçesi olarak, ABD ve İsrail'in İran'a karşı devam eden savaşı gösterildi. Bu karar, bölgedeki güvenlik endişelerinin spor etkinlikleri üzerindeki etkisini ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:52:33.585Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
