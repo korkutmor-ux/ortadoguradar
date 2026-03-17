@@ -1,5 +1,37 @@
 [
     {
+        "id": "17737709667966apvp",
+        "title": "İran'da İsrail Saldırısı Sonrası Enkazdan Kurtarma Operasyonu",
+        "summary": "İran'da meydana gelen bir saldırının ardından yıkılan bir binanın enkazı altından bir kişinin kurtarıldığı bildirildi. Haberlere göre, söz konusu saldırının İsrail tarafından gerçekleştirildiği belirtildi. Kurtarma ekipleri, enkaz altında kalan vatandaşa ulaşmak için yoğun çaba sarf etti ve başarılı oldu. Kurtarılan şahsın sağlık durumu hakkında henüz detaylı bir açıklama yapılmazken, bu tür olayların bölgedeki gerilimi daha da artırabileceği değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12618199/pexels-photo-12618199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T18:09:26.796Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773771089274f2gaj",
+        "title": "Trump'tan İngiltere Liderliğine İran Savaşı Desteği Eksikliği Eleştirisi",
+        "summary": "Eski ABD Başkanı Donald Trump, İngiltere'nin o dönemki liderliğini İran'a karşı olası bir savaşa yeterli destek vermemekle eleştirdiğini belirtti. Trump, bu durumdan duyduğu hayal kırıklığını dile getirirken, İngiliz liderin Winston Churchill gibi olmadığını ifade etti. Bu açıklama, ABD ile İngiltere arasındaki dış politika farklılıklarını ve İran'a yönelik potansiyel askeri müdahale konusundaki görüş ayrılıklarını gözler önüne serdi. Trump'ın bu sözleri, iki müttefik ülke arasındaki diplomatik gerilimi ve güvenlik konularındaki farklı yaklaşımları yansıttı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4427557/pexels-photo-4427557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T18:11:29.274Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-disappointed-with-uk-premier-for-lack-of-support-for-iran-war/3868549",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773758754392kofaw",
         "title": "ABD elçileri, kırılgan Gazze ateşkesini kurtarmak için Kahire'de Hamas ile görüştü",
         "summary": "ABD'li elçiler, Gazze'deki kırılgan ateşkesi kurtarma çabaları kapsamında Kahire'de Hamas temsilcileriyle bir araya geldi. Bu nadir görüşmeler, bölgedeki gerilimi artıran ve Gazze'deki yıpranmış ateşkesi zorlayan gelişmelerin gölgesinde gerçekleşti. Toplantının, Gazze'deki insani durumu iyileştirmeye yönelik adımlar ve savaş sonrası planlar üzerinde odaklandığı belirtildi. Diplomatik kaynaklar, görüşmelerin bölgedeki uzun süreli istikrar arayışları açısından kritik öneme sahip olduğunu vurguladı.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-strike-on-gaza-police-kills-officers?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1773656223168ukj99",
-        "title": "İran, rejim karşıtı protestoları önlemek için adımlar atıyor, Tahran sakinleri BBC'ye konuştu",
-        "summary": "İran'da rejim karşıtı protestoları engelleme çabaları hız kazandı. Başkent Tahran'da yaşayan vatandaşlar, BBC'ye yaptıkları açıklamalarda, şehir genelinde yeni güvenlik kontrol noktalarının kurulduğunu belirtti. Bu noktalarda insanların durdurularak arandığı ve kimlik kontrollerinin yapıldığı ifade edildi. Yetkililerin bu adımlarla olası toplumsal olayların önüne geçmeyi hedeflediği düşünülüyor. Gelişmeler, ülkedeki iç güvenlik önlemlerinin artırıldığına işaret ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/96612/pexels-photo-96612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:17:03.168Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773656251109v26w2",
-        "title": "İran Devlet Medyasının Savaş Haberleri: Abartı ve Manipülasyon İddiaları",
-        "summary": "İran devlet medyasının savaşla ilgili haberlerinde, düşman zayiatlarının abartıldığı ve İran'ı yüceltmek amacıyla dijital manipülasyonlar yapıldığı belirtildi. Bu durum, İran'ın iç kamuoyuna yönelik bilgi akışını şekillendirme çabalarını gözler önüne seriyor. Devlet medyasının bu tür yöntemleri, ulusal çıkarlar doğrultusunda algı yönetimi stratejileri izlediğini ve kamuoyunu belirli bir yöne sevk etmeyi amaçladığını gösteriyor. Haber, İran'ın savaş algısını kendi lehine çevirme gayretlerine dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20457113/pexels-photo-20457113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:17:31.109Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
