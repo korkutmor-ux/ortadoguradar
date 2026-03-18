@@ -1,5 +1,21 @@
 [
     {
+        "id": "177384919929294ial",
+        "title": "İran'dan Irak'a doğalgaz tedariki, Güney Pars tesislerine saldırı sonrası durdu",
+        "summary": "İran'dan Irak'a yapılan doğalgaz tedariki, Güney Pars doğalgaz tesislerine yönelik bir saldırının ardından kesintiye uğradı. Bu durum, Irak'ın elektrik üretiminde ciddi aksaklıklara yol açtı. Irak Elektrik Bakanlığı tarafından yapılan açıklamaya göre, kesinti nedeniyle ülke genelinde 3.100 megavatlık elektrik üretim kapasitesi devre dışı kaldı. Olay, Irak'ın enerji güvenliği üzerindeki bağımlılığını ve bölgedeki enerji altyapısının kırılganlığını bir kez daha gözler önüne serdi. Saldırının nedenleri ve sorumluları hakkında henüz detaylı bilgi verilmedi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/9408862/pexels-photo-9408862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T15:53:19.292Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-gas-supply-to-iraq-stops-after-south-pars-gas-facilities-attack/3870070",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1773832458625n163a",
         "title": "İsrail, iki gün içinde üçüncü suikastta İran istihbarat bakanını öldürdüğünü iddia etti",
         "summary": "İsrail, son iki gün içinde gerçekleştirdiği üçüncü suikastta bir İran istihbarat bakanını öldürdüğünü öne sürdü. Bu iddia, Orta Doğu'daki gerilimi daha da tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor. Eğer bu bilgi doğrulanırsa, son günlerde üst düzey İranlı yetkililere yönelik düzenlenen üçüncü büyük suikast vakası olacak. Olayın detayları ve İran'dan gelecek resmi tepkiler uluslararası kamuoyu tarafından yakından takip ediliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-issues-new-evacuation-orders-for-southern-lebanon-ahead-of-strikes/3867583",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "177373513568497w1p",
-        "title": "İsrailli Yerleşimciler Ürdün Vadisi'nde Filistinli Bir Erkeğe Cinsel Saldırıda Bulundu",
-        "summary": "İsrail'in Haaretz gazetesinin haberine göre, Ürdün Vadisi'ndeki Khirbet Humsa bölgesine düzenlenen baskında İsrailli yerleşimciler Filistinli bir erkeğe cinsel saldırıda bulundu. Bölge sakinleri, maskeli yerleşimcilerin sivilleri darp edip bağladığını, çocukları öldürmekle ve kadınlara tecavüz etmekle tehdit ettiğini belirtti. Bu olay, bölgedeki İsrail-Filistin gerilimini artıran yerleşimci şiddeti vakalarına bir yenisini ekledi ve uluslararası insan hakları örgütlerinin dikkatini çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553132/pexels-photo-8553132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T08:12:15.684Z",
-        "location": {
-            "lat": 32.3,
-            "lng": 35.5,
-            "name": "Khirbet Humsa, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-settlers-sexually-assault-palestinian-man-in-raid-in-jordan-valley-report/3867530",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
