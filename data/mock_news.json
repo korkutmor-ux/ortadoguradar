@@ -1,5 +1,165 @@
 [
     {
+        "id": "1773832458625n163a",
+        "title": "İsrail, iki gün içinde üçüncü suikastta İran istihbarat bakanını öldürdüğünü iddia etti",
+        "summary": "İsrail, son iki gün içinde gerçekleştirdiği üçüncü suikastta bir İran istihbarat bakanını öldürdüğünü öne sürdü. Bu iddia, Orta Doğu'daki gerilimi daha da tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor. Eğer bu bilgi doğrulanırsa, son günlerde üst düzey İranlı yetkililere yönelik düzenlenen üçüncü büyük suikast vakası olacak. Olayın detayları ve İran'dan gelecek resmi tepkiler uluslararası kamuoyu tarafından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11435106/pexels-photo-11435106.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:14:18.626Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773832486764iws9v",
+        "title": "Senegal, AFCON Şampiyonluğunun Fas'a Verilmesi Kararına İtiraz Edecek",
+        "summary": "Afrika Futbol Konfederasyonu (CAF) tarafından alınan bir kararla, 2025 Afrika Uluslar Kupası (AFCON) şampiyonluğu Fas'a verildi. Bu karar, final maçında Senegal'in sahadan çekilme protestosu üzerine CAF'a yapılan bir itirazın ardından geldi. Senegal Futbol Federasyonu, şampiyonluğun Fas'a verilmesi yönündeki bu karara itiraz edeceğini duyurdu. Gelişmeler, Afrika futbolunda önemli bir tartışma konusu yaratırken, turnuvanın sportif kararlarının hukuki süreçleri açısından dikkatle takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32711484/pexels-photo-32711484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:14:46.764Z",
+        "location": {
+            "lat": 34.020882,
+            "lng": -6.84165,
+            "name": "Rabat, Fas"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773832509502y9rq9",
+        "title": "İran Diasporası, Fars Festivalini ABD ve İsrail Bayraklarıyla Kutladı",
+        "summary": "Barcelona'da yaşayan İran diasporası üyeleri, geleneksel Fars festivali Çarşamba Suri'yi kutladı. Kutlamalar sırasında, katılımcıların ABD ve İsrail bayraklarına sarınarak dans etmesi dikkat çekti. Bu eylem, İran rejimine karşı açık bir siyasi duruş sergileyerek, diasporanın uluslararası arenadaki muhalif sesini yansıttı. Festival, kültürel bir etkinlik olmasının ötesinde, İran'ın mevcut politikalarına karşı çıkanların bir araya geldiği ve mesajlarını ilettiği bir platform görevi gördü. Etkinlik, İran dışındaki İranlıların kültürel kimliklerini korurken aynı zamanda siyasi görüşlerini ifade etme biçimini gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14728401/pexels-photo-14728401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:15:09.502Z",
+        "location": {
+            "lat": 41.3851,
+            "lng": 2.1734,
+            "name": "Barcelona, Spain"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773832531678tz0t0",
+        "title": "Kolombiya Devlet Başkanı: Gazze Savaşı Daha Geniş Yıkım İçin Bir 'Deneydi'",
+        "summary": "Kolombiya Devlet Başkanı Gustavo Petro, Gazze'deki savaşın \"Küresel Güney'i sindirmek amacıyla tasarlanmış bir deney\" olduğunu ifade etti. Petro, bu çatışmanın sadece Gazze ile sınırlı kalmayıp daha geniş çaplı yıkımlara yol açabilecek bir model olarak kullanıldığını ima etti. Açıklamaları, uluslararası arenada Gazze'deki olaylara yönelik farklı bir bakış açısı sunarken, Kolombiya lideri Gazze'deki durumu küresel güç dengeleri ve uluslararası ilişkiler bağlamında değerlendirdi. Bu yorumlar, bölgedeki gerilimin uluslararası yankılarını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36163610/pexels-photo-36163610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:15:31.678Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "177383255797121rlh",
+        "title": "Arnavutluk Başbakanı Rama Lübnan'da",
+        "summary": "Arnavutluk Başbakanı Edi Rama'nın Lübnan'da bulunduğu bildirildi. Başbakan Rama'nın bu ziyareti sırasında, bölgedeki gelişmeleri ve Lübnan'daki deneyimlerini kendi perspektifinden aktaracağı bir video günlüğü hazırladığı belirtildi. Bu günlüğün, Al Jazeera kanalı aracılığıyla kamuoyuna sunulması bekleniyor. Ziyaretin, iki ülke arasındaki diplomatik ilişkilerin güçlendirilmesi ve bölgesel konuların ele alınması açısından önem taşıdığı değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/25755/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:15:57.971Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17738325815004zh9l",
+        "title": "İsrail Savunma Bakanı'ndan İran İstihbarat Bakanı'nın Tahran'da Öldürüldüğü İddiası",
+        "summary": "İsrail Savunma Bakanı, İran İstihbarat Bakanı'nın Tahran'da düzenlenen bir saldırıda öldürüldüğünü iddia etti. Bu iddia, Orta Doğu'da gerilimi artırabilecek önemli bir gelişme olarak değerlendirilmektedir. İran'dan söz konusu iddiaya ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki durum yakından takip edilmekte olup, taraflardan gelecek açıklamalar bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15067861/pexels-photo-15067861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:16:21.500Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-intelligence-minister-killed-in-tehran-strike-israel-s-defense-minister-claims/3869605",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
+        "id": "17738326030378vlmk",
+        "title": "Emaar Properties Hisseleri Dubai Piyasasında Yükselişini Sürdürdü",
+        "summary": "Dubai borsasında işlem gören Emaar Properties hisseleri, %5'in üzerinde bir artışla dikkat çekti. Bu yükseliş, yatırımcıların bölgedeki önde gelen gayrimenkul şirketlerine olan ilgisinin yeniden canlanmasıyla ilişkilendiriliyor. Emaar, Körfez bölgesindeki hisse senetlerinde gözlemlenen genel toparlanmanın öncüsü konumunda yer aldı. Dubai piyasası, güçlü emlak hisselerine yönelik talebin artmasıyla pozitif bir ivme kazanmaya devam ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:16:43.037Z",
+        "location": {
+            "lat": 25.2,
+            "lng": 55.27,
+            "name": "Dubai, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/emaar-properties-shares-jump-more-than-5-as-dubai-market-extends-rebound/3869583",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1773832624674zafyi",
+        "title": "İran'dan İsrail'e Füze Saldırısı Sonrası Sirenler Çaldı",
+        "summary": "İran'dan geldiği belirtilen füze saldırısının ardından İsrail'in merkezinde sirenler çalmaya başladı. İsrail medyası, Hayfa ve Celile bölgelerinde de uyarıların tetiklendiğini bildirdi. Bu gelişme, Orta Doğu'da artan gerilimi bir kez daha gözler önüne serdi. Bölgedeki güvenlik durumu yakından takip edilirken, olayın olası sonuçları hakkında endişeler dile getiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1477156/pexels-photo-1477156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:17:04.674Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-after-missile-barrage-from-iran/3869582",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773832651541onjbn",
+        "title": "BAE Merkez Bankası'ndan İran Savaşı Ortamında Bankacılık Sektörüne Destek Paketi",
+        "summary": "Birleşik Arap Emirlikleri (BAE) Merkez Bankası, potansiyel bir İran savaşı ortamında ülkenin finansal istikrarını ve genel ekonomisini desteklemek amacıyla bankacılık sektörüne yönelik bir \"direnç paketi\" açıkladı. Bu yeni düzenleme ile bankalara genişletilmiş likidite erişimi ve geçici sermaye rahatlığı sağlanacak. Merkez Bankası, söz konusu adımlarla bankaların olası şoklara karşı dayanıklılığını artırmayı ve ekonomik faaliyetlerin kesintisiz devamlılığını temin etmeyi hedefliyor. Paket, bölgesel gerilimlerin finansal sistem üzerindeki olası etkilerini hafifletmeyi amaçlıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8366381/pexels-photo-8366381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:17:31.541Z",
+        "location": {
+            "lat": 24.5,
+            "lng": 54.4,
+            "name": "Abu Dabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-central-bank-unveils-resilience-package-to-bolster-banks-amid-iran-war/3869570",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773832672694x1w2d",
+        "title": "Bahreyn, İran Saldırılarının Başlangıcından Bu Yana 130 Füze ve 234 İHA Engellediğini Açıkladı",
+        "summary": "Bahreyn Silahlı Kuvvetleri, İran'dan gelen saldırı dalgalarına karşı hava savunma sistemlerinin başarılı bir şekilde mücadele etmeye devam ettiğini bildirdi. Yapılan açıklamada, İran saldırılarının başlangıcından bu yana toplamda 130 füze ve 234 insansız hava aracının (İHA) engellendiği belirtildi. Bahreyn, hava sahasının güvenliğini sağlamak amacıyla savunma kapasitesini artırdığını vurguladı. Bu gelişmeler, bölgedeki gerilimin devam ettiğini ve Bahreyn'in ulusal güvenliğini koruma çabalarını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32472910/pexels-photo-32472910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T11:17:52.694Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-130-missiles-234-drones-since-start-of-iranian-attacks/3869500",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1773820945062uu7oo",
         "title": "ABD'nin Orta Doğu'daki Dikkatinin Dağılması Çin'in Çıkarına",
         "summary": "ABD'nin Orta Doğu'daki mevcut angajmanlarının ve dikkat dağınıklığının Çin Halk Cumhuriyeti'nin stratejik çıkarlarına hizmet ettiği belirtiliyor. Analistler, Washington'ın Orta Doğu'daki krizlere odaklanmasının, Pekin'e başta Hint-Pasifik bölgesi olmak üzere diğer coğrafyalarda nüfuzunu artırma ve stratejik hedeflerine ulaşma fırsatı sunduğunu ifade ediyor. Bu durum, küresel güç dengeleri açısından önemli bir dinamik olarak değerlendiriliyor. ABD'nin kaynaklarının ve diplomatik çabalarının Orta Doğu'ya yönelmesinin, Çin'in uluslararası arenadaki konumunu güçlendirebileceği öngörülüyor.",
@@ -636,166 +796,6 @@
             "name": "Khirbet Humsa, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-settlers-sexually-assault-palestinian-man-in-raid-in-jordan-valley-report/3867530",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773735156734p5xry",
-        "title": "İran: Savaşın Sonucu Tweetlerle Belirlenemez",
-        "summary": "İran, savaşın sonucunun sosyal medya paylaşımlarıyla değil, sahada belirlendiğini açıkladı. İran ordusu birleşik muharip komutanlığı karargahı sözcüsü, bu açıklamaları ABD Başkanı Trump'a yönelik yaptı. Sözcü, savaşın akıbetinin sahadaki gelişmelerle şekillendiğini vurguladı. Bu açıklama, ABD ile İran arasındaki gerilimin devam ettiği bir dönemde geldi ve iki ülke arasındaki sözlü atışmaların bir parçası olarak değerlendirildi. İranlı yetkililer, ABD'nin bölgedeki politikalarına karşı duruşlarını bu tür açıklamalarla sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T08:12:36.734Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-outcome-of-war-cannot-be-determined-by-tweets/3867502",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773735178666ae8jq",
-        "title": "Suudi Arabistan Salı Sabahından Bu Yana 26 İHA'nın Düşürüldüğünü Duyurdu",
-        "summary": "Suudi Arabistan Savunma Bakanlığı, Salı sabahından bu yana 26 insansız hava aracının (İHA) düşürüldüğünü bildirdi. Bakanlık açıklamasında, bu İHA'ların ülkenin Doğu Bölgesi'nde tespit edilerek imha edildiği belirtildi. Söz konusu olay, Orta Doğu'daki silahlı çatışmaların devam ettiği bir dönemde yaşandı. Bu durum, krallığa yönelik hava tehditlerinin sürdüğüne işaret ediyor. Bakanlık, İHA'ların kaynağı hakkında detay vermedi ancak savunma önlemlerinin başarıyla uygulandığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6536172/pexels-photo-6536172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T08:12:58.666Z",
-        "location": {
-            "lat": 24.71,
-            "lng": 46.68,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-announces-downing-of-26-drones-since-early-tuesday/3867497",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17737258752216xvfj",
-        "title": "Eski Deniz Piyadesi ve Savaş Karşıtı Protestocu: Trump'ın İsrail ve İran Politikaları Yanlış",
-        "summary": "Eski deniz piyadesi Brian McGinnis, ABD'nin eski başkanı Donald Trump'ın İsrail ve İran'a yönelik politikalarını eleştirdi. Savaş karşıtı bir aktivist olan McGinnis, Trump'ın bu iki ülkeye ilişkin yaklaşımlarının hatalı olduğunu ifade etti. McGinnis, bu açıklamalarıyla ABD'nin Orta Doğu'daki dış politikasına dair farklı bir bakış açısı sundu. Bu tür eleştiriler, genellikle ABD'nin bölgedeki stratejileri ve müttefik ilişkileri üzerine yapılan tartışmaların bir parçası olarak değerlendirilmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6458059/pexels-photo-6458059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T05:37:55.221Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/17/marine-turned-anti-war-protester-says-trump-wrong-on-israel-iran?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1773726058948jlsih",
-        "title": "Bağdat'ta Roket Saldırısı: En Az 4 Ölü, 2 Yaralı",
-        "summary": "Irak'ın başkenti Bağdat'ta meydana gelen bir roket saldırısında ilk belirlemelere göre en az 4 kişi hayatını kaybetti, 2 kişi ise yaralandı. Güvenlik kaynakları, ölü sayısının artmasından endişe edildiğini bildirdi. Ön bilgilere göre, saldırının hedefi olan evin Iraklı silahlı grupların üyelerine ev sahipliği yaptığı belirtildi. Olayla ilgili geniş çaplı bir soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33949758/pexels-photo-33949758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T05:40:58.948Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/rocket-attack-in-baghdad-kills-at-least-4-injures-2/3867467",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773705764442vq5zw",
-        "title": "Filistin Yanlısı Protestocu Leqaa Kordia ABD Gözaltından Serbest Bırakıldı",
-        "summary": "Filistin yanlısı protestocu Leqaa Kordia, ABD'deki göçmenlik gözaltı merkezinden serbest bırakıldı. Columbia Üniversitesi'nde Filistin'e destek gösterilerine katılan 33 yaşındaki Kordia, bir yıldır göçmenlik gözaltında tutuluyordu. Kordia'nın serbest bırakılması, ABD'deki Filistin yanlısı aktivistlerin hukuki durumu ve ifade özgürlüğü üzerindeki tartışmaları yeniden gündeme getirdi. Olay, Filistin meselesine yönelik küresel desteğin ve bu desteğin aktivistler üzerindeki etkilerinin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/1464228/pexels-photo-1464228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T00:02:44.442Z",
-        "location": {
-            "lat": 40.7128,
-            "lng": -74.006,
-            "name": "New York, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773705786748grs9v",
-        "title": "Irak'ın başkenti Bağdat'ta bir otel vuruldu, ABD Büyükelçiliği'ne yönelik saldırılar engellendi",
-        "summary": "Irak'ın başkenti Bağdat'ta bir otel saldırıya uğrarken, ABD Büyükelçiliği'ne yönelik saldırı girişimleri engellendi. Yetkililer, saldırıların sorumluluğunu henüz üstlenen bir grubun olmadığını belirtti. Bu olaylar, bölgede İsrail ve ABD'nin İran'a karşı yürüttüğü gerilimin tırmandığı bir dönemde meydana geldi. Saldırının detayları ve olası failleri hakkında soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5829726/pexels-photo-5829726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T00:03:06.748Z",
-        "location": {
-            "lat": 33.32,
-            "lng": 44.37,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773705807228nph8z",
-        "title": "Trump: İran'a Yönelik Saldırılar Nükleer Savaşı Engelledi",
-        "summary": "Eski ABD Başkanı Donald Trump, İran'a karşı verdiği saldırı emirlerinin nükleer bir çatışmayı ve Üçüncü Dünya Savaşı'nı önlediğini iddia etti. Trump'ın bu açıklaması, görev süresi boyunca ABD ile İran arasında yaşanan gerilimleri ve askeri müdahaleleri yeniden gündeme getirdi. Eski Başkan, bu eylemlerin daha büyük bir küresel felaketi engellediğini savundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11846456/pexels-photo-11846456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T00:03:27.228Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/trump-claims-strikes-on-iran-prevented-nuclear-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773705937895yn5t8",
-        "title": "Hizbullah, İsrail Hedeflerine Yönelik 12 Operasyon Gerçekleştirdiğini Duyurdu",
-        "summary": "Lübnan merkezli Hizbullah örgütü, İsrail hedeflerine yönelik 12 ayrı operasyon gerçekleştirdiğini duyurdu. Örgütten yapılan açıklamada, saldırıların İsrail'in kuzey bölgeleri ile Lübnan'ın güneyinde konuşlu İsrail araçlarını ve askerlerini hedef aldığı belirtildi. Bu eylemlerin, bölgedeki güvenlik gerilimini artırdığı ve sınır hattındaki çatışmaların devam ettiğini gösterdiği ifade edildi. Hizbullah'ın bu tür operasyonları, İsrail ile Lübnan arasındaki hassas güvenlik durumunu yakından etkilemektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T00:05:37.895Z",
-        "location": {
-            "lat": 33.25,
-            "lng": 35.5,
-            "name": "Kuzey İsrail, Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-12-operations-against-israeli-targets/3867355",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17736982270541qvg3",
-        "title": "Trump'tan Somali ve Ilhan Omar Hakkında Açıklama",
-        "summary": "ABD Başkanı Donald Trump, Oval Ofis'te yaptığı bir konuşmada Somali'yi \"dördüncü dünya ülkesi\" olarak tanımladı. Bu açıklama, ABD'nin Afrika Boynuzu'ndaki ülkelerle olan ilişkileri ve göçmenlik politikaları bağlamında önemli bir gündem maddesi oluşturdu. Trump'ın bu yorumları, Somali kökenli ABD Temsilciler Meclisi Üyesi Ilhan Omar'a yönelik eleştirileriyle birlikte dile getirildi. Söz konusu ifadeler, uluslararası kamuoyunda ve özellikle Somali diasporasında geniş yankı uyandırırken, diplomatik çevrelerde de tartışmalara yol açtı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1464202/pexels-photo-1464202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T21:57:07.054Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773690221938q3hq5",
-        "title": "Trump'tan Hürmüz Boğazı Açıklaması: Müttefikler Askeri Eylemi Reddediyor",
-        "summary": "ABD Başkanı Trump, Hürmüz Boğazı'nda ticaret yolunu açmak için deniz koalisyonu çağrısına yanıt veren ülkelerin 'yolda olduğunu' belirtti. Ancak Trump, bu ülkelerin hangileri olduğunu açıklamaktan kaçındı. Açıklama, ABD'nin müttefiklerinin bölgede askeri bir eyleme karşı çıktığı bir dönemde geldi. Hürmüz Boğazı, küresel petrol ticareti için hayati öneme sahip bir geçiş noktasıdır ve bölgedeki gerilimlerin odak noktası olmaya devam etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18844210/pexels-photo-18844210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T19:43:41.938Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman Denizi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
