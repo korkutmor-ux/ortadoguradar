@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773870696073qkdr5",
+        "title": "İranlılar, savaş gemisi kurbanları mitinginde Trump ve Netanyahu maketlerini yaktı",
+        "summary": "Tahran'da düzenlenen bir mitingde İranlı göstericiler, ABD Başkanı Trump ve İsrail Başbakanı Netanyahu'nun maketlerini ateşe verdi. Gösteri, \"savaş gemisi kurbanları\" anısına düzenlendi. Bu eylem, İran ile ABD ve İsrail arasındaki gerilimin devam ettiğini ve halkın bu liderlere yönelik tepkisini açıkça ortaya koydu. Protesto, bölgesel siyasi dinamikler açısından önemli bir mesaj taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5428361/pexels-photo-5428361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T21:51:36.073Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranians-burn-trump-netanyahu-effigies-at-warship-victim-rally?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773870828172l31s7",
+        "title": "Mısır, Körfez Ülkelerine Yönelik Saldırıları Kınadı, Enerji Altyapısının Hedef Alınmaması Konusunda Uyardı",
+        "summary": "Mısır, Körfez ülkelerine yönelik saldırıları şiddetle kınadığını bildirdi. Kahire yönetimi, bölgesel gerilimin tırmandığı bir dönemde Suudi Arabistan, Birleşik Arap Emirlikleri ve Katar'a tam destek verdiğini yineledi. Yapılan açıklamada, enerji altyapısının hedef alınmaması gerektiği konusunda uyarıda bulunuldu. Mısır, bölgedeki istikrarın korunmasının ve gerilimin düşürülmesinin önemine vurgu yaptı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/97509/pexels-photo-97509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T21:53:48.172Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egypt-condemns-attacks-on-gulf-states-warns-against-targeting-energy-infrastructure/3870639",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773870895524rokad",
+        "title": "İran'ın başkenti Tahran'da patlama sesleri duyuldu",
+        "summary": "İran'ın başkenti Tahran'da patlama sesleri duyulduğu bildirildi. Anadolu Ajansı muhabirinin aktardığına göre, kentin doğu ve batı bölgelerinde art arda patlamalar meydana geldi. Bu olaylar, ABD ve İsrail'in bölgedeki faaliyetlerinin arttığı bir dönemde yaşandı. Patlamaların nedeni ve kaynakları hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/774847/pexels-photo-774847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T21:54:55.524Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iran-s-capital-amid-us-israeli-attacks/3870587",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
         "id": "1773862266003nitb0",
         "title": "İran Savaşı Küresel Bir Resesyonu Tetikleyebilir mi?",
         "summary": "İran'da yaşanabilecek bir savaşın küresel bir ekonomik durgunluğu tetikleyebileceği belirtiliyor. İran'daki bir çatışmanın enerji arzını kesintiye uğratmasıyla petrol fiyatları hızla yükseliyor. Bu durum, başta ABD, Çin ve Avrupa olmak üzere dünya ekonomileri için ciddi riskler oluşturuyor. Uzmanlar, Orta Doğu'daki istikrarsızlığın küresel piyasalar üzerindeki potansiyel etkileri konusunda uyarıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/project-force-2/2026/3/17/iran-is-targeting-ships-in-response-to-us-attacks-can-the-us-stop-them?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17737349292148rct4",
-        "title": "İsrail Saldırıları Beyrut ve Güney Lübnan'ı Hedef Aldı, Bir Milyon Kişi Yerinden Edildi",
-        "summary": "İsrail güçlerinin Beyrut'un güneyindeki üç mahalleye yönelik saldırılar düzenlediği bildirildi. Lübnan'ın güneyinde ise çatışmaların yoğunlaştığı ve Hizbullah ile İsrail ordusu arasında şiddetli çatışmaların yaşandığı belirtildi. Bölgedeki gerilimin artmasıyla birlikte bir milyon kişinin yerinden edildiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640807/pexels-photo-7640807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T08:08:49.214Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/17/israeli-strikes-target-beirut-southern-lebanon-one-million-displaced?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773734952770qx67z",
-        "title": "İran Savaşı: ABD-İsrail Saldırılarının 18. Gününde Neler Yaşanıyor?",
-        "summary": "ABD ve İsrail'in İran şehirlerini hedef alan saldırıları 18. gününe girerken, bölgedeki çatışmaların yayılma eğilimi gösterdiği bildirildi. Bu gerilim, Orta Doğu coğrafyasında istikrarsızlığı artırırken, küresel enerji piyasaları üzerinde de ciddi baskı oluşturuyor. Saldırıların İran'ın kritik altyapılarına yönelik olduğu ve sivil kayıplara yol açabileceği endişeleri dile getiriliyor. Uluslararası toplum, çatışmanın daha geniş bir bölgesel savaşa dönüşmesini engellemek amacıyla diplomatik çabalarını sürdürüyor ancak tırmanan gerilim, küresel bir enerji krizini tetikleme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/737471/pexels-photo-737471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T08:09:12.770Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran Şehirleri, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773734978200pcoiv",
-        "title": "Trump'ın Güveni Sarsılmaz Ancak Her İran Seçeneği Risk Taşıyor",
-        "summary": "ABD Başkanı Trump'ın İran'a yönelik politikaları ve olası seçenekleri, önemli riskler barındırmaktadır. Başkanın bu konudaki güveni devam etse de, her bir adımın ciddi sonuçları olabileceği belirtiliyor. Genel olarak, devam eden bir savaşın hızlı bir çözüme ulaşma ihtimali her geçen gün azalmaktadır. Bu durum, başkan için siyasi riskleri artırmakta ve dış politika gündemini daha da karmaşık hale getirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7760175/pexels-photo-7760175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T08:09:38.200Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
