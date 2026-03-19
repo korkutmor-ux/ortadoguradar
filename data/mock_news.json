@@ -1,5 +1,101 @@
 [
     {
+        "id": "1773943630145cg9es",
+        "title": "İsrail'in Lübnan'a Saldırıları Sırasında Muhabirin Yakınına Füze Düştü",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği saldırılar sırasında, bir Russia Today muhabiri bölgedeki gelişmeleri takip ediyordu. Muhabirin haber takibi yaptığı esnada, bulunduğu noktadan yalnızca birkaç metre uzağa bir füze isabet etti. Olayda muhabirin yara almadığı belirtilirken, bu durum bölgedeki çatışmaların yoğunluğunu ve gazetecilerin karşılaştığı riskleri bir kez daha gözler önüne serdi. Saldırılar, Lübnan-İsrail sınır hattındaki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T18:07:10.145Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/missile-strikes-close-to-reporter-during-israeli-attacks-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773943654495rwdlh",
+        "title": "İran saldırıları Katar'ın LNG kapasitesinin %17'sini 5 yıla kadar kesti: QatarEnergy",
+        "summary": "QatarEnergy CEO'su Saad al-Kaabi, İran saldırıları nedeniyle ülkenin sıvılaştırılmış doğal gaz (LNG) üretim kapasitesinin %17'sinin etkilendiğini açıkladı. Yapılan açıklamaya göre, bu kesintinin beş yıla kadar sürebileceği belirtildi. Şirket, bu durum nedeniyle uzun vadeli LNG sözleşmelerinde mücbir sebep (force majeure) ilan etmek zorunda kalabileceğini duyurdu. Bu gelişme, küresel enerji piyasalarında arz endişelerini artırabilir ve fiyatlar üzerinde baskı oluşturabilir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/3075998/pexels-photo-3075998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T18:07:34.495Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17739436803661fy7s",
+        "title": "Avrupa ülkeleri ve Japonya, Hürmüz Boğazı'nı açmak için 'uygun çabalara' katılacak",
+        "summary": "Avrupa ülkeleri ve Japonya, küresel petrol ve gaz krizinin derinleşmesiyle birlikte rekor seviyelere ulaşan enerji fiyatlarını kontrol altına alma arayışının bir parçası olarak Hürmüz Boğazı'nın açılmasına yönelik 'uygun çabalara' katılma kararı aldı. Bu stratejik adım, dünya petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı'ndaki akışın güvence altına alınmasını hedefliyor. Ülkeler, enerji piyasalarındaki istikrarsızlığa karşı ortak bir duruş sergileyerek küresel enerji güvenliğine katkıda bulunmayı amaçlıyor. Bu iş birliği, enerji arz güvenliğini sağlamak ve uluslararası ticaret yollarının serbest dolaşımını temin etmek adına kritik bir öneme sahip.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/6707562/pexels-photo-6707562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T18:08:00.366Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/19/european-nations-japan-to-join-appropriate-efforts-to-open-hormuz-strait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773943719418imjxs",
+        "title": "Lübnan'da İsrail bombardımanı sürerken ölü sayısı 1.000'i aştı",
+        "summary": "Lübnan'da devam eden İsrail bombardımanında hayatını kaybedenlerin sayısı 1.000'i aştı. Açıklanan verilere göre, ölenler arasında en az 40 sağlık çalışanı da bulunuyor. Uluslararası insan hakları grupları, İsrail'e Lübnan'daki sağlık tesislerine yönelik saldırılarını derhal durdurma çağrısında bulundu. Bölgedeki çatışmaların siviller ve sağlık altyapısı üzerindeki yıkıcı etkisi, uluslararası toplumda derin endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6785319/pexels-photo-6785319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T18:08:39.418Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/19/death-toll-surpasses-1000-in-lebanon-as-israeli-bombardment-continues?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1773943757918jlu8b",
+        "title": "Lübnan'da İsrail Saldırılarında Ölü Sayısı 1.000'i Aştı",
+        "summary": "Lübnan Sağlık Bakanlığı tarafından yapılan açıklamaya göre, son 24 saatte gerçekleştirilen saldırılarda 33 kişi hayatını kaybederken, 152 kişi de yaralandı. Bu son kayıplarla birlikte, İsrail'in Lübnan'a yönelik saldırılarında yaşamını yitirenlerin toplam sayısının 1.000'i geçtiği bildirildi. Bölgedeki gerilimin devam ettiği ve sivil kayıpların arttığı belirtilirken, sağlık yetkilileri yaralılara müdahale edildiğini ve sağlık hizmetlerinin aksamaması için çaba gösterildiğini ifade etti. Uluslararası toplum, bölgedeki şiddetin tırmanmasından derin endişe duyduğunu dile getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7407368/pexels-photo-7407368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T18:09:17.918Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanon-death-toll-from-israeli-attacks-surpasses-1-000/3872106",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773943780571xnt7x",
+        "title": "Katar Başbakanı savaşa derhal son verilmesi çağrısı yaptı, İran'ın bölgedeki saldırılarını kınadı",
+        "summary": "Katar Başbakanı Şeyh Muhammed, Orta Doğu'daki savaşın derhal durdurulması çağrısında bulundu. Başbakan, İran'ın bölgedeki devletlere yönelik saldırılarını kınadığını belirtti. Şeyh Muhammed, \"Savaş derhal durmalı ve herkes bundan kimin faydalandığını ve bölgeyi kimin çatışmaya sürüklediğini biliyor\" ifadelerini kullandı. Bu açıklamalar, Orta Doğu'daki gerilimin azaltılması ve çatışmanın sona erdirilmesi yönündeki diplomatik çabalara vurgu yapıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33557403/pexels-photo-33557403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T18:09:40.571Z",
+        "location": {
+            "lat": 25.3,
+            "lng": 51.5,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatari-premier-calls-for-immediate-halt-to-war-condemns-iranian-attacks-on-states-in-region/3872086",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773932872030zlkw8",
         "title": "ABD-İsrail Saldırısı Sonrası İran'da Enkazdan Kurtarılanlar Arasında Çocuk da Var",
         "summary": "İran'da meydana gelen bir hava saldırısının ardından enkaz altından sağ kurtulanlar çıkarıldı. İran Kızılayı tarafından yayımlanan video görüntülerinde, kurtarılanlar arasında bir çocuğun da bulunduğu belirtildi. Haber kaynakları, söz konusu saldırının ABD ve İsrail tarafından gerçekleştirildiğini aktardı.",
@@ -700,102 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177383255797121rlh",
-        "title": "Arnavutluk Başbakanı Rama Lübnan'da",
-        "summary": "Arnavutluk Başbakanı Edi Rama'nın Lübnan'da bulunduğu bildirildi. Başbakan Rama'nın bu ziyareti sırasında, bölgedeki gelişmeleri ve Lübnan'daki deneyimlerini kendi perspektifinden aktaracağı bir video günlüğü hazırladığı belirtildi. Bu günlüğün, Al Jazeera kanalı aracılığıyla kamuoyuna sunulması bekleniyor. Ziyaretin, iki ülke arasındaki diplomatik ilişkilerin güçlendirilmesi ve bölgesel konuların ele alınması açısından önem taşıdığı değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/25755/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:15:57.971Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17738325815004zh9l",
-        "title": "İsrail Savunma Bakanı'ndan İran İstihbarat Bakanı'nın Tahran'da Öldürüldüğü İddiası",
-        "summary": "İsrail Savunma Bakanı, İran İstihbarat Bakanı'nın Tahran'da düzenlenen bir saldırıda öldürüldüğünü iddia etti. Bu iddia, Orta Doğu'da gerilimi artırabilecek önemli bir gelişme olarak değerlendirilmektedir. İran'dan söz konusu iddiaya ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki durum yakından takip edilmekte olup, taraflardan gelecek açıklamalar bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15067861/pexels-photo-15067861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:16:21.500Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-intelligence-minister-killed-in-tehran-strike-israel-s-defense-minister-claims/3869605",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "17738326030378vlmk",
-        "title": "Emaar Properties Hisseleri Dubai Piyasasında Yükselişini Sürdürdü",
-        "summary": "Dubai borsasında işlem gören Emaar Properties hisseleri, %5'in üzerinde bir artışla dikkat çekti. Bu yükseliş, yatırımcıların bölgedeki önde gelen gayrimenkul şirketlerine olan ilgisinin yeniden canlanmasıyla ilişkilendiriliyor. Emaar, Körfez bölgesindeki hisse senetlerinde gözlemlenen genel toparlanmanın öncüsü konumunda yer aldı. Dubai piyasası, güçlü emlak hisselerine yönelik talebin artmasıyla pozitif bir ivme kazanmaya devam ediyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:16:43.037Z",
-        "location": {
-            "lat": 25.2,
-            "lng": 55.27,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/emaar-properties-shares-jump-more-than-5-as-dubai-market-extends-rebound/3869583",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1773832624674zafyi",
-        "title": "İran'dan İsrail'e Füze Saldırısı Sonrası Sirenler Çaldı",
-        "summary": "İran'dan geldiği belirtilen füze saldırısının ardından İsrail'in merkezinde sirenler çalmaya başladı. İsrail medyası, Hayfa ve Celile bölgelerinde de uyarıların tetiklendiğini bildirdi. Bu gelişme, Orta Doğu'da artan gerilimi bir kez daha gözler önüne serdi. Bölgedeki güvenlik durumu yakından takip edilirken, olayın olası sonuçları hakkında endişeler dile getiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1477156/pexels-photo-1477156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:17:04.674Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-after-missile-barrage-from-iran/3869582",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773832651541onjbn",
-        "title": "BAE Merkez Bankası'ndan İran Savaşı Ortamında Bankacılık Sektörüne Destek Paketi",
-        "summary": "Birleşik Arap Emirlikleri (BAE) Merkez Bankası, potansiyel bir İran savaşı ortamında ülkenin finansal istikrarını ve genel ekonomisini desteklemek amacıyla bankacılık sektörüne yönelik bir \"direnç paketi\" açıkladı. Bu yeni düzenleme ile bankalara genişletilmiş likidite erişimi ve geçici sermaye rahatlığı sağlanacak. Merkez Bankası, söz konusu adımlarla bankaların olası şoklara karşı dayanıklılığını artırmayı ve ekonomik faaliyetlerin kesintisiz devamlılığını temin etmeyi hedefliyor. Paket, bölgesel gerilimlerin finansal sistem üzerindeki olası etkilerini hafifletmeyi amaçlıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8366381/pexels-photo-8366381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:17:31.541Z",
-        "location": {
-            "lat": 24.5,
-            "lng": 54.4,
-            "name": "Abu Dabi, BAE"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-central-bank-unveils-resilience-package-to-bolster-banks-amid-iran-war/3869570",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773832672694x1w2d",
-        "title": "Bahreyn, İran Saldırılarının Başlangıcından Bu Yana 130 Füze ve 234 İHA Engellediğini Açıkladı",
-        "summary": "Bahreyn Silahlı Kuvvetleri, İran'dan gelen saldırı dalgalarına karşı hava savunma sistemlerinin başarılı bir şekilde mücadele etmeye devam ettiğini bildirdi. Yapılan açıklamada, İran saldırılarının başlangıcından bu yana toplamda 130 füze ve 234 insansız hava aracının (İHA) engellendiği belirtildi. Bahreyn, hava sahasının güvenliğini sağlamak amacıyla savunma kapasitesini artırdığını vurguladı. Bu gelişmeler, bölgedeki gerilimin devam ettiğini ve Bahreyn'in ulusal güvenliğini koruma çabalarını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32472910/pexels-photo-32472910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:17:52.694Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-130-missiles-234-drones-since-start-of-iranian-attacks/3869500",
         "trendScore": 80,
         "isBreaking": false
     }
