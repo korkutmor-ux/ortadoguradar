@@ -1,5 +1,21 @@
 [
     {
+        "id": "17740171622747fdib",
+        "title": "Körfez Ülkelerinin Askeri Müttefikleri Kimler ve İran Savaşında Nasıl Yardımcı Oluyorlar?",
+        "summary": "Uzmanlar, Körfez ülkelerinin İran'dan gelebilecek saldırılar karşısında desteğe ihtiyaç duyduğunu belirtiyor. Ancak, bu ülkelerin askeri müttefiklerinin ne tür bir yardım sağlayabileceği konusunda belirsizlikler olduğu ifade ediliyor. Analistler, Körfez ülkelerinin savunma kapasitelerini artırma çabalarına rağmen, potansiyel bir İran çatışmasında müttefiklerin rolünün net olmadığını vurguluyor. Bu durum, bölgedeki güvenlik dinamikleri ve güç dengeleri açısından önemli soruları gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163521/war-desert-guns-gunshow-163521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T14:32:42.274Z",
+        "location": {
+            "lat": 26,
+            "lng": 50,
+            "name": "Basra Körfezi Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774007393021fmjn5",
         "title": "Mülteci Konseyi, Avustralya'nın Kadınlar Asya Kupası'ndaki İran Stratejisini Sorguluyor",
         "summary": "Avustralya, Kadınlar Asya Kupası'na ev sahipliği yaparken, İran kadın futbol takımı etrafında dönen siyasi çekişme nedeniyle eleştirilerin odağı haline geldi. Mülteci Konseyi, Avustralya'nın İran'a yönelik stratejisini sorgulayarak, spor etkinliğinin siyasi bir platforma dönüştüğünü belirtti. Eleştiriler, Avustralya'nın İran ile ilişkilerinde izlediği politikaların, sporun uluslararası arenasında nasıl yansımalar bulduğuna odaklanıyor. Bu durum, spor ve siyasetin kesiştiği noktada uluslararası ilişkiler, insan hakları ve mülteci konularının nasıl ele alındığına dair önemli soruları gündeme getiriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/alarms-sound-in-central-israel-after-missile-barrage-from-iran/3871337",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17739151070537bsdh",
-        "title": "İsrail Saldırısında Gazze Şeridi'nde Bir Filistinli Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde, devam eden ateşkes anlaşmasına rağmen bir İsrail saldırısı gerçekleşti. Saldırıda bir Filistinli yaşamını yitirirken, bir kişi de yaralandı. Tıbbi kaynaklar, Gazze Şeridi'nin doğu kesiminde bir grup sivilin hedef alındığını bildirdi. Olay, bölgedeki hassas durumu ve gerilimi yeniden tırmandırma potansiyelini gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/764883/pexels-photo-764883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:11:47.053Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-palestinian-injures-another-in-gaza-city-despite-ceasefire/3871317",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
