@@ -1,5 +1,21 @@
 [
     {
+        "id": "17740349671102lg8q",
+        "title": "İran: Hamaney'den Hamaney'e",
+        "summary": "Haber, İran'ın mevcut güç yapısının nasıl inşa edildiğini ve bu yapının mimarı olan dini liderden sonra nasıl ayakta kaldığını analiz ediyor. Ülkenin siyasi sisteminin kökenleri, işleyişi ve liderlik geçiş süreçlerindeki potansiyel dayanıklılığına odaklanılıyor. Bu analiz, İran'ın iç dinamiklerini, yönetim modelinin sürekliliğini ve bölgesel rolünü anlamak açısından önem taşıyor. Makale, İran'ın gelecekteki siyasi istikrarına dair değerlendirmeler sunuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7103049/pexels-photo-7103049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T19:29:27.110Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774027454608tk4pe",
         "title": "İran Lideri Hamaney'den Nevruz Mesajı ve Liderlik İddiaları",
         "summary": "İran'ın dini lideri Hamaney'in Nevruz mesajında ülkenin düşmanlarının 'yenildiğini' ifade ettiği bildirildi. Bu açıklama, geleneksel Nevruz kutlamaları kapsamında yazılı olarak kamuoyuna duyuruldu. Haberde ayrıca, Mojtaba Hamaney'in öldürülen babasının yerine İran'ın dini lideri olduğu ve bu göreve gelmesinden bu yana kamuoyu önüne çıkmadığı bilgisine yer verildi. Bu durum, İran'ın liderlik yapısı ve iç siyasetine dair çeşitli spekülasyonlara yol açabilecek niteliktedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/3/19/us-east-asian-allies-in-legal-quandary-as-trump-seeks-help-in-the-middle-east?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1773914990218qacgi",
-        "title": "İran, 2026 Dünya Kupası'nda ABD'deki maçları 'boykot' etmeyi planlıyor ancak turnuvadan çekilmeyecek",
-        "summary": "İran'ın 2026 FIFA Dünya Kupası grup maçlarını Amerika Birleşik Devletleri'nde oynaması planlanmaktadır. Ancak İranlı yetkililer, ABD'deki maçları boykot etme niyetlerini dile getirmişlerdir. Bu duruma rağmen, İran'ın turnuvadan tamamen çekilmeyeceği ve Dünya Kupası'na katılımını sürdüreceği belirtilmiştir. FIFA'nın bu gelişme üzerine maç programlamasında değişiklik yapması veya alternatif ev sahibi ülke olarak Meksika'yı değerlendirmesi olasılığı bulunmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9270466/pexels-photo-9270466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:09:50.218Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/19/iran-to-boycott-world-cup-games-in-us-but-will-not-withdraw-from-2026-event?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
