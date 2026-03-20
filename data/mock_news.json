@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774027454608tk4pe",
+        "title": "İran Lideri Hamaney'den Nevruz Mesajı ve Liderlik İddiaları",
+        "summary": "İran'ın dini lideri Hamaney'in Nevruz mesajında ülkenin düşmanlarının 'yenildiğini' ifade ettiği bildirildi. Bu açıklama, geleneksel Nevruz kutlamaları kapsamında yazılı olarak kamuoyuna duyuruldu. Haberde ayrıca, Mojtaba Hamaney'in öldürülen babasının yerine İran'ın dini lideri olduğu ve bu göreve gelmesinden bu yana kamuoyu önüne çıkmadığı bilgisine yer verildi. Bu durum, İran'ın liderlik yapısı ve iç siyasetine dair çeşitli spekülasyonlara yol açabilecek niteliktedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7581111/pexels-photo-7581111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T17:24:14.608Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774027474300a4xlw",
+        "title": "İran Savaşı Küresel Gıda Krizini Tetikleyebilir mi?",
+        "summary": "Potansiyel bir İran savaşının küresel gıda tedarik zincirlerini ciddi şekilde aksatarak dünya genelinde yeni bir gıda şokuna yol açabileceği belirtiliyor. Haber, fabrikalardan süpermarket raflarına kadar uzanan bu aksaklıkların, küresel ekonomiyi derinden etkileyebileceği uyarısında bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11846456/pexels-photo-11846456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T17:24:34.300Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774027496346rqqwr",
+        "title": "Kuveyt'te Bayram Ezanı Sırasında Hava Saldırısı Sirenleri Yükseldi",
+        "summary": "Kuveyt Şehri genelinde, İran'ın ABD varlıklarını füze ve insansız hava araçlarıyla hedef almasıyla eş zamanlı olarak hava saldırısı sirenleri duyuldu. Olay, Kuveyt'te bayram namazı için ezan okunurken meydana geldi. Bölgedeki gerilimin arttığı bir dönemde yaşanan bu gelişme, güvenlik endişelerini artırdı. Kuveyt makamlarından veya ABD'den olaya ilişkin henüz detaylı bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2044278/pexels-photo-2044278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T17:24:56.346Z",
+        "location": {
+            "lat": 29.38,
+            "lng": 47.98,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17740275661369cfi4",
+        "title": "İsrailli yedek asker, Demir Kubbe sırlarını İran'a sızdırdığı iddiasıyla gözaltına alındı",
+        "summary": "İsrail makamları, 26 yaşındaki Roz Cohen adlı bir yedek askerin, Demir Kubbe savunma sistemine ait hassas bilgileri İran istihbaratıyla paylaştığı iddiasıyla gözaltına alındığını duyurdu. Açıklamada, Cohen'in aylarca İran istihbaratıyla temas halinde olduğu ve bu süre zarfında kritik verileri aktardığı belirtildi. Olay, İsrail'in ulusal güvenliği açısından ciddi bir tehdit olarak değerlendiriliyor. Soruşturmanın devam ettiği bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6962285/pexels-photo-6962285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T17:26:06.136Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-reservist-detained-over-alleged-leak-of-iron-dome-secrets-to-iran/3873332",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17740171622747fdib",
         "title": "Körfez Ülkelerinin Askeri Müttefikleri Kimler ve İran Savaşında Nasıl Yardımcı Oluyorlar?",
         "summary": "Uzmanlar, Körfez ülkelerinin İran'dan gelebilecek saldırılar karşısında desteğe ihtiyaç duyduğunu belirtiyor. Ancak, bu ülkelerin askeri müttefiklerinin ne tür bir yardım sağlayabileceği konusunda belirsizlikler olduğu ifade ediliyor. Analistler, Körfez ülkelerinin savunma kapasitelerini artırma çabalarına rağmen, potansiyel bir İran çatışmasında müttefiklerin rolünün net olmadığını vurguluyor. Bu durum, bölgedeki güvenlik dinamikleri ve güç dengeleri açısından önemli soruları gündeme getiriyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aljazeera.com/sports/2026/3/19/iran-to-boycott-world-cup-games-in-us-but-will-not-withdraw-from-2026-event?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "1773915013408qojp0",
-        "title": "Trump, İsrail'in gaz sahası saldırısından habersiz olduğunu reddetti",
-        "summary": "Eski ABD Başkanı Donald Trump, ABD'nin İsrail'in Güney Pars gaz sahasına yönelik bir saldırısından haberdar olmadığını açıkladı. Trump ayrıca İran'ı Katar'ı hedef almaması konusunda uyardı. Bu açıklamalar, Orta Doğu'daki enerji altyapısına yönelik potansiyel tehditler ve bölgesel gerilimler bağlamında dikkat çekiyor. Güney Pars, İran ve Katar tarafından paylaşılan dünyanın en büyük doğalgaz sahalarından biridir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15260732/pexels-photo-15260732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:10:13.408Z",
-        "location": {
-            "lat": 27.5,
-            "lng": 51.5,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-denies-knowledge-of-israeli-gas-field-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17739150405301p2hw",
-        "title": "İran Savaşı Bağlamında Jones Yasası: Trump Neden 60 Günlüğüne Askıya Aldı?",
-        "summary": "ABD Başkanı Donald Trump, Jones Yasası'nı 60 gün süreyle askıya aldığını duyurdu. Bu kararın, haber başlığında belirtildiği üzere, İran ile olası bir çatışma veya artan gerilimler bağlamında alındığı ifade ediliyor. Askıya alma, yabancı bayraklı gemilerin önümüzdeki iki ay boyunca ABD limanları arasında yük taşımasına izin verecek. Normalde ABD bayraklı, ABD yapımı ve ABD mürettebatlı gemilerle yapılması gereken bu taşımacılığın serbest bırakılması, ABD'nin stratejik lojistik kapasitesini artırma veya yerel gemileri başka görevler için serbest bırakma amacı taşıyabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2156/sky-earth-space-working.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:10:40.530Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/19/iran-war-whats-the-jones-act-and-why-has-trump-suspended-it-for-60-days?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773915062917tlfem",
-        "title": "Batı Şeria'da Füze Enkazının Güzellik Salonuna İsabet Etmesi Sonucu Üç Filistinli Kadın Hayatını Kaybetti",
-        "summary": "Batı Şeria'nın güneyindeki Beit Awwa kasabasında bulunan bir güzellik salonuna füze enkazı isabet etti. Olayda üç Filistinli kadın yaşamını yitirdi. Şarapnelin güzellik salonuna çarpması sonucu çok sayıda kişi de yaralandı. Bölgedeki gerilimin devam ettiği bir dönemde yaşanan bu trajik olayın ardından soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/898633/pexels-photo-898633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:11:02.917Z",
-        "location": {
-            "lat": 31.54,
-            "lng": 35,
-            "name": "Beit Awwa, Batı Şeria"
-        },
-        "source": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773915086429sunrd",
-        "title": "İran'dan İsrail'in merkezine füze saldırısı sonrası alarm verildi",
-        "summary": "İsrail'in orta kesimlerinde, İran'dan fırlatılan füzeler nedeniyle sirenler çaldı ve alarm durumu ilan edildi. İsrail ordusu tarafından yapılan açıklamada, hava savunma sistemlerinin ülkeye doğru gelen İran füzelerini başarıyla engellemek üzere çalıştığı belirtildi. Bu saldırı, iki ülke arasındaki gerilimin tırmandığı bir dönemde gerçekleşti. Bölgedeki güvenlik durumu yakından takip ediliyor ve uluslararası toplumdan tepkiler gelmesi bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1260071/pexels-photo-1260071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:11:26.429Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/alarms-sound-in-central-israel-after-missile-barrage-from-iran/3871337",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
