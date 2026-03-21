@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774104995301yadff",
+        "title": "İranlı Kadının ABD-İsrail Saldırısını Kaydettiği Video Bombanın İsabet Etmesiyle Sona Erdi",
+        "summary": "ABD ve İsrail'in ortaklaşa gerçekleştirdiği bir saldırıyı kaydettiği iddia edilen İranlı bir kadının akıbeti belirsizliğini koruyor. Ortaya çıkan görüntülerde, kadının saldırı anını cep telefonuyla kaydettiği ve videonun bir bombanın isabet etmesiyle kesildiği görülüyor. Olayın tam yeri ve zamanı hakkında detay verilmezken, kadının saldırıdan sağ kurtulup kurtulmadığına dair henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki gerilimin ve sivil kayıpların potansiyel boyutunu bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6832198/pexels-photo-6832198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T14:56:35.301Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/21/iranian-womans-video-of-us-israel-attack-ends-as-bomb-hits?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774105017808jqqgx",
+        "title": "Trump'ın İran Savaşı'nı Savunmak İçin Pearl Harbor'ı Anması Japonya'da Rahatsızlık Yarattı",
+        "summary": "ABD Başkanı'nın İran'a yönelik olası bir askeri müdahaleyi savunurken Pearl Harbor saldırısına atıfta bulunması, Japonya'da geniş çaplı bir rahatsızlığa neden oldu. 1941'deki bu saldırının hatırlatılması, Japon kamuoyunda şok etkisi yaratırken, Başbakan Takaichi'nin konuyla ilgili sessizliği farklı tepkilerle karşılandı. Bu durum, Japonya'nın ABD ile olan ilişkileri ve bölgesel güvenlik algısı üzerinde tartışmaları beraberinde getirdi. Başkan'ın bu açıklamaları, özellikle İran ile gerilimin yüksek olduğu bir dönemde, uluslararası arenada da yankı buldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T14:56:57.808Z",
+        "location": {
+            "lat": 35.6895,
+            "lng": 139.6917,
+            "name": "Tokyo, Japonya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/21/unease-in-japan-after-trump-uses-pearl-harbor-to-defend-iran-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774101298189fjt8u",
         "title": "İran, Natanz Nükleer Tesisine ABD ve İsrail'in Saldırdığını Açıkladı",
         "summary": "İran, ülkenin orta kesiminde yer alan Natanz nükleer tesisine ABD ve İsrail tarafından bir saldırı düzenlendiğini iddia etti. Tahran'ın atom enerjisi kuruluşu, olay yerinde herhangi bir radyoaktif madde sızıntısı yaşanmadığını bildirdi. Bu açıklama, bölgedeki güvenlik ve uluslararası ilişkiler açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-including-tel-aviv-as-iran-launches-2nd-missile-barrage-within-hour/3872546",
         "trendScore": 95,
         "isBreaking": true
-    },
-    {
-        "id": "1773993495545megs8",
-        "title": "İsrail Ordusu, Süveyda Olayına Karşılık Suriye'deki Askeri Hedefleri Vurduğunu Açıkladı",
-        "summary": "İsrail ordusu, Suriye topraklarındaki askeri hedeflere hava saldırıları düzenlediğini duyurdu. Yapılan açıklamada, bu saldırıların Suriye'nin Süveyda bölgesinde meydana gelen bir olaya misilleme olarak gerçekleştirildiği belirtildi. İsrail'in bu operasyonuna ilişkin Suriye'nin başkenti Şam'dan ise henüz resmi bir yorum veya açıklama gelmedi. Bu gelişme, İsrail ile Suriye arasındaki gerilimin ve askeri çatışmaların devam ettiğini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/67543/match-lighter-matches-sticks-67543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:58:15.545Z",
-        "location": {
-            "lat": 34.8071,
-            "lng": 38.9968,
-            "name": "Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-hit-military-targets-in-syria-claiming-it-was-in-response-to-suwayda-incident/3872537",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17739935215729d9e7",
-        "title": "RÖPORTAJ - Eski Bakana Göre İran Savaşı ve Küresel Gerilimler Grönland'ı AB'ye Geri Döndürebilir",
-        "summary": "Eski Danimarka Bakanı Tom Hoyem'e göre, Grönland'ın 1985'te ayrıldığı Avrupa Birliği'ne yeniden katılması gündeme gelebilir. Hoyem, artan küresel gerilimler ve ABD'nin baskısının, Grönland'ın AB'ye yeniden katılma fikrini daha cazip hale getirdiğini belirtti. Özellikle İran ile ilgili olası bir savaş senaryosu gibi bölgesel çatışmaların küresel çapta yaratacağı istikrarsızlık, bu kararda etkili olabilir. Bu durum, Grönland'ın uluslararası arenadaki konumunu yeniden değerlendirmesine yol açarken, AB'nin de jeopolitik önemini artırabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6899143/pexels-photo-6899143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:58:41.572Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu Bölgesi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/interview-iran-war-global-tensions-could-drive-greenland-back-to-eu-ex-minister/3872510",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
