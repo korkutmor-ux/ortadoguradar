@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774137116084323zi",
+        "title": "Suudi Arabistan, İran askeri ataşesini ve dört elçilik personelini sınır dışı etti",
+        "summary": "Suudi Arabistan, İran'ın askeri ataşesi ile dört elçilik personelini sınır dışı ettiğini açıkladı. Bu kararın, ülkenin Kızıldeniz'deki ana petrol ihracat limanı olan Yanbu'ya düzenlenen saldırının ardından geldiği belirtildi. Yanbu Limanı'na yönelik saldırı, İran'ın Hürmüz Boğazı'nı kapatmasının ardından gerçekleşen bir dizi gerilimin parçasıydı. Riyad'dan yapılan bu diplomatik hamle, iki bölgesel güç arasındaki mevcut gerilimi daha da tırmandırıyor ve bölgedeki güvenlik endişelerini artırıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/626164/pexels-photo-626164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T23:51:56.084Z",
+        "location": {
+            "lat": 24.08,
+            "lng": 38.05,
+            "name": "Yanbu, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1774137136614mtkt0",
+        "title": "İran, İsrail'in Nükleer Tesisine Yakın Kasabaları Vurdu: Gerilim Tırmanıyor",
+        "summary": "İran, İsrail'in güneyindeki Dimona ve Arad kasabalarına yönelik misilleme saldırıları gerçekleştirdi. Bu eylem, İran'ın Natanz nükleer tesisine yapılan bir saldırıya karşılık olarak düzenlendiği belirtildi. Saldırılarda yaklaşık 100 kişinin yaralandığı bildirilirken, bölgedeki gerilimin karşılıklı misillemelerle tırmandığı gözlemleniyor. Olay, Orta Doğu'da güvenlik ve istikrar endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T23:52:16.614Z",
+        "location": {
+            "lat": 31.08,
+            "lng": 35.02,
+            "name": "Dimona, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774137204499gib4c",
+        "title": "İran, Saldırı Tehditleri Altında Nevruz'u Kutluyor",
+        "summary": "İran, olası saldırı tehditlerinin gölgesinde geleneksel Fars yeni yılı Nevruz'u kutlamaya hazırlanıyor. BBC'ye konuşan İranlılar, ülkenin içinde bulunduğu savaş ortamında Nevruz festivaline hazırlıklarını sürdürdüklerini belirtti. Halk, devam eden gerginlik ve güvenlik endişeleri nedeniyle bu yılki Nevruz coşkusunun geçmiş yıllara göre daha az hissedildiğini ifade ediyor. Kutlamaların buruk bir atmosferde geçmesi beklenirken, bu durum bölgedeki siyasi ve güvenlik durumunun günlük yaşam üzerindeki etkisini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4639082/pexels-photo-4639082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T23:53:24.499Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774137243355x05f9",
+        "title": "İran'ın Güney İsrail Kasabasına Füze Saldırısı Sonucu En Az 88 Kişi Yaralandı",
+        "summary": "İsrail'in güneyindeki Ölü Deniz yakınlarında bulunan bir kasabaya İran tarafından füze saldırısı düzenlendi. Saldırı sonucunda ilk belirlemelere göre en az 88 kişi yaralandı. İsrail acil servisinden yapılan açıklamaya göre, yaralılardan 10'unun durumunun ciddi olduğu bildirildi. Bu olay, bölgedeki gerilimi tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19893295/pexels-photo-19893295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T23:54:03.355Z",
+        "location": {
+            "lat": 31,
+            "lng": 35.3,
+            "name": "Ölü Deniz Yakınları, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/at-least-88-injured-following-iranian-missile-attack-on-southern-israeli-town-near-dead-sea/3874347",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1774134072443yg36m",
         "title": "Suudi Arabistan, Körfez'deki Gemilere Temel Malzeme Desteği Girişimi Başlattı",
         "summary": "Suudi Arabistan Genel Liman İdaresi, Körfez'deki gemilere temel malzeme desteği sağlamak amacıyla yeni bir girişim başlattığını duyurdu. Yapılan açıklamada, bu girişimin bölgedeki devam eden gerilimin ortasında gemilerin ihtiyaçlarını hızla karşılayacak entegre hizmetler sunmayı hedeflediği belirtildi. Girişim, denizcilik faaliyetlerinin kesintisiz devamlılığını sağlamayı ve bölgede seyreden gemilere destek olmayı amaçlıyor. Suudi Arabistan'ın bu adımı, Körfez'deki denizcilik güvenliği ve istikrarına verdiği önemi vurguluyor.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993290599c9m4w",
-        "title": "İran Kadın Milli Futbol Takımı, Sığınma Mücadelesinin Ardından Tahran'da Karşılandı",
-        "summary": "İran Kadın Milli Futbol Takımı, Asya Kupası'nın ardından ülkesine döndü. Takımın bazı oyuncularının Avustralya'da sığınma talebinde bulunmasının ardından yaşanan gelişmeler dikkat çekti. Oyuncuların bu taleplerine rağmen, takım Tahran'da coşkulu bir şekilde karşılandı. Bu olay, hem sporcuların kişisel tercihleri hem de İran'daki sosyal ve siyasi koşullar hakkında tartışmaları beraberinde getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36429699/pexels-photo-36429699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:54:50.599Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/20/iran-womens-football-team-feted-in-tehran-after-asylum-battle-at-asian-cup?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993313434uie2v",
-        "title": "İranlı Futbolcular Tahran'da Kutlandı",
-        "summary": "İran milli kadın futbol takımı, haftalar süren bir krizin ardından ülkesine dönerek Tahran'da coşkulu bir törenle karşılandı. Başkentte toplanan taraftarlar ve yetkililer, sporcuları kahramanlar gibi selamladı. Bu karşılama, takımın yaşadığı zorlu sürecin ardından önemli bir moral kaynağı olarak değerlendirildi. Ülke genelinde büyük ilgi gören bu olay, takımın mücadelesinin ve başarılarının takdir edildiğini gösterdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/949592/pexels-photo-949592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:55:13.434Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993341571cbkps",
-        "title": "FIFA Başkanı Infantino'dan barış çabaları konusunda rota değişikliği sinyali",
-        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino, kuruluşunun \"jeopolitik çatışmaları kesinlikle çözemeyeceğini\" belirtti. Bu açıklama, FIFA'nın daha önce barış çabalarına yönelik sergilediği tutumda bir değişiklik olarak yorumlandı. Infantino'nun sözleri, küresel futbol yönetim organının, uluslararası arenadaki siyasi anlaşmazlıklara müdahale etme kapasitesi ve istekliliği konusundaki duruşunu netleştirdi. FIFA'nın bu yeni pozisyonu, sporun siyasetle ilişkisi ve uluslararası kuruluşların rolü üzerine tartışmaları beraberinde getirebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/325135/pexels-photo-325135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:55:41.571Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/20/fifas-gianni-infantino-seemingly-changes-course-on-peace-efforts?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993363388y5yu1",
-        "title": "İranlı Futbolcu Azmoun'un Milli Takımdan Atıldığı İddia Edildi",
-        "summary": "İranlı milli futbolcu Sardar Azmoun'un, milli takımdan çıkarıldığına dair haberler yayımlandı. İddialara göre, şu anda Birleşik Arap Emirlikleri (BAE) kulübü Shabab Al-Ahli'de forma giyen Azmoun, Dubai Emiri ile çekilmiş bir fotoğrafını Instagram'da paylaşması nedeniyle 'sadakatsizlik' suçlamasıyla karşı karşıya kaldı. Bu paylaşımın, İran Futbol Federasyonu tarafından milli takımdan ihraç edilme gerekçesi olarak gösterildiği belirtiliyor. Olay, İran ile BAE arasındaki siyasi hassasiyetlerin spor dünyasına yansıması olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:56:03.388Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran / Dubai, BAE"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
