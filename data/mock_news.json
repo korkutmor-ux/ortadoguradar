@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774112356226v16x9",
+        "title": "Tahran'da Bayram Namazı Kılındı, Devrim Muhafızları Sözcüsü İçin Cenaze Töreni Düzenlendi",
+        "summary": "İran'ın başkenti Tahran'da, gece boyunca devam eden hava saldırılarının ardından Ramazan Bayramı namazı eda edildi. Şehir sakinleri, yaşanan gerilimli gecenin ardından bayram namazı için bir araya geldi. Saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmazken, olaylar bölgedeki güvenlik endişelerini artırdı. Tahran'da güvenlik önlemleri üst düzeye çıkarıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/53222/plane-aircraft-airplane-transport-53222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T16:59:16.226Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1774112376442idvps",
+        "title": "Bahreyn, Patriot Sisteminin Evlerin Üzerinde Bir İnsansız Hava Aracını Engellediğini Duyurdu",
+        "summary": "Bahreyn, 9 Mart'ta evlerin üzerinde uçan bir insansız hava aracının Patriot hava savunma sistemi tarafından başarıyla engellendiğini bildirdi. Olay sonucunda sivil yaralanmaların meydana geldiği belirtildi. Bahreyn'in bu olaya ilişkin açıklaması, ABD ordusunun aynı olayı tanımlama şeklinden farklılık gösteriyor. Bu durum, bölgedeki güvenlik olaylarına dair farklı perspektifleri ve bilgi akışındaki farklılıkları gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/274939/pexels-photo-274939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T16:59:36.442Z",
+        "location": {
+            "lat": 26,
+            "lng": 50.5,
+            "name": "Bahreyn"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774104995301yadff",
         "title": "İranlı Kadının ABD-İsrail Saldırısını Kaydettiği Video Bombanın İsabet Etmesiyle Sona Erdi",
         "summary": "ABD ve İsrail'in ortaklaşa gerçekleştirdiği bir saldırıyı kaydettiği iddia edilen İranlı bir kadının akıbeti belirsizliğini koruyor. Ortaya çıkan görüntülerde, kadının saldırı anını cep telefonuyla kaydettiği ve videonun bir bombanın isabet etmesiyle kesildiği görülüyor. Olayın tam yeri ve zamanı hakkında detay verilmezken, kadının saldırıdan sağ kurtulup kurtulmadığına dair henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki gerilimin ve sivil kayıpların potansiyel boyutunu bir kez daha gündeme getirdi.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773993452501fmq84",
-        "title": "İran'da Hükümet Karşıtı Protestolarla Bağlantılı İlk İnfazlar Gerçekleşti",
-        "summary": "İran'da hükümet karşıtı protestolarla bağlantılı olarak ilk infaz edilenler arasında bir gencin de bulunduğu açıklandı. Devlet medyası tarafından yapılan açıklamaya göre, İran milli güreş takımı üyesi Saleh Mohammadi, iki başka kişiyle birlikte polis memurlarını öldürme suçundan mahkum edildi. Bu infazlar, ülkede aylardır devam eden gösterilerin ardından yargılanan kişilere verilen cezaların uygulanmaya başlandığını işaret ediyor. Gelişme, uluslararası kamuoyunda ve insan hakları örgütleri arasında endişelere yol açabilir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/443426/pexels-photo-443426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:57:32.501Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993474878kgt1m",
-        "title": "İran'ın Füze Saldırısı Sonrası Tel Aviv Dahil Orta İsrail'de Sirenler Çaldı",
-        "summary": "İran'ın İsrail'e yönelik bir saat içinde ikinci füze saldırısını başlatmasının ardından Tel Aviv de dahil olmak üzere orta İsrail'de sirenler çalmaya başladı. İsrail ordusu tarafından yapılan açıklamada, ülkenin hava savunma sistemlerinin füzeleri engellemek için devrede olduğu belirtildi. Bu gelişme, bölgedeki gerilimin tırmandığını ve iki ülke arasındaki çatışmanın boyutunu gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:57:54.878Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-including-tel-aviv-as-iran-launches-2nd-missile-barrage-within-hour/3872546",
-        "trendScore": 95,
-        "isBreaking": true
     }
 ]
