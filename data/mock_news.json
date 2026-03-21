@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774069102638slitg",
+        "title": "Savaş Gölgesinde 300 Milyon Kişi Nevruz'u Kutladı",
+        "summary": "Antik Pers Yeni Yılı Nevruz, Orta Doğu'da devam eden savaşın gölgesinde milyonlarca kişi tarafından kutlandı. Yaklaşık 300 milyon insanın katıldığı bu kutlamalar, bölgedeki çatışmaların yarattığı belirsizlik ve endişe ortamında gerçekleşti. Savaşın gölgesi altında yapılan Nevruz kutlamaları, kültürel mirasın ve umudun devamlılığını simgelese de, bölgedeki gerilimin etkilerini gözler önüne serdi. Bu durum, geleneksel bayramın coşkusuna buruk bir hava kattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7157628/pexels-photo-7157628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T04:58:22.638Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774069158673xinzq",
+        "title": "Trump'tan Hürmüz Boğazı Vurgusu: İran Saldırılarına Karşı Korunmalı; Hamaney'den Meydan Okuyan Mesaj",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın İran saldırılarına karşı, boğazı kullanan diğer uluslar tarafından korunması gerektiğini ifade etti. Bu açıklama, bölgedeki stratejik su yolunun güvenliğine ilişkin endişeleri bir kez daha gündeme getirdi. Haber başlığında İran'daki savaş durumuna ve Trump'ın ateşkes olmayacağı yönündeki sözlerine değinilirken, İran'ın dini lideri Ayetullah Ali Hamaney'den de meydan okuyan bir mesaj geldiği belirtildi. Küresel petrol ticareti için hayati önem taşıyan Hürmüz Boğazı'ndaki gerilim, uluslararası kamuoyu tarafından yakından izleniyor. Bu gelişmeler, Orta Doğu'daki siyasi ve güvenlik durumunun kırılganlığını ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5392789/pexels-photo-5392789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T04:59:18.673Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1774040386800wx1av",
         "title": "İran'ın Dini Lideri Hamaney'den Nevruz Mesajı: Düşman Yenildi",
         "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, Fars Yeni Yılı (Nevruz) münasebetiyle bir sesli mesaj yayımladı. Mesajında, ülkesinin karşılaştığı zorluklara rağmen \"düşmanın yenildiğini\" ifade eden Hamaney, elde edilen başarıları vurguladı. Dini liderin bu açıklamaları, İran'ın iç ve dış politikadaki duruşuna dair önemli ipuçları taşıyor. Hamaney'in bu tür mesajları genellikle ulusal birlik ve direniş çağrılarını içerir ve bölgesel dinamikler açısından da yakından takip edilir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/counting-the-cost/2026/3/19/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17739216396786jgsq",
-        "title": "Çatışma 'Enerji Savaşına' Dönüşüyor: İran Körfez Enerji Tesislerini Hedef Aldı",
-        "summary": "İsrail'in Güney Pars doğal gaz sahasına yönelik saldırısının ardından, Orta Doğu'daki çatışma yeni bir boyut kazanarak 'enerji savaşına' dönüştü. İran, bu gelişmeye karşılık olarak Körfez'deki enerji tesislerini hedef aldığını duyurdu. Tahran yönetimi, bu eylemlerle bölgedeki çatışmaların sona ermesi için uluslararası baskı oluşturmayı amaçladığını belirtti. Bu durum, bölgedeki enerji güvenliği ve küresel piyasalar üzerinde potansiyel etkiler yaratabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33493/windrader-wind-power-fichtelberg-wind-park.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T12:00:39.678Z",
-        "location": {
-            "lat": 28.92,
-            "lng": 50.83,
-            "name": "Bushehr, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/conflict-shifts-to-energy-war-as-iran-targets-gulf-oil-and-gas?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "177392169516470mkx",
-        "title": "İranlı Kadın Futbolcular Jeopolitik Gerilimlerin Odağında",
-        "summary": "Samantha Johnson tarafından hazırlanan bir analizde, İranlı kadın futbolcuların jeopolitik gelişmelerin ortasında nasıl kaldığı inceleniyor. Haber, İranlı sporcuların, özellikle de kadın futbolcularının, uluslararası siyasetin ve bölgesel gerilimlerin bir parçası haline gelmesini ele alıyor. Bu durumun, sporun siyasi bir araç olarak kullanılıp kullanılmadığı sorusunu gündeme getirdiği belirtiliyor. Analiz, İranlı sporcuların bu karmaşık jeopolitik ortamda karşılaştığı zorlukları ve konumlarını detaylandırıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15429341/pexels-photo-15429341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T12:01:35.164Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/game-theory/2026/3/19/are-irans-athletes-political-pawns?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
