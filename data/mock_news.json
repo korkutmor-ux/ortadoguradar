@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774119955752k0ie8",
+        "title": "Birleşik Krallık ve Bahreyn, Körfez'deki kritik altyapıya yönelik İran saldırılarını kınadı",
+        "summary": "Birleşik Krallık ve Bahreyn, Körfez ülkesindeki kritik ulusal altyapıya yönelik İran kaynaklı saldırıları kınadıklarını duyurdu. İngiltere İşçi Partisi lideri Keir Starmer, Bahreyn'e yönelik en son desteklerini açıkladı. Bu destekler kapsamında, Bahreyn'in insansız hava aracı (İHA) saldırılarına karşı koymasına yardımcı olmak üzere bir uzman ekibi görevlendirilecek. Açıklama, bölgedeki güvenlik endişelerinin arttığı bir dönemde geldi ve iki ülke arasındaki stratejik işbirliğinin önemini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19453550/pexels-photo-19453550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T19:05:55.752Z",
+        "location": {
+            "lat": 26.2,
+            "lng": 50.6,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uk-bahrain-condemn-iranian-attacks-on-critical-national-infrastructure-in-gulf-country/3874198",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774112356226v16x9",
         "title": "Tahran'da Bayram Namazı Kılındı, Devrim Muhafızları Sözcüsü İçin Cenaze Töreni Düzenlendi",
         "summary": "İran'ın başkenti Tahran'da, gece boyunca devam eden hava saldırılarının ardından Ramazan Bayramı namazı eda edildi. Şehir sakinleri, yaşanan gerilimli gecenin ardından bayram namazı için bir araya geldi. Saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmazken, olaylar bölgedeki güvenlik endişelerini artırdı. Tahran'da güvenlik önlemleri üst düzeye çıkarıldı.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993430254h55c6",
-        "title": "ABD ve İsrail, İran Savaşı Konusunda Aynı Çizgide mi? Trump'ın Gaz Sahası Saldırıları Sonrası Paylaşımı Deşifre Ediliyor",
-        "summary": "Son dönemdeki gaz sahası saldırılarının ardından eski ABD Başkanı Donald Trump'ın sosyal medya paylaşımı, Amerika Birleşik Devletleri ile İsrail'in İran'a yönelik potansiyel bir askeri müdahale konusundaki stratejik uyumunu yeniden tartışmaya açtı. Bu paylaşım, iki ülke arasındaki mevcut gerilim ve işbirliği seviyesine dair önemli ipuçları sunarken, bölgedeki güvenlik dinamiklerini de etkileme potansiyeli taşıyor. Analistler, Trump'ın ifadelerinin, İran'ın nükleer programı ve bölgesel faaliyetleri etrafındaki tartışmaları nasıl şekillendireceğini değerlendiriyor. Haber, ABD ve İsrail'in İran politikalarındaki olası farklılıkları veya ortak noktaları anlamaya odaklanarak, bölgedeki stratejik dengeye ışık tutuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:57:10.254Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
