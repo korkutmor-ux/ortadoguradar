@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774101298189fjt8u",
+        "title": "İran, Natanz Nükleer Tesisine ABD ve İsrail'in Saldırdığını Açıkladı",
+        "summary": "İran, ülkenin orta kesiminde yer alan Natanz nükleer tesisine ABD ve İsrail tarafından bir saldırı düzenlendiğini iddia etti. Tahran'ın atom enerjisi kuruluşu, olay yerinde herhangi bir radyoaktif madde sızıntısı yaşanmadığını bildirdi. Bu açıklama, bölgedeki güvenlik ve uluslararası ilişkiler açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T13:54:58.189Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 51.75,
+            "name": "Natanz, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17741013702076lmhx",
+        "title": "Mısır Cumhurbaşkanı Bölgesel Gerilimin Ortasında Bahreyn'e Ulaştı",
+        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, bölgesel gerilimin arttığı bir dönemde Bahreyn'e resmi bir ziyaret gerçekleştirdi. Bahreyn Haber Ajansı'nın bildirdiğine göre, Cumhurbaşkanı Sisi'yi Bahreyn Kralı Hamad bin İsa Al Halife karşıladı. Ziyaretin, iki ülke arasındaki ilişkileri güçlendirme ve bölgesel gelişmeleri ele alma amacı taşıdığı belirtildi. Liderlerin, bölgedeki mevcut durumu ve ortak güvenlik konularını görüşmesi bekleniyor. Bu ziyaret, Orta Doğu'daki diplomatik trafiğin yoğunlaştığı bir döneme denk geliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T13:56:10.207Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egyptian-president-arrives-in-bahrain-amid-regional-escalation/3874006",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17740936368344xsgz",
         "title": "Bilgi Kontrolü Sıkılaşırken Savaş Derinleşiyor",
         "summary": "Küresel ve bölgesel aktörler arasında bilgi kontrolü ve anlatı mücadelesi, devam eden çatışmalar kadar kritik bir öneme sahip. Washington'dan Tahran'a ve Tel Aviv'e kadar uzanan bu mücadele, savaşın kendisi kadar belirleyici bir unsur olarak görülüyor. Taraflar, kamuoyunu ve uluslararası algıyı kendi lehlerine çevirmek amacıyla yoğun bir çaba sarf ediyor. Bu durum, çatışmanın askeri boyutunun yanı sıra psikolojik ve enformasyon savaşının da ne denli önemli olduğunu ortaya koyuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/interview-iran-war-global-tensions-could-drive-greenland-back-to-eu-ex-minister/3872510",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17739935427057mogr",
-        "title": "Kuveyt'in Mina Al-Ahmadi Rafinerisi'nde İHA Saldırısı Sonrası Yangın Çıktı",
-        "summary": "Kuveyt'in Mina Al-Ahmadi Rafinerisi'nde bir insansız hava aracı (İHA) saldırısı sonucu yangın meydana geldi. Kuveyt Petrol Şirketi (KPC) tarafından yapılan açıklamada, olayda herhangi bir can kaybının yaşanmadığı bildirildi. Yangına müdahale etmek üzere acil durum ekipleri hızla olay yerine sevk edildi. Rafinerideki yangının kontrol altına alınması için çalışmalar devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2391/dirty-industry-stack-factory.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:59:02.705Z",
-        "location": {
-            "lat": 29.08,
-            "lng": 48.15,
-            "name": "Mina Al-Ahmadi, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/fire-breaks-out-at-kuwait-s-mina-al-ahmadi-refinery-after-drone-attack/3872475",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17739935673096wr3n",
-        "title": "İran: ABD ile Görüşme Yok, Üs Barındıran Ülkeler Düşman Sayılacak",
-        "summary": "İran, ABD ile halihazırda herhangi bir görüşme yürütülmediğini açıkladı. Ülke, topraklarında askeri üslere izin veren ulusları düşman muamelesi görecekleri konusunda uyardı. Meclis Ulusal Güvenlik ve Dış Politika Komisyonu sözcüsü, Hürremşehr Adası'nın güvende olduğunu belirtti. Sözcü ayrıca, ülkenin petrol ihracatının kesintisiz devam ettiğini doğruladı. Bu açıklamalar, bölgesel güvenlik ve dış politika konularında İran'ın duruşunu yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:59:27.309Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-no-talks-currently-underway-with-us-warns-nations-that-allow-bases-to-be-treated-as-enemies/3872453",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
