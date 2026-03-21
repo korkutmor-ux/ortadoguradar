@@ -1,5 +1,21 @@
 [
     {
+        "id": "17740936368344xsgz",
+        "title": "Bilgi Kontrolü Sıkılaşırken Savaş Derinleşiyor",
+        "summary": "Küresel ve bölgesel aktörler arasında bilgi kontrolü ve anlatı mücadelesi, devam eden çatışmalar kadar kritik bir öneme sahip. Washington'dan Tahran'a ve Tel Aviv'e kadar uzanan bu mücadele, savaşın kendisi kadar belirleyici bir unsur olarak görülüyor. Taraflar, kamuoyunu ve uluslararası algıyı kendi lehlerine çevirmek amacıyla yoğun bir çaba sarf ediyor. Bu durum, çatışmanın askeri boyutunun yanı sıra psikolojik ve enformasyon savaşının da ne denli önemli olduğunu ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T11:47:16.834Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/the-listening-post/2026/3/21/war-spirals-as-information-control-tightens?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1774086772986b5sla",
         "title": "İran Savaşı: ABD-İsrail Saldırılarının 22. Gününde Neler Yaşanıyor?",
         "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının 22. gününe girilirken, Orta Doğu genelindeki çatışmalar dördüncü haftasına ulaştı. Bölgedeki gerilimin tırmanmaya devam ettiği belirtilirken, haberde bu saldırıların ve geniş çaplı Orta Doğu'daki gelişmelerin son durumu ele alınıyor. Çatışmanın tarafları ve bölge üzerindeki etkileri yakından takip ediliyor. Bu durum, uluslararası kamuoyunda endişeyle izleniyor ve bölgedeki istikrarsızlığı artırma potansiyeli taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-no-talks-currently-underway-with-us-warns-nations-that-allow-bases-to-be-treated-as-enemies/3872453",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773983757217bv6fv",
-        "title": "Trump, İran Savaşında 'Direksiyonu İsraillilerden Geri Almalı'",
-        "summary": "ABD Başkanı Donald Trump'ın İran ile olası bir çatışmada İsrail'in etkisini sınırlaması gerektiği yönünde bir görüş ortaya atıldı. Analist Trita Parsi, Trump yönetiminin İran'a yönelik politikalarında İsrail'in yönlendirici rol oynamasına izin vermemesi gerektiğini belirtti. Parsi, ABD'nin kendi ulusal çıkarları doğrultusunda hareket etmesi ve İsrail'in bölgesel gündeminin Amerikan dış politikasını şekillendirmesine engel olması gerektiğini vurguladı. Bu açıklama, ABD'nin Orta Doğu'daki stratejileri ve müttefikleriyle ilişkileri üzerine devam eden tartışmalar bağlamında dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/25745473/pexels-photo-25745473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T05:15:57.217Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/20/trump-must-take-the-steering-wheel-back-from-the-israelis-in-iran-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
