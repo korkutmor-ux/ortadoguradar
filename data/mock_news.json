@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774187786580bqsbz",
+        "title": "İran'dan ABD ve İsrail'e Bölgedeki Enerji Tesislerini Hedef Alma Uyarısı",
+        "summary": "İran, ABD ve İsrail'in kendi santrallerini hedef alması durumunda bölgedeki enerji tesislerini vuracağı uyarısında bulundu. Bu açıklama, dönemin ABD Başkanı Trump'ın İran'daki santralleri bombalama tehdidinin ardından geldi. İran, böyle bir saldırıya karşılık olarak bölgedeki hayati altyapıyı \"geri dönülemez bir şekilde\" yok edeceğini belirtti. Uyarı, Orta Doğu'daki gerilimin tırmanma potansiyelini ve enerji güvenliği üzerindeki tehditleri gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6899129/pexels-photo-6899129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T13:56:26.580Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1774187809621uqzoe",
+        "title": "Hizbullah'ın Kuzey İsrail'e Saldırısında Bir Kişi Hayatını Kaybetti, Lübnan'a Yönelik Operasyonlar Sürüyor",
+        "summary": "Kuzey İsrail'de Hizbullah tarafından düzenlenen saldırıda bir kişi yaşamını yitirdi. Bu saldırılar, İsrail güçlerinin güney Lübnan'a ilerlemesiyle eş zamanlı olarak gerçekleşti. Hizbullah, eylemlerini ABD ve İsrail'in İran'a yönelik savaşına bir yanıt olarak gerçekleştirdiğini belirtti. Bölgedeki gerilim, İsrail'in Lübnan'a yönelik operasyonlarının devam etmesiyle tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640814/pexels-photo-7640814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T13:56:49.621Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kuzey İsrail, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
         "id": "1774179708576y1z9e",
         "title": "Lübnanlı Hemşire Kayıplarına Rağmen Bekaa Vadisi'ndeki Görevini Sürdürüyor",
         "summary": "Lübnan'ın Bekaa Vadisi'nde görev yapan bir hemşire, 2024 İsrail-Hizbullah Savaşı'nda nişanlısını kaybetmesine rağmen hastanedeki görevinden ayrılmayı reddetti. Yaşadığı derin kişisel trajediye rağmen mesleki sorumluluğunu sürdürme kararı, bölgedeki çatışmaların yol açtığı zorluklara karşı gösterilen dayanıklılığın bir simgesi haline geldi. Hemşirenin bu fedakarlığı, savaşın sivil halk üzerindeki yıkıcı etkilerini ve aynı zamanda insan ruhunun direncini gözler önüne seriyor. Bu olay, sağlık çalışanlarının çatışma bölgelerindeki kritik rolünü ve karşılaştıkları kişisel fedakarlıkları bir kez daha vurguluyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-ready-to-facilitate-japanese-vessels-passage-through-strait-of-hormuz-foreign-minister/3873629",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1774077890621af3b6",
-        "title": "Suudi Arabistan, İsrail'in Güney Suriye'ye Yönelik Saldırılarını 'Uluslararası Hukukun Açık İhlali' Olarak Kınadı",
-        "summary": "Suudi Arabistan, İsrail'in Suriye'nin güneyine düzenlediği hava saldırılarını sert bir dille kınadı. Riyad yönetimi, bu saldırıların uluslararası hukukun açık bir ihlalini teşkil ettiğini belirtti. Yapılan açıklamada, Suudi Arabistan'ın Suriye ile dayanışma içinde olduğu vurgulandı. Uluslararası topluma, İsrail'in bu tür ihlallerini durdurmak için harekete geçme çağrısı yapıldı. Bu kınama, bölgesel istikrara yönelik endişeleri yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7051776/pexels-photo-7051776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:24:50.621Z",
-        "location": {
-            "lat": 33,
-            "lng": 36,
-            "name": "Güney Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-condemns-israeli-strikes-on-southern-syria-as-flagrant-violation-of-international-law/3873612",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17740779106625ab8w",
-        "title": "Kuveyt'ten 'Düşmanca Füze ve İHA Tehditlerine' Karşı Hava Savunması Açıklaması",
-        "summary": "Kuveyt resmi makamları, ülkenin hava savunma sistemlerinin \"düşmanca füze ve insansız hava aracı tehditlerine\" karşı harekete geçtiğini duyurdu. Yapılan açıklamada, halkın güvenlik talimatlarına uyması gerektiği vurgulandı. Yetkililer, operasyonlar sırasında patlama seslerinin duyulabileceği konusunda uyarıda bulunarak, vatandaşların sakin kalmasını ve resmi yönlendirmelere riayet etmesini istedi. Bu gelişme, bölgedeki güvenlik endişelerini artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/87088/fighter-jet-jet-aircraft-army-87088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:25:10.662Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-air-defenses-responding-to-hostile-missile-and-drone-threats/3873606",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
