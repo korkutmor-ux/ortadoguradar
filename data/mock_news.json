@@ -1,5 +1,21 @@
 [
     {
+        "id": "17741914659413yzi0",
+        "title": "Büyük İsrail Kavramı Sahada Gerçekleşiyor mu?",
+        "summary": "İncil'deki bir ayetten haritalara, stratejilere ve eylemlere dönüşen 'Büyük İsrail' kavramının artık sadece bir fikir olmaktan çıktığı belirtiliyor. Haber, bu kavramın sahada somut adımlarla hayata geçirilip geçirilmediği yönündeki tartışmaları ve iddiaları ele alıyor. Bu durum, bölgesel siyaset ve toprak iddiaları açısından önemli gelişmelere işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/161287/praise-to-god-hymnal-church-catholic-161287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T14:57:45.941Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/22/is-greater-israel-already-happening-on-the-ground?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1774187786580bqsbz",
         "title": "İran'dan ABD ve İsrail'e Bölgedeki Enerji Tesislerini Hedef Alma Uyarısı",
         "summary": "İran, ABD ve İsrail'in kendi santrallerini hedef alması durumunda bölgedeki enerji tesislerini vuracağı uyarısında bulundu. Bu açıklama, dönemin ABD Başkanı Trump'ın İran'daki santralleri bombalama tehdidinin ardından geldi. İran, böyle bir saldırıya karşılık olarak bölgedeki hayati altyapıyı \"geri dönülemez bir şekilde\" yok edeceğini belirtti. Uyarı, Orta Doğu'daki gerilimin tırmanma potansiyelini ve enerji güvenliği üzerindeki tehditleri gözler önüne seriyor.",
@@ -780,22 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-51-drones-in-eastern-province-defense-ministry/3873630",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774077866332iriwu",
-        "title": "İran Dışişleri Bakanı: Hürmüz Boğazı Japon Gemilerine Açık",
-        "summary": "İran Dışişleri Bakanı Yardımcısı Abbas Araghchi, Japonya'ya Hürmüz Boğazı'ndan geçen gemileri için kolaylık sağlamaya hazır olduklarını bildirdi. Araghchi, boğazın tarafsız ülkelere açık kalmaya devam ettiğini vurguladı. İranlı yetkili, Japonya'ya İran'a yönelik saldırılara karşı çıkması çağrısında bulundu. Bu açıklama, bölgedeki denizcilik güvenliği ve diplomatik ilişkiler bağlamında İran'ın tutumunu yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5877916/pexels-photo-5877916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:24:26.332Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-ready-to-facilitate-japanese-vessels-passage-through-strait-of-hormuz-foreign-minister/3873629",
         "trendScore": 85,
         "isBreaking": false
     }
