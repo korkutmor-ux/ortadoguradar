@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774156405031ovaok",
+        "title": "Batı Şeria'da İsrailli Yerleşimcilerin Ev ve Araçları Ateşe Vermesiyle Can Kayıpları Yaşandı",
+        "summary": "Batı Şeria'da İsrailli yerleşimciler tarafından ev ve araçların ateşe verilmesi sonucu can kayıpları yaşandığı bildirildi. Olaylar, işgal altındaki topraklarda, özellikle Cenin yakınlarında meydana geldi. Bölgeden gelen haberlere göre, yerleşimcilerin saldırıları sonucunda geniş çaplı şiddet olayları patlak verdi. Bu gelişmeler, İsrail-Filistin çatışmasının yaşandığı bölgedeki gerilimi daha da tırmandırdı ve uluslararası toplumda endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T05:13:25.031Z",
+        "location": {
+            "lat": 32.463,
+            "lng": 35.293,
+            "name": "Cenin, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774137116084323zi",
         "title": "Suudi Arabistan, İran askeri ataşesini ve dört elçilik personelini sınır dışı etti",
         "summary": "Suudi Arabistan, İran'ın askeri ataşesi ile dört elçilik personelini sınır dışı ettiğini açıkladı. Bu kararın, ülkenin Kızıldeniz'deki ana petrol ihracat limanı olan Yanbu'ya düzenlenen saldırının ardından geldiği belirtildi. Yanbu Limanı'na yönelik saldırı, İran'ın Hürmüz Boğazı'nı kapatmasının ardından gerçekleşen bir dizi gerilimin parçasıydı. Riyad'dan yapılan bu diplomatik hamle, iki bölgesel güç arasındaki mevcut gerilimi daha da tırmandırıyor ve bölgedeki güvenlik endişelerini artırıyor.",
@@ -780,22 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/irgc-spokesman-killed-in-us-israeli-strikes-on-iran/3872659",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993269622rzqt3",
-        "title": "Kuşatma Altında Bayram: İsrail Gazze'deki Ablukayı Sıkılaştırırken Kutlanacak Pek Az Şey Var",
-        "summary": "Gazze Şeridi'nde yaşayan Filistinliler, İsrail'in bölgeye yönelik ablukayı sıkılaştırması nedeniyle Kurban Bayramı'nı zorlu koşullar altında karşılıyor. İsrail'in mal ve insani yardım girişine getirdiği kısıtlamaların artması, temel ihtiyaç maddelerinde ciddi kıtlıklara yol açıyor. Bu durum, bayram sevincini gölgede bırakarak Gazze'deki ailelerin günlük yaşam mücadelesini daha da ağırlaştırıyor. Uluslararası kuruluşlar, ablukanın siviller üzerindeki etkilerine dikkat çekerek, insani durumun kötüleştiği konusunda uyarıyor ve acil yardım çağrısında bulunuyor. Gazze halkı, bayramı kutlamak yerine, artan ekonomik zorluklar ve temel hizmetlere erişimdeki sıkıntılarla mücadele etmek zorunda kalıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5619638/pexels-photo-5619638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:54:29.622Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/3/20/eid-under-siege-little-to-celebrate-in-gaza-as-israel-tightens-chokehold?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
