@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774299462432vxbeg",
+        "title": "Trump'tan askeri saldırıları erteleme sonrası İran açıklaması",
+        "summary": "ABD Başkanı Donald Trump, İran'ın enerji santrallerine yönelik planlanan askeri saldırıların ertelendiğini duyurdu. Bu açıklamanın ardından Trump, İran'ın kendisini bir anlaşma yapmak üzere aradığını iddia etti. Trump'ın bu sözleri, ABD ile İran arasındaki gerilimin seyrine dair yeni bir boyut kazandırdı. İki ülke arasındaki ilişkiler, bölgedeki güvenlik ve diplomatik çabalar açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/601170/pexels-photo-601170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T20:57:42.432Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774299500122dc2fi",
+        "title": "Tahran Sakinlerinden Trump'ın Savaş Diplomasisine Güvensizlik İfadeleri",
+        "summary": "İran'ın başkenti Tahran'da yaşayan vatandaşlar, eski ABD Başkanı Donald Trump'ın savaş diplomasisine karşı belirgin bir güvensizlik dile getirdi. Kent sakinleri, Trump'ın politikalarına güvenmenin kendileri için kayıplara yol açacağı görüşünü paylaştı. Bu ifadeler, ABD'nin İran'a yönelik dış politikalarına karşı halkın genel tutumunu ve bölgedeki gerilimin halk üzerindeki etkisini gözler önüne seriyor. Söz konusu açıklamalar, iki ülke arasındaki diplomatik ilişkilerin karmaşıklığını ve halkın bu ilişkilere bakış açısını yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8138007/pexels-photo-8138007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T20:58:20.122Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17742908705042vtsm",
         "title": "İran, ABD ile Görüşme İddialarını Yalanladı",
         "summary": "İran, ABD Başkanı Trump'ın \"verimli\" olarak nitelendirdiği görüşme iddialarını kesin bir dille reddetti. İran parlamento sözcüsü, ABD'nin bu tür görüşme fikirlerini, kendi ve İsrail'in içinde bulunduğu çıkmazdan kurtulmak için kullandığını belirtti. Sözcü, ABD Başkanı'nın bu iddialarla bölgedeki mevcut zorlu durumu aşmaya çalıştığını vurguladı. Tahran yönetimi, Washington ile herhangi bir doğrudan veya dolaylı temasın söz konusu olmadığını açıkladı.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774165766542p8if5",
-        "title": "Orta Doğu'daki Çatışmanın Azalacağına Dair Bir İşaret Yok",
-        "summary": "İran Dışişleri Bakanı, ABD Başkanı Trump'ın ülkesinin savaşını 'sona erdirmeyi' düşündüğünü belirtmesine rağmen, ABD'nin saldırganlığını durdurmaya hazır görünmediğini ifade etti. Bu açıklama, Orta Doğu'daki mevcut gerilimin azalacağına dair beklentileri düşürdü. Bölgedeki çatışmaların devam edeceği yönündeki endişeler artarken, ABD ve İran arasındaki karşılıklı açıklamalar bölgedeki siyasi dinamikleri etkilemeye devam ediyor. İranlı yetkilinin bu değerlendirmesi, bölgedeki tansiyonun yakın zamanda düşmeyeceğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:49:26.542Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/videos/cwywlv9ked0o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774165790067y85n0",
-        "title": "Birleşik Arap Emirlikleri İran Füzelerini ve İHA'larını Engelledi",
-        "summary": "Birleşik Arap Emirlikleri (BAE) Savunma Bakanlığı, ülkenin hava sahasına giren İran menşeli füze ve insansız hava araçlarının (İHA) başarıyla engellendiğini açıkladı. Bakanlık, engelleme operasyonları sırasında patlama seslerinin duyulduğunu bildirdi. Bu olay, BAE'nin savunma kapasitesini gösterirken, bölgedeki güvenlik gerilimlerinin devam ettiğine işaret ediyor. Saldırının kaynağı ve hedefleri hakkında detaylı soruşturma başlatıldığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:49:50.067Z",
-        "location": {
-            "lat": 24,
-            "lng": 54,
-            "name": "Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-intercepts-iranian-missiles-drones/3874439",
         "trendScore": 85,
         "isBreaking": false
     }
