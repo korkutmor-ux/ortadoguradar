@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774280484067a6y7y",
+        "title": "Trump, İran'a Yönelik Saldırıları Erteleme Emri Verdi",
+        "summary": "ABD Başkanı Donald Trump, İran'a yönelik askeri operasyonlarda geri adım atma sinyali verdi. Başkan Trump, ABD ordusuna İran'daki enerji santralleri ve diğer enerji tesislerine yönelik planlanan saldırıları erteleme talimatı verdi. Bu karar, ABD'nin İran'a karşı 'rejim değişikliği' hedefi gütmediği yönündeki mesajlarla birlikte geldi. Gelişme, iki ülke arasındaki gerilimin tırmanmasının ardından tansiyonu düşürme potansiyeli taşıyor. Bölgedeki diplomatik çabaların devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7415261/pexels-photo-7415261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T15:41:24.067Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-signals-off-ramp-in-iran-war-despite-no-regime?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17742669232752iv43",
         "title": "Trump, İngiltere Başbakanı ile İran savaşı hakkında konuşurken Starmer'ı tiye alan SNL skecini paylaştı",
         "summary": "Eski ABD Başkanı Donald Trump, İngiltere Başbakanı ile İran'daki savaş konusunu görüştüğü gün, İşçi Partisi lideri Keir Starmer'ı hedef alan bir SNL tarzı skeç paylaştı. Söz konusu skeç, Starmer'ın Trump'ın telefon görüşmesine verdiği tepkiyi alaycı bir dille ele alıyor. Bu olay, iki liderin Orta Doğu'daki gerilimli duruma ilişkin istişarelerde bulunduğu bir dönemde yaşandı. Paylaşım, uluslararası ilişkilerdeki önemli bir konunun, siyasi hicivle birleştiği bir anı temsil ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/qatar-says-helicopter-crashed-during-routine-duty-search-operation-underway/3874413",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "1774165854119d1509",
-        "title": "İsrail, Tahran'a Yeni Saldırı Dalgası Başlattığını Duyurdu",
-        "summary": "İsrail ordusu, İran'ın başkenti Tahran'da patlamaların bildirildiği bir dönemde yeni bir saldırı dalgası başlattığını duyurdu. İsrail askeri yetkilileri, yapılan açıklamada saldırıların İran'daki altyapı hedeflerine yönelik olduğunu belirtti. Bu gelişme, iki ülke arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor. Bölgedeki durum yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:50:54.119Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-announces-new-wave-of-attacks-on-tehran-as-explosions-reported-in-iranian-capital/3874410",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
