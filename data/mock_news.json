@@ -1,5 +1,69 @@
 [
     {
+        "id": "17743637546417nuzk",
+        "title": "Keir Starmer'ın İran Savaşı Politikası Felaket Reçetesi Olarak Nitelendirildi",
+        "summary": "İngiliz İşçi Partisi lideri Keir Starmer'ın İran'a yönelik olası savaş politikaları, ciddi eleştirilere hedef oldu. Haberde, İngiliz hükümetinin ABD ve İngiltere'nin Irak'ı işgalinin yol açtığı felaketlerden hiçbir ders çıkarmadığı vurgulandı. Bu durum, gelecekteki potansiyel çatışmalara yönelik politikaların taşıdığı riskleri ve geçmişteki hataların tekrarlanabileceği endişesini gündeme getiriyor. Starmer'ın bu konudaki duruşu, İngiltere'nin Orta Doğu'daki dış politikasının geleceği açısından kritik bir tartışma konusu olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T14:49:14.641Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/24/keir-starmers-policy-on-the-iran-war-is-a-recipe-for-catastrophe?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774363785330kzpyc",
+        "title": "QatarEnergy, İran Savaşı Nedeniyle Bazı LNG Sözleşmelerinde Mücbir Sebep İlan Etti",
+        "summary": "Katar'ın ulusal enerji şirketi QatarEnergy, bazı sıvılaştırılmış doğal gaz (LNG) sözleşmeleri için mücbir sebep ilan ettiğini duyurdu. Bu karar, şirketin üretim süreçlerinde yaşanan aksaklıklar nedeniyle alındı. Söz konusu üretim kesintilerinin, ABD ve İsrail'in İran'a yönelik savaşıyla bağlantılı olduğu belirtildi. Bölgedeki bu çatışmanın, Körfez ülkesi Katar'ın enerji üretimini ve tedarik zincirlerini olumsuz etkilediği ifade edildi. Mücbir sebep ilanı, bölgesel gerilimlerin küresel enerji piyasaları üzerindeki potansiyel etkilerini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267826/pexels-photo-9267826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T14:49:45.330Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/24/qatarenergy-declares-force-majeure-on-some-lng-contracts?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774363887054ncf6h",
+        "title": "İsrail eski Başbakanı Bennett, haham mahkemeleri yasasını yürürlükten kaldırma sözü verdi, 'devlet içinde devlet' anlayışını reddetti",
+        "summary": "İsrail eski Başbakanı Naftali Bennett, haham mahkemelerinin yetkilerini genişleten yasayı yürürlükten kaldırma sözü verdi. Bennett, mevcut Netanyahu hükümetini eleştirerek, dini mahkemelerin artan yetkilerinin sivil haklara zarar verdiğini belirtti. Eski Başbakan, bu durumun 'devlet içinde devlet' anlayışına yol açtığını ve bunun kabul edilemez olduğunu ifade etti. Bennett'in açıklamaları, İsrail'deki laik ve dini kurumlar arasındaki gerilimi bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/420804/pexels-photo-420804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T14:51:27.054Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/former-israeli-premier-bennett-vows-to-repeal-rabbinical-courts-law-rejects-state-within-a-state-/3877397",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1774363908082xvwmu",
+        "title": "İsveç Dışişleri Bakanı Orta Doğu'daki Çatışmada Tırmanış Uyarısı Yaptı",
+        "summary": "İsveç Dışişleri Bakanı Maria Malmer Stenergard, Orta Doğu'daki mevcut durumun gerilimi azaltmaktan ziyade, bölgede büyük bir savaşa doğru ilerlediğini belirtti. Stenergard, gelişmeleri endişe verici bulduklarını ve tırmanış yönünde bir gidişat gözlemlediklerini ifade etti. Bu açıklama, uluslararası toplumun Orta Doğu'daki istikrarsızlığa ilişkin artan kaygılarını yansıtıyor. Bölgedeki olayların seyrine dair karamsar bir bakış açısı sunan bakan, daha geniş çaplı bir çatışma potansiyeline dikkat çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8721399/pexels-photo-8721399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T14:51:48.082Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/swedish-foreign-minister-warns-of-escalation-in-middle-east-conflict/3877395",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774350818112sigjj",
         "title": "Eski ICC Savcısı: Güçlü Devletlerin Uluslararası Hukuk Karşısında Hesap Vermesi Gerçekçi Değil",
         "summary": "Eski Uluslararası Ceza Mahkemesi (ICC) savcısı Geoffrey Nice, uluslararası insancıl hukukun uygulanması ve hesap verebilirlik ilkesinin artık 'geçmişte kaldığını' belirtti. Nice, güçlü devletleri sorumlu tutmanın 'gerçekçi olmadığını' ifade etti. Bu durumun özellikle ABD-İsrail ilişkileri bağlamında gözlemlendiğini vurguladı. Açıklamalar, uluslararası hukuk sisteminin güçlü aktörler karşısındaki etkinliğine dair endişeleri artırırken, uluslararası insancıl hukukun geleceği hakkında tartışmaları alevlendirdi.",
@@ -732,70 +796,6 @@
             "name": "Refah, Gazze"
         },
         "source": "https://www.aa.com.tr/en/middle-east/first-since-reopening-israel-arrests-gazan-returning-via-rafah-crossing/3875444",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774257594685rps5v",
-        "title": "Körfez Ülkeleri, İran Füze ve İHA'larını Engellediğini Bildirdi",
-        "summary": "Körfez ülkeleri, İran'a ait olduğu belirtilen füze ve insansız hava araçlarını (İHA) engellediklerini duyurdu. Suudi Arabistan, başkent Riyad'a doğru fırlatılan bir balistik füzeyi başarıyla durdurduğunu bildirdi. Ayrıca, Suudi hava savunma sistemleri tarafından dört adet İHA'nın imha edildiği açıklandı. Bu olay, bölgedeki güvenlik gerilimlerinin devam ettiğini gösteriyor ve İran ile Körfez ülkeleri arasındaki mevcut gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T09:19:54.685Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gulf-states-say-they-intercepted-iranian-missiles-drones/3875381",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774244996340r9i7p",
-        "title": "Tahran'da Saldırı Sonrası Enkazda Kayıp Kardeşini Arayan Aile",
-        "summary": "İran'ın başkenti Tahran'da bir binayı hedef alan saldırının üzerinden beş gün geçti. Saldırıda yıkılan binanın enkazında kayıp yakınlarını arama çalışmaları aralıksız devam ediyor. Mahdi Mirzahosseini'nin kardeşleri, saldırıdan bu yana kendisinden haber alınamayan kardeşlerini bulmak umuduyla enkazda arama faaliyetlerini sürdürüyor. Olay, şehirde büyük yıkıma yol açarken, kayıp kişilerin akıbeti hakkında endişeler artıyor ve kurtarma ekipleri çalışmalarına devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3794760/pexels-photo-3794760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T05:49:56.340Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17742451131175po0c",
-        "title": "Katar ve Türk Vatandaşları Askeri Helikopter Kazasında Hayatını Kaybetti",
-        "summary": "Bir askeri helikopter kazasında Katar ve Türk vatandaşları yaşamını yitirdi. Kazada dört Katarlı askeri personel, bir Türk askeri ve bir Türk savunma şirketinden iki teknisyen bulunuyordu. Olayla ilgili soruşturma başlatıldığı belirtildi. Helikopterin hangi amaçla görev yaptığına dair detaylar henüz açıklanmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1036593/pexels-photo-1036593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T05:51:53.117Z",
-        "location": {
-            "lat": null,
-            "lng": null,
-            "name": "Bilinmiyor"
-        },
-        "source": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "177422026646248ny9",
-        "title": "İran'da Liderlik Boşluğu ve Ülkenin Mücadelesi",
-        "summary": "İran'da üst düzey liderliğin önemli bir kısmının ortadan kalktığı bildirildi. Bu durum, ülke yönetiminde ciddi bir boşluk veya istikrarsızlık potansiyelini gündeme getirdi. Ancak, yaşanan bu gelişmelere rağmen ülkenin mücadelesini sürdürdüğü ifade ediliyor. Bu durum, İran'ın iç ve dış politikadaki duruşunu nasıl etkileyeceği konusunda soru işaretleri yaratıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7647956/pexels-photo-7647956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T22:57:46.462Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
