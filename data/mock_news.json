@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774396474931hq9c5",
+        "title": "Erbil'de İran saldırıları sırasında yüksek binada patlama ve yangın",
+        "summary": "Irak'ın Erbil kentinde, ABD Konsolosluğu yakınlarında olduğu belirtilen yüksek bir binada büyük bir patlama ve ardından yangın meydana geldi. Olayın, bölgede devam eden İran saldırıları sırasında yaşandığı bildirildi. Sosyal medyada paylaşılan videolarda, binadaki patlama ve alevler net bir şekilde görülüyor. Bölgedeki güvenlik durumu ve saldırıların hedefi hakkında detaylı bilgi henüz verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8079178/pexels-photo-8079178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T23:54:34.931Z",
+        "location": {
+            "lat": 36.2,
+            "lng": 44,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/24/explosion-fire-at-erbil-high-rise-amid-iranian-attacks?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1774396497750e9zg9",
+        "title": "Lübnan'daki Filistinli Mülteciler Yeni Bir Zorunlu Göçle Karşı Karşıya",
+        "summary": "İsrail'in Beyrut'un güneyindeki Dahiye banliyösünü bombalamasının ardından, Lübnan'da yaşayan Filistinli mülteciler yeni bir zorunlu göç dalgasıyla karşı karşıya kaldı. Habere göre, Filistinli mülteci Dalal Dawali, yaşanan saldırı sonrası Beddavi kampına sığınmak zorunda kaldı. Bu olay, bölgedeki Filistinli mültecilerin kırılgan durumunu ve sürekli yerinden edilme tehdidini bir kez daha gözler önüne serdi. Lübnan'daki mülteci kamplarında yaşayan binlerce Filistinlinin güvenlik endişeleri artarken, uluslararası toplumun insani yardımlara olan ihtiyaca dikkat çekildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5156792/pexels-photo-5156792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T23:54:57.750Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177439659751180st8",
+        "title": "ABD'nin İran'a savaşı bitirme planı gönderdiği iddia edildi",
+        "summary": "New York Times'ın yetkililere dayandırdığı bir habere göre, Amerika Birleşik Devletleri'nin İran'a olası bir savaşı sona erdirmeye yönelik 15 maddelik bir plan sunduğu iddia edildi. Pakistan aracılığıyla Tahran'a iletildiği belirtilen bu teklifin, İran'ın nükleer programı, füze kapasitesi ve denizcilik faaliyetlerine ilişkin adımları içerdiği kaydedildi. Söz konusu planın, iki ülke arasındaki gerilimi azaltmayı ve bölgesel istikrara katkıda bulunmayı amaçladığı düşünülüyor. Bu gelişme, Orta Doğu'daki mevcut durumu ve ABD-İran ilişkilerinin geleceğini yakından ilgilendiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4108429/pexels-photo-4108429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T23:56:37.511Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-sent-iran-15-point-plan-to-end-war-report/3877960",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17743897742306fvx3",
         "title": "Silah Üreticisi, ABD-İsrail'in İran'a Yönelik Savaşının Ortasında Büyüme Kaydediyor",
         "summary": "İsrailli savunma sanayi şirketi Elbit Systems, Orta Doğu'da artan gerilim ve çatışmaların etkisiyle önemli bir büyüme kaydettiği bildirildi. Şirketin, özellikle İran, Filistin ve Lübnan'da yoğunlaşan askeri faaliyetler ve savaş ortamında hızlı bir gelişim gösterdiği belirtiliyor. Haber, ABD ve İsrail'in İran'a yönelik politikalarının ve bölgedeki askeri hareketliliğin silah sanayisine ivme kazandırdığını öne sürüyor. Bu durum, bölgesel güvenlik endişelerinin ve askeri harcamaların artışını yansıtmaktadır. Elbit Systems'in bu dönemdeki yükselişi, bölgedeki istikrarsızlığın ekonomik yansımalarını gözler önüne sermektedir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1774257375254xcivo",
-        "title": "Pentagon'dan 200 Milyar Dolarlık Talep, Savaşın Uzun Süreceği Sinyali Veriyor",
-        "summary": "ABD Savunma Bakanlığı (Pentagon), devam eden savaşların uzun bir süre daha devam edeceğine işaret eden 200 milyar dolarlık ek bir bütçe talebinde bulundu. Bu talep, ABD'nin küresel çaptaki askeri operasyonlarının ve taahhütlerinin gelecekte de yoğun bir şekilde sürdürüleceği beklentisini yansıtıyor. Pentagon'un bu büyüklükteki bir finansmanı talep etmesi, mevcut çatışmaların veya potansiyel yeni gerilimlerin kısa vadede sona ermeyeceği yönündeki değerlendirmeleri güçlendiriyor. Bu durum, ABD'nin askeri stratejilerinin ve uluslararası güvenlik politikalarının uzun vadeli bir perspektifle şekillendiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163523/war-desert-guns-gunshow-163523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T09:16:15.254Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/23/pentagon-requesting-200bn-signals-that-war-will-stretch-a-long-time?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774257412992xxon7",
-        "title": "Çin'in İran Çatışmasındaki Tarafsızlığı Uzun Vadeli Bir Strateji Olarak Değerlendiriliyor",
-        "summary": "Asya Danışma Grubu Çin Ofisi Direktörü Han Shen Lin, Çin'in İran ile ilgili olası bir çatışmada tarafsız kalma olasılığının yüksek olduğunu belirtti. Lin'e göre, Pekin'in bu tutumu uzun vadeli stratejik hedeflerin bir parçası olarak görülüyor. Çin'in, Orta Doğu'daki mevcut gerilimlerde tarafsızlığını koruyarak bölgedeki gelecekteki konumunu güçlendirmeyi amaçladığı ifade edildi. Bu yaklaşım, uluslararası ilişkilerde ve bölgesel güç dengelerinde önemli bir faktör olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/198703/pexels-photo-198703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T09:16:52.992Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774257435020q70pz",
-        "title": "Hürmüz Boğazı Gerilimi: Trump'ın İran'a Yönelik Ültimatomu Bölgeyi Teyakkuzda Bıraktı",
-        "summary": "Bölgede tansiyon, ABD Başkanı Trump'ın İran'a Hürmüz Boğazı'nı yeniden açması için verdiği sürenin yaklaşmasıyla yükseliyor. Aksi takdirde İran'ın enerji santrallerine yönelik saldırılarla karşı karşıya kalacağı uyarısı yapılmıştı. ABD ve İsrail'in bölgedeki askeri hareketliliği devam ederken, 24 gündür süren gerilim tırmanışını sürdürüyor. Bu durum, Orta Doğu'da geniş çaplı bir çatışma riskini artırarak uluslararası endişeleri beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T09:17:15.020Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
     }
 ]
