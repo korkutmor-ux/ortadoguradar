@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774375788869t9qmi",
+        "title": "İsrailli askerler Gazze'de bir çocuğu 'işkence yapmakla' suçlanıyor",
+        "summary": "Gazze Şeridi'nde yaşayan iki yaşındaki bir çocuğun ailesi, İsrail askerlerini çocuklarına işkence yapmakla suçladı. Aile, askerlerin çocuğun babası hakkında bilgi almak amacıyla bu eylemi gerçekleştirdiğini iddia etti. Bu ciddi iddialar, uluslararası insan hakları kuruluşlarının dikkatini çekmiş durumda. Olayın, bölgedeki çatışmaların siviller üzerindeki etkilerini bir kez daha gözler önüne serdiği belirtiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193772/pexels-photo-36193772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T18:09:48.869Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.45,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-soldiers-accused-of-torturing-toddler-in-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17743637546417nuzk",
         "title": "Keir Starmer'ın İran Savaşı Politikası Felaket Reçetesi Olarak Nitelendirildi",
         "summary": "İngiliz İşçi Partisi lideri Keir Starmer'ın İran'a yönelik olası savaş politikaları, ciddi eleştirilere hedef oldu. Haberde, İngiliz hükümetinin ABD ve İngiltere'nin Irak'ı işgalinin yol açtığı felaketlerden hiçbir ders çıkarmadığı vurgulandı. Bu durum, gelecekteki potansiyel çatışmalara yönelik politikaların taşıdığı riskleri ve geçmişteki hataların tekrarlanabileceği endişesini gündeme getiriyor. Starmer'ın bu konudaki duruşu, İngiltere'nin Orta Doğu'daki dış politikasının geleceği açısından kritik bir tartışma konusu olarak öne çıkıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-denies-allegations-it-targeted-diego-garcia-base-with-missiles-calls-claim-israeli-false-flag-/3875532",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774257573024pissp",
-        "title": "Yeniden Açılışından Bu Yana İlk Kez: İsrail, Refah Sınır Kapısı'ndan Dönen Gazalıyı Tutukladı",
-        "summary": "İsrail'in, Refah Sınır Kapısı'nın yeniden açılmasından bu yana ilk kez, bu geçiş noktasından Gazze'ye dönen bir Gazalıyı tutukladığı bildirildi. Filistinli kaynaklar, İsrail'in sıkı kontrolleri altında Refah Sınır Kapısı'nın bir gözaltı noktasına dönüşebileceği konusunda endişelerini dile getirdi. Bu olay, Gazze Şeridi'ne giriş-çıkışlardaki güvenlik ve insan hakları endişelerini yeniden gündeme taşıdı. Bölgedeki gerilimi artırma potansiyeli taşıyan bu gelişme, uluslararası toplumun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36111727/pexels-photo-36111727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T09:19:33.024Z",
-        "location": {
-            "lat": 31.29,
-            "lng": 34.25,
-            "name": "Refah, Gazze"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/first-since-reopening-israel-arrests-gazan-returning-via-rafah-crossing/3875444",
         "trendScore": 85,
         "isBreaking": false
     }
