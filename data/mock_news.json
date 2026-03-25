@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774415878129sa97z",
+        "title": "ABD'den İran'a Yönelik 15 Maddelik Plan Teklifi",
+        "summary": "ABD medyasında yer alan haberlere göre, dönemin Trump yönetimi İran'a karşı devam eden savaşı sona erdirmek amacıyla bir teklif sunmuştur. Bu teklif, geçici bir ateşkesin yanı sıra 15 maddelik kapsamlı bir planı içermektedir. Söz konusu planın detayları ve İran'ın bu öneriye nasıl bir yanıt verdiği hakkında henüz kamuoyuna açıklanmış net bilgiler bulunmamaktadır. Bu diplomatik girişim, bölgedeki gerilimi azaltma ve uzun süreli bir çözüme ulaşma çabalarının bir parçası olarak değerlendirilmektedir. Teklifin, iki ülke arasındaki gerilimi düşürmeyi hedeflediği belirtilmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4427547/pexels-photo-4427547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T05:17:58.129Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774415898649xd4bd",
+        "title": "ABD, 82. Hava İndirme Tümeni'nden binlerce askeri Orta Doğu'ya gönderecek",
+        "summary": "Amerika Birleşik Devletleri, 82. Hava İndirme Tümeni'ne bağlı yaklaşık 3.000 askeri personeli Orta Doğu bölgesine göndermeye hazırlanıyor. Bu askeri konuşlandırmanın, bölgedeki güvenlik dinamiklerini etkilemesi bekleniyor. Söz konusu birliklerin bölgeye gönderilme amacı ve konuşlanacakları spesifik noktalar hakkında henüz detaylı bir açıklama yapılmadı. ABD'nin bu adımı, bölgedeki potansiyel tehditlere karşı caydırıcılığı artırma veya mevcut operasyonları destekleme amacı taşıyabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2759230/pexels-photo-2759230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T05:18:18.649Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-to-send-thousands-of-soldiers-from-82nd-airborne-division-to-middle-east?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17744159217270b524",
+        "title": "İsrail, Güney Lübnan'da Geniş Bir Tampon Bölgeyi Kontrol Edeceğini Duyurdu",
+        "summary": "İsrail Savunma Bakanı, kuzey İsrail'in güvenliği sağlanana kadar binlerce yerinden edilmiş Lübnanlı sakinin evlerine dönmesine izin verilmeyeceğini açıkladı. Bakanlık, Güney Lübnan'da geniş bir tampon bölgenin kontrolünü ele geçirme niyetini duyurdu. Bu adımın, bölgedeki güvenlik endişelerini gidermeye yönelik olduğu belirtildi. Karar, İsrail-Lübnan sınırındaki gerilimi ve yerinden edilen sivillerin durumunu doğrudan etkileyecek önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T05:18:41.727Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1774396474931hq9c5",
         "title": "Erbil'de İran saldırıları sırasında yüksek binada patlama ve yangın",
         "summary": "Irak'ın Erbil kentinde, ABD Konsolosluğu yakınlarında olduğu belirtilen yüksek bir binada büyük bir patlama ve ardından yangın meydana geldi. Olayın, bölgede devam eden İran saldırıları sırasında yaşandığı bildirildi. Sosyal medyada paylaşılan videolarda, binadaki patlama ve alevler net bir şekilde görülüyor. Bölgedeki güvenlik durumu ve saldırıların hedefi hakkında detaylı bilgi henüz verilmedi.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/uae-says-7-ballistic-missiles-16-drones-intercepted-from-iran/3875801",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1774267096195fgylr",
-        "title": "Rusya, ABD'nin İran'da kara harekatının Ortadoğu'daki durumu kötüleştireceği uyarısında bulundu",
-        "summary": "Rusya, ABD'nin İran'da olası bir kara harekatının Ortadoğu'daki durumu daha da kötüleştireceği yönünde uyarıda bulundu. Rusya Dışişleri Bakan Yardımcısı Andrey Rudenko, böyle bir adımın bölgedeki gerilimi tırmandıracağını ve istikrarsızlığı artıracağını ifade etti. Rudenko ayrıca, Hürmüz Boğazı'nın kapatılmasını 'meşru müdafaa' olarak değerlendirdiklerini belirtti. Bu açıklama, bölgedeki stratejik öneme sahip su yolunun güvenliği ve uluslararası denizcilik üzerindeki potansiyel etkileri konusunda endişeleri artırıyor. Moskova'nın bu tutumu, İran'a yönelik olası askeri müdahalelere karşı bir duruş sergilediğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T11:58:16.195Z",
-        "location": {
-            "lat": 29,
-            "lng": 53,
-            "name": "İran, Ortadoğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/russia-warns-us-ground-operation-in-iran-would-worsen-situation-in-mideast/3875677",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774267117116mukqh",
-        "title": "İsrail, İran saldırılarının başlangıcından bu yana 4.700'den fazla kişinin yaralandığını duyurdu",
-        "summary": "İsrail Sağlık Bakanlığı, İran saldırılarının başlangıcından bu yana ülke genelinde 4.700'den fazla kişinin yaralandığını açıkladı. Bakanlık tarafından yapılan son bilgilendirmede, yalnızca son 24 saat içerisinde 153 kişinin daha yaralandığı belirtildi. Bu rakamlar, bölgedeki gerilimin ve devam eden çatışmaların insani boyutunu gözler önüne seriyor. Olaylar, Orta Doğu'daki güvenlik durumunun kırılganlığını bir kez daha vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T11:58:37.116Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-says-over-4-700-injured-since-start-of-iranian-attacks/3875665",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1774257349304v2l8x",
-        "title": "'Eşi Benzeri Görülmemiş': İsrail ve ABD, İran Genelinde Kapsamlı Saldırılar Düzenledi",
-        "summary": "İsrail ve ABD'nin İran genelinde kapsamlı hava saldırıları düzenlediği bildirildi. Başkent Tahran'ın \"geniş çaplı bir saldırı dalgasına\" maruz kaldığı belirtildi. Bu saldırılar, ABD Başkanı Donald Trump'ın 48 saatlik ültimatomunun süresinin dolmasına kısa bir süre kala gerçekleşti. Haber, saldırıların \"eşi benzeri görülmemiş\" nitelikte olduğunu vurguluyor. Bu durum, bölgedeki gerilimin ciddi şekilde tırmandığına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941815/pexels-photo-5941815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-23T09:15:49.304Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
