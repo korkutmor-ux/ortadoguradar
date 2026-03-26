@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774502791721zapmn",
+        "title": "Malezya Başbakanı: İran Görüşmeleri Savaşı Bitirmeyi Hedeflemeli",
+        "summary": "Malezya Başbakanı Enver İbrahim, İran ile yapılacak herhangi bir görüşmenin savaşın sona erdirilmesi amacını taşıması gerektiğini ifade etti. Başbakan İbrahim, bu açıklamayla diplomatik çabaların bölgesel veya küresel çatışmaların çözümüne odaklanması gerektiğinin altını çizdi. Malezya'nın uluslararası barış ve istikrara yönelik katkı arayışını yansıtan bu tutum, İran'ın dahil olduğu veya etkilediği mevcut çatışmalara yönelik bir mesaj olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4427613/pexels-photo-4427613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T05:26:31.721Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774502813361l19pq",
+        "title": "Lübnan'dan İsrail'e Füze Saldırısı: Görüntüler Ortaya Çıktı",
+        "summary": "Lübnan topraklarından İsrail'e doğru çok sayıda füzenin fırlatıldığına dair görüntüler yayınlandı. Yayınlanan videolarda, İsrail'in orta kesimlerinde gökyüzünde roketlerin başarılı bir şekilde engellendiği anlar kaydedildi. Bu gelişme, iki ülke arasındaki sınırda artan gerilimi bir kez daha gözler önüne serdi. İsrail savunma kuvvetleri, füzelerin yerleşim yerlerine ulaşmasını engellemek amacıyla hava savunma sistemlerini devreye soktu. Olayın ardından bölgede güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7327336/pexels-photo-7327336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T05:26:53.361Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1774479690560vgblg",
         "title": "İsrail Saldırısı Gazze'deki Çadır Kampını Vurdu",
         "summary": "Gazze Şeridi'ndeki Deir el-Balah kentinde yerinden edilmiş Filistinlilerin barındığı bir çadır kampına yönelik saldırı anlarını gösteren videolar yayınlandı. Görüntülerde, bir saldırının çadır kampını doğrudan vurduğu anlar yer alıyor. Bu olay, bölgedeki çatışmaların siviller üzerindeki etkisini bir kez daha gözler önüne serdi. Gazze'deki insani durumun hassasiyeti göz önüne alındığında, bu tür saldırılar endişeleri artırıyor.",
@@ -764,38 +796,6 @@
             "name": "Brüksel, Belçika"
         },
         "source": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774350906334ar47c",
-        "title": "İran, İsrail'e Füze Saldırıları Düzenledi",
-        "summary": "İran'ın İsrail'e yönelik füze saldırıları gerçekleştirdiği bildirildi. İsrail'in acil sağlık hizmeti Magen David Adom'dan yapılan açıklamaya göre, saldırılar sonucunda altı kişi hafif şekilde yaralandı. Bu gelişme, Orta Doğu'da zaten yüksek olan gerilimi daha da tırmandırma potansiyeli taşıyor ve bölgedeki güvenlik durumunu yakından ilgilendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-24T11:15:06.334Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774350930998g7fsy",
-        "title": "İran, ABD-İsrail saldırılarında 114 kültürel ve tarihi alanın zarar gördüğünü açıkladı",
-        "summary": "İran, ABD ve İsrail'in gerçekleştirdiği saldırılar sonucunda ülkedeki 114 kültürel ve tarihi alanın zarar gördüğünü iddia etti. İran Kültürel Miras Bakanlığı tarafından yapılan açıklamada, hasar gören yerler arasında 48 müze ve 6 tarihi kentsel alanın bulunduğu belirtildi. Bu açıklama, bölgedeki askeri gerilimin kültürel mirasa yönelik potansiyel etkilerini gündeme getiriyor. İranlı yetkililer, söz konusu saldırıların ülkenin kültürel varlıkları üzerindeki yıkıcı etkilerine dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7794439/pexels-photo-7794439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-24T11:15:30.998Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-114-cultural-and-historic-sites-damaged-in-us-israeli-attacks/3877148",
         "trendScore": 80,
         "isBreaking": false
     }
