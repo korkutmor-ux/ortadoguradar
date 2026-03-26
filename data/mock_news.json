@@ -1,5 +1,21 @@
 [
     {
+        "id": "17745660388452bum2",
+        "title": "Manila'da Hürmüz Boğazı Krizi Nedeniyle Artan Yakıt Fiyatları Sokakları Boşalttı",
+        "summary": "Hürmüz Boğazı'ndaki krizin etkisiyle küresel petrol fiyatlarında yaşanan artış, Filipinler'in başkenti Manila'da sokakların boşalmasına neden oldu. Ülke genelinde akaryakıt fiyatlarındaki yükseliş, Filipinlilerin azalan gelirleri ve durgunlaşan ekonomiyle mücadele etmesine yol açıyor. Bu durum, vatandaşların günlük yaşam maliyetlerini önemli ölçüde etkilerken, ekonomik sıkıntıların derinleştiğini gözler önüne seriyor. Manila'daki bu kriz, küresel enerji piyasalarındaki dalgalanmaların yerel ekonomiler üzerindeki doğrudan etkisini gösteriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/6195165/pexels-photo-6195165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T23:00:38.845Z",
+        "location": {
+            "lat": 14.6,
+            "lng": 121,
+            "name": "Manila, Filipinler"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/3/26/manilas-streets-empty-as-fuel-prices-surge-amid-strait-of-hormuz-crisis?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774561555882qv2lp",
         "title": "El Cezire, İran'ın UNESCO listesindeki savaşta hasar gördüğü iddia edilen sarayını ziyaret etti",
         "summary": "El Cezire televizyonu, İran'ın başkenti Tahran'da bulunan ve UNESCO Dünya Mirası listesinde yer alan tarihi Gülistan Sarayı'nı ziyaret etti. İranlı yetkililer, sarayın ABD ve İsrail tarafından gerçekleştirildiği iddia edilen saldırılarda hasar gördüğünü belirtiyor. Bu ziyaret, bölgedeki siyasi gerilimlerin kültürel miras üzerindeki potansiyel etkilerine dikkat çekiyor. Sarayın durumu ve hasar iddiaları, uluslararası kamuoyunun ve kültürel miras kuruluşlarının gündemine taşınıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/nuclear-watchdog-chief-expects-broader-us-iran-talks-in-pakistan/3878570",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17744372344689trk7",
-        "title": "İran'dan füze saldırısının ardından İsrail'in Hadera kentinde yangın çıktı",
-        "summary": "İsrail'in Hadera kentinde, İran'dan geldiği belirtilen bir füze saldırısının ardından yangın çıktığı bildirildi. İsrail medyası, ülkenin orta ve kuzey bölgelerinde sirenlerin çaldığını ve halkın sığınaklara yönlendirildiğini duyurdu. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının detayları ve yol açtığı hasar hakkında henüz net bir bilgi verilmedi. Yetkililer, durum değerlendirmesi yapmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12321871/pexels-photo-12321871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:13:54.468Z",
-        "location": {
-            "lat": 32.46,
-            "lng": 34.91,
-            "name": "Hadera, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/fire-breaks-out-in-israel-s-hadera-after-missile-barrage-from-iran/3878533",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
