@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774622250245f506d",
+        "title": "Orta Doğu Ülkeleri, Hürmüz Boğazı Riskine Karşı Petrol İhracatını Boru Hatlarıyla Çeşitlendiriyor",
+        "summary": "Orta Doğu ülkeleri, Hürmüz Boğazı'ndaki potansiyel riskleri aşmak amacıyla boru hatları aracılığıyla petrol ihracatını artırma stratejisi izliyor. Bu girişim, bölgedeki enerji güvenliğini güçlendirmeyi ve küresel petrol tedarik zincinindeki kesintilere karşı alternatif rotalar oluşturmayı hedefliyor. Suudi Arabistan, Birleşik Arap Emirlikleri ve Irak gibi kilit üreticiler, petrol sevkiyatlarını Hürmüz Boğazı'nın dışına taşıyacak yeni veya genişletilmiş boru hatları projelerine odaklanıyor. Bu çabalar, jeopolitik gerilimlerin arttığı bir dönemde enerji ihracat rotalarını çeşitlendirme ve stratejik esneklik kazanma arayışının bir parçası olarak değerlendiriliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/6767962/pexels-photo-6767962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T14:37:30.245Z",
+        "location": {
+            "lat": 28,
+            "lng": 48,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1774622272549omyy8",
+        "title": "Katar Başbakanı ve ABD'li Yetkililer, İran Savaşı Gölgesinde Stratejik İlişkileri Ele Aldı",
+        "summary": "Katar Başbakanı ve Dışişleri Bakanı Şeyh Muhammed bin Abdurrahman Al Sani, ABD'li yetkililerle bir araya geldi. Katar Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, görüşmede Doha ile Washington arasındaki 'yakın stratejik işbirliği' gözden geçirildi. Toplantının, bölgede devam eden 'İran savaşı' olarak belirtilen gerilimli ortamda gerçekleşmesi dikkat çekti. Tarafların ikili ilişkilerin yanı sıra bölgesel gelişmeleri de değerlendirdiği ve stratejik ortaklığı güçlendirme yollarını ele aldığı belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3277808/pexels-photo-3277808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T14:37:52.549Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/27/qatari-pm-and-us-officials-discuss-strategic-ties-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774622293870j1e3s",
+        "title": "İran Uzmanı: ABD'nin Kara İşgali Küresel Ekonomik Çöküşe Yol Açabilir",
+        "summary": "İran uzmanı Ali Vaez, ABD ile İran arasındaki mevcut gerilimin bir çıkmaza ulaştığını ifade etti. Vaez'e göre, bu durumun daha fazla tırmanması felaketle sonuçlanabilir. Uzman, özellikle ABD'nin İran'a yönelik olası bir kara işgalinin küresel çapta büyük bir ekonomik çöküşe yol açabileceği uyarısında bulundu. Bu değerlendirme, iki ülke arasındaki ilişkilerin hassasiyetini ve bölgedeki potansiyel riskleri bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5710424/pexels-photo-5710424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T14:38:13.870Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/27/iran-expert-says-us-ground-invasion-could-cause-a-global-economic-meltdown?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1774622352913fxxim",
+        "title": "Trump'ın İran enerjisine yönelik saldırıları durdurması diplomasi mi yoksa gerilimi tırmandırma mı?",
+        "summary": "ABD Başkanı Trump'ın İran'ın enerji sektörüne yönelik olası adımları durdurma kararı, uluslararası arenada diplomasiye bir kapı aralığı mı yoksa gerilimi daha da tırmandırmaya yönelik stratejik bir hamle mi olduğu sorusunu gündeme getirdi. BBC muhabiri James Landale, ABD başkanının belirlediği son tarihlere bağlılığının değişken olduğunu ancak bu tarihlerden belirli bir amaç doğrultusunda faydalandığını belirtiyor. Bu durum, Washington'ın Tahran'a yönelik politikasının geleceği hakkında belirsizlik yaratıyor. Analistler, bu 'duraklamanın' arkasındaki gerçek niyetin ne olduğunu anlamaya çalışıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T14:39:12.913Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774609833205q1yek",
         "title": "Hindistan, İran Savaşı Kaynaklı Kıtlıklar Nedeniyle Yakıt Vergilerini Düşürdü",
         "summary": "Dünyanın üçüncü büyük ham petrol ithalatçısı konumundaki Hindistan, İran'daki savaşın neden olduğu arz kıtlıkları ve piyasa dalgalanmaları karşısında yeni önlemler açıkladı. Ülke hükümeti, akaryakıt üzerindeki vergileri düşürerek vatandaşlar üzerindeki ekonomik yükü hafifletmeyi hedeflediğini duyurdu. Ayrıca, olası bir sokağa çıkma yasağına ilişkin dolaşan söylentilerin \"tamamen asılsız\" olduğunu belirterek kamuoyunu rahatlattı. Bu adımlar, küresel enerji piyasalarındaki jeopolitik gerilimlerin Hindistan ekonomisi üzerindeki etkilerini azaltma ve enerji arz güvenliğini sağlama amacı taşıyor. Karar, özellikle artan enerji maliyetleriyle mücadele eden tüketiciler için önemli bir destek olarak görülüyor.",
@@ -732,70 +796,6 @@
             "name": "Rabat, Fas"
         },
         "source": "https://www.aljazeera.com/sports/2026/3/26/senegal-appeal-to-cas-against-handing-over-of-afcon-title-to-morocco?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774512754861f9e6j",
-        "title": "Trump İran'dan Çıkış Stratejisine Yaklaştı mı?",
-        "summary": "ABD Başkanı Trump'ın İran'a yönelik politikaları ve olası bir 'çıkış stratejisi' tartışılmaya devam ediyor. Beyaz Saray, Başkan'ın olayların gidişatını belirlediği konusunda ısrarcı bir duruş sergiliyor. Ancak, Başkan'ın savaş hedefleri hakkındaki çelişkili mesajlar, kendi partisi Cumhuriyetçiler arasında bile rahatsızlığa yol açıyor. Bu durum, Trump yönetiminin İran politikasındaki belirsizliği gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6115020/pexels-photo-6115020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:12:34.861Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17745127754031l7ft",
-        "title": "İran'dan ABD Müzakerelerine Ret: Derin Güvensizlik Vurgusu",
-        "summary": "İran'ın Amerika Birleşik Devletleri ile müzakereleri reddetmesi, iki ülke arasındaki köklü güvensizliği bir kez daha ortaya koydu. Ancak bu ret kararı, diplomatik kapının tamamen kapandığı şeklinde yorumlanmıyor. Analistler, İran'ın sergilediği bu sert duruşun, diplomasiyi tamamen reddetmekten ziyade, gelecekteki olası görüşmeler için kendi koşullarını belirlemeye yönelik bir strateji olabileceğini belirtiyor. Bu gelişme, Washington ile Tahran arasındaki ilişkilerin karmaşık doğasını ve potansiyel diyalogların önündeki engelleri gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6949993/pexels-photo-6949993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:12:55.403Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cgrlwk29ppzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17745127968543top4",
-        "title": "İran Dışişleri Bakanı: ABD ile Müzakere Yok",
-        "summary": "İran Dışişleri Bakanı, ABD ile herhangi bir müzakerenin söz konusu olmadığını bildirdi. Bu açıklama, ABD Başkanı Donald Trump'ın İran'da 'doğru kişilerle' görüştüğüne dair iddialarının ardından geldi. Tahran yönetimi, Trump'ın bu yöndeki beyanlarını yalanlayarak, Washington ile resmi veya gayri resmi hiçbir görüşmenin yürütülmediğini vurguladı. İki ülke arasındaki gerilimin yüksek olduğu bir dönemde yapılan bu karşılıklı açıklamalar, diplomatik ilişkilerin mevcut durumunu gözler önüne seriyor. İran, nükleer anlaşmadan çekilen ABD ile ancak yaptırımların kaldırılması halinde masaya oturabileceğini belirtiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4330055/pexels-photo-4330055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:13:16.854Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774512824654qtq3l",
-        "title": "Abu Dabi'ye düşen füze parçaları nedeniyle 2 kişi hayatını kaybetti, 3 kişi yaralandı",
-        "summary": "Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de, önlenen bir balistik füzeden düşen parçalar nedeniyle iki kişi hayatını kaybetti, üç kişi ise yaralandı. Emirati yetkililerinden yapılan açıklamaya göre, füze şarapnelleri Sweihan Yolu'na isabet etti. Olayda iki sivilin yaşamını yitirdiği ve üç kişinin çeşitli derecelerde yaralandığı bildirildi. Düşen parçaların ayrıca bölgedeki araçlarda maddi hasara yol açtığı belirtildi. Yetkililer, olaya ilişkin soruşturmanın başlatıldığını duyurdu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/586031/pexels-photo-586031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:13:44.654Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-killed-3-others-injured-when-debris-from-intercepted-ballistic-missile-falls-in-abu-dhabi/3879735",
         "trendScore": 85,
         "isBreaking": false
     }
