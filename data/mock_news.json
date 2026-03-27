@@ -1,5 +1,181 @@
 [
     {
+        "id": "1774598978717aa1ws",
+        "title": "İsrail Muhalefeti: Askeri Güçler 'Çöküşte'",
+        "summary": "İsrail'in muhalefet lideri Yair Lapid, mevcut hükümete yönelik sert eleştirilerde bulundu. Lapid, yaptığı açıklamada ülkenin askeri güçlerinin 'çöküşte' olduğunu iddia etti. Bu açıklama, İsrail'in iç siyasetindeki gerilimi ve güvenlik konularındaki endişeleri bir kez daha gündeme getirdi. Muhalefetin bu yöndeki değerlendirmesi, hükümetin savunma politikaları ve askeri hazırlık durumu üzerindeki tartışmaları yoğunlaştırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163478/war-desert-guns-gunshow-163478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:09:38.717Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israels-opposition-says-military-forces-are-in?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774599007375amyrq",
+        "title": "İran, 'Düşman' Ülkelere Spor Seyahatlerini Yasakladı",
+        "summary": "İran Spor Bakanlığı, devam eden savaş ortamında spor takımlarının 'düşman' olarak nitelendirilen ülkelere seyahat etmesini yasakladığını duyurdu. Bakanlık, bu kararın sporcuların güvenliğini sağlamak amacıyla alındığını belirtti. Yasak, özellikle İran ve Birleşik Arap Emirlikleri kulüpleri arasında Suudi Arabistan'da oynanacak bir maç öncesinde geldi. Bu hamle, bölgedeki siyasi gerilimlerin spor etkinliklerine yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1234953/pexels-photo-1234953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:10:07.375Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774599031104v3fle",
+        "title": "İtalya, 2026 Dünya Kupası Play-off Finalinde Bosna ile Karşılaşacak; Kosova'nın Rakibi Türkiye",
+        "summary": "2026 Dünya Kupası play-off maçlarına ilişkin gelişmeler kamuoyuyla paylaşıldı. Buna göre, İtalya'nın 2026 Dünya Kupası play-off finalinde Bosna Hersek ile mücadele edeceği belirtildi. Diğer bir önemli eşleşmede ise Kosova'nın rakibinin Türkiye olacağı ifade edildi. Ayrıca, kıtalararası play-off yarı finallerinde Bolivya'nın Surinam'ı, Jamaika'nın ise Yeni Kaledonya'yı mağlup ettiği bilgisi verildi.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/6578121/pexels-photo-6578121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:10:31.104Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Turkey"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/27/italy-to-play-bosnia-in-2026-world-cup-playoff-final-kosovo-face-turkiye?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "17745990559329p0rt",
+        "title": "ABD, İran'a Yönelik Saldırıları Erteledi, Görüşmelerde Anlaşmazlık Sürüyor",
+        "summary": "ABD Başkanı Donald Trump, İran'ın enerji tesislerine yönelik planlanan saldırıları 10 gün süreyle ertelediğini açıkladı. Trump, bu erteleme kararının gerekçesi olarak İran ile yürütülen görüşmelerin iyi yönde ilerlediğini belirtti. Ancak İran tarafı, görüşmelerin iyi gittiği yönündeki bu iddiaya katılmadığını ifade etti. Bu gelişme, ABD ve İsrail'in İran'a yönelik potansiyel askeri eylemleri ve diplomatik çabaları arasındaki gerilimi gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:10:55.932Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1774599093554s7k4g",
+        "title": "Hürmüz Boğazı Kapanmasıyla Engellenecek Kritik İhracatlar: Petrolün Ötesinde",
+        "summary": "ABD-İsrail'in İran ile olası bir çatışması durumunda Hürmüz Boğazı'nın kapanabileceği belirtiliyor. Bu durum, sadece petrol değil, gıda, akıllı telefon ve ilaç gibi geniş bir yelpazedeki ürünlerin fiyatlarını küresel çapta etkileyebilir. Hürmüz Boğazı, dünya ticaretinin kritik geçiş noktalarından biri olup, kapanması halinde tedarik zincirlerinde ciddi aksaklıklar yaşanması bekleniyor. Bölgedeki jeopolitik gerilimlerin artması, küresel ekonomiye yönelik önemli riskler taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5366375/pexels-photo-5366375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:11:33.554Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774599116104dw89t",
+        "title": "İsrail, Hürmüz Boğazı Ablukasını Denetleyen İran Donanma Komutanını Öldürdüğünü İddia Etti",
+        "summary": "İsrail Savunma Bakanı, Hürmüz Boğazı ablukasını denetleyen İran donanma komutanının öldürüldüğünü açıkladı. Bakanlık tarafından yapılan bilgilendirmede, operasyon sırasında çok sayıda üst düzey İran Donanma komutanlığı yetkilisinin de hayatını kaybettiği belirtildi. Bu iddia, Orta Doğu'da zaten yüksek olan gerilimi daha da artırma potansiyeli taşıyor. İran tarafından ise söz konusu iddialara ilişkin henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7468208/pexels-photo-7468208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:11:56.104Z",
+        "location": {
+            "lat": 26,
+            "lng": 56,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774599143690f59ax",
+        "title": "İsrail, İran ile Savaşın Başlangıcından Bu Yana 5.492 Yaralı Olduğunu Açıkladı",
+        "summary": "İsrail Sağlık Bakanlığı, İran ile başlayan savaşın başından bu yana 5.492 kişinin yaralandığını duyurdu. Bakanlık tarafından yapılan açıklamada, yaralılardan 116'sının halen hastanelerde tedavi altında olduğu belirtildi. Hastanede yatan hastalar arasında durumu kritik ve ağır olan vakaların da bulunduğu bilgisi paylaşıldı. Bu veriler, devam eden çatışmaların İsrail üzerindeki insani etkilerini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/930711/pexels-photo-930711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:12:23.690Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-says-5-492-injured-since-start-of-war-with-iran/3881223",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17745991641573jfmc",
+        "title": "Katar, artan güvenlik tehditleri nedeniyle sakinlerini içeride kalmaya çağırdı",
+        "summary": "Katar İçişleri Bakanlığı, artan güvenlik tehditleri karşısında halka yönelik önemli bir uyarı yayımladı. Bakanlık, ülke sakinlerini kendi güvenlikleri için kapalı alanlarda kalmaya çağırdı. Yapılan açıklamada, vatandaşların pencerelerden ve açıkta kalan bölgelerden uzak durmaları gerektiği vurgulandı. Bu tedbirlerin, potansiyel güvenlik risklerine karşı önlem amacıyla alındığı belirtildi ve ülkedeki güvenlik durumuna ilişkin endişeleri yansıttığı kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2882554/pexels-photo-2882554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:12:44.157Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-urges-residents-to-stay-indoors-in-light-of-heightened-security-threats/3881200",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1774599185533udmkr",
+        "title": "İsrail'in Kalandiya Kampı Baskınında İki Filistinli Yaralandı",
+        "summary": "İsrail güçlerinin Batı Şeria'daki Kalandiya mülteci kampına düzenlediği operasyonda çatışmalar yaşandı. Sağlık ekipleri, operasyon sırasında iki Filistinlinin yaralandığını bildirdi. Görgü tanıkları ve yerel kaynaklar, İsrail askerlerinin müdahale sırasında gerçek mermi ve göz yaşartıcı gaz kullandığını belirtti. Olaylar, bölgedeki gerilimi yeniden tırmandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/187812/pexels-photo-187812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:13:05.533Z",
+        "location": {
+            "lat": 31.85,
+            "lng": 35.21,
+            "name": "Kalandiya, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-wounded-in-israeli-raid-on-qalandia-camp-medics-say/3881199",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774599205980an23d",
+        "title": "Kuveyt'in Ana Limanı İHA Saldırısının Hedefi Oldu",
+        "summary": "Kuveytli yetkililer, ülkenin ana limanına yönelik bir insansız hava aracı (İHA) saldırısı düzenlendiğini bildirdi. Saldırının, önemli bir ticaret merkezi olan limanda hasara yol açtığı ancak herhangi bir can kaybının yaşanmadığı belirtildi. Olayla ilgili soruşturma başlatıldığı ve saldırının arkasındaki güçlerin belirlenmeye çalışıldığı ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:13:25.980Z",
+        "location": {
+            "lat": 29.38,
+            "lng": 47.98,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-attack-targets-kuwait-s-main-port-authorities-say/3881194",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774599226477jdzbk",
+        "title": "İran füze saldırısının ardından İsrail'in merkezinde üç noktaya enkaz düştü",
+        "summary": "İsrail'in Kanal 12 televizyonu, İran'ın İsrail'in merkezi bölgelerine yönelik bir küme füzesi fırlattığını iddia etti. Bu saldırının ardından İsrail'in orta kesimlerinde üç farklı noktaya enkaz parçaları düştüğü bildirildi. Olay, bölgedeki güvenlik gerilimini artırırken, İran'dan henüz resmi bir açıklama gelmedi. İsrail güvenlik güçleri olay yerlerinde incelemelerde bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2833362/pexels-photo-2833362.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T08:13:46.477Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 34.78,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/debris-falls-in-3-locations-in-central-israel-after-iranian-missile-strike/3881174",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
         "id": "1774591018173hui98",
         "title": "Hürmüz Boğazı Sadece Bir Petrol Geçiş Noktası Değil",
         "summary": "Hürmüz Boğazı'nın küresel ekonomideki kritik rolü vurgulanıyor. Haber, boğazın sadece dünya petrol ticaretinin ana damarı olmakla kalmayıp, aynı zamanda küreselleşmiş üretimin tek hata noktası olarak görüldüğünü belirtiyor. Bu durum, boğazın kapanması veya işleyişinde yaşanacak herhangi bir aksaklığın, küresel tedarik zincirleri üzerinde yıkıcı etkiler yaratabileceği anlamına geliyor. Bölgedeki istikrarsızlıklar ve jeopolitik gerilimler, bu stratejik geçidin önemini daha da artırıyor.",
@@ -621,182 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1774479778299irlug",
-        "title": "ABD-İran Görüşmeleri İçin Küçük Bir Pencere Açık, Ancak Savaşın Hızlı Sonu Pek Olası Değil",
-        "summary": "ABD Başkanı Trump, İran'da \"üst düzey bir kişiyle\" zaten görüşmelerin sürdüğünü belirtirken, Tahran ise herhangi bir görüşmenin başladığını reddetti. Haber, ABD ile İran arasında potansiyel görüşmeler için küçük bir fırsat penceresinin bulunduğunu ancak bölgedeki çatışmanın hızlı bir şekilde sona ermesinin hala pek olası görünmediğini vurguluyor. Bu durum, iki ülke arasındaki gerilimin devam ettiğini ve diplomatik çabaların karmaşıklığını ortaya koyuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6878169/pexels-photo-6878169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T23:02:58.299Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774472304620b80ze",
-        "title": "ABD'den İran'a 'Yenilgiyi Kabul Et Yoksa Trump Cehennemi Serbest Bırakır' Uyarısı",
-        "summary": "Beyaz Saray, İran'a askeri bir yenilgiyi kabul etmesi yönünde uyarıda bulundu. Yapılan açıklamada, İran'ın bu çağrıya uymaması halinde ABD'nin daha önce hiç olmadığı kadar sert bir şekilde karşılık vereceği belirtildi. Bu tehditkar dil, ABD'nin İran'a yönelik politikalarında sertleştiğini gösteriyor. Uyarı, iki ülke arasındaki gerilimin tırmandığı bir dönemde geldi ve bölgedeki tansiyonu artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2347457/pexels-photo-2347457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T20:58:24.620Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774463891773qutfk",
-        "title": "Palestine Action Aktivistleri, İddia Edilen Kötü Muamele Nedeniyle İngiliz Hapishanelerine Dava Açmaya Hazırlanıyor",
-        "summary": "Filistin yanlısı eylemleriyle tanınan \"Palestine Action\" adlı aktivist grup, Birleşik Krallık'taki hapishanelere karşı yasal işlem başlatmaya hazırlanıyor. Grup üyeleri, gözaltında tutuldukları süre boyunca maruz kaldıklarını iddia ettikleri kötü muamele nedeniyle dava açacaklarını duyurdu. Açlık grevi yapan aktivistler, İngiliz hapishanelerindeki koşulları ve kendilerine yönelik muameleyi yargıya taşıyor. Bu gelişme, Filistin davası etrafındaki aktivizmi ve tutukluların haklarına ilişkin endişeleri bir kez daha gündeme getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4552839/pexels-photo-4552839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T18:38:11.773Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17744640688607kfp4",
-        "title": "Avrupa ülkelerinin Körfez'e enerji bağımlılığı yüksek seyrediyor",
-        "summary": "Avrupa ülkelerinin Körfez bölgesine enerji bağımlılığı yüksek seviyelerde devam ediyor. Özellikle Yunanistan, enerji ihtiyacının %36'sını bu bölgeden karşılayarak Avrupa ülkeleri arasında başı çekiyor. Orta Doğu'daki artan gerilimler, bölgeden yapılan kritik enerji sevkiyatlarını tehdit ediyor. Bu durum, İtalya, Fransa ve Almanya gibi büyük Avrupa ekonomilerini olumsuz etkileme potansiyeli taşıyor. Enerji güvenliği endişeleri, küresel piyasalarda dalgalanmalara yol açabilir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/15961091/pexels-photo-15961091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T18:41:08.860Z",
-        "location": {
-            "lat": 27,
-            "lng": 50,
-            "name": "Körfez Bölgesi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/european-nations-energy-dependency-on-gulf-remains-high/3879224",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1774453673568u1lsy",
-        "title": "İran, ABD'nin savaşı bitirme teklifini 'maksimalist ve mantıksız' olarak nitelendirdi",
-        "summary": "İran, Amerika Birleşik Devletleri tarafından sunulan bir savaşı sona erdirme teklifini 'maksimalist ve mantıksız' olarak nitelendirdiğini duyurdu. Tahran yönetimi, söz konusu önerinin kendi çıkarlarıyla bağdaşmadığını ve gerçekçi olmadığını belirtti. Bu açıklama, iki ülke arasındaki mevcut gerilimli ilişkilerde yeni bir diplomatik anlaşmazlık noktası oluşturdu. Gelişme, bölgesel istikrar arayışları açısından dikkatle takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/269790/pexels-photo-269790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T15:47:53.568Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774453696509vzytr",
-        "title": "Füzeler havada, aşağıda sessizlik: İsrail'in iç cephesi sağlam duruyor",
-        "summary": "İsrail'in İran ile süregelen çatışması derinleşirken, ülkenin iç cephesinde dikkat çekici bir durum gözlemlenmektedir. İran tehdidi karşısında toplumsal birlik ve sansür uygulamaları, iç muhalefetin sesini kısmada etkili olmaktadır. Bu durum, İsrail toplumunun savaş koşullarında dayanışma içinde kalma ve dış tehditlere karşı tek vücut olma çabasını yansıtmaktadır. Ülke içinde füzelerin uçuştuğu bir ortamda, halkın sessizliğini koruyarak direnişini sürdürdüğü belirtilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9482199/pexels-photo-9482199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T15:48:16.509Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/25/missiles-overhead-silence-below-israels-home-front-holds-firm?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1774453724209z84pz",
-        "title": "Anthropic'in Pentagon'a Karşı Açtığı Dava Yapay Zeka Düzenlemelerine Alan Açabilir",
-        "summary": "ABD'de yapay zeka şirketi Anthropic'in Pentagon'a karşı açtığı dava, yapay zeka teknolojilerinin düzenlenmesi konusunda önemli bir emsal teşkil edebilir. Kaliforniya'da bir yargıç, ABD Savunma Bakanlığı'nın (DoD), yapay zeka silahlarına kısıtlamalar getirilmesi yönünde baskı yapan Anthropic'i 'felç etmeye çalışıyor olabileceğini' belirtti. Bu dava, otonom silah sistemlerinin geliştirilmesi ve kullanımı üzerindeki etik ve yasal tartışmaları yeniden gündeme getiriyor. ABD ordusunun küresel çaptaki operasyonları ve özellikle Orta Doğu'daki varlığı göz önüne alındığında, yapay zeka silahlarının gelecekteki kullanımı ve düzenlenmesi bölgedeki güvenlik dinamikleri üzerinde dolaylı ancak önemli etkilere sahip olabilir. Davanın sonucu, yapay zeka teknolojilerinin askeri alandaki gelişimini ve uluslararası normları şekillendirme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6091867/pexels-photo-6091867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T15:48:44.209Z",
-        "location": {
-            "lat": 37.7749,
-            "lng": -122.4194,
-            "name": "California, ABD"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774453807579x8n96",
-        "title": "Filistinliler, Batı Şeria'daki Yerleşimci Şiddetinin Artması Konusunda Uyarıyor",
-        "summary": "İşgal altındaki Batı Şeria'da Filistin köylerine yönelik İsrailli yerleşimcilerin saldırılarında önemli bir artış yaşandığı bildirildi. Filistinliler, bölgede güvenlik endişelerinin yükseldiğini ve yerleşimci şiddetinin giderek yayıldığı konusunda uyarıda bulunuyor. Bu şiddet olaylarının, İran savaşının başlamasından bu yana yoğunlaştığı belirtiliyor. Bölgedeki gerilimin tırmanması, Filistinlilerin günlük yaşamlarını olumsuz etkiliyor ve can güvenliklerini tehdit ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6185461/pexels-photo-6185461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T15:50:07.579Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774437060517rl1d9",
-        "title": "BM İnsan Hakları Şefi, İran'a Yönelik Savaşın Bölgeye Yayıldığı Uyarısında Bulundu",
-        "summary": "Birleşmiş Milletler (BM) İnsan Hakları Şefi Volker Türk, İran'a yönelik savaşın bölge genelinde yayıldığı konusunda uyarıda bulundu. Türk, bu durumdan en çok sivillerin etkilendiğini ve çatışmaların insani maliyetinin ağır olduğunu vurguladı. Bölgedeki gerilimin artmasının, sivil halk üzerindeki baskıyı daha da artırdığına dikkat çekildi. BM yetkilisi, uluslararası toplumu sivillerin korunması için acil adımlar atmaya çağırdı. Bu yayılmanın, bölgedeki istikrarsızlığı derinleştirebileceği endişesi dile getirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/930711/pexels-photo-930711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:11:00.517Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-human-rights-chief-warns-war-on-iran-is-spreading?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774437085055opbf7",
-        "title": "İran'ın Hürmüz Boğazı'nı Kapatması Uluslararası Bir Krizdir",
-        "summary": "İran'ın Hürmüz Boğazı'nı kapatma kararı, uluslararası arenada büyük bir kriz olarak değerlendirilmektedir. Dünya petrol ticaretinin önemli bir kısmının bu stratejik geçitten sağlanması nedeniyle, böyle bir adım küresel enerji piyasalarında ciddi aksaklıklara yol açabilir. Bu durum, aynı zamanda bölgesel ve küresel güvenlik açısından da önemli endişeler doğurmaktadır. Uluslararası toplum, potansiyel bir krizi önlemek ve istikrarı korumak amacıyla acil diplomatik ve stratejik adımlar atılması gerektiğini vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5693461/pexels-photo-5693461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:11:25.055Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman/İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/3/25/irans-closure-of-the-strait-of-hormuz-is-an-international-crisis?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774437106644ob4fq",
-        "title": "Irak'ın Anbar Kentinde Hava Saldırısında Yedi Savaşçı Hayatını Kaybetti",
-        "summary": "Irak'ın batısındaki Anbar vilayetinde düzenlenen hava saldırılarında yedi savaşçının yaşamını yitirdiği bildirildi. El Cezire'ye konuşan polis kaynakları, saldırının İran destekli Halk Seferberlik Güçleri (PMF) mevzilerini hedef aldığını belirtti. ABD'nin son dönemde bu grupları artan bir şekilde hedef aldığı biliniyor. Olay, bölgedeki gerilimi ve ABD ile İran destekli gruplar arasındaki çatışmaları bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36339204/pexels-photo-36339204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:11:46.644Z",
-        "location": {
-            "lat": 33,
-            "lng": 42,
-            "name": "Anbar, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/25/a-heinous-crime-air-strikes-kill-seven-fighters-in-iraqs-anbar?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
