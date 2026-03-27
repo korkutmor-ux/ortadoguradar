@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774591018173hui98",
+        "title": "Hürmüz Boğazı Sadece Bir Petrol Geçiş Noktası Değil",
+        "summary": "Hürmüz Boğazı'nın küresel ekonomideki kritik rolü vurgulanıyor. Haber, boğazın sadece dünya petrol ticaretinin ana damarı olmakla kalmayıp, aynı zamanda küreselleşmiş üretimin tek hata noktası olarak görüldüğünü belirtiyor. Bu durum, boğazın kapanması veya işleyişinde yaşanacak herhangi bir aksaklığın, küresel tedarik zincirleri üzerinde yıkıcı etkiler yaratabileceği anlamına geliyor. Bölgedeki istikrarsızlıklar ve jeopolitik gerilimler, bu stratejik geçidin önemini daha da artırıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/7763500/pexels-photo-7763500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T05:56:58.173Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/27/the-strait-of-hormuz-is-not-just-an-oil-chokepoint?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1774591046373vqpef",
+        "title": "Sri Lanka, İran'a Karşı Savaş Devam Ederken Yeni Bir Ekonomik Krize Hazırlanıyor",
+        "summary": "Sri Lanka, İran'a karşı devam eden savaşın tetiklediği yakıt kıtlığı nedeniyle yeni bir ekonomik krizin eşiğinde bulunuyor. Ülke genelinde yaşanan bu yakıt sıkıntısı, birçok Sri Lankalı için 2022'deki yıkıcı ekonomik krizi anımsatıyor. İran'daki savaşın küresel enerji piyasaları üzerindeki etkisi, ithalata büyük ölçüde bağımlı olan Sri Lanka ekonomisini doğrudan olumsuz etkiliyor. Bu durum, ülkenin ekonomik istikrarını tehdit eden ciddi bir gelişme olarak değerlendiriliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/737471/pexels-photo-737471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T05:57:26.373Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/27/sri-lanka-braces-for-new-economic-crisis-as-war-on-iran-continues?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17745911305528y7vy",
+        "title": "BAE, İran Kaynaklı Füzenin Engellendiğini Duyurdu; Kuveyt İHA Tehditlerini Püskürttü",
+        "summary": "Birleşik Arap Emirlikleri (BAE), hava savunma sistemlerinin İran kaynaklı bir füzeyi başarıyla engellediğini açıkladı. Benzer şekilde Kuveyt de, hava savunma sistemlerinin füze ve insansız hava aracı (İHA) tehditlerine karşı koyduğunu ve iki İHA'yı düşürdüğünü bildirdi. Bu gelişmeler, Körfez bölgesindeki güvenlik endişelerini ve hava sahası ihlallerine karşı alınan önlemleri gündeme getirdi. Olaylar, bölgedeki mevcut gerilimlerin bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T05:58:50.552Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-says-air-defenses-intercepted-missile-from-iran/3881119",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177459116660470wn0",
+        "title": "ABD-İsrail Saldırıları İran'ın Kum Kentinde 6 Can Aldı",
+        "summary": "İran medyası tarafından aktarılan bilgilere göre, ABD ve İsrail tarafından düzenlendiği iddia edilen saldırılarda İran'ın Kum kentinde 6 kişi yaşamını yitirdi. Ülke genelinde Tahran, İsfahan, Yezd, Kum, Tebriz, Urmiye ve Ahvaz gibi birçok İran şehrinin gece boyunca hedef alındığı bildirildi. Saldırıların niteliği ve hedeflenen noktalar hakkında henüz detaylı resmi bir açıklama yapılmadı. Bu olay, bölgedeki gerilimi artırırken, uluslararası kamuoyunun dikkatini İran'a çevirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36315186/pexels-photo-36315186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T05:59:26.604Z",
+        "location": {
+            "lat": 34.64,
+            "lng": 50.87,
+            "name": "Kum, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-attacks-kill-6-in-irans-qom-city/3881113",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17745660388452bum2",
         "title": "Manila'da Hürmüz Boğazı Krizi Nedeniyle Artan Yakıt Fiyatları Sokakları Boşalttı",
         "summary": "Hürmüz Boğazı'ndaki krizin etkisiyle küresel petrol fiyatlarında yaşanan artış, Filipinler'in başkenti Manila'da sokakların boşalmasına neden oldu. Ülke genelinde akaryakıt fiyatlarındaki yükseliş, Filipinlilerin azalan gelirleri ve durgunlaşan ekonomiyle mücadele etmesine yol açıyor. Bu durum, vatandaşların günlük yaşam maliyetlerini önemli ölçüde etkilerken, ekonomik sıkıntıların derinleştiğini gözler önüne seriyor. Manila'daki bu kriz, küresel enerji piyasalarındaki dalgalanmaların yerel ekonomiler üzerindeki doğrudan etkisini gösteriyor.",
@@ -732,70 +796,6 @@
             "name": "Anbar, Irak"
         },
         "source": "https://www.aljazeera.com/news/2026/3/25/a-heinous-crime-air-strikes-kill-seven-fighters-in-iraqs-anbar?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774437146699dpq5s",
-        "title": "ABD Senatosu'nda İran'a Yönelik Saldırıları Durdurma Kararı Reddedildi",
-        "summary": "ABD Senatosu'nda, ülkenin İran'a yönelik askeri eylemlerini sona erdirmeyi hedefleyen bir savaş yetkileri kararı oylamaya sunuldu. Söz konusu karar tasarısı, 47 lehte oya karşılık 53 ret oyuyla kabul edilmedi. Bu sonuç, ABD'nin İran politikası ve bölgedeki askeri varlığına ilişkin tartışmaları yeniden alevlendirdi. Demokrat Parti üyeleri, İran'a karşı olası bir savaşı kınadıklarını daha önce dile getirmişlerdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7132577/pexels-photo-7132577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:12:26.699Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-democrats-condemn-war-on-iran-as-senate-resolution-fails?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17744371734009f2mq",
-        "title": "İsrailli İşgalciler Doğu Kudüs'te 13 Filistin Dairesine El Koydu",
-        "summary": "Doğu Kudüs'ün Silvan mahallesinde İsrailli işgalciler tarafından 13 Filistin dairesine el konulduğu bildirildi. Görgü tanıkları ve insan hakları grupları, bu tahliyelerle birlikte son dört günde el konulan konut sayısının 15'e yükseldiğini belirtti. Bu gelişmeler, bölgedeki Filistinlilerin yerinden edilme endişelerini artırıyor. Olay, İsrail-Filistin çatışması bağlamında değerlendirilmekte olup, bölgedeki gerilimi yükselten bir faktör olarak öne çıkıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7230884/pexels-photo-7230884.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:12:53.400Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.23,
-            "name": "Doğu Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-seize-13-palestinian-apartments-in-occupied-east-jerusalem/3878664",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774437193958jycsg",
-        "title": "İran füze saldırısının ardından İsrail'deki Rabin enerji santrali yakınlarında yoğun duman yükseldi",
-        "summary": "İsrail'in merkezi bölgelerinde siren sesleri yükselirken, İran'dan geldiği belirtilen füze saldırılarının ardından Rabin enerji santrali yakınlarında yoğun duman görüldü. İsrail kamu hizmetleri şirketi, saldırılarda altyapıda herhangi bir hasar meydana gelmediğini bildirdi. Olay, İsrail ve İran arasındaki gerilimin arttığı bir dönemde yaşandı. Bölgedeki güvenlik güçleri teyakkuza geçti ve durum yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/586117/pexels-photo-586117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:13:13.958Z",
-        "location": {
-            "lat": 32.43,
-            "lng": 34.9,
-            "name": "Hadera, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/heavy-smoke-rises-near-israel-s-rabin-power-plant-after-iranian-missile-barrage/3878616",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774437215058vencx",
-        "title": "UAEA Başkanı: ABD-İran Görüşmeleri Pakistan'da Genişleyebilir",
-        "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, ABD ile İran arasında Pakistan'da daha geniş kapsamlı görüşmelerin beklendiğini duyurdu. Grossi, bu potansiyel müzakerelerin gündeminde füzeler, İran destekli milisler ve güvenlik garantileri gibi kritik konuların yer almasının muhtemel olduğunu belirtti. Bu görüşmelerin, iki ülke arasındaki gerilimi azaltma ve bölgesel istikrarı sağlama çabaları açısından önem taşıdığı ifade edildi. Söz konusu başlıklar, Orta Doğu'daki güvenlik dinamikleri üzerinde doğrudan etkili olabilecek nitelikte.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7097/people-coffee-tea-meeting.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T11:13:35.058Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/nuclear-watchdog-chief-expects-broader-us-iran-talks-in-pakistan/3878570",
         "trendScore": 85,
         "isBreaking": false
     }
