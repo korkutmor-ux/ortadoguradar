@@ -1,5 +1,133 @@
 [
     {
+        "id": "1774609833205q1yek",
+        "title": "Hindistan, İran Savaşı Kaynaklı Kıtlıklar Nedeniyle Yakıt Vergilerini Düşürdü",
+        "summary": "Dünyanın üçüncü büyük ham petrol ithalatçısı konumundaki Hindistan, İran'daki savaşın neden olduğu arz kıtlıkları ve piyasa dalgalanmaları karşısında yeni önlemler açıkladı. Ülke hükümeti, akaryakıt üzerindeki vergileri düşürerek vatandaşlar üzerindeki ekonomik yükü hafifletmeyi hedeflediğini duyurdu. Ayrıca, olası bir sokağa çıkma yasağına ilişkin dolaşan söylentilerin \"tamamen asılsız\" olduğunu belirterek kamuoyunu rahatlattı. Bu adımlar, küresel enerji piyasalarındaki jeopolitik gerilimlerin Hindistan ekonomisi üzerindeki etkilerini azaltma ve enerji arz güvenliğini sağlama amacı taşıyor. Karar, özellikle artan enerji maliyetleriyle mücadele eden tüketiciler için önemli bir destek olarak görülüyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/5737246/pexels-photo-5737246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:10:33.205Z",
+        "location": {
+            "lat": 28.6139,
+            "lng": 77.209,
+            "name": "Hindistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/27/india-slashes-petrol-diesel-import-taxes-as-fuel-prices-remain-high?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1774609856102xrtik",
+        "title": "Analist: İran'a Yönelik Savaşın Fiyat Krizini Yalnızca Enerjiyle Sınırlı Olmayacak",
+        "summary": "Analist Abdulla Banndar Al-Etaibi, İran'a yönelik olası bir savaşın yol açacağı fiyat krizinin sadece enerjiyle sınırlı kalmayacağını belirtti. Al-Etaibi'ye göre, böyle bir çatışma gübre tedarik zincirlerinde ciddi aksaklıklara neden olacak. Bu aksaklıklar, küresel gıda fiyatlarında önemli artışlara yol açarak dünya genelinde ekonomik baskıyı artıracak. Analist, enerji fiyatlarındaki yükselişin yanı sıra gıda enflasyonunun da dikkate alınması gereken kritik bir faktör olduğunu vurguladı. Bu durumun, Orta Doğu ve ötesindeki ülkelerde sosyal ve ekonomik istikrarsızlığı tetikleyebileceği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:10:56.102Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/27/war-on-iran-price-crisis-not-just-about-energy-says-analyst?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177460987764752vbu",
+        "title": "Video: ABD-İsrail'in İran'a Yönelik Saldırısında Yıkıntılar Arasında Çocuk Oyuncakları Bulundu",
+        "summary": "İran'da ABD ve İsrail tarafından gerçekleştirildiği belirtilen saldırılarda hedef alınan yerleşim binalarının enkazında arama kurtarma çalışmaları devam ediyor. İran Kızılayı (IRCS) ekipleri, yıkılan binaların enkazında çocuk oyuncakları buldu. Bu durum, saldırıların sivil yerleşim alanlarını etkilediği yönündeki endişeleri artırdı. Olay yerinde yapılan incelemelerde, saldırıların yol açtığı tahribatın boyutu gözler önüne serildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36491147/pexels-photo-36491147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:11:17.647Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/video-childrens-toys-found-in-rubble-of-us-israeli-strike-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774609900632c8h5j",
+        "title": "İran, ABD-İsrail Saldırıları Sonrası Hayatta Kalanları Arıyor",
+        "summary": "İran'da acil durum ekipleri, ABD ve İsrail tarafından gerçekleştirildiği belirtilen ölümcül saldırıların ardından hayatta kalanları arama çalışmalarına devam ediyor. Son kurbanlar arasında Kum şehrinde hayatını kaybeden altı kişi bulunuyor. Ülke, savaşta hayatını kaybedenlerin sayısının yaklaşık 2.000'e ulaştığını duyurarak acı bir dönüm noktasına işaret etti. Bu durum, bölgedeki gerilimin ve çatışmaların şiddetini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/25745473/pexels-photo-25745473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:11:40.632Z",
+        "location": {
+            "lat": 34.64,
+            "lng": 50.88,
+            "name": "Kum, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774609923991srlw2",
+        "title": "Katar Başbakanı, Washington'da ABD'li yetkililerle enerji güvenliği ve savunmayı görüştü",
+        "summary": "Katar Başbakanı Şeyh Muhammed bin Abdurrahman Al Sani, Washington'da ABD'li yetkililerle bir araya geldi. Görüşmelerde enerji güvenliği, savunma işbirliği ve sıvılaştırılmış doğal gaz (LNG) akışları gibi stratejik konular ele alındı. Başbakan Şeyh Muhammed, ABD Senatörü JD Vance ve yatırımcı Scott Bessent ile yaptığı temaslarda iki ülke arasındaki işbirliğinin önemini vurguladı. Ayrıca, bölgesel deniz güvenliğinin sağlanması da gündeme gelen konular arasında yer aldı. Bu görüşmeler, Katar'ın küresel enerji piyasasındaki rolünü ve ABD ile olan stratejik ortaklığını pekiştirme amacı taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:12:03.991Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-premier-meets-us-officials-in-washington-to-discuss-energy-security-defense/3881583",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774609945030bxipu",
+        "title": "İsrail Ordusu, Güney Lübnan'da Bir Subay ve Bir Askerin Ağır Yaralandığını Duyurdu",
+        "summary": "İsrail ordusu, güney Lübnan'da devam eden kara operasyonları sırasında bir subay ve bir askerin ağır yaralandığını bildirdi. Bu olay, ordunun bir gün önce aynı bölgede iki askerin öldürüldüğünü ve altı askerin daha yaralandığını açıklamasının ardından geldi. Bölgedeki askeri faaliyetlerin yoğunlaştığı gözlemlenirken, yaralı askerlerin durumu hakkında detaylı bilgi verilmedi. Operasyonların devam ettiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:12:25.030Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-officer-soldier-seriously-wounded-in-southern-lebanon/3881569",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774609968593eu3df",
+        "title": "Batı Şeria'da Bedevi Topluluğuna Saldırı İddiası",
+        "summary": "Batı Şeria'nın Hebron kentinin güneyinde bulunan bir Bedevi topluluğuna saldırı düzenlendiği bildirildi. Yerel kaynaklardan alınan bilgilere göre, olayda bölge sakinlerinin darp edildiği ve hayvanlarının çalındığı iddia edildi. Bu gelişme, bölgedeki gerilimi yansıtan bir olay olarak kayıtlara geçti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36036608/pexels-photo-36036608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:12:48.593Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.1,
+            "name": "Hebron, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-bedouin-community-in-west-banks-south-of-hebron/3881530",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1774609991149y9j04",
+        "title": "Bahreyn, İran'dan geldiğini iddia ettiği saldırılarda 154 füze ve 362 İHA'yı engellediğini açıkladı",
+        "summary": "Bahreyn askeri yetkilileri, İran'dan kaynaklandığını belirttiği saldırıların başlangıcından bu yana hava savunma sistemlerinin toplamda 154 füze ve 362 insansız hava aracını (İHA) başarıyla durdurduğunu duyurdu. Yapılan açıklamada, Bahreyn hava savunmasının bu tür saldırılara karşı koymaya devam ettiği vurgulandı. Ülke, bu eylemleri 'İran saldırıları' olarak nitelendiriyor. Bu gelişme, Basra Körfezi'ndeki bölgesel gerilimlerin sürdüğüne işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T11:13:11.149Z",
+        "location": {
+            "lat": 26.0667,
+            "lng": 50.5577,
+            "name": "Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-154-missiles-362-drones-since-onset-of-iranian-attacks/3881502",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774598978717aa1ws",
         "title": "İsrail Muhalefeti: Askeri Güçler 'Çöküşte'",
         "summary": "İsrail'in muhalefet lideri Yair Lapid, mevcut hükümete yönelik sert eleştirilerde bulundu. Lapid, yaptığı açıklamada ülkenin askeri güçlerinin 'çöküşte' olduğunu iddia etti. Bu açıklama, İsrail'in iç siyasetindeki gerilimi ve güvenlik konularındaki endişeleri bir kez daha gündeme getirdi. Muhalefetin bu yöndeki değerlendirmesi, hükümetin savunma politikaları ve askeri hazırlık durumu üzerindeki tartışmaları yoğunlaştırdı.",
@@ -669,134 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/2-killed-3-others-injured-when-debris-from-intercepted-ballistic-missile-falls-in-abu-dhabi/3879735",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17745128471381ae33",
-        "title": "Bölgesel Savaş Tırmanırken 4 Körfez Ülkesi Füze ve İHA Saldırılarının Hedefi Oldu",
-        "summary": "Suudi Arabistan, Bahreyn, Birleşik Arap Emirlikleri ve Kuveyt, İran'dan geldiği belirtilen füze ve insansız hava aracı saldırılarını engellediklerini duyurdu. Bu saldırılar, 'İsrail-ABD'nin İran'a karşı savaşı' olarak nitelendirilen çatışmanın 27. gününde bölgesel gerilimin daha da genişlemesiyle yaşandı. Körfez ülkeleri, bölgedeki çatışmanın tırmanışından endişe duyduklarını ifade etti. Olay, Orta Doğu'daki mevcut gerilimin yeni bir boyut kazandığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:14:07.138Z",
-        "location": {
-            "lat": 26,
-            "lng": 50,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/missile-drone-attacks-target-4-gulf-countries-as-regional-war-escalates/3879730",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17745128678968wqdi",
-        "title": "BAE, hava savunmasının İran'dan fırlatılan balistik füzeleri ve insansız hava araçlarını engellediğini duyurdu",
-        "summary": "Birleşik Arap Emirlikleri (BAE) Savunma Bakanlığı, ülkenin hava sahasına yönelik balistik füzeler ve insansız hava araçlarının (İHA) engellendiğini bildirdi. Bakanlık tarafından yapılan açıklamada, duyulan seslerin hava savunma sistemlerinin bu hedefleri başarıyla durdurmasından kaynaklandığı belirtildi. Engellenen füzelerin ve İHA'ların İran'dan fırlatıldığı ifade edildi. Bu olay, bölgedeki güvenlik gerilimlerini yeniden gündeme getirirken, BAE yetkilileri ulusal güvenliğin sağlanması için gerekli tüm tedbirlerin alındığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/586112/pexels-photo-586112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:14:27.896Z",
-        "location": {
-            "lat": 24.45,
-            "lng": 54.38,
-            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defense-is-intercepting-ballistic-missiles-drones-launched-from-iran/3879678",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1774512894713uluwf",
-        "title": "İsrail Ordusu: Lübnan'dan Açılan Havan Topu Ateşiyle Asker Ağır Yaralandı",
-        "summary": "İsrail ordusu, Lübnan'dan açılan havan topu ateşi sonucu bir İsrail askerinin ağır yaralandığını duyurdu. Ordu tarafından yapılan açıklamada, askerin Çarşamba günü birliklere yönelik bir saldırı sırasında yaralandığı belirtildi. Yaralı askerin olay yerinden derhal tahliye edildiği ve tedavi altına alındığı ifade edildi. Olayın İsrail-Lübnan sınır hattında gerçekleştiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5480036/pexels-photo-5480036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:14:54.713Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-seriously-injured-by-mortar-fired-from-lebanon-army-says/3879596",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177451292200727h1i",
-        "title": "İran Füzeleri İsrail'i Vurdu: Medya",
-        "summary": "İsrail medyası, İran'dan fırlatılan yeni bir füze dalgasının İsrail topraklarını hedef aldığını duyurdu. Ülkenin orta kesimleri, başkent Kudüs ve kuzey bölgelerinde siren sesleri yükseldi. Bölgeden gelen ilk raporlara göre, füze saldırılarının ardından çeşitli noktalarda patlama sesleri kaydedildi. Olayın ardından can ve mal kaybına ilişkin henüz resmi bir açıklama yapılmazken, saldırı bölgedeki gerilimi tırmandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7327336/pexels-photo-7327336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T08:15:22.007Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/new-barrage-of-iranian-missiles-hits-israel-media/3879588",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774502791721zapmn",
-        "title": "Malezya Başbakanı: İran Görüşmeleri Savaşı Bitirmeyi Hedeflemeli",
-        "summary": "Malezya Başbakanı Enver İbrahim, İran ile yapılacak herhangi bir görüşmenin savaşın sona erdirilmesi amacını taşıması gerektiğini ifade etti. Başbakan İbrahim, bu açıklamayla diplomatik çabaların bölgesel veya küresel çatışmaların çözümüne odaklanması gerektiğinin altını çizdi. Malezya'nın uluslararası barış ve istikrara yönelik katkı arayışını yansıtan bu tutum, İran'ın dahil olduğu veya etkilediği mevcut çatışmalara yönelik bir mesaj olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4427613/pexels-photo-4427613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T05:26:31.721Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774502813361l19pq",
-        "title": "Lübnan'dan İsrail'e Füze Saldırısı: Görüntüler Ortaya Çıktı",
-        "summary": "Lübnan topraklarından İsrail'e doğru çok sayıda füzenin fırlatıldığına dair görüntüler yayınlandı. Yayınlanan videolarda, İsrail'in orta kesimlerinde gökyüzünde roketlerin başarılı bir şekilde engellendiği anlar kaydedildi. Bu gelişme, iki ülke arasındaki sınırda artan gerilimi bir kez daha gözler önüne serdi. İsrail savunma kuvvetleri, füzelerin yerleşim yerlerine ulaşmasını engellemek amacıyla hava savunma sistemlerini devreye soktu. Olayın ardından bölgede güvenlik durumu yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7327336/pexels-photo-7327336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T05:26:53.361Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/videos-show-wave-of-missiles-fired-from-lebanon-to-israel?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774479690560vgblg",
-        "title": "İsrail Saldırısı Gazze'deki Çadır Kampını Vurdu",
-        "summary": "Gazze Şeridi'ndeki Deir el-Balah kentinde yerinden edilmiş Filistinlilerin barındığı bir çadır kampına yönelik saldırı anlarını gösteren videolar yayınlandı. Görüntülerde, bir saldırının çadır kampını doğrudan vurduğu anlar yer alıyor. Bu olay, bölgedeki çatışmaların siviller üzerindeki etkisini bir kez daha gözler önüne serdi. Gazze'deki insani durumun hassasiyeti göz önüne alındığında, bu tür saldırılar endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9482199/pexels-photo-9482199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T23:01:30.560Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 34.3333,
-            "name": "Deir el-Balah, Gazze Şeridi"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774479712193qcbz8",
-        "title": "Filistin haftalık özeti: Batı Şeria'da saldırılar artarken, İsrail Gazze'ye yardımı kısıtladı",
-        "summary": "Haftalık Filistin raporunda, Batı Şeria'da yerleşimci saldırılarının önemli ölçüde arttığı belirtildi. Aynı dönemde, İsrail'in Gazze Şeridi'ne yönelik insani yardım kısıtlamalarını sürdürdüğü kaydedildi. Raporda ayrıca, Filistinliler için kutlama haftası olması beklenen bu dönemin, toprak gaspı ve diğer kısıtlamalarla gölgelendiği vurgulandı. Bu gelişmelerin, bölgedeki gerilimi artırdığı ve Filistin halkının yaşam koşullarını olumsuz etkilediği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038695/pexels-photo-36038695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T23:01:52.193Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
