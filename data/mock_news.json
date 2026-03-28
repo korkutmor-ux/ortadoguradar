@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774713235099tx5b9",
+        "title": "Fas, Senegal'in CAF ve CAS'a yaptığı itirazlara rağmen AFCON davasının kapandığını iddia ediyor",
+        "summary": "Fas, Afrika Uluslar Kupası'nda (AFCON) Senegal'e karşı aldıkları 1-0'lık mağlubiyetin ardından yaptıkları itirazın başarılı olduğunu ve bu durumun AFCON şampiyonluğu davasını kapattığını belirtiyor. Faslı yetkililer, itirazlarının kabul edilmesiyle birlikte konunun nihai olarak çözüme kavuştuğuna inanıyor. Ancak Senegal tarafı, Afrika Futbol Konfederasyonu (CAF) ve Spor Tahkim Mahkemesi'ne (CAS) başvurularını sürdürerek karara itiraz etmeye devam ediyor. Bu durum, turnuvanın sportif ve hukuki boyutunda belirsizliği koruyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/28532605/pexels-photo-28532605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T15:53:55.099Z",
+        "location": {
+            "lat": 34.020882,
+            "lng": -6.84165,
+            "name": "Rabat, Fas"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1774713288402mjfcl",
+        "title": "İran, komşularını 'düşmanların savaşı kendi topraklarından yönetmesine' izin vermemeleri konusunda uyardı",
+        "summary": "İran Cumhurbaşkanı Pezeşkiyan, komşu ülkelere topraklarının 'düşmanlar tarafından savaşı yönetmek' amacıyla kullanılmasına izin vermemeleri yönünde sert bir uyarıda bulundu. Tahran'dan yapılan bu açıklama, İran'ın bölgesel güvenlik endişelerini ve ulusal çıkarlarını koruma kararlılığını yansıtıyor. İran, daha önce de benzer uyarılarda bulunarak, komşu ülkelerin topraklarından kendisine yönelik herhangi bir tehdide müsamaha göstermeyeceğini belirtmişti. Bu son uyarı, Orta Doğu'daki mevcut gerilimlerin ve bölgesel güç dengelerinin hassasiyetini bir kez daha gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9610459/pexels-photo-9610459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T15:54:48.402Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774706825733d1x77",
         "title": "İran'ın Suudi Hava Üssüne Saldırısında En Az 15 ABD Askeri Yaralandı: Raporlar",
         "summary": "İran'ın Suudi Arabistan'daki bir hava üssüne düzenlediği saldırıda en az 15 ABD askerinin yaralandığı bildirildi. Gelen raporlara göre, saldırı sonucunda bir yakıt ikmal uçağı da hasar gördü. Yaralanan askerlerden en az beşinin durumunun ciddi olduğu belirtiliyor. Bu olay, Orta Doğu'daki güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1774599031104v3fle",
-        "title": "İtalya, 2026 Dünya Kupası Play-off Finalinde Bosna ile Karşılaşacak; Kosova'nın Rakibi Türkiye",
-        "summary": "2026 Dünya Kupası play-off maçlarına ilişkin gelişmeler kamuoyuyla paylaşıldı. Buna göre, İtalya'nın 2026 Dünya Kupası play-off finalinde Bosna Hersek ile mücadele edeceği belirtildi. Diğer bir önemli eşleşmede ise Kosova'nın rakibinin Türkiye olacağı ifade edildi. Ayrıca, kıtalararası play-off yarı finallerinde Bolivya'nın Surinam'ı, Jamaika'nın ise Yeni Kaledonya'yı mağlup ettiği bilgisi verildi.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/6578121/pexels-photo-6578121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:10:31.104Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Turkey"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/27/italy-to-play-bosnia-in-2026-world-cup-playoff-final-kosovo-face-turkiye?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "17745990559329p0rt",
-        "title": "ABD, İran'a Yönelik Saldırıları Erteledi, Görüşmelerde Anlaşmazlık Sürüyor",
-        "summary": "ABD Başkanı Donald Trump, İran'ın enerji tesislerine yönelik planlanan saldırıları 10 gün süreyle ertelediğini açıkladı. Trump, bu erteleme kararının gerekçesi olarak İran ile yürütülen görüşmelerin iyi yönde ilerlediğini belirtti. Ancak İran tarafı, görüşmelerin iyi gittiği yönündeki bu iddiaya katılmadığını ifade etti. Bu gelişme, ABD ve İsrail'in İran'a yönelik potansiyel askeri eylemleri ve diplomatik çabaları arasındaki gerilimi gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:10:55.932Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
