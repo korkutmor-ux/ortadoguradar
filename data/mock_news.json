@@ -1,5 +1,21 @@
 [
     {
+        "id": "177472574059643cqa",
+        "title": "İranlı Politikacılar, Nükleer Silah Anlaşmasından Çekilmeyi Talep Ediyor",
+        "summary": "İran'da sertlik yanlısı politikacılar, ülkenin Nükleer Silahların Yayılmasını Önleme Anlaşması'ndan (NPT) çekilmesi yönünde baskı yapıyor. Bu çağrılar, ABD ve İsrail'in İran'ın kilit altyapı tesislerine yönelik saldırılarının devam ettiği bir dönemde yükseliyor. Bölgede savaşın sürdüğü bir ortamda, bu tür bir çekilme talebi, İran'ın nükleer programı etrafındaki gerilimi daha da artırma potansiyeli taşıyor. Anlaşmadan ayrılma, uluslararası toplumda ciddi endişelere yol açabilir ve bölgesel güvenliği derinden etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35073913/pexels-photo-35073913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T19:22:20.596Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1774717502608hnayq",
         "title": "Zelenskyy Körfez Turunda BAE ve Katar ile Hava Savunma Anlaşmaları İmzaladı",
         "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskyy, Körfez turu kapsamında Birleşik Arap Emirlikleri (BAE) ve Katar ile hava savunma anlaşmaları imzaladı. Kiev yönetimi, Rus insansız hava araçlarını düşürme konusundaki uzmanlığını Körfez ülkelerine sunmayı hedefliyor. Bu anlaşmalar, Ukrayna'nın bölgedeki diplomatik ve güvenlik ilişkilerini güçlendirme çabasının bir parçası olarak değerlendiriliyor. Görüşmelerde, Ukrayna'nın savunma kapasitesini artırma ve bölgesel güvenlik işbirliğini geliştirme konuları ele alındı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-bedouin-community-in-west-banks-south-of-hebron/3881530",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1774609991149y9j04",
-        "title": "Bahreyn, İran'dan geldiğini iddia ettiği saldırılarda 154 füze ve 362 İHA'yı engellediğini açıkladı",
-        "summary": "Bahreyn askeri yetkilileri, İran'dan kaynaklandığını belirttiği saldırıların başlangıcından bu yana hava savunma sistemlerinin toplamda 154 füze ve 362 insansız hava aracını (İHA) başarıyla durdurduğunu duyurdu. Yapılan açıklamada, Bahreyn hava savunmasının bu tür saldırılara karşı koymaya devam ettiği vurgulandı. Ülke, bu eylemleri 'İran saldırıları' olarak nitelendiriyor. Bu gelişme, Basra Körfezi'ndeki bölgesel gerilimlerin sürdüğüne işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:13:11.149Z",
-        "location": {
-            "lat": 26.0667,
-            "lng": 50.5577,
-            "name": "Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-154-missiles-362-drones-since-onset-of-iranian-attacks/3881502",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
