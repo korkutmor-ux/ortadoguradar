@@ -1,5 +1,53 @@
 [
     {
+        "id": "17747346704947uywn",
+        "title": "Kuveyt Uluslararası Havalimanı'na İran İHA Saldırısı Düzenlendi",
+        "summary": "Kuveyt Uluslararası Havalimanı'nda Cumartesi günü şüpheli İran insansız hava aracı (İHA) saldırıları sonucu hasar meydana geldi. Saldırıların ardından havalimanından yoğun, siyah dumanlar yükseldiği bildirildi. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve Kuveyt ile İran arasındaki ilişkilerde yeni bir gerilim kaynağı olabilir. Yetkililer, saldırının detayları ve yol açtığı zararla ilgili incelemelerini sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/997122/pexels-photo-997122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T21:51:10.494Z",
+        "location": {
+            "lat": 29.38,
+            "lng": 47.98,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774734690583f4wcl",
+        "title": "Ukrayna'nın İHA Uzmanlığı Körfez Ülkelerine Yeni Savunma Ortaklıkları Sunabilir",
+        "summary": "Ukrayna'nın insansız hava aracı (İHA) teknolojisindeki uzmanlığı, Körfez ülkeleri için yeni bir savunma iş birliği alanı potansiyeli taşıyor. Bölgedeki Körfez ülkeleri, İran ile artan gerilimler ve güvenlik endişeleri nedeniyle savunma kapasitelerini güçlendirme arayışında. Bu bağlamda, Ukrayna'nın savaş deneyimi ve İHA geliştirme yetenekleri, Körfez ülkelerinin savunma ihtiyaçlarına çözüm sunabilir. Yeni savunma ortaklıkları kurma çabaları, bölgesel istikrar ve güvenlik dinamikleri açısından önem arz ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13310710/pexels-photo-13310710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T21:51:30.583Z",
+        "location": {
+            "lat": 27,
+            "lng": 50,
+            "name": "Basra Körfezi Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774734712363f42rt",
+        "title": "Londra'da Palestine Action Destekçileri Tutuklandı, Met Polisi Politika Değişikliğine Gitti",
+        "summary": "Londra'da, Filistin yanlısı aktivist grup Palestine Action'ın destekçileri tutuklandı. Bu tutuklamalar, Londra Metropolitan Polisi'nin (Met Polisi) daha önce aldığı bir kararı değiştirmesinin ardından gerçekleşti. Met Polisi, Yüksek Mahkeme'nin ilgili bir kararına rağmen \"terör\" yasağının yürürlükte kalacağını duyurmuştu. Bu politika değişikliği, Filistin yanlısı eylemcilerin faaliyetlerine yönelik tutumu yansıtıyor ve sivil toplum kuruluşları ile güvenlik güçleri arasındaki gerilimi artırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/1464228/pexels-photo-1464228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T21:51:52.363Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177472574059643cqa",
         "title": "İranlı Politikacılar, Nükleer Silah Anlaşmasından Çekilmeyi Talep Ediyor",
         "summary": "İran'da sertlik yanlısı politikacılar, ülkenin Nükleer Silahların Yayılmasını Önleme Anlaşması'ndan (NPT) çekilmesi yönünde baskı yapıyor. Bu çağrılar, ABD ve İsrail'in İran'ın kilit altyapı tesislerine yönelik saldırılarının devam ettiği bir dönemde yükseliyor. Bölgede savaşın sürdüğü bir ortamda, bu tür bir çekilme talebi, İran'ın nükleer programı etrafındaki gerilimi daha da artırma potansiyeli taşıyor. Anlaşmadan ayrılma, uluslararası toplumda ciddi endişelere yol açabilir ve bölgesel güvenliği derinden etkileyebilir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1774609923991srlw2",
-        "title": "Katar Başbakanı, Washington'da ABD'li yetkililerle enerji güvenliği ve savunmayı görüştü",
-        "summary": "Katar Başbakanı Şeyh Muhammed bin Abdurrahman Al Sani, Washington'da ABD'li yetkililerle bir araya geldi. Görüşmelerde enerji güvenliği, savunma işbirliği ve sıvılaştırılmış doğal gaz (LNG) akışları gibi stratejik konular ele alındı. Başbakan Şeyh Muhammed, ABD Senatörü JD Vance ve yatırımcı Scott Bessent ile yaptığı temaslarda iki ülke arasındaki işbirliğinin önemini vurguladı. Ayrıca, bölgesel deniz güvenliğinin sağlanması da gündeme gelen konular arasında yer aldı. Bu görüşmeler, Katar'ın küresel enerji piyasasındaki rolünü ve ABD ile olan stratejik ortaklığını pekiştirme amacı taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:12:03.991Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-premier-meets-us-officials-in-washington-to-discuss-energy-security-defense/3881583",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774609945030bxipu",
-        "title": "İsrail Ordusu, Güney Lübnan'da Bir Subay ve Bir Askerin Ağır Yaralandığını Duyurdu",
-        "summary": "İsrail ordusu, güney Lübnan'da devam eden kara operasyonları sırasında bir subay ve bir askerin ağır yaralandığını bildirdi. Bu olay, ordunun bir gün önce aynı bölgede iki askerin öldürüldüğünü ve altı askerin daha yaralandığını açıklamasının ardından geldi. Bölgedeki askeri faaliyetlerin yoğunlaştığı gözlemlenirken, yaralı askerlerin durumu hakkında detaylı bilgi verilmedi. Operasyonların devam ettiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:12:25.030Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-officer-soldier-seriously-wounded-in-southern-lebanon/3881569",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774609968593eu3df",
-        "title": "Batı Şeria'da Bedevi Topluluğuna Saldırı İddiası",
-        "summary": "Batı Şeria'nın Hebron kentinin güneyinde bulunan bir Bedevi topluluğuna saldırı düzenlendiği bildirildi. Yerel kaynaklardan alınan bilgilere göre, olayda bölge sakinlerinin darp edildiği ve hayvanlarının çalındığı iddia edildi. Bu gelişme, bölgedeki gerilimi yansıtan bir olay olarak kayıtlara geçti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36036608/pexels-photo-36036608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:12:48.593Z",
-        "location": {
-            "lat": 31.5333,
-            "lng": 35.1,
-            "name": "Hebron, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-bedouin-community-in-west-banks-south-of-hebron/3881530",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
