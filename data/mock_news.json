@@ -1,5 +1,53 @@
 [
     {
+        "id": "17747389630046ahzu",
+        "title": "Pakistan, Hürmüz Boğazı Üzerinden 20 Gemi Göndermek İçin İran ile Anlaşma Sağladı",
+        "summary": "Pakistan'ın, Hürmüz Boğazı üzerinden 20 gemi göndermek üzere İran ile bir anlaşma sağladığı bildirildi. İslamabad'ın diplomatik çabalarının bu anlaşmayla meyvelerini verdiği belirtilirken, uluslararası kamuoyu daha geniş çaplı bir diplomatik atılımın işaretlerini yakından izliyor. Bu gelişme, iki ülke arasındaki ticari ve stratejik ilişkilerin güçlendiğini gösteriyor. Hürmüz Boğazı'nın küresel enerji ve ticaret için taşıdığı kritik önem göz önüne alındığında, bu anlaşmanın bölgesel ve uluslararası yansımaları olabileceği değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386346/pexels-photo-4386346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T23:02:43.004Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774739000582s6bfn",
+        "title": "Kızıldeniz'deki Husi Tehdidi Küresel Ekonomiyi Olumsuz Etkileyebilir",
+        "summary": "İran destekli Husilerin Kızıldeniz'deki deniz taşımacılığına yönelik potansiyel tehdidi, küresel ekonomiye daha fazla zarar verebileceği endişelerini artırıyor. Sebastian Usher tarafından kaleme alınan bir analize göre, bu grup stratejik öneme sahip ikinci bir su yolunu da durma noktasına getirme potansiyeline sahip. Kızıldeniz, dünya ticaretinin önemli geçiş noktalarından biri olup, burada yaşanacak herhangi bir aksaklık tedarik zincirlerinde ciddi bozulmalara yol açabilir. Bu durum, bölgedeki güvenlik risklerinin küresel çapta ekonomik sonuçlar doğurabileceğinin bir göstergesi olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15878829/pexels-photo-15878829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T23:03:20.582Z",
+        "location": {
+            "lat": 12.5,
+            "lng": 43.5,
+            "name": "Kızıldeniz, Yemen"
+        },
+        "source": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17747390237688nk28",
+        "title": "Yayıncılar: İsrail Saldırısında Üç Lübnanlı Gazeteci Öldürüldü",
+        "summary": "Yayıncılar, İsrail'in düzenlediği bir saldırıda üç Lübnanlı gazetecinin hayatını kaybettiğini bildirdi. İsrail ordusu, Hizbullah'a bağlı El Manar TV'den Ali Shoeib'i öldürdüğünü doğruladı. Olayın, Lübnan-İsrail sınırındaki gerilimin tırmandığı bir dönemde gerçekleştiği belirtiliyor. Bölgedeki çatışmaların gazetecilerin güvenliğini tehdit ettiği endişeleri artıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952949/pexels-photo-5952949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T23:03:43.768Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17747346704947uywn",
         "title": "Kuveyt Uluslararası Havalimanı'na İran İHA Saldırısı Düzenlendi",
         "summary": "Kuveyt Uluslararası Havalimanı'nda Cumartesi günü şüpheli İran insansız hava aracı (İHA) saldırıları sonucu hasar meydana geldi. Saldırıların ardından havalimanından yoğun, siyah dumanlar yükseldiği bildirildi. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve Kuveyt ile İran arasındaki ilişkilerde yeni bir gerilim kaynağı olabilir. Yetkililer, saldırının detayları ve yol açtığı zararla ilgili incelemelerini sürdürüyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/27/india-slashes-petrol-diesel-import-taxes-as-fuel-prices-remain-high?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1774609856102xrtik",
-        "title": "Analist: İran'a Yönelik Savaşın Fiyat Krizini Yalnızca Enerjiyle Sınırlı Olmayacak",
-        "summary": "Analist Abdulla Banndar Al-Etaibi, İran'a yönelik olası bir savaşın yol açacağı fiyat krizinin sadece enerjiyle sınırlı kalmayacağını belirtti. Al-Etaibi'ye göre, böyle bir çatışma gübre tedarik zincirlerinde ciddi aksaklıklara neden olacak. Bu aksaklıklar, küresel gıda fiyatlarında önemli artışlara yol açarak dünya genelinde ekonomik baskıyı artıracak. Analist, enerji fiyatlarındaki yükselişin yanı sıra gıda enflasyonunun da dikkate alınması gereken kritik bir faktör olduğunu vurguladı. Bu durumun, Orta Doğu ve ötesindeki ülkelerde sosyal ve ekonomik istikrarsızlığı tetikleyebileceği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:10:56.102Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/27/war-on-iran-price-crisis-not-just-about-energy-says-analyst?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177460987764752vbu",
-        "title": "Video: ABD-İsrail'in İran'a Yönelik Saldırısında Yıkıntılar Arasında Çocuk Oyuncakları Bulundu",
-        "summary": "İran'da ABD ve İsrail tarafından gerçekleştirildiği belirtilen saldırılarda hedef alınan yerleşim binalarının enkazında arama kurtarma çalışmaları devam ediyor. İran Kızılayı (IRCS) ekipleri, yıkılan binaların enkazında çocuk oyuncakları buldu. Bu durum, saldırıların sivil yerleşim alanlarını etkilediği yönündeki endişeleri artırdı. Olay yerinde yapılan incelemelerde, saldırıların yol açtığı tahribatın boyutu gözler önüne serildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36491147/pexels-photo-36491147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:11:17.647Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/video-childrens-toys-found-in-rubble-of-us-israeli-strike-in-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774609900632c8h5j",
-        "title": "İran, ABD-İsrail Saldırıları Sonrası Hayatta Kalanları Arıyor",
-        "summary": "İran'da acil durum ekipleri, ABD ve İsrail tarafından gerçekleştirildiği belirtilen ölümcül saldırıların ardından hayatta kalanları arama çalışmalarına devam ediyor. Son kurbanlar arasında Kum şehrinde hayatını kaybeden altı kişi bulunuyor. Ülke, savaşta hayatını kaybedenlerin sayısının yaklaşık 2.000'e ulaştığını duyurarak acı bir dönüm noktasına işaret etti. Bu durum, bölgedeki gerilimin ve çatışmaların şiddetini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/25745473/pexels-photo-25745473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T11:11:40.632Z",
-        "location": {
-            "lat": 34.64,
-            "lng": 50.88,
-            "name": "Kum, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
