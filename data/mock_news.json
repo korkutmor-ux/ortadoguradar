@@ -1,5 +1,101 @@
 [
     {
+        "id": "1774691757423skucy",
+        "title": "ABD-İsrail'in İran'a Yönelik Savaşı: Saldırıların 29. Gününde Neler Oluyor?",
+        "summary": "İsrail'in İran'a yönelik hava saldırılarının ardından bölgedeki gerilim tırmanmaya devam ediyor. İran, bu saldırılara karşılık olarak 'ağır bir bedel' ödeneceği uyarısında bulundu. ABD-İsrail'in İran'a karşı yürüttüğü iddia edilen bu çatışmanın 29. gününde tansiyon yüksek seyrediyor. Taraflar arasındaki karşılıklı tehditler, Orta Doğu'da güvenlik endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/198703/pexels-photo-198703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T09:55:57.423Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İran, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774691777562fnk8k",
+        "title": "Trump, İran'ın 'anlaşma yapmak istediğini' iddia etti",
+        "summary": "ABD Başkanı Donald Trump, İran'ın bir anlaşma arayışında olduğunu öne sürdü. Trump, bu iddiasını dile getirirken ABD ordusunun gücünü de övdü. Bu açıklama, ABD ile İran arasındaki gerilimli ilişkilerin devam ettiği bir dönemde geldi. İki ülke arasında nükleer anlaşma ve bölgesel meseleler başta olmak üzere birçok konuda anlaşmazlıklar bulunuyor. Trump'ın bu sözleri, Tahran'ın gelecekteki müzakerelere yönelik olası tutumuna dair spekülasyonları artırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33175672/pexels-photo-33175672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T09:56:17.562Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17746918017902bdxo",
+        "title": "Bahreyn, 28 Şubat'tan Bu Yana 174 Füze ve 385 İran İHA'sının İmha Edildiğini Açıkladı",
+        "summary": "Bahreyn askeri yetkilileri, 28 Şubat tarihinden bu yana hava savunma sistemleri tarafından 174 füze ve 385 İran menşeli insansız hava aracının (İHA) imha edildiğini duyurdu. Yapılan açıklamada, ülkenin hava savunma birimlerinin hava tehditlerine karşı koymaya devam ettiği belirtildi. Bu durum, Bahreyn'in hava sahasını koruma çabalarını ve bölgesel güvenlik endişelerini gözler önüne seriyor. İran'a atfedilen bu hava araçları ve füzeler, Körfez bölgesindeki gerilimlerin devam ettiğini gösteriyor. Bahreyn, ülkenin güvenliğini sağlamak amacıyla teyakkuzda olduğunu vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/122136/pexels-photo-122136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T09:56:41.790Z",
+        "location": {
+            "lat": 26.23,
+            "lng": 50.59,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-174-missiles-385-iranian-drones-destroyed-since-feb-28/3882859",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774691823047pg8au",
+        "title": "ABD-İsrail Saldırısı Batı İran'da 5 Can Aldı, 35 Kişiyi Yaraladı",
+        "summary": "Tasnim haber ajansının bildirdiğine göre, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen bir saldırı, İran'ın batısındaki Lorestan eyaletine bağlı Borujerd şehrindeki yerleşim bölgelerini hedef aldı. Saldırıda ilk belirlemelere göre 5 kişi hayatını kaybederken, 35 kişi de yaralandı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Saldırının detayları ve sorumluları hakkında soruşturma başlatıldığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T09:57:03.047Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 48.75,
+            "name": "Borujerd, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-strike-on-residential-areas-in-western-iran-kills-5-injures-35-report/3882854",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17746918434824p4d4",
+        "title": "Filistin Komisyonu: İsrailli Güçler Batı Şeria'da Son Bir Ayda 400'den Fazla Saldırı Düzenledi",
+        "summary": "Filistin Duvar ve Yerleşim Birimleri Direniş Komisyonu'nun raporuna göre, İsrailli güçler Batı Şeria'da son bir ay içinde 400'den fazla saldırı gerçekleştirdi. Bu saldırılar sonucunda dokuz Filistinli hayatını kaybederken, altı Bedevi topluluğu da yerinden edildi. Komisyon, bölgedeki gerilimin arttığını ve Filistinlilere yönelik ihlallerin devam ettiğini belirtti. Olaylar, uluslararası toplumun dikkatini çekmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T09:57:23.482Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-carried-out-over-400-attacks-in-west-bank-over-past-month-palestinian-commission/3882845",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17746918643559z78s",
+        "title": "ABD, Orta Doğu'ya Üçüncü Uçak Gemisi Görevlendiriyor",
+        "summary": "Amerika Birleşik Devletleri'nin (ABD), Orta Doğu'ya üçüncü bir uçak gemisi görevlendirdiği bildirildi. ABC News'in ABD'li yetkililere dayandırdığı haberine göre, USS George H.W. Bush taarruz grubunun Norfolk'tan ayrılarak bölgede bulunan Gerald R. Ford ve Abraham Lincoln uçak gemilerine katılabileceği belirtildi. Bu konuşlandırmanın, devam eden İran gerilimi bağlamında gerçekleştiği ifade edildi. Gelişmenin, bölgedeki askeri varlığı ve gerilimi artırabileceği değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29243395/pexels-photo-29243395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T09:57:44.355Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-deploys-3rd-aircraft-carrier-to-middle-east-amid-ongoing-iran-war-report/3882835",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774684331537ov4c9",
         "title": "ABD Dışişleri Bakanı: Savaş 'aylar değil, haftalar içinde' sona erebilir",
         "summary": "ABD Dışişleri Bakanı, devam eden bir savaşın birkaç hafta içinde sona erebileceği yönünde açıklamalarda bulundu. Bakan, ABD'nin bu çatışmayı aylar sürecek bir süreç yerine, daha kısa bir zaman diliminde sonlandırma çabası içinde olduğunu ifade etti. Bu açıklama, uluslararası kamuoyunda süregelen çatışmalara yönelik çözüm arayışlarını ve diplomatik girişimleri hızlandırma potansiyelini gündeme getirdi. ABD'nin bu yöndeki kararlılığı, bölgedeki gerilimi azaltma ve istikrarı sağlama hedefine işaret ediyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-says-5-492-injured-since-start-of-war-with-iran/3881223",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17745991641573jfmc",
-        "title": "Katar, artan güvenlik tehditleri nedeniyle sakinlerini içeride kalmaya çağırdı",
-        "summary": "Katar İçişleri Bakanlığı, artan güvenlik tehditleri karşısında halka yönelik önemli bir uyarı yayımladı. Bakanlık, ülke sakinlerini kendi güvenlikleri için kapalı alanlarda kalmaya çağırdı. Yapılan açıklamada, vatandaşların pencerelerden ve açıkta kalan bölgelerden uzak durmaları gerektiği vurgulandı. Bu tedbirlerin, potansiyel güvenlik risklerine karşı önlem amacıyla alındığı belirtildi ve ülkedeki güvenlik durumuna ilişkin endişeleri yansıttığı kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2882554/pexels-photo-2882554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:12:44.157Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-urges-residents-to-stay-indoors-in-light-of-heightened-security-threats/3881200",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774599185533udmkr",
-        "title": "İsrail'in Kalandiya Kampı Baskınında İki Filistinli Yaralandı",
-        "summary": "İsrail güçlerinin Batı Şeria'daki Kalandiya mülteci kampına düzenlediği operasyonda çatışmalar yaşandı. Sağlık ekipleri, operasyon sırasında iki Filistinlinin yaralandığını bildirdi. Görgü tanıkları ve yerel kaynaklar, İsrail askerlerinin müdahale sırasında gerçek mermi ve göz yaşartıcı gaz kullandığını belirtti. Olaylar, bölgedeki gerilimi yeniden tırmandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/187812/pexels-photo-187812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:13:05.533Z",
-        "location": {
-            "lat": 31.85,
-            "lng": 35.21,
-            "name": "Kalandiya, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-wounded-in-israeli-raid-on-qalandia-camp-medics-say/3881199",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774599205980an23d",
-        "title": "Kuveyt'in Ana Limanı İHA Saldırısının Hedefi Oldu",
-        "summary": "Kuveytli yetkililer, ülkenin ana limanına yönelik bir insansız hava aracı (İHA) saldırısı düzenlendiğini bildirdi. Saldırının, önemli bir ticaret merkezi olan limanda hasara yol açtığı ancak herhangi bir can kaybının yaşanmadığı belirtildi. Olayla ilgili soruşturma başlatıldığı ve saldırının arkasındaki güçlerin belirlenmeye çalışıldığı ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:13:25.980Z",
-        "location": {
-            "lat": 29.38,
-            "lng": 47.98,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-attack-targets-kuwait-s-main-port-authorities-say/3881194",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774599226477jdzbk",
-        "title": "İran füze saldırısının ardından İsrail'in merkezinde üç noktaya enkaz düştü",
-        "summary": "İsrail'in Kanal 12 televizyonu, İran'ın İsrail'in merkezi bölgelerine yönelik bir küme füzesi fırlattığını iddia etti. Bu saldırının ardından İsrail'in orta kesimlerinde üç farklı noktaya enkaz parçaları düştüğü bildirildi. Olay, bölgedeki güvenlik gerilimini artırırken, İran'dan henüz resmi bir açıklama gelmedi. İsrail güvenlik güçleri olay yerlerinde incelemelerde bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2833362/pexels-photo-2833362.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:13:46.477Z",
-        "location": {
-            "lat": 32.08,
-            "lng": 34.78,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/debris-falls-in-3-locations-in-central-israel-after-iranian-missile-strike/3881174",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "1774591018173hui98",
-        "title": "Hürmüz Boğazı Sadece Bir Petrol Geçiş Noktası Değil",
-        "summary": "Hürmüz Boğazı'nın küresel ekonomideki kritik rolü vurgulanıyor. Haber, boğazın sadece dünya petrol ticaretinin ana damarı olmakla kalmayıp, aynı zamanda küreselleşmiş üretimin tek hata noktası olarak görüldüğünü belirtiyor. Bu durum, boğazın kapanması veya işleyişinde yaşanacak herhangi bir aksaklığın, küresel tedarik zincirleri üzerinde yıkıcı etkiler yaratabileceği anlamına geliyor. Bölgedeki istikrarsızlıklar ve jeopolitik gerilimler, bu stratejik geçidin önemini daha da artırıyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/7763500/pexels-photo-7763500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T05:56:58.173Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/3/27/the-strait-of-hormuz-is-not-just-an-oil-chokepoint?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1774591046373vqpef",
-        "title": "Sri Lanka, İran'a Karşı Savaş Devam Ederken Yeni Bir Ekonomik Krize Hazırlanıyor",
-        "summary": "Sri Lanka, İran'a karşı devam eden savaşın tetiklediği yakıt kıtlığı nedeniyle yeni bir ekonomik krizin eşiğinde bulunuyor. Ülke genelinde yaşanan bu yakıt sıkıntısı, birçok Sri Lankalı için 2022'deki yıkıcı ekonomik krizi anımsatıyor. İran'daki savaşın küresel enerji piyasaları üzerindeki etkisi, ithalata büyük ölçüde bağımlı olan Sri Lanka ekonomisini doğrudan olumsuz etkiliyor. Bu durum, ülkenin ekonomik istikrarını tehdit eden ciddi bir gelişme olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/737471/pexels-photo-737471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T05:57:26.373Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/features/2026/3/27/sri-lanka-braces-for-new-economic-crisis-as-war-on-iran-continues?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
