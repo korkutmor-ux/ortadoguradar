@@ -1,5 +1,149 @@
 [
     {
+        "id": "1774684331537ov4c9",
+        "title": "ABD Dışişleri Bakanı: Savaş 'aylar değil, haftalar içinde' sona erebilir",
+        "summary": "ABD Dışişleri Bakanı, devam eden bir savaşın birkaç hafta içinde sona erebileceği yönünde açıklamalarda bulundu. Bakan, ABD'nin bu çatışmayı aylar sürecek bir süreç yerine, daha kısa bir zaman diliminde sonlandırma çabası içinde olduğunu ifade etti. Bu açıklama, uluslararası kamuoyunda süregelen çatışmalara yönelik çözüm arayışlarını ve diplomatik girişimleri hızlandırma potansiyelini gündeme getirdi. ABD'nin bu yöndeki kararlılığı, bölgedeki gerilimi azaltma ve istikrarı sağlama hedefine işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9482199/pexels-photo-9482199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:52:11.537Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774684402778972ho",
+        "title": "İsrail'in Lübnan'a Yönelik Saldırıları Ülke Nüfusunu Uçurumun Eşiğine Getiriyor",
+        "summary": "Lübnan, İsrail'in devam eden saldırılarının yol açtığı ağır sonuçlarla karşı karşıya. Bölgedeki gerilimin tırmanmasıyla birlikte, ABD ve İsrail'in İran'a karşı başlattığı savaşın dördüncü haftasında Lübnan halkı yeni bir İsrail saldırganlığının etkilerini derinden hissediyor. Ülke nüfusu, bu bitmek bilmeyen saldırılar nedeniyle zorlu koşullar altında yaşam mücadelesi veriyor. Yaşanan çatışmalar, Lübnan'ın istikrarını ve halkın günlük yaşamını olumsuz etkiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:53:22.778Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774684426324lk9j0",
+        "title": "BM İnsan Hakları Şefi, ABD'yi İran'daki Okul Saldırısı Soruşturmasını Tamamlamaya Çağırdı",
+        "summary": "Birleşmiş Milletler İnsan Hakları Şefi Volker Türk, çoğu çocuk olmak üzere en az 168 kişinin hayatını kaybettiği saldırının \"içgüdüsel bir dehşet uyandırdığını\" belirtti. Türk, ABD'ye bu olaya ilişkin soruşturmayı sonuçlandırması çağrısında bulundu. Bu çağrı, saldırının insani boyutuna ve sorumluların belirlenmesi gerekliliğine dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:53:46.324Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774684453880z1mzd",
+        "title": "Batı Şeria'da Yerleşimci Şiddeti Sonucu Bir Filistinli Daha Hayatını Kaybetti",
+        "summary": "Batı Şeria'da yaşanan yerleşimci şiddeti olaylarında bir Filistinli daha hayatını kaybetti. Muhammed el-Malhi isimli Filistinli, bölgedeki çatışmaların başlamasından bu yana bir yerleşimci tarafından öldürülen yedinci kişi oldu. Bu son olayla birlikte, Batı Şeria'da yerleşimcilerin uyguladığı şiddet sonucu ölen Filistinlilerin sayısı artış gösterdi. Bölgedeki gerilimin tırmanması ve şiddet olaylarının devam etmesi, uluslararası toplumda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11351026/pexels-photo-11351026.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:54:13.880Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17746844773426my1s",
+        "title": "İsrail Saldırısı Gazze Yakınlarında Bir Filistinliyi Öldürdü, Birini Yaraladı",
+        "summary": "İsrail'in Gazze Şeridi yakınlarında düzenlediği bir saldırıda bir Filistinli hayatını kaybederken, bir diğer Filistinli yaralandı. Saldırı, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Anadolu Ajansı'na bilgi veren görgü tanıkları, Şecaiye mahallesinin El-Şamaa bölgesine insansız hava aracıyla bir hava saldırısı düzenlendiğini ifade etti. Bu olay, Gazze Şeridi'ndeki hassas güvenlik durumunu ve taraflar arasındaki gerilimi bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:54:37.342Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-palestinian-injures-another-near-gaza-city-despite-ceasefire/3882670",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774684497811pahgp",
+        "title": "İsrail'in Hayfa Kentinde Lübnan'dan Gelen İHA Sonrası Patlama Sesleri Duyuldu",
+        "summary": "İsrail'in kuzeyindeki Hayfa kentinde, Lübnan yönünden gelen bir insansız hava aracının (İHA) İsrail hava sahasına sızmasının ardından patlama sesleri duyulduğu bildirildi. Yerel kaynaklar ve güvenlik birimleri, olayın ardından bölgede incelemeler başlattı. İlk gelen bilgilere göre, söz konusu olayda herhangi bir can kaybı veya maddi hasar meydana gelmediği belirtildi. Güvenlik güçleri, İHA'nın rotası ve olası hedefleri hakkında detaylı soruşturma yürütüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1087182/pexels-photo-1087182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:54:57.811Z",
+        "location": {
+            "lat": 32.794,
+            "lng": 34.9896,
+            "name": "Hayfa, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-israels-haifa-after-drone-infiltration-from-lebanon/3882646",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177468451865913opd",
+        "title": "Bahreyn'de Cumartesi Günü Altıncı Kez Sirenler Çaldı",
+        "summary": "Bahreyn'de Cumartesi günü ülke genelinde siren sesleri altıncı kez duyuldu. Bahreyn yetkilileri, sirenlerin çalmasının ardından vatandaşlara \"en yakın güvenli yere gitmeleri\" çağrısında bulundu. Olayın nedeni veya sirenlerin neden bu kadar sık çaldığına dair detaylı bir açıklama yapılmadı. Bu durum, bölgedeki güvenlik endişelerini gündeme getirdi ve halk arasında tedirginliğe yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18617499/pexels-photo-18617499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:55:18.659Z",
+        "location": {
+            "lat": 26,
+            "lng": 50,
+            "name": "Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-bahrain-for-6th-time-on-saturday/3882636",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774684537686sef2f",
+        "title": "Umman'ın Salalah Limanı'na İHA Saldırısı: Bir Yaralı",
+        "summary": "Umman'ın güneyindeki Salalah Limanı'na iki insansız hava aracıyla (İHA) saldırı düzenlendiği bildirildi. Saldırıda bir kişinin yaralandığı belirtildi. Umman resmi haber ajansı ONA'ya göre, ülke saldırıyı kınadı. Umman makamları, ülkenin güvenliğini ve sakinlerinin emniyetini sağlamak için gerekli tüm önlemleri aldığını duyurdu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10809187/pexels-photo-10809187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:55:37.686Z",
+        "location": {
+            "lat": 17.0187,
+            "lng": 54.0925,
+            "name": "Salalah, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/1-injured-as-2-drones-target-oman-s-salalah-port-report/3882623",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177468455783774aeg",
+        "title": "Abu Dabi'deki Halife Ekonomik Bölgeleri yakınlarında durdurulan füze enkazı 5 kişiyi yaraladı",
+        "summary": "Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'deki Halife Ekonomik Bölgeleri yakınlarında bir füze saldırısı meydana geldi. Savunma sistemleri tarafından durdurulan füzenin enkazı yere düşerek beş kişinin yaralanmasına neden oldu. Yetkililer, yaralıların durumunun hafif ila orta derecede olduğunu bildirdi. Olayın ardından halka resmi kaynaklardan bilgi edinmeleri çağrısı yapıldı. Bu olay, bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/586117/pexels-photo-586117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T07:55:57.837Z",
+        "location": {
+            "lat": 24.45,
+            "lng": 54.38,
+            "name": "Abu Dhabi, United Arab Emirates"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/debris-from-intercepted-missile-injures-5-near-near-khalifa-economic-zones-in-abu-dhabi/3882579",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1774674917825t45er",
         "title": "ABD-İsrail'in İran'a Karşı Savaşı İlk Dört Haftasında Nasıl Gelişti?",
         "summary": "Al Jazeera, ABD ve İsrail'in İran'a karşı yürüttüğü bir savaşın ilk dört haftasında yaşanan gelişmeleri mercek altına alıyor. Haberde, söz konusu çatışmanın ilk ayında meydana gelen başlıca askeri, siyasi ve ekonomik olaylar detaylı bir şekilde inceleniyor. Bu analiz, bölgedeki potansiyel gerilimlerin ve güç dinamiklerinin nasıl şekillenebileceğine dair kapsamlı bir bakış sunuyor. Al Jazeera'nın bu çalışması, Orta Doğu'daki stratejik dengeleri ve olası senaryoları anlamak için önemli bir kaynak teşkil ediyor.",
@@ -653,150 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/3/27/sri-lanka-braces-for-new-economic-crisis-as-war-on-iran-continues?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17745911305528y7vy",
-        "title": "BAE, İran Kaynaklı Füzenin Engellendiğini Duyurdu; Kuveyt İHA Tehditlerini Püskürttü",
-        "summary": "Birleşik Arap Emirlikleri (BAE), hava savunma sistemlerinin İran kaynaklı bir füzeyi başarıyla engellediğini açıkladı. Benzer şekilde Kuveyt de, hava savunma sistemlerinin füze ve insansız hava aracı (İHA) tehditlerine karşı koyduğunu ve iki İHA'yı düşürdüğünü bildirdi. Bu gelişmeler, Körfez bölgesindeki güvenlik endişelerini ve hava sahası ihlallerine karşı alınan önlemleri gündeme getirdi. Olaylar, bölgedeki mevcut gerilimlerin bir yansıması olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T05:58:50.552Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, BAE"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-says-air-defenses-intercepted-missile-from-iran/3881119",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177459116660470wn0",
-        "title": "ABD-İsrail Saldırıları İran'ın Kum Kentinde 6 Can Aldı",
-        "summary": "İran medyası tarafından aktarılan bilgilere göre, ABD ve İsrail tarafından düzenlendiği iddia edilen saldırılarda İran'ın Kum kentinde 6 kişi yaşamını yitirdi. Ülke genelinde Tahran, İsfahan, Yezd, Kum, Tebriz, Urmiye ve Ahvaz gibi birçok İran şehrinin gece boyunca hedef alındığı bildirildi. Saldırıların niteliği ve hedeflenen noktalar hakkında henüz detaylı resmi bir açıklama yapılmadı. Bu olay, bölgedeki gerilimi artırırken, uluslararası kamuoyunun dikkatini İran'a çevirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36315186/pexels-photo-36315186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T05:59:26.604Z",
-        "location": {
-            "lat": 34.64,
-            "lng": 50.87,
-            "name": "Kum, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-attacks-kill-6-in-irans-qom-city/3881113",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17745660388452bum2",
-        "title": "Manila'da Hürmüz Boğazı Krizi Nedeniyle Artan Yakıt Fiyatları Sokakları Boşalttı",
-        "summary": "Hürmüz Boğazı'ndaki krizin etkisiyle küresel petrol fiyatlarında yaşanan artış, Filipinler'in başkenti Manila'da sokakların boşalmasına neden oldu. Ülke genelinde akaryakıt fiyatlarındaki yükseliş, Filipinlilerin azalan gelirleri ve durgunlaşan ekonomiyle mücadele etmesine yol açıyor. Bu durum, vatandaşların günlük yaşam maliyetlerini önemli ölçüde etkilerken, ekonomik sıkıntıların derinleştiğini gözler önüne seriyor. Manila'daki bu kriz, küresel enerji piyasalarındaki dalgalanmaların yerel ekonomiler üzerindeki doğrudan etkisini gösteriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/6195165/pexels-photo-6195165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T23:00:38.845Z",
-        "location": {
-            "lat": 14.6,
-            "lng": 121,
-            "name": "Manila, Filipinler"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/3/26/manilas-streets-empty-as-fuel-prices-surge-amid-strait-of-hormuz-crisis?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774561555882qv2lp",
-        "title": "El Cezire, İran'ın UNESCO listesindeki savaşta hasar gördüğü iddia edilen sarayını ziyaret etti",
-        "summary": "El Cezire televizyonu, İran'ın başkenti Tahran'da bulunan ve UNESCO Dünya Mirası listesinde yer alan tarihi Gülistan Sarayı'nı ziyaret etti. İranlı yetkililer, sarayın ABD ve İsrail tarafından gerçekleştirildiği iddia edilen saldırılarda hasar gördüğünü belirtiyor. Bu ziyaret, bölgedeki siyasi gerilimlerin kültürel miras üzerindeki potansiyel etkilerine dikkat çekiyor. Sarayın durumu ve hasar iddiaları, uluslararası kamuoyunun ve kültürel miras kuruluşlarının gündemine taşınıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36476032/pexels-photo-36476032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T21:45:55.882Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/al-jazeera-visits-irans-unesco-listed-palace-damaged-by-war?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774561623678vtz53",
-        "title": "İsrail, kara işgalini genişleterek güney Lübnan'a daha fazla asker gönderdi",
-        "summary": "İsrail'in güney Lübnan'a daha fazla asker göndererek kara işgalini genişlettiği bildirildi. Lübnan Başbakanı, İsrail'in eylemlerinin ve açıklamalarının Lübnan'ın egemenliğini tehdit ettiğini ve uluslararası hukuku ihlal ettiğini belirtti. Başbakan, bölgedeki gerilimin tırmanmasından duyduğu endişeyi dile getirerek, uluslararası toplumu duruma müdahale etmeye çağırdı. Bu gelişmeler, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803784/pexels-photo-15803784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T21:47:03.678Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.4,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774561649316w77iv",
-        "title": "Zelenskiy, İHA Uzmanlığı Teklifinin Ardından Suudi Arabistan'ı Ziyaret Etti",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinin insansız hava aracı (İHA) uzmanlığını teklif etmesinin ardından Suudi Arabistan'ı ziyaret etti. Bu ziyaretin, Ukrayna'nın İHA anlaşmalarını hızlandırma çabaları açısından yeni bir aciliyet taşıdığı belirtiliyor. Zira ABD'nin dikkatini giderek daha fazla İran'a çevirmesi, bölgesel güvenlik dinamiklerinde Ukrayna için yeni fırsatlar ve zorluklar yaratıyor. Zelenskiy'nin Suudi Arabistan ziyareti, Ukrayna'nın savunma kapasitesini artırma ve uluslararası destek arayışının önemli bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6726590/pexels-photo-6726590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T21:47:29.316Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774561701886emtva",
-        "title": "Lübnan'dan kuzey İsrail'e 30'dan fazla roket atıldı",
-        "summary": "Lübnan'dan kuzey İsrail'e yönelik yoğun bir roket saldırısı düzenlendiği bildirildi. İsrail'in Kanal 12 televizyonunun aktardığına göre, saldırıda 30'dan fazla roketin ateşlendiği belirtildi. Saldırı nedeniyle Hayfa ve Nahariya başta olmak üzere kuzey İsrail'deki birçok bölgede sirenler çaldı. Bölgede gerilimin arttığı gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7105850/pexels-photo-7105850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T21:48:21.886Z",
-        "location": {
-            "lat": 32.8,
-            "lng": 35,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/more-than-30-rockets-fired-from-lebanon-at-northern-israel/3880978",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774554117945g8j02",
-        "title": "Trump'ın İran'a Savaş Toplantısından Önemli Çıkarımlar",
-        "summary": "ABD Başkanı Donald Trump, üst düzey yetkililerle bir kabine toplantısı gerçekleştirdi. Toplantının ana gündem maddesi, İran'a yönelik olası bir savaş stratejisiydi. Bu görüşmelerde, bölgedeki güvenlik durumu ve ABD'nin potansiyel adımları detaylı bir şekilde ele alındı. Toplantıdan çıkan sonuçların, Orta Doğu'daki gerilimi etkilemesi bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T19:41:57.945Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774554143137coa01",
-        "title": "Trump: İran Anlaşma İçin Yalvarıyor, Tahran Yeni Talepler Sunuyor",
-        "summary": "ABD Başkanı Donald Trump, İran'ın savaşı sona erdirecek bir anlaşma için 'yalvardığını' iddia etti. Trump ayrıca ABD ve İsrail'in İran donanması ile hava kuvvetlerini 'yok ettiğini' öne sürdü. Bu gelişmelerin yanı sıra, İranlı milletvekilleri ülkeden geçen gemilerden geçiş ücreti toplama planlarını gündeme getirdi. Tahran'ın yeni taleplerle masaya gelmesi, bölgedeki gerilimi ve diplomatik çabaları yeniden odak noktasına taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T19:42:23.137Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
