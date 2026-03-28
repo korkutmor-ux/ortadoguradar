@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774717502608hnayq",
+        "title": "Zelenskyy Körfez Turunda BAE ve Katar ile Hava Savunma Anlaşmaları İmzaladı",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskyy, Körfez turu kapsamında Birleşik Arap Emirlikleri (BAE) ve Katar ile hava savunma anlaşmaları imzaladı. Kiev yönetimi, Rus insansız hava araçlarını düşürme konusundaki uzmanlığını Körfez ülkelerine sunmayı hedefliyor. Bu anlaşmalar, Ukrayna'nın bölgedeki diplomatik ve güvenlik ilişkilerini güçlendirme çabasının bir parçası olarak değerlendiriliyor. Görüşmelerde, Ukrayna'nın savunma kapasitesini artırma ve bölgesel güvenlik işbirliğini geliştirme konuları ele alındı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T17:05:02.608Z",
+        "location": {
+            "lat": 25,
+            "lng": 52,
+            "name": "Körfez Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774717557940l3yeh",
+        "title": "Lübnan'da İşaretli Basın Aracına Düzenlenen İsrail Saldırısında Üç Gazeteci Öldürüldü",
+        "summary": "Lübnan'da, işaretli bir basın aracına düzenlenen İsrail saldırısında üç gazeteci yaşamını yitirdi. Lübnan Cumhurbaşkanı, bu olayı 'açık bir suç' olarak tanımlayarak şiddetle kınadı. Bölgedeki gerilimi tırmandıran bu saldırı, uluslararası kamuoyunda basın özgürlüğü ve gazetecilerin güvenliği konularında endişelere yol açtı. Olayla ilgili İsrail'den henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T17:05:57.940Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1774713235099tx5b9",
         "title": "Fas, Senegal'in CAF ve CAS'a yaptığı itirazlara rağmen AFCON davasının kapandığını iddia ediyor",
         "summary": "Fas, Afrika Uluslar Kupası'nda (AFCON) Senegal'e karşı aldıkları 1-0'lık mağlubiyetin ardından yaptıkları itirazın başarılı olduğunu ve bu durumun AFCON şampiyonluğu davasını kapattığını belirtiyor. Faslı yetkililer, itirazlarının kabul edilmesiyle birlikte konunun nihai olarak çözüme kavuştuğuna inanıyor. Ancak Senegal tarafı, Afrika Futbol Konfederasyonu (CAF) ve Spor Tahkim Mahkemesi'ne (CAS) başvurularını sürdürerek karara itiraz etmeye devam ediyor. Bu durum, turnuvanın sportif ve hukuki boyutunda belirsizliği koruyor.",
@@ -764,38 +796,6 @@
             "name": "Bahreyn"
         },
         "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-154-missiles-362-drones-since-onset-of-iranian-attacks/3881502",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774598978717aa1ws",
-        "title": "İsrail Muhalefeti: Askeri Güçler 'Çöküşte'",
-        "summary": "İsrail'in muhalefet lideri Yair Lapid, mevcut hükümete yönelik sert eleştirilerde bulundu. Lapid, yaptığı açıklamada ülkenin askeri güçlerinin 'çöküşte' olduğunu iddia etti. Bu açıklama, İsrail'in iç siyasetindeki gerilimi ve güvenlik konularındaki endişeleri bir kez daha gündeme getirdi. Muhalefetin bu yöndeki değerlendirmesi, hükümetin savunma politikaları ve askeri hazırlık durumu üzerindeki tartışmaları yoğunlaştırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163478/war-desert-guns-gunshow-163478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:09:38.717Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israels-opposition-says-military-forces-are-in?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774599007375amyrq",
-        "title": "İran, 'Düşman' Ülkelere Spor Seyahatlerini Yasakladı",
-        "summary": "İran Spor Bakanlığı, devam eden savaş ortamında spor takımlarının 'düşman' olarak nitelendirilen ülkelere seyahat etmesini yasakladığını duyurdu. Bakanlık, bu kararın sporcuların güvenliğini sağlamak amacıyla alındığını belirtti. Yasak, özellikle İran ve Birleşik Arap Emirlikleri kulüpleri arasında Suudi Arabistan'da oynanacak bir maç öncesinde geldi. Bu hamle, bölgedeki siyasi gerilimlerin spor etkinliklerine yansıması olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1234953/pexels-photo-1234953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:10:07.375Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
