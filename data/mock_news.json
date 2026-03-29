@@ -1,5 +1,165 @@
 [
     {
+        "id": "1774771331416jtvjw",
+        "title": "ABD'li Uzmandan Hürmüz Boğazı ve İran'a Yönelik Kara Harekatı Önerisi",
+        "summary": "ABD'li uzman Kenneth Katzman, Hürmüz Boğazı'nın açılması ve İran'daki ABD savaş hedeflerine ulaşılması konusunda önemli bir değerlendirmede bulundu. Katzman, hava gücüyle karşılanamayan bu hedeflere ancak bir kara harekatı ile ulaşılabileceğini öne sürdü. Bu açıklama, ABD'nin İran'a yönelik potansiyel askeri stratejileri ve Hürmüz Boğazı'nın stratejik önemi üzerine tartışmaları yeniden alevlendirdi. Bölgedeki gerilimin artması durumunda, kara kuvvetlerinin devreye sokulması ihtimali, Orta Doğu'daki güvenlik dinamikleri açısından önemli sonuçlar doğurabilir. Öneri, özellikle Hürmüz Boğazı'nın uluslararası deniz trafiği için açık tutulması gerekliliğini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35525012/pexels-photo-35525012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:02:11.416Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774771352703htxun",
+        "title": "Irak'ın Musul Kentinde Hava Saldırıları Sonrası Yoğun Dumanlar Yükseldi",
+        "summary": "Irak'ın kuzeyindeki Musul kentinde hava saldırıları düzenlendiği bildirildi. Saldırıların, Irak'ın Haşdi Şabi güçlerine ait hedefleri vurduğu belirtildi. Bölgeden yükselen yoğun dumanlar, saldırıların şiddetini gözler önüne serdi. Olayın ardından bölgedeki güvenlik durumu ve saldırıların kim tarafından düzenlendiği konusunda detaylı bilgi henüz paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:02:32.703Z",
+        "location": {
+            "lat": 36.34,
+            "lng": 43.13,
+            "name": "Musul, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/thick-plumes-of-smoke-rise-over-iraqs-mosul-after-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774771375765zsd98",
+        "title": "İran'a Yönelik ABD-İsrail Saldırısı Sonrası Küçük Çocuk Kurtarıldı",
+        "summary": "İran Kızılayı'na bağlı kurtarma ekipleri, ülkeye yönelik gerçekleştirilen ABD-İsrail saldırısının ardından yıkılan bir binanın enkazından küçük bir çocuğu sağ olarak çıkardı. Olay, İran topraklarında meydana gelen ve bölgede gerilimi artıran bir saldırının ardından yaşandı. Kurtarma operasyonu, saldırının yol açtığı tahribatın boyutunu gözler önüne serdi. Kızılay yetkilileri, kurtarılan çocuğun sağlık durumunun iyi olduğunu bildirdi. Bölgedeki gerilim, bu tür olaylarla birlikte tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11349036/pexels-photo-11349036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:02:55.765Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774771413158azqan",
+        "title": "ABD ve İsrail Saldırılarının Ardından Tahran'da Sivil Kayıplar Artıyor",
+        "summary": "ABD ve İsrail'in İran'a yönelik başlattığı saldırıların üzerinden bir ay geçti. Başkent Tahran'da yaşayan siviller, BBC'ye verdikleri demeçlerde hayatlarının büyük ölçüde altüst olduğunu ifade etti. Haber başlığında yer alan 'Kızım enkaz altında' gibi ifadeler, bölgedeki insani dramın boyutunu gözler önüne seriyor. Saldırılar sonucunda sivil kayıpların giderek arttığı belirtilirken, Tahran halkı yaşanan yıkımın derin etkileriyle mücadele ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34117126/pexels-photo-34117126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:03:33.158Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17747714381090l2n4",
+        "title": "İsrail Saldırısında Hayatını Kaybeden 11 Yaşındaki Lübnanlı Çocuk Toprağa Verildi",
+        "summary": "Lübnan'da, İsrail'in düzenlediği bir saldırıda hayatını kaybeden 11 yaşındaki Jawad Younes ve amcası Ragheb, Cumartesi günü defnedildi. Cenaze töreni, aile üyeleri ve bölge halkının katılımıyla gerçekleşti. Olay, bir gün önce aileye ait yerleşkenin hedef alınması sonucu meydana gelmişti. Saldırıda hayatını kaybedenler, gözyaşları ve meydan okuma ifadeleriyle son yolculuklarına uğurlandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429607/pexels-photo-7429607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:03:58.109Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17747714618585e6oo",
+        "title": "İsrail'in Gazze'nin güneyine düzenlediği hava saldırısında ateşkese rağmen 6 Filistinli öldü",
+        "summary": "İsrail ordusu, Gazze Şeridi'nin güneyine hava saldırısı düzenledi. Anadolu Ajansı'nın tıbbi kaynaklardan aldığı bilgilere göre, saldırıda 6 Filistinli hayatını kaybetti. Bölgede devam eden ateşkese rağmen gerçekleşen bu saldırıda 4 kişi de yaralandı. Olay, Orta Doğu'daki hassas durumu ve ateşkesin kırılganlığını bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33333373/pexels-photo-33333373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:04:21.858Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-killed-in-israeli-airstrike-on-southern-gaza-despite-ceasefire/3883687",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17747714812782k96c",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırılarında 9 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında dokuz kişi hayatını kaybetti, çok sayıda kişi yaralandı. Lübnan Ulusal Haber Ajansı'nın bildirdiğine göre, saldırılar Sur bölgesindeki Hanniyeh ve Jwaya kasabalarını hedef aldı. Bölgede gerilimin tırmandığı bir dönemde gerçekleşen bu saldırılar, can kayıplarına ve maddi hasara yol açtı. Olayın ardından bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/87088/fighter-jet-jet-aircraft-army-87088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:04:41.278Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/9-killed-several-injured-in-israeli-airstrikes-on-southern-lebanon/3883674",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1774771502393vdo1e",
+        "title": "İngiltere, Hürmüz Boğazı'na olası konuşlandırma için mayın temizleme gemisi hazırlıyor",
+        "summary": "İngiltere, stratejik Hürmüz Boğazı'na olası bir konuşlandırma için hazırlıklarını sürdürüyor. Bu kapsamda, RFA Lyme Bay adlı gemi, otonom dronlar ve mayın avlama sistemleri ile donatılacak. Bu hazırlıklar, bölgedeki deniz güvenliğine yönelik acil durum planlarının bir parçası olarak değerlendiriliyor. Hürmüz Boğazı, küresel enerji tedarik zinciri için hayati öneme sahip bir geçiş noktasıdır ve bu tür bir konuşlandırma, bölgedeki güvenlik dinamiklerini etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36252882/pexels-photo-36252882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:05:02.393Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uk-prepares-mine-clearing-vessel-for-possible-strait-of-hormuz-deployment/3883664",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1774771524232t38km",
+        "title": "Umman, ülkeye yönelik son saldırıları hiçbir grubun üstlenmediğini, soruşturmanın devam ettiğini bildirdi",
+        "summary": "Umman Dışişleri Bakanlığı, ülkeye yönelik son saldırıları henüz hiçbir grubun üstlenmediğini ve soruşturmanın devam ettiğini duyurdu. Bakanlık, Umman'ın uzun süredir devam eden 'aktif tarafsızlık' politikasına bağlılığını vurguladı. Açıklamada, bölgedeki tüm ülkeler için barış, güvenlik ve istikrar çağrısında bulunuldu. Bu durum, Umman'ın bölgesel güvenlik dinamikleri içindeki konumunu ve tarafsız duruşunu koruma çabasını yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5380655/pexels-photo-5380655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:05:24.232Z",
+        "location": {
+            "lat": 23.6,
+            "lng": 58.4,
+            "name": "Maskat, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oman-says-no-group-has-claimed-latest-attacks-on-country-investigation-ongoing/3883635",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "17747715450218tno2",
+        "title": "İsrail ordusu: Güney Lübnan'daki çatışmada bir İsrail askeri öldü, 3 asker yaralandı",
+        "summary": "İsrail ordusu, Güney Lübnan'da yaşanan çatışmalarda bir askerinin hayatını kaybettiğini ve üç askerinin yaralandığını duyurdu. Hayatını kaybeden askerin Paraşütçü Tugayı'ndan Çavuş Moshe Yitzhak Hacohen Katz olduğu belirtildi. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. İsrail ve Lübnan sınırında zaman zaman gerilimler yaşanmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14898671/pexels-photo-14898671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T08:05:45.021Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-killed-3-injured-in-combat-in-southern-lebanon-israeli-army-says/3883615",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1774762312875i7t7i",
         "title": "İran savaşı gölgesinde işgal altındaki Batı Şeria'da neler oluyor?",
         "summary": "İsrail'in İran ile savaşa girmesinin ardından, işgal altındaki Batı Şeria'da yerleşimci şiddetinde önemli bir artış yaşandığı bildirildi. Bölgedeki gerilimin, İsrail ile İran arasındaki çatışmanın gölgesinde tırmandığı belirtiliyor. Bu durum, Batı Şeria'daki Filistinlilerin yaşam koşulları ve güvenlik endişeleri üzerinde doğrudan bir etki yaratıyor. Uluslararası gözlemciler, bölgedeki şiddet olaylarının artışının, daha geniş çaplı bir çatışmaya yol açabileceği konusunda uyarıyor.",
@@ -636,166 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774648752593a5rsp",
-        "title": "İranlı anne, okul saldırısı öncesi çocuklarını BM'ye anlattı",
-        "summary": "Bir İranlı anne, Birleşmiş Milletler İnsan Hakları Konseyi'nde duygusal bir konuşma yaptı. Konuşmasında, çocuklarını hayatta gördüğü son anları detaylandırdı. Annenin ifadesi, çocuklarının bir okul saldırısında hayatını kaybetmesinden önceki döneme odaklandı. Bu trajik olay, İran'daki insan hakları durumu ve özellikle çocukların güvenliği konusundaki endişeleri uluslararası gündeme taşıdı. Anne, yaşadığı acıyı ve adaletsizlik arayışını dünya kamuoyuyla paylaştı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36339205/pexels-photo-36339205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T21:59:12.593Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/grieving-iranian-mother-tells-un-about-children-before-school-attack?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177464879358148ldn",
-        "title": "Körfez Ekonomilerinin Dünya İçin Önemi ve ABD-İsrail'in İran'a Yönelik Olası Savaşının Riskleri",
-        "summary": "Haber, Körfez ekonomilerinin dünya için taşıdığı önemi sorgularken, ABD ve İsrail'in İran'a yönelik olası bir savaşının yaratacağı ciddi risklere dikkat çekiyor. Bu tür bir çatışmanın sonuçlarının sadece enerji sektörüyle sınırlı kalmayacağı belirtiliyor. Bölgesel istikrarsızlık, ticaret yollarının aksaması ve küresel finans piyasalarında dalgalanmalar gibi geniş çaplı olumsuz etkilerin ortaya çıkabileceği ifade ediliyor. Körfez ülkelerinin küresel tedarik zincirleri ve finansal sistemdeki kritik rolü göz önüne alındığında, bu durumun dünya ekonomisi üzerinde derin etkiler yaratabileceği değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T21:59:53.581Z",
-        "location": {
-            "lat": 26,
-            "lng": 52,
-            "name": "Körfez Bölgesi, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/27/how-important-are-the-gulf-economies-to-the-world?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774648845894i4dl9",
-        "title": "Trump'ın İran Stratejisi: İki Çıkış Yolunu Aynı Anda Takip Etmek",
-        "summary": "Beyaz Saray, ABD Başkanı'nın olayları yönlendirdiğini belirtse de, bazı Cumhuriyetçiler bile Başkan'ın İran'a yönelik savaş hedeflerine ilişkin çelişkili mesajlardan rahatsızlık duyuyor. Bu durum, Trump yönetiminin İran stratejisinde hem diplomatik çıkış yollarını hem de potansiyel askeri seçenekleri aynı anda değerlendirme çabasını ortaya koyuyor. Washington'daki bu iç tartışmalar, ABD'nin Orta Doğu'daki politikalarının belirsizliğini artırırken, bölgedeki gerilimi de yakından etkilemektedir. Haber, ABD'nin İran'a karşı izlediği karmaşık ve çok yönlü yaklaşımı mercek altına alıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6115020/pexels-photo-6115020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T22:00:45.894Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774641656968hgurc",
-        "title": "Londra'da Görev Dışı Polis Memuru El Cezire Gazetecilerini 'Gözdağı Verirken' Görüntülendi",
-        "summary": "Londra'da görev dışı bir Metropolitan Polisi memurunun, El Cezire gazetecileriyle karşı karşıya geldiği ve onlara \"gözdağı verdiği\" iddia edilen bir olayın görüntüleri ortaya çıktı. Olay, görev dışı polisin de aralarında bulunduğu bir grubun El Cezire ekibiyle yüzleşmesini içeriyor. Katar merkezli uluslararası bir medya kuruluşu olan El Cezire'nin gazetecilerinin hedef alınması, medya özgürlüğü ve gazetecilerin güvenliği konularında endişelere yol açtı. Bu durum, Orta Doğu medyasının uluslararası alandaki faaliyetleri bağlamında da değerlendirilmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4088095/pexels-photo-4088095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T20:00:56.968Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/off-duty-london-police-officer-filmed-intimidating-al-jazeera-journalists?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774641681798qtmc1",
-        "title": "ABD'li Filistinli aktivist, FBI'ın kendisine yönelik suikast planını engellediğini açıkladı",
-        "summary": "ABD'li Filistinli aktivist Nerdeen Kiswani, Federal Soruşturma Bürosu (FBI) tarafından kendisine yönelik bir suikast planının engellendiğini duyurdu. ABD kolluk kuvvetleri, aktiviste Molotof kokteyli saldırısı düzenlemeyi planlayan bir kişinin tutuklandığını bildirdi. Kiswani, Filistin hakları konusunda yaptığı aktivizmle tanınan bir isimdir. Olayın, aktivistin çalışmalarıyla bağlantılı olabileceği değerlendirilirken, soruşturmanın devam ettiği belirtildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6257307/pexels-photo-6257307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T20:01:21.798Z",
-        "location": {
-            "lat": 39.8283,
-            "lng": -98.5795,
-            "name": "ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/27/us-palestinian-activist-says-fbi-foiled-assassination-plot-against-her?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774641716682jtpqe",
-        "title": "ABD Dışişleri Bakanı Rubio: İran Operasyonu Haftalar İçinde Bitecek",
-        "summary": "ABD Dışişleri Bakanı Marco Rubio, ülkesinin İran'da yürüttüğü askeri operasyonun haftalar içinde tamamlanmasını beklediğini açıkladı. Rubio, operasyonun aylarca sürmeyeceğini vurgulayarak, sürecin kısa vadede sona ereceği beklentisini dile getirdi. Bu açıklama, ABD'nin bölgedeki askeri stratejisine ve İran ile ilişkilerine dair önemli bir gösterge olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6670897/pexels-photo-6670897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T20:01:56.682Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rubio-us-expects-iran-war-to-end-in-weeks-not?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17746418182385epij",
-        "title": "İran, Çelik Fabrikalarına Yönelik Saldırıların ABD'nin Diplomasi Süresiyle Çeliştiğini Bildirdi",
-        "summary": "İran, ülkenin en büyük çelik üreticilerinden olan Huzistan ve Mobarakeh çelik şirketlerine yönelik ABD-İsrail saldırılarının, Washington'ın diplomasi için belirlediği süreyle çeliştiğini açıkladı. Tahran yönetimi, bu tür eylemlerin ABD'nin diplomatik çözüm çağrılarıyla tutarsız olduğunu ve bölgedeki gerilimi artırdığını belirtti. Hedef alınan tesislerin İran ekonomisi için stratejik öneme sahip olduğu vurgulandı. İranlı yetkililer, saldırıların uluslararası hukukun ihlali olduğunu ve karşılıksız kalmayacağını ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941819/pexels-photo-5941819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T20:03:38.239Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 49,
-            "name": "Huzistan, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-attacks-on-its-largest-steel-factories-contradict-us-deadline-for-diplomacy/3882295",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774634592549tbzd7",
-        "title": "İran Futbol Takımı, Minab'daki Okul Hava Saldırısında Ölen Çocukları Andı",
-        "summary": "İran futbol takımı oyuncuları, Türkiye'de bir futbol sahasında anlamlı bir anma töreni gerçekleştirdi. Oyuncular, Minab'daki bir okulda meydana gelen hava saldırısında hayatını kaybeden çocukları anmak amacıyla sahaya sırt çantaları bıraktı. Bu eylemle, saldırıda yaşamını yitiren masum çocuklara saygı duruşunda bulunuldu. Haber, söz konusu hava saldırısının ABD-İsrail tarafından düzenlendiğini belirtiyor. Olay, bölgedeki çatışmaların insani boyutunu ve uluslararası gerilimleri bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6769821/pexels-photo-6769821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T18:03:12.549Z",
-        "location": {
-            "lat": 27.2,
-            "lng": 57.1,
-            "name": "Minab, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/irans-football-team-honours-children-killed-in-minab-school-airstrike?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774634614778j1tmz",
-        "title": "İsrail'de muhalefet büyürken Lübnan savaşı sorgulanıyor",
-        "summary": "İsrail içinde artan muhalefet, hükümetin güney Lübnan'daki askeri stratejisini sorgulatıyor. Ülkedeki kamuoyunda ve siyasi çevrelerde bu durum yoğun tartışmalara yol açıyor. Hükümetin Lübnan'a yönelik politikaları ve askeri operasyonların etkinliği mercek altına alınıyor. Muhalefet partileri ve sivil toplum kuruluşları, mevcut stratejinin gözden geçirilmesi çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T18:03:34.778Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israelis-question-lebanon-war-as-opposition-grows?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774634636017ssizi",
-        "title": "FBI Direktörü Kash Patel'in E-postaları ve Fotoğrafları İran Bağlantılı Grup Tarafından Hacklendi",
-        "summary": "ABD Federal Soruşturma Bürosu (FBI) Direktörü Kash Patel'in kişisel e-posta hesabının ve fotoğraflarının İran bağlantılı bir grup tarafından ele geçirildiği bildirildi. 'Handala Hack Team' adlı grup, Patel'in kişisel e-posta hesabına başarılı bir şekilde erişim sağladığını duyurdu. Bu siber saldırı, üst düzey bir ABD yetkilisini hedef alması ve İran ile bağlantılı bir grubun sorumluluğu üstlenmesi nedeniyle dikkat çekiyor. Olay, siber güvenlik ve uluslararası ilişkiler açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380608/pexels-photo-5380608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T18:03:56.017Z",
-        "location": {
-            "lat": 38.9,
-            "lng": -77,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/27/fbi-director-kash-patels-emails-photos-hacked-by-iran-linked-group?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
