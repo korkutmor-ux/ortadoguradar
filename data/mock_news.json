@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774825483177oukes",
+        "title": "Avrupa ülkeleri İsrail'in idam cezası planlarını eleştiriyor",
+        "summary": "Fransa, Almanya, İtalya ve Birleşik Krallık gibi Avrupa ülkeleri, İsrail'in idam cezası planlarına ilişkin derin endişelerini dile getirdi. Söz konusu ülkeler, İsrail'in yürürlüğe koymayı planladığı yasa tasarısının 'fiilen ayrımcı niteliği' nedeniyle kaygı duyduklarını belirtti. Bu eleştiriler, İsrail'in yargı sisteminde idam cezasının uygulanmasına yönelik adımlarına uluslararası tepkilerin bir parçası olarak değerlendiriliyor. Avrupa ülkeleri, tasarının insan hakları ve hukukun üstünlüğü ilkeleriyle çelişebileceği yönünde uyarıda bulundu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6065089/pexels-photo-6065089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T23:04:43.177Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1774825536329rd000",
+        "title": "Devrim Muhafızları Sözcüsü: Trump Sadece Güç Dilinden Anlar",
+        "summary": "İran Devrim Muhafızları (IRGC) Sözcüsü İbrahim Zülfikari, eski ABD Başkanı Donald Trump'ın \"sadece güç dilinden anladığını\" ifade etti. Zülfikari, ABD'nin bölgede olası kara operasyonları tehditlerini de kesin bir dille reddettiğini belirtti. Bu açıklama, İran ile ABD arasındaki mevcut gerilimin ve karşılıklı söylemlerin devam ettiğini gözler önüne seriyor. Devrim Muhafızları'nın bu tutumu, bölgedeki güvenlik dinamikleri açısından önemli bir mesaj olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7712545/pexels-photo-7712545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T23:05:36.329Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17748255608522vywo",
+        "title": "Trump: ABD Hürmüz Boğazı'nı Kontrol Etme Adımları Atıyor",
+        "summary": "ABD Başkanı Donald Trump, ülkesinin Hürmüz Boğazı'nı kontrol etme yönünde adımlar attığını açıkladı. Trump, İran'ın bir anlaşma yapmak için 'çok istekli' olduğunu iddia ederken, Washington'ın Tahran konusundaki politikalarını İsrail Başbakanı Binyamin Netanyahu ile yakın bir şekilde koordine ettiğini belirtti. Bu açıklamalar, ABD ile İran arasındaki gerilimin sürdüğü ve bölgesel güvenlik endişelerinin arttığı bir dönemde geldi. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçit olarak biliniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20318502/pexels-photo-20318502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T23:06:00.852Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-says-us-already-moving-to-control-strait-of-hormuz/3884423",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17748212674327gc1t",
         "title": "İsrail Polisi, Kudüs'teki Kutsal Kabir Kilisesi'ne Latin Patriği'nin Girişini Engelledi",
         "summary": "Kudüs'teki Hristiyanlar, Paskalya öncesi Kutsal Hafta'yı savaş dönemi kısıtlamaları altında idrak etti. Bu kapsamda, İsrail polisi Paskalya öncesi Pazar ayini sırasında Latin Patriği'nin Kutsal Kabir Kilisesi'ne girişini engelledi. Olay, bölgedeki dini özgürlükler ve güvenlik önlemleri konusundaki tartışmaları yeniden gündeme getirdi. Kudüs'teki dini mekanlara erişim, İsrail-Filistin çatışmasının hassas noktalarından biri olmaya devam ediyor. Bu tür engellemeler, uluslararası kamuoyunda da yankı buluyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1774734690583f4wcl",
-        "title": "Ukrayna'nın İHA Uzmanlığı Körfez Ülkelerine Yeni Savunma Ortaklıkları Sunabilir",
-        "summary": "Ukrayna'nın insansız hava aracı (İHA) teknolojisindeki uzmanlığı, Körfez ülkeleri için yeni bir savunma iş birliği alanı potansiyeli taşıyor. Bölgedeki Körfez ülkeleri, İran ile artan gerilimler ve güvenlik endişeleri nedeniyle savunma kapasitelerini güçlendirme arayışında. Bu bağlamda, Ukrayna'nın savaş deneyimi ve İHA geliştirme yetenekleri, Körfez ülkelerinin savunma ihtiyaçlarına çözüm sunabilir. Yeni savunma ortaklıkları kurma çabaları, bölgesel istikrar ve güvenlik dinamikleri açısından önem arz ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13310710/pexels-photo-13310710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T21:51:30.583Z",
-        "location": {
-            "lat": 27,
-            "lng": 50,
-            "name": "Basra Körfezi Bölgesi"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774734712363f42rt",
-        "title": "Londra'da Palestine Action Destekçileri Tutuklandı, Met Polisi Politika Değişikliğine Gitti",
-        "summary": "Londra'da, Filistin yanlısı aktivist grup Palestine Action'ın destekçileri tutuklandı. Bu tutuklamalar, Londra Metropolitan Polisi'nin (Met Polisi) daha önce aldığı bir kararı değiştirmesinin ardından gerçekleşti. Met Polisi, Yüksek Mahkeme'nin ilgili bir kararına rağmen \"terör\" yasağının yürürlükte kalacağını duyurmuştu. Bu politika değişikliği, Filistin yanlısı eylemcilerin faaliyetlerine yönelik tutumu yansıtıyor ve sivil toplum kuruluşları ile güvenlik güçleri arasındaki gerilimi artırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/1464228/pexels-photo-1464228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T21:51:52.363Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177472574059643cqa",
-        "title": "İranlı Politikacılar, Nükleer Silah Anlaşmasından Çekilmeyi Talep Ediyor",
-        "summary": "İran'da sertlik yanlısı politikacılar, ülkenin Nükleer Silahların Yayılmasını Önleme Anlaşması'ndan (NPT) çekilmesi yönünde baskı yapıyor. Bu çağrılar, ABD ve İsrail'in İran'ın kilit altyapı tesislerine yönelik saldırılarının devam ettiği bir dönemde yükseliyor. Bölgede savaşın sürdüğü bir ortamda, bu tür bir çekilme talebi, İran'ın nükleer programı etrafındaki gerilimi daha da artırma potansiyeli taşıyor. Anlaşmadan ayrılma, uluslararası toplumda ciddi endişelere yol açabilir ve bölgesel güvenliği derinden etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35073913/pexels-photo-35073913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T19:22:20.596Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
     }
 ]
