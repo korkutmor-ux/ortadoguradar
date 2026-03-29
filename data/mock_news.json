@@ -1,5 +1,53 @@
 [
     {
+        "id": "17748212674327gc1t",
+        "title": "İsrail Polisi, Kudüs'teki Kutsal Kabir Kilisesi'ne Latin Patriği'nin Girişini Engelledi",
+        "summary": "Kudüs'teki Hristiyanlar, Paskalya öncesi Kutsal Hafta'yı savaş dönemi kısıtlamaları altında idrak etti. Bu kapsamda, İsrail polisi Paskalya öncesi Pazar ayini sırasında Latin Patriği'nin Kutsal Kabir Kilisesi'ne girişini engelledi. Olay, bölgedeki dini özgürlükler ve güvenlik önlemleri konusundaki tartışmaları yeniden gündeme getirdi. Kudüs'teki dini mekanlara erişim, İsrail-Filistin çatışmasının hassas noktalarından biri olmaya devam ediyor. Bu tür engellemeler, uluslararası kamuoyunda da yankı buluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35069718/pexels-photo-35069718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T21:54:27.432Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17748213192721wilc",
+        "title": "İran'da Katarlı TV Kanalına Saldırı",
+        "summary": "Katarlı Al Araby televizyon ağı, İran'ın başkenti Tahran'daki ofisine yönelik bir saldırıyı şiddetle kınadı. Olayda en az 10 kişinin yaralandığı bildirildi. Al Araby ağı, saldırının faillerinin bir an önce tespit edilerek adalete teslim edilmesi çağrısında bulundu. Bu gelişme, bölgedeki medya kuruluşlarının güvenliğine ilişkin endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3645007/pexels-photo-3645007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T21:55:19.272Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1774821373130qk89m",
+        "title": "Mısır, artan petrol fiyatları karşısında enerji tasarrufu önlemlerine başlıyor",
+        "summary": "Mısır hükümeti, küresel petrol fiyatlarındaki yükselişin etkisiyle enerji tüketimini azaltmaya yönelik yeni tedbirleri hayata geçirdi. Ülke genelinde uygulanacak bu önlemler, enerji maliyetlerini düşürmeyi ve kaynak verimliliğini artırmayı hedefliyor. Alınan kararlar kapsamında, perşembe ve cuma günleri hariç olmak üzere, mağazalar, restoranlar, alışveriş merkezleri, sinemalar, tiyatrolar ve düğün salonları akşam saat 21.00'de kapanacak. Bu adımların, Mısır ekonomisi üzerindeki enerji baskısını hafifletmesi ve sürdürülebilir enerji politikalarına katkı sağlaması bekleniyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/3946153/pexels-photo-3946153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T21:56:13.130Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egypt-begins-energy-saving-measures-amid-surging-oil-prices/3884352",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774814585456iqooy",
         "title": "Lübnan'daki Hristiyanlar Savaş Tehdidi Altında Palmiye Pazarı'nı Kutladı",
         "summary": "Lübnan'daki Hristiyan topluluklar, İsrail'in devam eden savaşı nedeniyle bölgede artan savaş tehdidinin gölgesinde Palmiye Pazarı'nı dualarla idrak etti. Ülkedeki Katolikler ve diğer Hristiyanlar, bu kutsal günü ibadetle geçirirken, tüm toplumların paylaştığı zorluklara dikkat çekti. Ayinlerde, bölgedeki gerilimin ve çatışma riskinin yarattığı endişeler dile getirildi. Lübnan halkı, bu zorlu dönemde barış ve istikrar için dua etti.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1774717502608hnayq",
-        "title": "Zelenskyy Körfez Turunda BAE ve Katar ile Hava Savunma Anlaşmaları İmzaladı",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskyy, Körfez turu kapsamında Birleşik Arap Emirlikleri (BAE) ve Katar ile hava savunma anlaşmaları imzaladı. Kiev yönetimi, Rus insansız hava araçlarını düşürme konusundaki uzmanlığını Körfez ülkelerine sunmayı hedefliyor. Bu anlaşmalar, Ukrayna'nın bölgedeki diplomatik ve güvenlik ilişkilerini güçlendirme çabasının bir parçası olarak değerlendiriliyor. Görüşmelerde, Ukrayna'nın savunma kapasitesini artırma ve bölgesel güvenlik işbirliğini geliştirme konuları ele alındı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T17:05:02.608Z",
-        "location": {
-            "lat": 25,
-            "lng": 52,
-            "name": "Körfez Bölgesi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774717557940l3yeh",
-        "title": "Lübnan'da İşaretli Basın Aracına Düzenlenen İsrail Saldırısında Üç Gazeteci Öldürüldü",
-        "summary": "Lübnan'da, işaretli bir basın aracına düzenlenen İsrail saldırısında üç gazeteci yaşamını yitirdi. Lübnan Cumhurbaşkanı, bu olayı 'açık bir suç' olarak tanımlayarak şiddetle kınadı. Bölgedeki gerilimi tırmandıran bu saldırı, uluslararası kamuoyunda basın özgürlüğü ve gazetecilerin güvenliği konularında endişelere yol açtı. Olayla ilgili İsrail'den henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T17:05:57.940Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774713235099tx5b9",
-        "title": "Fas, Senegal'in CAF ve CAS'a yaptığı itirazlara rağmen AFCON davasının kapandığını iddia ediyor",
-        "summary": "Fas, Afrika Uluslar Kupası'nda (AFCON) Senegal'e karşı aldıkları 1-0'lık mağlubiyetin ardından yaptıkları itirazın başarılı olduğunu ve bu durumun AFCON şampiyonluğu davasını kapattığını belirtiyor. Faslı yetkililer, itirazlarının kabul edilmesiyle birlikte konunun nihai olarak çözüme kavuştuğuna inanıyor. Ancak Senegal tarafı, Afrika Futbol Konfederasyonu (CAF) ve Spor Tahkim Mahkemesi'ne (CAS) başvurularını sürdürerek karara itiraz etmeye devam ediyor. Bu durum, turnuvanın sportif ve hukuki boyutunda belirsizliği koruyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/28532605/pexels-photo-28532605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T15:53:55.099Z",
-        "location": {
-            "lat": 34.020882,
-            "lng": -6.84165,
-            "name": "Rabat, Fas"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
