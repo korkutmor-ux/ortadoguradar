@@ -1,5 +1,69 @@
 [
     {
+        "id": "17748514315131p1pa",
+        "title": "Kanadalı YouTuber Hürmüz Boğazı'ndaki Gemi Yoğunluğunu Görüntüledi",
+        "summary": "Kanadalı bir aktivist, küresel petrol ve kargo taşımacılığı için hayati öneme sahip Hürmüz Boğazı'nda onlarca geminin yoğunluğunu görüntüledi. Aktivist tarafından kaydedilen görüntülerde, petrol tankerleri ve kargo gemilerinin boğazda biriktiği görülüyor. Bu durum, dünyanın en işlek deniz yollarından birindeki potansiyel lojistik zorluklara ve enerji tedarik zinciri üzerindeki etkilere dikkat çekiyor. Hürmüz Boğazı'ndaki bu tür yoğunluklar, bölgesel ve küresel ticaret akışını etkileyebilecek önemli bir gösterge olarak değerlendirilmektedir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/33805250/pexels-photo-33805250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T06:17:11.513Z",
+        "location": {
+            "lat": 26.25,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/canadian-youtuber-captures-congestion-of-dozens-of-ships-in-hormuz-strait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774851454123qr2vq",
+        "title": "Trump: İran'da 'Rejim Değişikliği' Yaşandı",
+        "summary": "ABD Başkanı Donald Trump, yaptığı bir açıklamada, ABD ve İsrail'in İran'a karşı yürüttüğü 'savaşın' Tahran'da fiilen bir 'rejim değişikliği' ile sonuçlandığını öne sürdü. Trump'ın bu iddiaları, İran'ın 'tekne dolusu petrol' ile ilgili yorumları sırasında dile getirildi. Bu ifadeler, Washington'ın İran'a yönelik politikalarındaki sert duruşunu ve bölgedeki mevcut gerilimi bir kez daha gözler önüne serdi. Açıklama, Orta Doğu'daki güç dengeleri ve ABD'nin bölgesel stratejileri hakkında önemli ipuçları taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32040770/pexels-photo-32040770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T06:17:34.123Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774851490602eqcar",
+        "title": "Avustralya, Küresel Enerji Krizi Derinleşirken Akaryakıt Vergisini Yarıya İndirecek",
+        "summary": "Avustralya Başbakanı Anthony Albanese, küresel enerji krizinin derinleşmesi ve ham petrol fiyatlarının varil başına 116 doları aşması üzerine akaryakıt vergisinde kesinti yapılacağını duyurdu. Bu karar, dünya genelinde artan enerji maliyetlerinin tüketiciler üzerindeki yükünü hafifletmeyi hedefliyor. Ham petrol fiyatlarındaki bu yükseliş, Orta Doğu'daki başlıca petrol üreticisi ülkelerin ekonomileri ve gelirleri üzerinde doğrudan bir etki yaratmaktadır. Küresel enerji piyasalarındaki bu dalgalanmalar, bölgedeki enerji politikaları ve ihracat stratejileri açısından büyük önem taşımaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/16852979/pexels-photo-16852979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T06:18:10.602Z",
+        "location": {
+            "lat": -35.2809,
+            "lng": 149.13,
+            "name": "Canberra, Avustralya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/30/australia-to-halve-fuel-tax-as-global-energy-crisis-deepens?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17748515629859j4nr",
+        "title": "Yeni Geliştirilen ABD Füzesi İran'ın Lamerd Kentinde Spor Salonu ve Okulu Vurdu: Rapor",
+        "summary": "New York Times'ın haberine göre, ABD Savunma Bakanlığı (Pentagon), 28 Şubat'ta İran'ın Lamerd kentinde sivil hedeflere yönelik ölümcül bir saldırı gerçekleştirdi. Haberde, askeri bir yerleşkenin yakınındaki spor salonu ve okul gibi sivil alanların hedef alındığı belirtildi. Saldırıda, Pentagon tarafından henüz test edilmemiş yeni geliştirilen füzelerin kullanıldığı iddia edildi. Bu olay, ABD'nin İran topraklarındaki sivil altyapıya yönelik askeri müdahalesine dair ciddi endişeleri gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16660293/pexels-photo-16660293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T06:19:22.985Z",
+        "location": {
+            "lat": 27.3,
+            "lng": 53.2,
+            "name": "Lamerd, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/newly-developed-us-missile-struck-iranian-sports-hall-school-in-lamerd-report/3884497",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774825483177oukes",
         "title": "Avrupa ülkeleri İsrail'in idam cezası planlarını eleştiriyor",
         "summary": "Fransa, Almanya, İtalya ve Birleşik Krallık gibi Avrupa ülkeleri, İsrail'in idam cezası planlarına ilişkin derin endişelerini dile getirdi. Söz konusu ülkeler, İsrail'in yürürlüğe koymayı planladığı yasa tasarısının 'fiilen ayrımcı niteliği' nedeniyle kaygı duyduklarını belirtti. Bu eleştiriler, İsrail'in yargı sisteminde idam cezasının uygulanmasına yönelik adımlarına uluslararası tepkilerin bir parçası olarak değerlendiriliyor. Avrupa ülkeleri, tasarının insan hakları ve hukukun üstünlüğü ilkeleriyle çelişebileceği yönünde uyarıda bulundu.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-across-israel-following-new-iranian-missile-attack/3883571",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17747389630046ahzu",
-        "title": "Pakistan, Hürmüz Boğazı Üzerinden 20 Gemi Göndermek İçin İran ile Anlaşma Sağladı",
-        "summary": "Pakistan'ın, Hürmüz Boğazı üzerinden 20 gemi göndermek üzere İran ile bir anlaşma sağladığı bildirildi. İslamabad'ın diplomatik çabalarının bu anlaşmayla meyvelerini verdiği belirtilirken, uluslararası kamuoyu daha geniş çaplı bir diplomatik atılımın işaretlerini yakından izliyor. Bu gelişme, iki ülke arasındaki ticari ve stratejik ilişkilerin güçlendiğini gösteriyor. Hürmüz Boğazı'nın küresel enerji ve ticaret için taşıdığı kritik önem göz önüne alındığında, bu anlaşmanın bölgesel ve uluslararası yansımaları olabileceği değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386346/pexels-photo-4386346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T23:02:43.004Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774739000582s6bfn",
-        "title": "Kızıldeniz'deki Husi Tehdidi Küresel Ekonomiyi Olumsuz Etkileyebilir",
-        "summary": "İran destekli Husilerin Kızıldeniz'deki deniz taşımacılığına yönelik potansiyel tehdidi, küresel ekonomiye daha fazla zarar verebileceği endişelerini artırıyor. Sebastian Usher tarafından kaleme alınan bir analize göre, bu grup stratejik öneme sahip ikinci bir su yolunu da durma noktasına getirme potansiyeline sahip. Kızıldeniz, dünya ticaretinin önemli geçiş noktalarından biri olup, burada yaşanacak herhangi bir aksaklık tedarik zincirlerinde ciddi bozulmalara yol açabilir. Bu durum, bölgedeki güvenlik risklerinin küresel çapta ekonomik sonuçlar doğurabileceğinin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15878829/pexels-photo-15878829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T23:03:20.582Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 43.5,
-            "name": "Kızıldeniz, Yemen"
-        },
-        "source": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17747390237688nk28",
-        "title": "Yayıncılar: İsrail Saldırısında Üç Lübnanlı Gazeteci Öldürüldü",
-        "summary": "Yayıncılar, İsrail'in düzenlediği bir saldırıda üç Lübnanlı gazetecinin hayatını kaybettiğini bildirdi. İsrail ordusu, Hizbullah'a bağlı El Manar TV'den Ali Shoeib'i öldürdüğünü doğruladı. Olayın, Lübnan-İsrail sınırındaki gerilimin tırmandığı bir dönemde gerçekleştiği belirtiliyor. Bölgedeki çatışmaların gazetecilerin güvenliğini tehdit ettiği endişeleri artıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952949/pexels-photo-5952949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T23:03:43.768Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17747346704947uywn",
-        "title": "Kuveyt Uluslararası Havalimanı'na İran İHA Saldırısı Düzenlendi",
-        "summary": "Kuveyt Uluslararası Havalimanı'nda Cumartesi günü şüpheli İran insansız hava aracı (İHA) saldırıları sonucu hasar meydana geldi. Saldırıların ardından havalimanından yoğun, siyah dumanlar yükseldiği bildirildi. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve Kuveyt ile İran arasındaki ilişkilerde yeni bir gerilim kaynağı olabilir. Yetkililer, saldırının detayları ve yol açtığı zararla ilgili incelemelerini sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/997122/pexels-photo-997122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T21:51:10.494Z",
-        "location": {
-            "lat": 29.38,
-            "lng": 47.98,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
