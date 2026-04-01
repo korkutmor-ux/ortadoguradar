@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775024035905n0z0k",
+        "title": "Irak, Bolivya'yı Yenerek FIFA Dünya Kupası 2026'ya Katılmaya Hak Kazandı",
+        "summary": "Irak Milli Futbol Takımı, Bolivya'yı 2-1 mağlup ederek 2026 FIFA Dünya Kupası'na katılma hakkı elde etti. Ali Al-Hamadi ve Aymen Hussein'in kaydettiği gollerle zafere ulaşan Irak, 1986'dan bu yana ilk kez Dünya Kupası'na katılma başarısı gösterdi. Bu tarihi başarı, ülke genelinde büyük bir coşku ve sevinçle karşılandı. Irak halkı, milli takımın bu önemli turnuvadaki mücadelesini heyecanla bekliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6275175/pexels-photo-6275175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T06:13:55.905Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1775024072489ghw66",
+        "title": "Erbil Havalimanı Yakınlarında Drone Hasarı: Sakinler İncelemelerde Bulundu",
+        "summary": "Kuzey Irak'ta bulunan Erbil Uluslararası Havalimanı yakınlarında ikamet eden vatandaşlar, düşen drone enkazının mülklerinde hasara yol açtığını belirtti. Olayın ardından bölge sakinleri, evlerinde ve çevrelerinde meydana gelen zararları inceledi. Yetkililerden henüz resmi bir açıklama gelmezken, bölgede güvenlik endişeleri artıyor. Bu tür saldırılar, Erbil'deki sivil altyapı ve yerleşim yerleri için tehdit oluşturmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33404405/pexels-photo-33404405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T06:14:32.489Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44.01,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775024093654zg7i8",
+        "title": "Amerikalı Gazeteci Bağdat'ta Kaçırıldı",
+        "summary": "Irak'ın başkenti Bağdat'ta Amerikalı serbest gazeteci Shelly Kittleson'ın kaçırıldığı bildirildi. Olay, gün ortasında meydana gelirken, kaçırılma anına ilişkin detaylar henüz netleşmedi. Irak güvenlik güçleri, gazetecinin bulunması ve olayın faillerinin yakalanması için geniş çaplı bir soruşturma başlattı. Bu olay, bölgede görev yapan gazetecilerin güvenliği konusundaki endişeleri bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7714894/pexels-photo-7714894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T06:14:53.654Z",
+        "location": {
+            "lat": 33.34,
+            "lng": 44.39,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/american-journalist-kidnapped-in-baghdad?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17750011002451pwuf",
         "title": "Papa Leo, Trump'ı İran'a Karşı Savaşı Bitirmeye Çağırdı",
         "summary": "Papa Leo XIV, ABD'nin eski Başkanı Donald Trump'a, ABD ve İsrail'in İran'a yönelik politikalarından bir 'çıkış yolu' bulması çağrısında bulundu. Bu açıklama, bölgedeki gerilimin azaltılması ve diplomatik bir çözüm arayışına yönelik önemli bir mesaj olarak öne çıktı. Papa'nın bu girişimi, Orta Doğu'da potansiyel bir çatışmanın önlenmesi ve barışın sağlanması için uluslararası toplumun sorumluluğuna vurgu yapıyor. Çağrı, ABD'nin İran'a karşı uyguladığı baskı politikalarının ve İsrail ile olan ittifakının bölgedeki istikrarsızlığı artırabileceği endişelerini yansıtıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1774894161425yvmrm",
-        "title": "Katar, İran'dan Fırlatılan İHA'ları Engelledi",
-        "summary": "Katar Haber Ajansı'nın (QNA) bildirdiğine göre, Katar ordusu İran'dan fırlatılan insansız hava araçlarını başarıyla engelledi. Katar hava sahasına yönelik bu ihlal girişimi, Katar Silahlı Kuvvetleri tarafından etkisiz hale getirildi. Açıklamada, tüm insansız hava araçlarının hedeflerine ulaşmadan durdurulduğu belirtildi. Bu olay, Körfez bölgesindeki güvenlik dinamikleri ve iki ülke arasındaki ilişkiler açısından dikkat çekici bir gelişme olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T18:09:21.425Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-intercepts-drones-launched-from-iran/3885488",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774894188073iqsh4",
-        "title": "Sisi'den Trump'a: Orta Doğu'daki Savaşı Sadece Siz Durdurabilirsiniz",
-        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, dönemin ABD Başkanı Donald Trump'a Orta Doğu'daki çatışmaları sona erdirme çağrısında bulundu. Sisi, bölgedeki savaşın durdurulması konusunda Trump'ın belirleyici bir rol oynayabileceğini ifade etti. Bu diplomatik çağrı, Orta Doğu'nun ekonomik ve enerji krizleriyle mücadele ettiği bir dönemde yapıldı. Mısır lideri, bölgenin istikrarı için ABD'nin müdahalesinin kritik önem taşıdığını vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4570569/pexels-photo-4570569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T18:09:48.073Z",
-        "location": {
-            "lat": 30,
-            "lng": 31.2,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/no-one-but-you-can-stop-war-in-middle-east-al-sisi-tells-trump/3885478",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774882470481ixrul",
-        "title": "Rubio'dan Hürmüz Boğazı Açıklaması",
-        "summary": "ABD Senatörü Marco Rubio, Al Jazeera'ya verdiği demeçte, Hürmüz Boğazı'nın 'şu ya da bu şekilde' yeniden açılacağını ifade etti. Bu açıklama, dünya petrol ticaretinin önemli bir kısmının geçtiği stratejik su yolunun güvenliğine ilişkin endişeleri gündeme getirdi. Boğazın potansiyel kapanması veya kapatılma tehditleri karşısında ABD'nin kararlı duruşunu yansıtan Rubio'nun sözleri, bölgedeki gerilimi artırabilecek nitelikte. Haber, uluslararası kamuoyunda son dakika gelişmesi olarak yer aldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8903426/pexels-photo-8903426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T14:54:30.481Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
