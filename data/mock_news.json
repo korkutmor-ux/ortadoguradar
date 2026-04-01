@@ -1,5 +1,53 @@
 [
     {
+        "id": "177507739486418yts",
+        "title": "İran Cumhurbaşkanı Pezeşkian'dan ABD Halkına 'Savaş Kimin Çıkarlarına Hizmet Ediyor?' Sorusu",
+        "summary": "İran Cumhurbaşkanı Mesud Pezeşkian, ABD halkına hitaben açık bir mektup yayımladı. Mektubunda Amerikalıları, devam eden savaşla ilgili 'çarpıtmalar selinin' ötesini görmeye çağırdı. Pezeşkian, savaşın kimlerin çıkarlarına hizmet ettiğini sorgulayarak, bölgesel ve uluslararası arenadaki gerilimlere dikkat çekti. Bu hamle, İran'ın dış politika yaklaşımını ve ABD ile ilişkilerindeki duruşunu yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33773999/pexels-photo-33773999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T21:03:14.864Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775077497360lf8an",
+        "title": "Irak'ın Kuzeyinde ABD-İsrail Saldırısında İki PMF Savaşçısı Öldürüldü",
+        "summary": "Irak'ın kuzeyinde faaliyet gösteren Popüler Seferberlik Güçleri (PMF), ABD ve İsrail tarafından gerçekleştirildiği iddia edilen bir saldırıda iki savaşçısının hayatını kaybettiğini bildirdi. PMF'den yapılan açıklamada, Nineveh vilayetinde meydana gelen bu saldırılarda dört savaşçının da yaralandığı belirtildi. Olayın bölgedeki güvenlik dinamikleri ve dış güçlerin varlığına dair endişeleri artırdığı ifade edildi. Saldırıya ilişkin olarak Irak hükümetinden veya ABD ve İsrail'den henüz resmi bir doğrulama ya da detaylı açıklama yapılmadı. Bu gelişme, bölgedeki gerilimi tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560345/pexels-photo-8560345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T21:04:57.360Z",
+        "location": {
+            "lat": 36.3,
+            "lng": 43.1,
+            "name": "Nineveh, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/popular-mobilization-forces-say-2-fighters-killed-in-us-israeli-strike-in-northern-iraq/3888638",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17750775179199xkb0",
+        "title": "İran Cumhurbaşkanı: Amerikan Halkına Karşı Düşmanlığımız Yok",
+        "summary": "İran Cumhurbaşkanı Masoud Pezeshkian, İran halkının Amerikan halkı da dahil olmak üzere hiçbir ulusa karşı düşmanlık beslemediğini ifade etti. Pezeshkian, İran'ın Avrupa ve komşu ülkeler dahil olmak üzere diğer milletlere karşı düşmanca bir tutum içinde olmadığını vurguladı. Bu açıklama, İran'ın uluslararası arenadaki duruşunu ve diğer ülkelerle olan ilişkilerini yansıtan önemli bir mesaj olarak değerlendirildi. Yeni göreve gelen İran liderinin bu tür diplomatik ifadeleri, bölgesel ve küresel ilişkilerde potansiyel yeni yaklaşımların sinyallerini taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5472447/pexels-photo-5472447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T21:05:17.919Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-harbors-no-enmity-toward-american-people-says-iranian-president/3888631",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775066479194f180d",
         "title": "Eleştirmenler İsrail'in Yeni İdam Yasasını 'Apartheid Rejimi' Olarak Nitelendiriyor",
         "summary": "İsrail parlamentosunda, yalnızca Filistinlileri hedef alması beklenen yeni bir idam yasasının kabul edilmesiyle ilgili kutlamalar yapıldı. Yasa, eleştirmenler tarafından \"apartheid rejimi\" olarak nitelendiriliyor ve İsrail'in Filistinlilere yönelik politikalarını daha da sertleştireceği iddia ediliyor. Uluslararası insan hakları örgütleri ve bazı ülkeler, bu yasanın uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi artıracağını belirtiyor. Bu gelişme, İsrail-Filistin çatışmasının hukuki boyutunda önemli bir dönüm noktası olarak değerlendiriliyor ve geniş çaplı tepkilere yol açması bekleniyor.",
@@ -748,54 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/31/video-newborns-evacuated-from-gaza-return-as-toddlers-over-two-years-later?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950457689ldnne",
-        "title": "Somali Ordusu Kilit Şehri Ele Geçirdi, Eyalet Lideri İstifa Etti",
-        "summary": "Somali federal hükümeti, Güneybatı eyaletindeki Baidoa şehrinde yaşanan geçiş sürecini memnuniyetle karşıladığını bildirdi. Eyalet liderinin istifasının ardından Somali ordusu, stratejik öneme sahip Baidoa şehrinin kontrolünü ele geçirdi. Hükümet, ülkedeki siyasi değişimler ve artan gerilimler karşısında barış ve birliğin sağlanması yönünde çağrıda bulundu. Bu gelişmeler, Somali'nin iç siyasetinde ve güvenlik yapısında önemli bir dönüm noktasını temsil etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35171062/pexels-photo-35171062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:47:37.689Z",
-        "location": {
-            "lat": 2.2,
-            "lng": 43.65,
-            "name": "Baidoa, Somali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950481914ryb84",
-        "title": "İsrail'de Yeni Yasa: Ölümcül Saldırılardan Hüküm Giymiş Filistinlilere İdam Cezası",
-        "summary": "İsrail'de Pazartesi günü kabul edilen yeni bir yasa, ölümcül saldırılardan hüküm giyen Filistinliler için idam cezasının uygulanmasına olanak tanıyor. Aşırı sağcı gruplar ve Güvenlik Bakanı Itamar Ben-Gvir tarafından yoğun bir şekilde desteklenen bu yasa, kamuoyunda geniş yankı uyandırdı. Yasanın, İsrail-Filistin çatışması bağlamında gerilimi artırabileceği ve bölgedeki durumu daha da karmaşık hale getirebileceği değerlendiriliyor. Uluslararası insan hakları örgütleri, idam cezasının uygulanmasına karşı çıkarak yasanın insan hakları ihlallerine yol açabileceği yönünde endişelerini dile getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8850839/pexels-photo-8850839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:48:01.914Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17749505028923h42r",
-        "title": "Gazze'li anne iki yıl sonra tahliye edilen kızıyla yeniden bir araya geldi",
-        "summary": "Gazze'de yaşanan çatışmaların başlangıcında tahliye edilen prematüre bebeklerden biri olan kız çocuğu, iki yıl sonra annesiyle yeniden bir araya geldi. Savaşın ilk günlerinde Gazze'deki şiddetli çatışmalar sırasında tahliye edilen en az sekiz prematüre yenidoğandan biri olan kız çocuğu, ailesinden ayrı kalmıştı. Bu duygusal buluşma, bölgedeki insani krizin ve çatışmaların aileler üzerindeki derin etkisini bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7219156/pexels-photo-7219156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:48:22.892Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
