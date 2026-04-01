@@ -1,5 +1,181 @@
 [
     {
+        "id": "17750386227637axg2",
+        "title": "Husiler, İsrail'e Ortak Füze Saldırısı Düzenlediğini İddia Etti",
+        "summary": "Yemen'deki Husiler, İsrail'e yönelik bir füze saldırısı gerçekleştirdiklerini açıkladı. Yapılan açıklamada, bu saldırının İran ve Lübnan merkezli Hizbullah ile koordineli bir şekilde düzenlendiği iddia edildi. Bu gelişme, Orta Doğu'daki mevcut gerilimi daha da tırmandırabilecek nitelikte. Saldırının hedefi ve yol açtığı sonuçlara dair detaylar henüz netleşmezken, İsrail'den konuya ilişkin resmi bir açıklama bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:17:02.763Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.75,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/houthis-claim-joint-missile-attack-on-israel-with-iran-and-hezbollah?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17750386510907ej26",
+        "title": "Türkiye, 24 Yıllık Dünya Kupası Hasretine Son Verdi",
+        "summary": "Türkiye A Milli Futbol Takımı, Kosova'yı mağlup ederek 24 yıllık Dünya Kupası hasretine son verdi. Bu zaferle Türkiye, 2002 yılından bu yana ilk kez futbolun en büyük turnuvasına katılma hakkı elde etti. 2002'deki turnuvada üçüncü olarak büyük bir başarıya imza atan Türkiye, bu yeni başarıyla taraftarlarına büyük bir sevinç yaşattı. Milli takımın bu başarısı, ülke genelinde geniş yankı buldu ve büyük bir coşkuyla karşılandı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13848885/pexels-photo-13848885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:17:31.090Z",
+        "location": {
+            "lat": 39.9,
+            "lng": 32.9,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038671963gar91",
+        "title": "Araghchi: ABD'den Witkoff ve aracıları aracılığıyla gelen mesajlar müzakere değil",
+        "summary": "İran Dışişleri Bakanı, Washington ile mesaj alışverişinin devam ettiğini ancak bunların müzakere niteliği taşımadığını belirtti. Bakan, ABD'den Witkoff ve diğer aracıları aracılığıyla gelen mesajların müzakere olarak algılanmaması gerektiğini vurguladı. Araghchi, iki ülke arasında herhangi bir güvenin söz konusu olmadığını da ekledi. Bu açıklama, İran ile ABD arasındaki dolaylı iletişim kanallarının ve mevcut gerilimin devam ettiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14558723/pexels-photo-14558723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:17:51.963Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/1/us-messages-via-witkoff-and-intermediaries-are-not-negotiations-araghchi?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038715032jjoko",
+        "title": "Savaş İranlı Aileleri Bölüyor: 'Artık Kardeşim Değilsin' Tartışmaları Patlak Verdi",
+        "summary": "İran'da savaşın neden olduğu derin toplumsal ayrılıklar, aileler arasında gerginliklere ve tartışmalara yol açıyor. Ülke genelinde birçok kişi, savaş konusundaki farklı görüşler nedeniyle aile içi ilişkilerde yaşanan öfke dolu sahneleri ve gerilimi dile getiriyor. Bu durum, kardeşler, ebeveynler ve çocuklar arasında açılan uçurumlarla kendini gösteriyor ve bazı ilişkilerin kopma noktasına geldiği belirtiliyor. Haber, savaşın sadece cephede değil, aynı zamanda evlerin içinde de yıkıcı etkiler yarattığını ve İran toplumunun sosyal dokusunu derinden etkilediğini vurguluyor. Bu gerilimler, ülkedeki genel siyasi ve sosyal atmosferin bir yansıması olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:18:35.032Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038736797j304y",
+        "title": "İsrail, Hizbullah ile savaş sonrası Güney Lübnan'ın bir kısmında kontrolü sürdüreceğini açıkladı",
+        "summary": "İsrail Savunma Bakanı Israel Katz, Hizbullah ile savaş sona erdikten sonra Güney Lübnan'ın belirli bölgelerinde kontrolü sürdüreceklerini bildirdi. Bakan Katz ayrıca, İsrail sınırına yakın Lübnan köylerindeki evlerin yıkılacağını belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek ve gelecekteki sınır düzenlemelerine dair önemli bir sinyal olarak değerlendiriliyor. İsrail'in bu tutumu, Lübnan ile olan ilişkilerde yeni bir döneme işaret edebilirken, uluslararası toplumun tepkisi merakla bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27970289/pexels-photo-27970289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:18:56.797Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775038757862xogzl",
+        "title": "İran'ın güvenlik görevlerinde çocukları kullandığı iddia edildi",
+        "summary": "İran'ın güvenlik görevlerinde çocukları kullandığına dair raporlar ve tanık ifadeleri ortaya çıktı. Bu iddialar, ülkedeki çatışma veya güvenlik operasyonları bağlamında çocukların askeri veya yarı askeri rollerde görevlendirildiğini gösteriyor. Haberde, Tahran'da bir kontrol noktasında görevli 11 yaşındaki bir çocuğun hava saldırısında hayatını kaybettiği bildirildi. Bu olay, çocukların çatışma bölgelerinde kullanılmasına ilişkin ciddi endişeleri gündeme getiriyor ve uluslararası insan hakları ihlali potansiyeli taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5257325/pexels-photo-5257325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:19:17.862Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038783695mltte",
+        "title": "İran, Hürmüz Boğazı Geçişlerinin Kendi Şartlarına Uyacağını Duyurdu",
+        "summary": "İran, Hürmüz Boğazı'ndan geçişlerin kendi belirlediği şartlara tabi olacağını açıkladı. Tahran yönetimi, bu koşulların arabuluculara iletildiğini ve stratejik öneme sahip bu deniz yolu için yeni kuralların sinyalini verdiğini belirtti. Bu açıklama, uluslararası denizcilik trafiği ve bölgesel güvenlik açısından önemli sonuçlar doğurabilir. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği kritik bir geçiş noktasıdır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13909319/pexels-photo-13909319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:19:43.695Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-strait-of-hormuz-transit-to-follow-its-terms/3887974",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038809734ssgvw",
+        "title": "İspanya-Mısır Maçındaki İslam Karşıtı Tezahüratlar Federasyon ve Oyuncuların Kınamasına Yol Açtı",
+        "summary": "İspanya ile Mısır arasında oynanan futbol maçında İslam karşıtı tezahüratlar yapıldığı bildirildi. Stadyumda yapılan resmi uyarılara rağmen bu tezahüratların devam ettiği belirtildi. Yaşanan bu olaylar, hem federasyon hem de oyuncular tarafından kınandı. Olay, spor müsabakalarında ayrımcılığın ve nefret söyleminin kabul edilemez olduğunu bir kez daha gözler önüne serdi. Mısır'ın bir Orta Doğu ülkesi olması ve tezahüratların İslam karşıtı niteliği nedeniyle olay, bölge kamuoyunda da yankı buldu.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32304423/pexels-photo-32304423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:20:09.734Z",
+        "location": {
+            "lat": 40.4637,
+            "lng": -3.7492,
+            "name": "İspanya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/anti-muslim-chants-at-spain-egypt-match-draw-condemnation-from-federation-players/3887970",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038837497uel7l",
+        "title": "Pekin: Çin ve Pakistan'ın 'arabuluculuğu' Orta Doğu barış görüşmeleri için bir fırsat penceresi yaratacak",
+        "summary": "Pekin, Çin ve Pakistan'ın ortak çabalarının Orta Doğu'da barış görüşmeleri için bir fırsat yaratabileceğini belirtti. Çin Dışişleri Bakanlığı, İslamabad ile yürütülen bu ortak girişimlerin tüm taraflarca memnuniyetle karşılanması gerektiğini vurguladı. Bu açıklama, ABD ve İsrail'in İran ile olan çatışmasının beşinci haftasına girdiği bir dönemde geldi. Pekin, bölgedeki gerilimi azaltma ve diplomatik çözümler bulma arayışında olduğunu ifade etti. Çin ve Pakistan'ın bu arabuluculuk rolü, Orta Doğu'daki mevcut durumu ele almayı hedefliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36306576/pexels-photo-36306576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:20:37.497Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/china-pakistan-mediation-to-create-window-of-mideast-peace-talks-beijing-says/3887885",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775038859604hnixi",
+        "title": "İsrail'in idam cezası yasasına karşı Batı Şeria'da genel grev",
+        "summary": "İsrail'in yeni onayladığı ve İsraillileri öldürmekten suçlu bulunan Filistinlilere idam cezası verilmesine olanak tanıyan yasaya tepki olarak Batı Şeria genelinde bir grev düzenlendi. Grev nedeniyle bölgedeki birçok iş yeri, okul ve kamu kurumu kapandı, günlük yaşam durma noktasına geldi. Filistinliler, bu yasanın uluslararası hukuka aykırı olduğunu ve İsrail'in işgal altındaki topraklarda uyguladığı ayrımcı politikaların bir parçası olduğunu savunuyor. Grev, Filistin toplumunun bu yasa tasarısına karşı birleşmiş tepkisini ve uluslararası topluma yönelik çağrısını yansıtıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7429604/pexels-photo-7429604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:20:59.604Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/general-strike-shuts-down-west-bank-over-israeli-death-penalty-law/3887852",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "177503888417678gni",
+        "title": "Husiler, İsrail'e İran ve Hizbullah ile Ortak Füze Saldırısı Düzenlediğini İddia Etti",
+        "summary": "Yemen'deki Husi grubu, İsrail'in güneyindeki 'hassas hedeflere' balistik füzelerle saldırı düzenlediğini iddia etti. Grup tarafından yapılan açıklamada, bu saldırının İran ve Lübnan merkezli Hizbullah ile ortaklaşa gerçekleştirildiği belirtildi. Husiler, hedeflerin başarıyla vurulduğunu öne sürerken, İsrail'den konuya ilişkin henüz bir açıklama gelmedi. Bölgedeki gerilimi tırmandıran bu iddia, Orta Doğu'daki çatışma dinamiklerini ve bölgesel aktörler arasındaki etkileşimi bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T10:21:24.176Z",
+        "location": {
+            "lat": 30.5,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/houthis-claim-joint-missile-attack-with-iran-hezbollah-on-israel/3887706",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775024035905n0z0k",
         "title": "Irak, Bolivya'yı Yenerek FIFA Dünya Kupası 2026'ya Katılmaya Hak Kazandı",
         "summary": "Irak Milli Futbol Takımı, Bolivya'yı 2-1 mağlup ederek 2026 FIFA Dünya Kupası'na katılma hakkı elde etti. Ali Al-Hamadi ve Aymen Hussein'in kaydettiği gollerle zafere ulaşan Irak, 1986'dan bu yana ilk kez Dünya Kupası'na katılma başarısı gösterdi. Bu tarihi başarı, ülke genelinde büyük bir coşku ve sevinçle karşılandı. Irak halkı, milli takımın bu önemli turnuvadaki mücadelesini heyecanla bekliyor.",
@@ -620,182 +796,6 @@
             "name": "Birleşik Krallık"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774912034213suwbv",
-        "title": "ABD Dışişleri Bakanı Marco Rubio'dan El Cezire'ye İran Savaşı Açıklaması",
-        "summary": "ABD Dışişleri Bakanı Marco Rubio, Katar merkezli El Cezire televizyonuna özel bir röportaj verdi. Hashem Ahelbarra'nın sorularını yanıtlayan Rubio, İran'a yönelik olası bir savaşa ilişkin önemli değerlendirmelerde bulundu. Bu açıklamalar, Orta Doğu'daki mevcut gerilimi ve ABD'nin bölge politikalarını anlamak açısından kritik önem taşıyor. Röportajın ana hatları, uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T23:07:14.213Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774912054906sdmoi",
-        "title": "Pakistan, ABD-İsrail'in İran'a Yönelik Olası Savaşını Sonlandırmak İçin Müzakerelere Ev Sahipliği Yapmaya Hazır",
-        "summary": "Pakistan, ABD ve İsrail'in İran'a yönelik olası bir savaşına son vermek amacıyla müzakerelere ev sahipliği yapmaya hazır olduğunu duyurdu. Bu açıklama, Orta Doğu'da uzun süredir devam eden gerilimin diplomatik yollarla çözülmesine yönelik uluslararası çabalara yeni bir boyut katıyor. İran'ın nükleer programı ve bölgesel politikaları, uluslararası toplumun gündeminde önemli bir yer tutarken, Pakistan'ın arabuluculuk teklifi taraflar arasında diyalog kurulması potansiyelini gündeme getiriyor. Bu girişim, bölgedeki istikrarın sağlanması ve çatışmaların önlenmesi açısından kritik bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4427614/pexels-photo-4427614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T23:07:34.906Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17749120793908j8vt",
-        "title": "ABD, Trump'ın Arap ülkelerinden İran'a karşı savaşın maliyetini ödemelerini istemekle 'ilgileniyor' olduğunu belirtti",
-        "summary": "Beyaz Saray yetkilisi Karoline Leavitt, eski ABD Başkanı Donald Trump'ın, İran'a karşı olası bir askeri çatışmanın maliyetini Arap ülkelerine yükleme fikriyle ilgilendiğini belirtti. Leavitt, bu önerinin Trump'ın gündeminde yer alan bir düşünce olduğunu ve başkanlık döneminde de benzer maliyet paylaşımı yaklaşımlarını dile getirdiğini hatırlattı. Söz konusu fikir, Orta Doğu'daki bölgesel devletlerin güvenlik ve savunma harcamalarına katkı sağlaması beklentisini yansıtıyor. Bu açıklama, bölgedeki potansiyel gerilimler ve maliyet paylaşımı tartışmaları bağlamında dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12325253/pexels-photo-12325253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T23:07:59.390Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774912101364wwyed",
-        "title": "İsrail'in İdam Cezası Yasasını Kabul Etmesi Dünya Genelinde Tepkilere Yol Açtı",
-        "summary": "İsrail'de idam cezasını yasalaştıran bir yasa tasarısının kabul edilmesi, uluslararası toplumda ve insan hakları örgütleri arasında geniş yankı uyandırdı. İnsan hakları grupları, söz konusu yasayı uluslararası hukukun açık bir ihlali olarak değerlendirerek şiddetle kınadı. Yapılan açıklamalarda, yasanın özellikle Filistinli mahkumların hayatını riske attığı ve bölgedeki hassas durumu daha da kötüleştirebileceği vurgulandı. Bu gelişme, dünya genelinde 'tehlikeli bir tırmanış' olarak nitelendiriliyor ve uluslararası hukukun temel prensiplerine aykırı olduğu belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5673483/pexels-photo-5673483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T23:08:21.364Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17749121232554wubm",
-        "title": "BM, Lübnan'da Endonezyalı Barış Gücü Askerlerinin Öldürülmesini Kınadı",
-        "summary": "Birleşmiş Milletler (BM), Lübnan'da görev yapan üç Endonezyalı barış gücü askerinin yaşamını yitirmesini şiddetle kınadı. Askerler, ülkenin farklı bölgelerinde meydana gelen iki ayrı olayda hayatlarını kaybetti. BM yetkilileri, barış gücü personelini hedef alan saldırıların uluslararası hukukun açık bir ihlali olduğunu belirtti. Olayların kapsamlı bir şekilde soruşturulması ve sorumluların adalet önüne çıkarılması çağrısında bulunuldu. Bu trajik olay, bölgedeki barış ve istikrarı koruma çabalarının karşılaştığı zorlukları bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30541597/pexels-photo-30541597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T23:08:43.255Z",
-        "location": {
-            "lat": 33.8,
-            "lng": 35.5,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17749046485864831f",
-        "title": "Rubio: İspanya'nın ABD'nin İran operasyonunu engellemesi sonrası NATO yeniden incelenmeli",
-        "summary": "ABD Senatörü Marco Rubio, NATO müttefiklerinin ABD'nin İran'a yönelik olası bir operasyonu için üslerini kullanmasını engellemesinin \"çok hayal kırıklığı yaratıcı\" olduğunu belirtti. Rubio, bu durumun NATO'nun işleyişinin yeniden gözden geçirilmesini gerektirdiğini ifade etti. Bu gelişme, ABD'nin Orta Doğu'daki askeri operasyonları ve müttefik ülkelerle ilişkileri konusunda yeni tartışmaları beraberinde getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34765747/pexels-photo-34765747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T21:04:08.586Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/rubio-says-nato-must-be-re-examined-after-spain-blocks-us-operation-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774904701777y6xx8",
-        "title": "İsrail'deki Önemli Petrol Rafinerisine Yönelik Saldırı Hakkında Bilinenler",
-        "summary": "İsrail makamları, Hayfa şehrinde bulunan önemli bir petrol rafinerisinde çıkan büyük bir yangını kontrol altına aldıklarını duyurdu. Yangının, rafineriye isabet eden enkaz parçaları nedeniyle başladığı belirtildi. Olayın ardından bölgede geniş çaplı güvenlik önlemleri alınırken, yangının çıkış nedenine ilişkin detaylı bir soruşturma başlatıldı. Yetkililer, rafineride meydana gelen hasarın boyutunu ve olası çevresel etkilerini değerlendirme çalışmalarının sürdüğünü bildirdi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/2391/dirty-industry-stack-factory.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T21:05:01.777Z",
-        "location": {
-            "lat": 32.8,
-            "lng": 35,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/what-we-know-about-attack-on-key-israeli-oil-refinery?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774904739916fure2",
-        "title": "ABD'nin İran'ın Harg Adası'nı Ele Geçirme Senaryoları Gündemde",
-        "summary": "ABD'nin eski başkanı Donald Trump'ın, İran'ın kilit petrol ihracat terminali olan Harg Adası'nı ele geçirmek üzere asker gönderebileceğine dair sinyaller verdiği bildirildi. Bu potansiyel eylem, ABD ile İran arasındaki gerilimi daha da artırabilecek ciddi bir jeopolitik senaryoyu gündeme getiriyor. Harg Adası, İran'ın petrol ihracatı için stratejik öneme sahip olup, böyle bir müdahale uluslararası petrol piyasaları ve Orta Doğu güvenliği üzerinde derin etkiler yaratabilir. Senaryo, bölgedeki enerji altyapısının ve istikrarın kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5737246/pexels-photo-5737246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T21:05:39.916Z",
-        "location": {
-            "lat": 29.23,
-            "lng": 50.33,
-            "name": "Harg Adası, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17749047785100uj98",
-        "title": "Merz: Almanya'daki Suriyeli mültecilerin çoğu üç yıl içinde evlerine dönmesi bekleniyor",
-        "summary": "Almanya'da iktidardaki hükümet, göç karşıtı AfD partisinin artan desteğiyle birlikte mülteciler ve göçmenler konusunda daha sert bir tutum sergilemeye başladı. Hükümet yetkilisi Merz'in açıklamasına göre, Almanya'da bulunan Suriyeli mültecilerin büyük bir kısmının önümüzdeki üç yıl içinde ülkelerine geri dönmesi bekleniyor. Bu açıklama, Almanya'nın mülteci politikalarındaki değişimi ve Suriye'deki potansiyel geri dönüş süreçlerini gündeme getiriyor. Geri dönüş beklentisi, hem Almanya'nın iç siyasetini hem de Suriye'nin demografik yapısını etkileyebilecek önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9493594/pexels-photo-9493594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T21:06:18.510Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774894037898fx1g9",
-        "title": "Büyük İsrail Projesi Nedir?",
-        "summary": "Büyük İsrail Projesi, İsrail'in mevcut sınırlarının ötesine geçerek tarihi ve dini referanslarla daha geniş bir coğrafyayı kapsama ideolojisini ifade etmektedir. Bu kavram, başlangıçta marjinal bir fikir olarak görülse de, günümüzde daha açıkça dile getirilmekte ve bölgedeki gelişmelerle birlikte somut yansımaları olduğu gözlemlenmektedir. Proje, İsrail'in komşu bölgelerdeki yerleşim politikaları ve toprak iddialarıyla ilişkilendirilmekte olup, uluslararası hukuk ve Filistin-İsrail çatışması açısından önemli tartışmalara yol açmaktadır. Bölgesel istikrar ve barış süreçleri üzerinde derin etkileri bulunan bu ideoloji, Orta Doğu siyasetinin temel gündem maddelerinden birini oluşturmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11268395/pexels-photo-11268395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T18:07:17.898Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774894106934y02ng",
-        "title": "İsrail'in Hayfa kentindeki petrol rafinerisine füze saldırısı sonrası yangın kontrol altına alındı",
-        "summary": "İsrail'in kuzeyindeki Hayfa kentinde bulunan bir petrol rafinerisine füze saldırısı düzenlendi. Saldırının ardından tesiste çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı. Bu olay, söz konusu petrol rafinerisi tesisinin hedef alındığı ikinci saldırı oldu. Saldırının, ABD ve İsrail'in İran'a karşı yürüttüğü savaş bağlamında gerçekleştiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12641124/pexels-photo-12641124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T18:08:26.934Z",
-        "location": {
-            "lat": 32.8,
-            "lng": 35,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
