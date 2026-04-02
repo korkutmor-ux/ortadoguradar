@@ -1,5 +1,85 @@
 [
     {
+        "id": "1775129701981h5hd8",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 7 Kişi Hayatını Kaybetti, Hizbullah Kara Birliklerini Hedef Aldı",
+        "summary": "Güney Lübnan'da çatışmalar şiddetlenerek devam ediyor. İsrail ordusu, bölgede bir 'güvenlik bölgesi' oluşturma ve Hizbullah'ı etkisiz hale getirme çabalarını sürdürüyor. Son olarak, İsrail'in düzenlediği saldırılarda 7 kişinin yaşamını yitirdiği bildirildi. Bu saldırılara karşılık olarak Hizbullah'ın İsrail kara birliklerini hedef aldığı belirtildi. Bölgedeki gerilim, taraflar arasındaki karşılıklı misillemelerle tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T11:35:01.981Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775129724154v0pbo",
+        "title": "İsrail'in Rekor Bütçesi Yasa Dışı Yerleşimlerin Genişletilmesini Finanse Edecek",
+        "summary": "İsrail'in 271 milyar dolarlık rekor bütçesinin, uluslararası hukuka aykırı kabul edilen yasa dışı yerleşim birimlerinin genişletilmesini finanse edeceği belirtildi. Bu bütçe, İsrailli yerleşimcilerin Batı Şeria'daki Filistinlilere yönelik şiddet olaylarının önemli ölçüde arttığı bir dönemde onaylandı. Haber, bütçenin yerleşim faaliyetlerine ayrılan kısmının detaylarını ve bunun bölgedeki gerilimi nasıl etkileyebileceğini ele alıyor. Bu durum, İsrail-Filistin çatışmasındaki yerleşim birimleri meselesinin finansal boyutunu ve sahadaki yansımalarını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9754753/pexels-photo-9754753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T11:35:24.154Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775129746466dxcn4",
+        "title": "Libya askeri liderinin BM ambargosuna rağmen muharip insansız hava araçlarına sahip olabileceği belirtildi",
+        "summary": "Reuters haber ajansının bildirdiğine göre, uydu görüntüleri Nisan ve Aralık ayları arasında Libya'daki Al Khadim hava üssünde en az üç insansız hava aracı (İHA) bulunduğunu ortaya koydu. Bu durum, Birleşmiş Milletler'in Libya'ya uyguladığı silah ambargosuna rağmen ülkedeki askeri liderlerin muharip dronlara sahip olabileceği yönündeki endişeleri artırıyor. Görüntüler, hava üssündeki potansiyel askeri faaliyetleri gözler önüne sererken, bu tür ekipmanların varlığı Libya'daki güvenlik durumunu ve bölgesel istikrarı etkileyebilir. Uluslararası toplumun ambargoyu denetleme çabalarına rağmen, bu tür gelişmeler Libya'daki çatışma dinamiklerinin karmaşıklığını bir kez daha vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6726590/pexels-photo-6726590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T11:35:46.466Z",
+        "location": {
+            "lat": 32.48,
+            "lng": 20.88,
+            "name": "Al Khadim Hava Üssü, Libya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775129783879ol7x7",
+        "title": "Yemen'deki Husiler İran ile Koordinasyon İçinde Olsa da Bağımsızlıklarını Koruyor",
+        "summary": "Yemen'deki Husi hareketinin eylemlerinin İran'ın stratejisiyle uyumlu olduğu belirtiliyor. Ancak, hareketin bölgesel nüfuzunu ve iç hedeflerini maksimize etmek amacıyla özerkliğini sürdürdüğü vurgulanıyor. Bu durum, Husilerin İran'ın genel stratejisiyle paralel hareket ederken, kendi karar alma süreçlerinde bağımsız bir duruş sergilediğini gösteriyor. Haber, Yemen'deki savaş koşullarına rağmen bu ilişkinin dinamiklerini analiz ediyor ve Husilerin hem İran ile işbirliği hem de kendi çıkarlarını gözetme dengesini koruduğunu ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5710424/pexels-photo-5710424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T11:36:23.879Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17751298087080oyxy",
+        "title": "Bahreyn, İran'dan gelen 2 füze ve 10 insansız hava aracını engelledi",
+        "summary": "Bahreyn, İran'dan geldiğini iddia ettiği 2 füze ve 10 insansız hava aracını başarıyla engellediğini duyurdu. Bahreynli yetkililer, Şubat ayının sonundan bu yana toplamda 188 füze ve 429 insansız hava aracının hava savunma sistemleri tarafından durdurulduğunu belirtti. Bu olaylar, Basra Körfezi'ndeki güvenlik gerilimini artırırken, Bahreyn'in hava sahası güvenliğine yönelik tehditlerin devam ettiğini gösteriyor. Bölgedeki istikrarsızlık endişeleri, bu tür saldırıların sıklığıyla birlikte yükselişe geçiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33953218/pexels-photo-33953218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T11:36:48.708Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-intercepts-2-missiles-10-drones-from-iran/3889314",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1775119199742t45o4",
         "title": "Macaristan Seçimleri Öncesi Avrupa'da Orban'ın Vetoları Gündemde",
         "summary": "Macaristan'da yaklaşan seçimler öncesinde, Başbakan Viktor Orban'ın Avrupa Birliği içindeki sürekli vetolarının yaratacağı psikolojik etkinin, seçimlerin pratik sonuçlarından daha önemli olabileceği belirtiliyor. Gözlemciler, Orban'ın politikalarının AB'nin genel işleyişi ve karar alma süreçleri üzerindeki etkisinin, birliğin geleceği açısından kritik olduğunu vurguluyor. Bu durum, AB'nin dış politika ve bölgesel meselelerdeki tutumunu da dolaylı olarak etkileyebilecek potansiyele sahip. Avrupa ülkeleri, Macaristan'daki seçim sürecini ve sonuçlarını yakından takip ediyor.",
@@ -718,85 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/american-journalist-kidnapped-in-baghdad?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17750011002451pwuf",
-        "title": "Papa Leo, Trump'ı İran'a Karşı Savaşı Bitirmeye Çağırdı",
-        "summary": "Papa Leo XIV, ABD'nin eski Başkanı Donald Trump'a, ABD ve İsrail'in İran'a yönelik politikalarından bir 'çıkış yolu' bulması çağrısında bulundu. Bu açıklama, bölgedeki gerilimin azaltılması ve diplomatik bir çözüm arayışına yönelik önemli bir mesaj olarak öne çıktı. Papa'nın bu girişimi, Orta Doğu'da potansiyel bir çatışmanın önlenmesi ve barışın sağlanması için uluslararası toplumun sorumluluğuna vurgu yapıyor. Çağrı, ABD'nin İran'a karşı uyguladığı baskı politikalarının ve İsrail ile olan ittifakının bölgedeki istikrarsızlığı artırabileceği endişelerini yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/25745473/pexels-photo-25745473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T23:51:40.245Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/31/pope-leo-urges-trump-to-end-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775001122897b03x8",
-        "title": "Hürmüz Boğazı Açıldıktan Sonra Bile Çalkantı Aylarca Sürebilir, Analistler Uyarıyor",
-        "summary": "Analistler, Hürmüz Boğazı'nın yeniden açılması durumunda bile küresel denizcilik sektöründeki çalkantının aylarca devam edebileceği konusunda uyarıyor. Bölgedeki gerilimler nedeniyle boğazın fiili olarak kapanması, dünya ticaretinin önemli bir arterini etkilemişti. Uzmanlar, bu kritik su yolunun kapanmasının, denizcilik endüstrisinin iş yapış biçiminde kalıcı değişikliklere yol açabileceğini belirtiyor. Bu durumun, enerji tedarik zincirleri ve küresel lojistik üzerinde uzun vadeli etkileri olabileceği öngörülüyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/13812212/pexels-photo-13812212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T23:52:02.897Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/31/after-strait-of-hormuz-opens-turmoil-would-still-last-months-analysts-say?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1775001146416cc6u3",
-        "title": "ABD, Meksika Körfezi'ndeki petrol sondajcılarını nesli tükenmekte olan türlerin korunmasından muaf tuttu",
-        "summary": "Trump yönetimi, Meksika Körfezi'ndeki petrol sondaj şirketlerini nesli tükenmekte olan türleri koruma yasalarından muaf tuttuğunu açıkladı. Bu kararın, ABD'nin enerji sektöründeki rekabet gücünü artırmayı hedeflediği belirtildi. Yönetim, bu koruma önlemlerinin kaldırılmasının, İran'a karşı devam eden \"savaş\" (ekonomik ve siyasi baskılar kastediliyor) ortamında ABD'nin enerji rekabetçiliğini azaltacağını savundu. Bu adımın, küresel enerji piyasalarındaki dalgalanmalar ve jeopolitik gerilimler bağlamında ABD'nin enerji bağımsızlığını ve gücünü pekiştirme amacı taşıdığı değerlendiriliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/16852979/pexels-photo-16852979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T23:52:26.416Z",
-        "location": {
-            "lat": 29,
-            "lng": -90,
-            "name": "Meksika Körfezi, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/31/us-exempts-gulf-of-mexico-oil-drillers-from-endangered-species-protections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17750011714517bjc9",
-        "title": "AB, İran Savaşı Sonrası Petrol ve Gaz Fiyatlarının Hızla Normale Dönmeyeceği Konusunda Uyardı",
-        "summary": "Avrupa Birliği'nin enerji komiseri, küresel petrol ve gaz fiyatlarının yakın zamanda normale dönmeyeceği konusunda bir uyarıda bulundu. Komiser, bu durumun özellikle İran'da yaşanabilecek olası bir savaşın ardından ortaya çıkacak etkilerle bağlantılı olduğunu belirtti. AB yetkilisi, enerji piyasalarındaki mevcut dalgalanmaların ve belirsizliklerin uzun süreli olabileceğine dikkat çekti. Bu açıklama, enerji güvenliği ve arz istikrarı konularındaki endişeleri artırdı.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/7456532/pexels-photo-7456532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T23:52:51.451Z",
-        "location": {
-            "lat": 32.4,
-            "lng": 53.7,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/31/eu-warns-oil-and-gas-prices-wont-quickly-return-to-normal-after-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775001208375yutx7",
-        "title": "ABD'li Gazeteci Shelly Kittleson Bağdat'ta Kaçırıldı",
-        "summary": "ABD'li gazeteci Shelly Kittleson'ın Irak'ın başkenti Bağdat'ta kaçırıldığı bildirildi. Olayla ilgili olarak ABD Dışişleri Bakanlığı'ndan bir açıklama yapıldı. Bakanlık, gazetecinin kaçırılmasıyla ilgili soruşturmada bir şüphelinin İran destekli milis grubu Kataib Hizbullah ile bağlantısı olduğunu belirtti. Bu durum, Irak'taki güvenlik durumu ve bölgedeki milis gruplarının etkisi üzerine yeni tartışmaları beraberinde getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5483518/pexels-photo-5483518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T23:53:28.375Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.36,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
