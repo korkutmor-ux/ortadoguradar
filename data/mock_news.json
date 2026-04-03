@@ -1,5 +1,165 @@
 [
     {
+        "id": "1775205444435b8awl",
+        "title": "İsrail'in Güney Lübnan'daki Sağlık Altyapısını Hedef Alması",
+        "summary": "Güney Lübnan'da İsrail'in gerçekleştirdiği saldırılar, bölgedeki sağlık altyapısını ciddi şekilde tahrip ediyor. Hastaneler, tıp merkezleri ve sağlık çalışanları doğrudan hedef alınarak bölge halkının sağlık hizmetlerine erişimi engelleniyor. Bu durum, geniş çaplı yerinden edilmelere yol açarken, aynı zamanda bölgede derinleşen bir sağlık krizini tetikliyor. Saldırılar, sivil halkın temel ihtiyaçlarını karşılama kapasitesini zayıflatarak insani durumu kötüleştiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:37:24.435Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775205466300a4zh0",
+        "title": "İranlı Kadın Futbolcular Asya Kupası Olayının 'Büyük Baskısını' Açıkladı",
+        "summary": "İranlı iki kadın futbolcu, Asya Kupası sürecinde maruz kaldıkları \"büyük baskıyı\" Al Jazeera'ye açıkladı. Daha önce Avustralya'da sığınma talebinde bulunan ancak daha sonra bu kararlarından vazgeçen oyuncular, yaşadıkları deneyimleri paylaştı. Bu açıklama, İran'daki kadın sporcuların karşılaştığı toplumsal ve profesyonel zorlukları bir kez daha gözler önüne serdi. Futbolcuların hikayesi, uluslararası spor camiasında İranlı bireylerin yaşadığı kişisel mücadelelere dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32266263/pexels-photo-32266263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:37:46.300Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17752055028807ih5v",
+        "title": "ABD ve İsrail'den İran'a Yeni Saldırılar: Tahran Yakınlarındaki Hedefler Vuruldu",
+        "summary": "ABD ve İsrail güçlerinin İran'a yönelik saldırıları 35. gününe girerken, Tahran yakınlarındaki hedeflere yeni saldırılar düzenlendiği bildirildi. Haberlere göre, saldırılarda yüzyıllık bir tıbbi araştırma merkezi ile stratejik öneme sahip bir köprü hedef alındı. Bu gelişmeler, bölgedeki gerilimin devam ettiğini ve çatışmaların sürdüğünü gösteriyor. Saldırıların yol açtığı hasar ve can kaybı hakkında detaylı bilgi henüz verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:38:22.880Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
+        "trendScore": 92,
+        "isBreaking": true
+    },
+    {
+        "id": "1775205522872i6tvz",
+        "title": "BBC Analiz Editörü Ros Atkins, İran Savaşı'nın Maliyetini İnceliyor",
+        "summary": "BBC Analiz Editörü Ros Atkins, ABD'nin İran ile devam eden savaşındaki maliyetlerini mercek altına aldı. Haberde, ABD'nin bu çatışmada karşılaştığı ekonomik yükler ve harcamalar detaylı bir şekilde ele alınıyor. Atkins, savaşın ABD bütçesi üzerindeki etkilerini ve uzun vadeli finansal sonuçlarını değerlendiriyor. Bu analiz, ABD'nin İran politikalarının ekonomik boyutlarına ışık tutuyor ve kamuoyuna bilgi sunmayı amaçlıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9482199/pexels-photo-9482199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:38:42.872Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775205550277aqck2",
+        "title": "İran'ın En Büyük İki Çelik Fabrikası Hava Saldırıları Nedeniyle Kapandı",
+        "summary": "İran'ın en büyük iki çelik fabrikasının, şirketlerin açıklamasına göre hava saldırıları sonucu faaliyetlerini durdurduğu bildirildi. İranlı yetkililer, geçtiğimiz hafta gerçekleşen bu saldırıların İsrail tarafından ABD ile koordineli bir şekilde düzenlendiğini iddia ediyor. Bu saldırıların, İran ekonomisine ciddi boyutlarda zarar verebileceği belirtiliyor. Olay, bölgedeki gerilimi artırabilecek önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34098896/pexels-photo-34098896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:39:10.277Z",
+        "location": {
+            "lat": 32.65,
+            "lng": 51.67,
+            "name": "İsfahan, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775205573243jzill",
+        "title": "Macron, Trump'ın İran savaşı yaklaşımını eleştirdi: \"Ciddi ol... her gün konuşma\"",
+        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, ABD Başkanı Donald Trump'ın İran'a yönelik potansiyel bir savaşa ilişkin yaklaşımını eleştirdi. Macron, Trump'ın bu konudaki tutumunun bazen çelişkili olduğunu belirtti. Bu yorumlar, ABD liderinin ABD-İsrail'in İran'a karşı olası bir savaşına dair zaman zaman tutarsız açıklamalarına bir gönderme olarak değerlendirildi. Macron'un, \"Ciddi ol... her gün konuşma\" şeklindeki ifadeleriyle Trump'a mesaj verdiği anlaşıldı. Bu eleştiri, Orta Doğu'daki gerilimin ve uluslararası aktörlerin İran politikaları üzerindeki farklı görüşlerin bir yansıması olarak öne çıktı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29056910/pexels-photo-29056910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:39:33.243Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775205615440zlf4h",
+        "title": "İran, BAE'de ABD Havacılık Personelini Vurduğunu İddia Etti",
+        "summary": "İran, Birleşik Arap Emirlikleri'nde (BAE) bulunan ABD havacılık personeline ait bir toplantı noktasını hedef aldığını duyurdu. İran Devrim Muhafızları, gerçekleştirilen balistik füze saldırısı sonucunda kayıplar yaşandığını iddia etti. Bu iddia, bölgedeki gerilimi artırabilecek nitelikte olup, ABD'den henüz resmi bir açıklama gelmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:40:15.440Z",
+        "location": {
+            "lat": 24,
+            "lng": 54,
+            "name": "Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-struck-gathering-of-us-aviation-personnel-in-uae/3890263",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775205636205bxeq2",
+        "title": "ABD-İsrail Hava Saldırısı İran Kızılayı'nı Vurdu",
+        "summary": "İran'ın Bushehr kentinde, ABD ve İsrail'in ortaklaşa düzenlediği iddia edilen bir hava saldırısı meydana geldi. Fars Haber Ajansı'nın bildirdiğine göre, saldırıda İran Kızılayı'na ait iki konteyner, iki acil durum aracı ve bir otobüs imha oldu. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası insani yardım kuruluşlarının güvenliği konusunda endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:40:36.205Z",
+        "location": {
+            "lat": 28.92,
+            "lng": 50.83,
+            "name": "Bushehr, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-airstrike-hits-iranian-red-crescent-in-bushehr/3890206",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17752056586376t1nm",
+        "title": "BAE ve Suudi Arabistan Yeni İHA Saldırısı Dalgasını Engelledi",
+        "summary": "Birleşik Arap Emirlikleri (BAE) ve Suudi Arabistan, hava savunma sistemleri aracılığıyla kendilerine yönelik yeni bir insansız hava aracı (İHA) saldırısı dalgasını başarıyla önledi. Her iki ülkenin hava savunma birimleri, bölgesel gerilimin tırmandığı bir dönemde gelen füze ve İHA'ları hedef alarak etkisiz hale getirdi. Saldırıların kaynağına ilişkin detay verilmezken, bu olay Körfez bölgesindeki güvenlik tehditlerinin devam ettiğini bir kez daha gösterdi. Yetkililer, bölgedeki güvenlik durumunun yakından takip edildiğini ve gerekli önlemlerin alındığını belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19806135/pexels-photo-19806135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:40:58.637Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-saudi-arabia-intercept-new-wave-of-drone-attacks/3890188",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775205679775ey4ns",
+        "title": "İran, ABD'ye ait F-35 jetini düşürdüğünü iddia etti",
+        "summary": "İran yerel medyası tarafından aktarılan haberlere göre, İran İslam Cumhuriyeti, ABD Hava Kuvvetleri'ne ait bir F-35 savaş uçağını düşürdüğünü öne sürdü. Bu iddia, İran'ın daha önce de ABD'ye ait F-35 jetini düşürdüğünü iddia etmesinin ardından ikinci kez dile getiriliyor. Olayın detayları ve uçağın düşürüldüğü iddia edilen yer hakkında henüz net bir bilgi bulunmamaktadır. Washington'dan konuya ilişkin henüz resmi bir açıklama yapılmadı. Bu tür iddialar, bölgedeki gerilimi artırma potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19237304/pexels-photo-19237304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T08:41:19.775Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-it-shot-down-us-f-35-jet/3890151",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1775195778779ywp5i",
         "title": "ABD-İran Gerilimi: Trump'tan Altyapı Saldırısı Uyarısı",
         "summary": "ABD Başkanı Trump, İran'a yönelik tehditlerini artırdı. Bu gelişme, ABD'nin İran'ın en büyük köprüsüne düzenlediği saldırının ardından yaşandı. Öte yandan, Tahran'ın bölge genelinde saldırılar başlattığı bildirildi. Trump, altyapıya yönelik saldırıların 'henüz başlamadığını' belirterek gerilimi tırmandırdı.",
@@ -636,166 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-harbors-no-enmity-toward-american-people-says-iranian-president/3888631",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775066479194f180d",
-        "title": "Eleştirmenler İsrail'in Yeni İdam Yasasını 'Apartheid Rejimi' Olarak Nitelendiriyor",
-        "summary": "İsrail parlamentosunda, yalnızca Filistinlileri hedef alması beklenen yeni bir idam yasasının kabul edilmesiyle ilgili kutlamalar yapıldı. Yasa, eleştirmenler tarafından \"apartheid rejimi\" olarak nitelendiriliyor ve İsrail'in Filistinlilere yönelik politikalarını daha da sertleştireceği iddia ediliyor. Uluslararası insan hakları örgütleri ve bazı ülkeler, bu yasanın uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi artıracağını belirtiyor. Bu gelişme, İsrail-Filistin çatışmasının hukuki boyutunda önemli bir dönüm noktası olarak değerlendiriliyor ve geniş çaplı tepkilere yol açması bekleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8693379/pexels-photo-8693379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T18:01:19.194Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775066501342xri7s",
-        "title": "İranlı Yetkililer, Trump'ın 'İran Ateşkes İstiyor' İddiasına Güldü",
-        "summary": "Kıdemli bir İranlı yetkili, ABD Başkanı Donald Trump'ın İran'ın ateşkes istediği yönündeki iddiasına gülerek karşılık verdi. Bu açıklama, iki ülke arasındaki mevcut gerilimi ve diplomatik söylemdeki farklılıkları bir kez daha ortaya koydu. İranlı yetkililer, Trump'ın bu iddiasını ciddiye almadıklarını ve böyle bir talebin söz konusu olmadığını vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/626165/pexels-photo-626165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T18:01:41.342Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775066585729laept",
-        "title": "İsrail, son 2 günde Tahran altyapısına 400'den fazla hava saldırısı düzenlediğini iddia etti",
-        "summary": "İsrail ordusu, son iki gün içinde İran'ın başkenti Tahran'daki altyapıya yönelik 400'den fazla hava saldırısı gerçekleştirdiğini öne sürdü. Yapılan açıklamaya göre, bu saldırılarda yaklaşık 15 silah üretim tesisi hedef alındı. Hedefler arasında İran Savunma Bakanlığı'na bağlı merkezi bir kompleksin de bulunduğu belirtildi. İsrail, bu operasyonların İran'ın askeri kapasitesini zayıflatmaya yönelik olduğunu ifade etti. Tahran'dan henüz resmi bir açıklama gelmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32702229/pexels-photo-32702229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T18:03:05.729Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-claims-over-400-airstrikes-on-tehran-infrastructure-in-past-2-days/3888553",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17750550970595ubax",
-        "title": "Rusya küresel enerji açığını kapatmaya yardımcı olabilir mi?",
-        "summary": "Hürmüz Boğazı'ndaki aksaklıklar nedeniyle yükselen ham petrol fiyatları, Rusya'nın enerji ihracatından elde ettiği geliri artırmıştır. Bu durum, küresel enerji piyasalarında yaşanan arz sıkıntısının ve fiyat dalgalanmalarının bir yansıması olarak değerlendirilmektedir. Hürmüz Boğazı, Orta Doğu petrolünün dünya pazarlarına ulaşmasında kritik bir geçiş noktası olup, buradaki herhangi bir kesinti küresel enerji güvenliğini doğrudan etkilemektedir. Rusya'nın bu süreçte artan enerji gelirleri, ülkenin küresel enerji arzındaki rolünü ve piyasa dinamiklerini yeniden şekillendirme potansiyelini gündeme getirmektedir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/5737246/pexels-photo-5737246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:51:37.059Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17750551369818iu4c",
-        "title": "Fransa Cumhurbaşkanı Macron ve Japon Takaichi, İran'a Yönelik Ekonomik Savaşı Görüştü",
-        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Japonya'nın başkenti Tokyo'ya resmi bir ziyaret gerçekleştirdi. Ziyaret kapsamında Macron, Japon yetkili Takaichi ile bir araya geldi. Görüşmelerin ana gündem maddesi, İran'a yönelik yürütülen ekonomik savaş oldu. İki lider, bu konudaki gelişmeleri ve potansiyel etkilerini ele alarak uluslararası arenadaki durumu değerlendirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5686014/pexels-photo-5686014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:52:16.981Z",
-        "location": {
-            "lat": 35.6895,
-            "lng": 139.6917,
-            "name": "Tokyo, Japonya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17750551647486qeg7",
-        "title": "Rusya, İran Savaşı Nedeniyle Tüm Benzin İhracatına Yasak Getiriyor",
-        "summary": "Rusya, İran'da yaşanan savaş nedeniyle tüm benzin ihracatını durdurma kararı aldı. Bu karar, küresel enerji piyasalarında önemli bir etki yaratması beklenen stratejik bir hamle olarak değerlendiriliyor. İran'daki çatışmaların enerji arz güvenliğini tehdit etmesi üzerine Rusya'nın bu adımı attığı belirtiliyor. Benzin ihracat yasağının, uluslararası piyasalarda benzin fiyatlarını yukarı yönlü etkileyebileceği ve arz sıkıntılarına yol açabileceği öngörülüyor. Kararın, İran'daki savaşın bölgesel ve küresel yansımalarını gösterdiği ifade ediliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/92077/pexels-photo-92077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:52:44.748Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/russia-imposing-ban-on-all-gasoline-exports-due-to-iran-war?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775055207154ebzsp",
-        "title": "Aktivist, pasaportunu yaktıktan sonra İsrail'in giderek aşırı uç bir topluma dönüştüğünü söyledi",
-        "summary": "Aktivist Mia Sol Stoelen, pasaportunu yakma eyleminin ardından yaptığı açıklamada, İsrail'in giderek aşırı uç bir topluma dönüştüğünü iddia etti. Stoelen, İsrail'i ABD'nin vekil devleti olarak nitelendirerek, askeri ve finansal destek konusunda büyük ölçüde ABD'ye bağımlı olduğunu belirtti. Bu eylem ve açıklamalar, İsrail'in iç siyaseti ve toplumsal yapısındaki değişimlere dair endişeleri gündeme getirdi. Ayrıca, ülkenin ABD ile olan stratejik ilişkisinin doğası üzerine de tartışmaları alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36339206/pexels-photo-36339206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:53:27.154Z",
-        "location": {
-            "lat": 31,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-turning-into-increasingly-extremist-society-says-activist-after-burning-her-passport/3888366",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775055242474yy0zz",
-        "title": "İspanyol futbolcu Yamal, Mısır maçındaki İslam karşıtı tezahüratları 'saygısız ve kabul edilemez' olarak nitelendirdi",
-        "summary": "İspanya'nın genç yeteneği Lamine Yamal, Mısır ile oynanan bir futbol maçında kendisine yönelik İslam karşıtı tezahüratlara tepki gösterdi. Müslüman futbolcu, bu tezahüratların kişisel olmadığını ancak stadyumlarda dine yönelik alaycı ifadelerin kabul edilemez olduğunu vurguladı. Yamal, sporun birleştirici ruhuna aykırı olan bu tür davranışların hoşgörülemez olduğunu belirtti. Olay, spor arenalarında din ve ırk ayrımcılığına karşı mücadele çağrılarını yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:54:02.474Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/spain-s-yamal-says-anti-muslim-chants-during-egypt-match-disrespectful-intolerable-/3888365",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775055263120hya4m",
-        "title": "ABD'nin kabiliyetlerinin azaldığı iddialarına rağmen İran füze ve insansız hava aracı saldırı hızını koruyor",
-        "summary": "Veriler, İran'ın 28 Şubat'tan bu yana 6.770 füze ve insansız hava aracı fırlattığını gösteriyor. ABD'nin İran'ın askeri kabiliyetlerinin azaldığı yönündeki iddialarına rağmen, Tahran'ın füze ve insansız hava aracı saldırı hızını sürdürdüğü belirtiliyor. Özellikle İsrail ve Körfez ülkelerine yönelik saldırıların istikrarlı bir şekilde devam ettiği kaydedildi. Bu durum, bölgedeki güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31351508/pexels-photo-31351508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:54:23.120Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-maintains-missile-drone-strike-pace-despite-us-claims-of-degraded-capabilities/3888357",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775055292502wvcxn",
-        "title": "ABD Askeri Faaliyetleri, İran ile Savaş Ortamında Avrupa'da Genişliyor",
-        "summary": "ABD'nin Avrupa'daki askeri varlığı, A-10 saldırı uçaklarının Birleşik Krallık'a konuşlandırılması ve B-52 bombardıman uçaklarının hareketliliğiyle dikkat çekici bir artış gösteriyor. Avrupa genelinde ABD tanker uçaklarının faaliyetleri de yoğunlaştı. Bu askeri hareketlilik, ABD ve İsrail'in İran ile yaşadığı savaş ortamında gerçekleşiyor. Gelişmeler, bölgedeki gerilimin yükseldiğine ve askeri hazırlıkların arttığına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T14:54:52.502Z",
-        "location": {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "name": "Birleşik Krallık"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-military-activity-expands-in-europe-with-a-10-deployment-b-52-bombers-amid-war-with-iran/3888314",
         "trendScore": 85,
         "isBreaking": false
     }
