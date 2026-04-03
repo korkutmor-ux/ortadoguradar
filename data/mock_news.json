@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775260254051phelf",
+        "title": "Hürmüz Boğazı'nın Yeniden Açılması İçin Güç Kullanılacak mı?",
+        "summary": "Hürmüz Boğazı'nın yeniden açılması için güç kullanılıp kullanılmayacağı sorusu gündemde. Bazı ülkeler, İran'ın bu stratejik su yolunu kapatma eylemine karşı harekete geçme tehdidinde bulunuyor. Küresel enerji tedariki ve deniz ticareti açısından hayati önem taşıyan boğazdaki bu gerilim, uluslararası endişeleri artırıyor. Olası diplomatik veya askeri adımlar, bölgedeki ve küresel ekonomideki dengeyi etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20518453/pexels-photo-20518453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T23:50:54.051Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1775260295083niydy",
+        "title": "Fransız Gemisi Hürmüz Boğazı'ndan Geçti",
+        "summary": "Fransız sahipli bir gemi, Hürmüz Boğazı'ndan geçişini tamamladı. Bu geçiş, devam eden çatışmaların başlamasından bu yana büyük bir Avrupalı firmaya ait ilk gemi olması nedeniyle dikkat çekiyor. Basra Körfezi'ni Umman Denizi'ne bağlayan bu stratejik su yolu, küresel enerji tedariki ve uluslararası ticaret için hayati önem taşımaktadır. Geminin güvenli geçişi, bölgedeki denizcilik faaliyetleri ve risk değerlendirmeleri açısından yakından takip edilmektedir. Bu durum, mevcut gerilimler altında bölgedeki deniz trafiğinde potansiyel bir değişime işaret edebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13136693/pexels-photo-13136693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T23:51:35.083Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775260349234ah4s5",
+        "title": "Bahreyn, insansız hava araçlarının engellenmesinin ardından düşen şarapnel parçaları nedeniyle 4 vatandaşının yaralandığını, evlerin hasar gördüğünü bildirdi",
+        "summary": "Bahreyn İçişleri Bakanlığı, ülkenin hava sahasına yönelik insansız hava araçlarının engellenmesi sırasında düşen şarapnel parçaları nedeniyle dört vatandaşın yaralandığını duyurdu. Olayda ayrıca bazı konutlarda maddi hasar meydana geldiği belirtildi. Bakanlık, Cuma sabahından bu yana beş kez sirenlerin çaldığını kaydetti. Bu gelişme, Bahreyn'in bölgesel güvenlik tehditlerine karşı savunma mekanizmalarını devreye soktuğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33404405/pexels-photo-33404405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T23:52:29.234Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-4-citizens-injured-homes-damaged-by-falling-shrapnel-after-interception-of-drones/3891218",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1775253543005epfby",
         "title": "Lübnan'daki Hristiyanlar İsrail Saldırıları Altında Kutsal Cuma'yı İdrak Etti",
         "summary": "Lübnan genelindeki Hristiyanlar, Kutsal Cuma ayinlerini gerçekleştirdi. Bu önemli dini gün, İsrail'in devam eden saldırıları ve bölgedeki tahliye emirlerinin gölgesinde yaşandı. Hristiyan cemaatler, ibadetlerinde özellikle barış ve istikrar için dualar etti. Ülke, bölgedeki gerilimin artmasıyla zorlu bir dönemden geçiyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/2/orban-constantly-vetoes-europe-braces-for-hungary-election?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775119222732rjmo4",
-        "title": "İran'ın eski dışişleri bakanı Kharazi evine düzenlenen saldırıda 'ağır yaralandı'",
-        "summary": "İran'ın eski dışişleri bakanı Kemal Kharazi'nin evine düzenlenen saldırıda ağır yaralandığı bildirildi. Olay, eski bakanın hayatına yönelik bir suikast girişimi olarak değerlendiriliyor. Bu gelişme, İran ordusunun ABD ve İsrail'in 'kalıcı olarak teslim olana kadar' mücadele edeceğine dair açıklamasının ardından yaşandı. Saldırı, İran iç siyasetindeki potansiyel gerilimleri ve ülkenin bölgesel ve uluslararası ilişkilerindeki hassas durumu gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3631109/pexels-photo-3631109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:40:22.732Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/2/irans-ex-foreign-minister-kharazi-gravely-wounded-in-attack-on-his-home?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1775119253422l1c83",
-        "title": "Petrol Fiyatları Yükseldi, Asya Borsaları Düştü: Trump'tan İran Açıklaması",
-        "summary": "Petrol fiyatları küresel piyasalarda önemli bir yükseliş kaydederken, Asya borsaları da düşüşle kapandı. Bu gelişmeler, ABD Başkanı Trump'ın İran'a yönelik saldırılara devam etme taahhüdünde bulunmasının ardından yaşandı. Trump'ın bu açıklamaları, Orta Doğu'daki gerilimi artırarak piyasalarda belirsizliğe yol açtı. Özellikle Güneydoğu Asya ülkelerinin büyük ölçüde petrol ithalatına bağımlı olması nedeniyle, Asya borsaları bu durumdan olumsuz etkilendi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/16852979/pexels-photo-16852979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:40:53.422Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/2/oil-surges-asian-stocks-plunge-as-trump-vows-to-keep-up-iran-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17751192923029ceot",
-        "title": "İran, İslam Cumhuriyeti'nin 47. Yıl Dönümünü Anarken Direniş Yemini Edildi",
-        "summary": "İran'da İslam Cumhuriyeti'nin 47. yıl dönümü münasebetiyle anma törenleri düzenlendi. Başkent Tahran'da binlerce kişi, bir komutanı anmak üzere bir araya geldi. Törenlere katılanlar, ABD ve İsrail ile artan gerilimin ortasında direniş yemini etti. Bu etkinlikler, ülkenin kuruluş yıldönümünü kutlarken, aynı zamanda mevcut bölgesel ve uluslararası siyasi duruşunu ve gerilimleri yansıttı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12720170/pexels-photo-12720170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:41:32.302Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/4/2/mourners-vow-resistance-as-iran-marks-islamic-republics-47th-anniversary?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
