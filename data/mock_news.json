@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775324958430dqy7j",
+        "title": "ABD, Kasım Süleymani'nin Yeğeninin Oturum İznini İptal Etti",
+        "summary": "ABD Dışişleri Bakanlığı, İranlı General Kasım Süleymani'nin yeğeni Hamideh Süleymani Afshar'ın ABD oturum iznini iptal ettiğini açıkladı. Senatör Marco Rubio'nun da desteklediği bu kararın gerekçesi olarak, Afshar'ın İran'ın \"açık sözlü bir destekçisi\" olması gösterildi. Bakanlık, bu adımın İran rejimine yönelik genel politikalar ve yaptırımlar kapsamında atıldığını belirtti. Bu gelişme, ABD'nin İran'a karşı uyguladığı baskı politikasının bir devamı olarak değerlendirilmektedir. Karar, iki ülke arasındaki mevcut gerilimi yansıtan diplomatik bir gelişme niteliğindedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5635412/pexels-photo-5635412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T17:49:18.430Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775324980739shzhh",
+        "title": "Yeni video, ABD-İsrail mühimmatının İran köprüsünü vurduğu anı ortaya koyuyor",
+        "summary": "Yeni yayınlanan bir video, ABD ve İsrail'e ait mühimmatın İran'ın kuzeyindeki Elburz eyaletinde bulunan B1 köprüsünü vurduğu anları gözler önüne serdi. Görüntülerde, Perşembe günü gerçekleştiği belirtilen saldırıda köprünün hedef alındığı görülüyor. Bu olay, bölgedeki gerilimin potansiyel olarak artabileceğine işaret ediyor. Saldırının detayları ve olası sonuçları hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9908693/pexels-photo-9908693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T17:49:40.739Z",
+        "location": {
+            "lat": 35.82,
+            "lng": 50.99,
+            "name": "Elburz Eyaleti, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/4/new-video-reveals-moment-us-israeli-munitions-impact-iranian-bridge?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775318028005ka419",
         "title": "İsrail'de İran Mühimmatı Enkazı Nedeniyle Araçlar Yandı",
         "summary": "İsrail'in orta kesimlerinde yer alan Ramat Gan kentinde, İran'dan fırlatılan bir mühimmatın enkazının düşmesi sonucu araçlarda yangın çıktığı bildirildi. Olay, İsrail hava savunma sistemleri tarafından engellenen İran mühimmatına ait parçaların bölgeye isabet etmesiyle meydana geldi. Yayınlanan görüntülerde yanan araçlar yer alırken, can kaybı veya yaralanmaya ilişkin henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki güvenlik gerilimlerinin devam ettiğini ortaya koyuyor.",
@@ -764,38 +796,6 @@
             "name": "İsfahan, İran"
         },
         "source": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775205573243jzill",
-        "title": "Macron, Trump'ın İran savaşı yaklaşımını eleştirdi: \"Ciddi ol... her gün konuşma\"",
-        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, ABD Başkanı Donald Trump'ın İran'a yönelik potansiyel bir savaşa ilişkin yaklaşımını eleştirdi. Macron, Trump'ın bu konudaki tutumunun bazen çelişkili olduğunu belirtti. Bu yorumlar, ABD liderinin ABD-İsrail'in İran'a karşı olası bir savaşına dair zaman zaman tutarsız açıklamalarına bir gönderme olarak değerlendirildi. Macron'un, \"Ciddi ol... her gün konuşma\" şeklindeki ifadeleriyle Trump'a mesaj verdiği anlaşıldı. Bu eleştiri, Orta Doğu'daki gerilimin ve uluslararası aktörlerin İran politikaları üzerindeki farklı görüşlerin bir yansıması olarak öne çıktı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/29056910/pexels-photo-29056910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:39:33.243Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775205615440zlf4h",
-        "title": "İran, BAE'de ABD Havacılık Personelini Vurduğunu İddia Etti",
-        "summary": "İran, Birleşik Arap Emirlikleri'nde (BAE) bulunan ABD havacılık personeline ait bir toplantı noktasını hedef aldığını duyurdu. İran Devrim Muhafızları, gerçekleştirilen balistik füze saldırısı sonucunda kayıplar yaşandığını iddia etti. Bu iddia, bölgedeki gerilimi artırabilecek nitelikte olup, ABD'den henüz resmi bir açıklama gelmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:40:15.440Z",
-        "location": {
-            "lat": 24,
-            "lng": 54,
-            "name": "Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-struck-gathering-of-us-aviation-personnel-in-uae/3890263",
         "trendScore": 90,
         "isBreaking": true
     }
