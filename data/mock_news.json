@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775318028005ka419",
+        "title": "İsrail'de İran Mühimmatı Enkazı Nedeniyle Araçlar Yandı",
+        "summary": "İsrail'in orta kesimlerinde yer alan Ramat Gan kentinde, İran'dan fırlatılan bir mühimmatın enkazının düşmesi sonucu araçlarda yangın çıktığı bildirildi. Olay, İsrail hava savunma sistemleri tarafından engellenen İran mühimmatına ait parçaların bölgeye isabet etmesiyle meydana geldi. Yayınlanan görüntülerde yanan araçlar yer alırken, can kaybı veya yaralanmaya ilişkin henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki güvenlik gerilimlerinin devam ettiğini ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18206439/pexels-photo-18206439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T15:53:48.005Z",
+        "location": {
+            "lat": 32.0833,
+            "lng": 34.8,
+            "name": "Ramat Gan, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicles-burn-in-israel-after-being-hit-with-iranian-projectile-debris?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775318065605daa8x",
+        "title": "İsrail Saldırılarında Lübnan'da Ölü Sayısı 1.400'ü Aştı",
+        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in 2 Mart'ta başlattığı saldırılardan bu yana ülkede hayatını kaybedenlerin sayısı 1.400'ü aştı. Bakanlık, son 24 saat içinde yaşanan çatışmalarda 54 kişinin yaşamını yitirdiğini ve 156 kişinin de yaralandığını duyurdu. Bu rakamlar, bölgedeki gerilimin ve insani krizin boyutlarını gözler önüne seriyor. İsrail ile Lübnan arasındaki sınır hattında devam eden çatışmalar, sivil kayıpların artmasına neden oluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/198703/pexels-photo-198703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T15:54:25.605Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/over-1-400-killed-in-lebanon-since-beginning-of-israeli-attacks-on-march-2/3891961",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17753112415148fpor",
         "title": "İsrail'in Lübnan'ın Sur Kentindeki Hastaneye Yakın Saldırısı Hasara Yol Açtı",
         "summary": "İsrail'in Lübnan'ın güneyindeki Sur (Tyre) kenti yakınlarında düzenlediği saldırılar, Lübnan İtalyan Hastanesi'nde hasara neden oldu. Saldırılar sonucunda en az 11 kişinin yaralandığı bildirildi. Olay, bölgedeki gerilimin tırmandığı ve İsrail'in kara harekatının ilerlediği bir dönemde yaşandı. Hastane tesisinin zarar görmesi, sivil altyapıya yönelik endişeleri artırdı. Bölgedeki durum yakından takip ediliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-struck-gathering-of-us-aviation-personnel-in-uae/3890263",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1775205636205bxeq2",
-        "title": "ABD-İsrail Hava Saldırısı İran Kızılayı'nı Vurdu",
-        "summary": "İran'ın Bushehr kentinde, ABD ve İsrail'in ortaklaşa düzenlediği iddia edilen bir hava saldırısı meydana geldi. Fars Haber Ajansı'nın bildirdiğine göre, saldırıda İran Kızılayı'na ait iki konteyner, iki acil durum aracı ve bir otobüs imha oldu. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası insani yardım kuruluşlarının güvenliği konusunda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:40:36.205Z",
-        "location": {
-            "lat": 28.92,
-            "lng": 50.83,
-            "name": "Bushehr, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-airstrike-hits-iranian-red-crescent-in-bushehr/3890206",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17752056586376t1nm",
-        "title": "BAE ve Suudi Arabistan Yeni İHA Saldırısı Dalgasını Engelledi",
-        "summary": "Birleşik Arap Emirlikleri (BAE) ve Suudi Arabistan, hava savunma sistemleri aracılığıyla kendilerine yönelik yeni bir insansız hava aracı (İHA) saldırısı dalgasını başarıyla önledi. Her iki ülkenin hava savunma birimleri, bölgesel gerilimin tırmandığı bir dönemde gelen füze ve İHA'ları hedef alarak etkisiz hale getirdi. Saldırıların kaynağına ilişkin detay verilmezken, bu olay Körfez bölgesindeki güvenlik tehditlerinin devam ettiğini bir kez daha gösterdi. Yetkililer, bölgedeki güvenlik durumunun yakından takip edildiğini ve gerekli önlemlerin alındığını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19806135/pexels-photo-19806135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:40:58.637Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-saudi-arabia-intercept-new-wave-of-drone-attacks/3890188",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
