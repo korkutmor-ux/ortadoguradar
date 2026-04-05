@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775404463558dwhtc",
+        "title": "İsrail'in Ben-Gvir'i Filistinliler İçin 'İdam Sırası' Planlarını Detaylandırdı",
+        "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Filistinliler için özel bir 'idam sırası' oluşturma planlarını kamuoyuna duyurdu. Bakan Ben-Gvir'in bu planları heyecanla detaylandırdığı belirtildi. Söz konusu adımın, İsrail'in Filistinlilere yönelik güvenlik ve yargı politikalarında önemli bir değişiklik anlamına gelebileceği ifade ediliyor. Bu açıklama, bölgedeki insan hakları örgütleri ve uluslararası toplum tarafından yakından takip ediliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10475175/pexels-photo-10475175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T15:54:23.558Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "17754044859093lbdm",
+        "title": "Trump'tan Hürmüz Boğazı Gerilimi Üzerine İran'a Sert Tehditler",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndaki gerilimle ilgili olarak İran'a yönelik sert tehditlerde bulundu. Sosyal medya üzerinden yaptığı açıklamada, İran'ın elektrik santralleri ve köprüleri gibi altyapı hedeflerini vurabileceğini belirtti. Bu tehditler, bölgedeki tansiyonun yükseldiği ve belirli bir sürenin yaklaştığı bir dönemde geldi. Açıklama, ABD ile İran arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34654444/pexels-photo-34654444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T15:54:45.909Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1775397910831ggedk",
         "title": "Hürmüz Boğazı Kapanışı Avrupa'yı Şoke Ederken Trump Somut Bir Plan Sunmuyor",
         "summary": "Haber, ABD Başkanı Donald Trump'ın Hürmüz Boğazı'nın kapanmasıyla ortaya çıkan krize yönelik somut bir plan sunmadığını ortaya koyuyor. Ekonomist James Meadway, Trump'ın bu krizi sona erdirmek için yalnızca tehditler savurduğunu ancak net bir stratejisinin olmadığını belirtiyor. Hürmüz Boğazı'nın kapanması, küresel enerji piyasaları ve ticaret yolları için kritik bir öneme sahip olup, özellikle Avrupa üzerinde şok etkisi yaratmıştır. Bu durum, Orta Doğu'daki gerilimin ve enerji güvenliği endişelerinin arttığını gözler önüne sermektedir.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1775289392894mgpeu",
-        "title": "İran Medyası BAE'nin İran'a Karşı Savaşa Girdiğini İddia Etti",
-        "summary": "İran devlet medyası, Birleşik Arap Emirlikleri'nin (BAE) İran'a karşı bir savaşa girdiğini öne sürdü. İran İslam Cumhuriyeti Yayın Kurumu (IRIB), bu iddiayı destekleyen iki belgeye sahip olduğunu belirtti. Bu açıklama, iki ülke arasındaki mevcut gerilimi daha da tırmandırabilecek nitelikte olup, bölgesel güvenlik ve siyaset açısından önemli bir gelişme olarak değerlendirilmektedir. İddiaların doğruluğu ve olası sonuçları uluslararası kamuoyu tarafından yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/198703/pexels-photo-198703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T07:56:32.894Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-media-claims-uae-entered-war-against-iran/3891318",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775289415618z8bm9",
-        "title": "İran'ın Suudi Arabistan'daki ABD Büyükelçiliği'ne Yönelik Saldırısının Açıklanandan Daha Fazla Hasara Yol Açtığı Bildirildi",
-        "summary": "Bir rapora göre, İran'ın Suudi Arabistan'daki ABD Büyükelçiliği'ne yönelik düzenlediği saldırının açıklanandan daha fazla hasara neden olduğu ortaya çıktı. 3 Mart'ta Suudi Arabistan'daki bir yerleşkeye iki insansız hava aracıyla saldırı düzenlendiği belirtildi. Bu saldırının saatlerce süren bir yangına yol açtığı ve önemli maddi hasara neden olduğu ifade edildi. Olay, bölgedeki güvenlik gerilimlerini ve İran ile ABD arasındaki dolaylı çatışmaları yeniden gündeme getirdi. Saldırının detayları ve tam kapsamı hakkında yeni bilgilerin ortaya çıktığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6726590/pexels-photo-6726590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T07:56:55.618Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6876,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-strike-on-us-embassy-in-saudi-arabia-caused-more-damage-than-disclosed-report/3891310",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
