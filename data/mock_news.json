@@ -1,5 +1,69 @@
 [
     {
+        "id": "1775368550458fb9up",
+        "title": "ABD Kamuoyunda İran'a Yönelik Savaş Karşıtlığı",
+        "summary": "Amerika Birleşik Devletleri kamuoyunun büyük çoğunluğunun, ABD ve İsrail'in İran'a karşı olası bir savaşına karşı çıktığı belirtildi. Habere göre, son dönemde hiçbir ABD savaşının bu denli düşük bir halk desteğiyle başlamadığı ifade edildi. Bu durum, potansiyel bir askeri müdahalenin iç politikadaki zorluklarına işaret ediyor. Kamuoyundaki bu güçlü muhalefet, ABD'nin dış politika kararlarını etkileyebilecek önemli bir faktör olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T05:55:50.458Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775368573601nefp1",
+        "title": "İran: Irak Gemileri Hürmüz Boğazı'ndan Geçebilir",
+        "summary": "İran, Irak gemilerinin stratejik öneme sahip Hürmüz Boğazı'ndan geçişinde herhangi bir kısıtlamayla karşılaşmayacağını duyurdu. Tahran yönetimi, Irak'ın ABD'ye karşı verdiği 'mücadeleyi' takdir ettiğini belirtti. Bu açıklama, boğazdaki deniz trafiğinin arttığı bir dönemde yapıldı. İranlı yetkililer, Irak ile olan ilişkilerinin önemine vurgu yaparak bölgesel işbirliğinin altını çizdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/19129264/pexels-photo-19129264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T05:56:13.601Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177536859411086jm5",
+        "title": "ABD Uydu Firması Planet Labs, İran'a Yönelik Savaş Görüntülerine Ambargo Koyduğunu Duyurdu",
+        "summary": "ABD merkezli uydu görüntüleme şirketi Planet Labs, İran'a yönelik olası bir savaşa ilişkin görüntülerin yayınlanmasına ambargo uygulayacağını açıkladı. Şirket, bu kararın ABD hükümetinden gelen bir talep üzerine alındığını belirtti. Açıklamada, bu adımın ABD ve İsrail'in İran'a karşı yürüttüğü bir savaş ortamında atıldığı ifade edildi. Bu gelişme, bölgedeki potansiyel çatışmalara dair bilgi akışının kısıtlanması anlamına geliyor ve uluslararası kamuoyunda tartışmalara yol açması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T05:56:34.110Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775368666133tjuwa",
+        "title": "İran'ın kuzeybatısındaki Erdebil eyaletinde ABD-İsrail saldırılarında 3 ölü, 3 yaralı",
+        "summary": "İran'ın kuzeybatısındaki Erdebil eyaletinde gerçekleşen ABD-İsrail saldırılarında üç kişinin hayatını kaybettiği, üç kişinin ise yaralandığı bildirildi. Aynı zamanda, ülkenin orta kesimlerinde yer alan İsfahan kentinin de saldırıların hedefi olduğu ve bir MQ-9 insansız hava aracının düşürüldüğü kaydedildi. Bu olaylar, bölgedeki gerilimin tırmandığı bir dönemde yaşandı ve İran topraklarında yabancı güçlere atfedilen saldırıların ciddiyetini ortaya koydu. Saldırıların detayları, hedefleri ve olası sonuçları hakkında henüz resmi makamlardan kapsamlı bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T05:57:46.133Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-killed-3-injured-in-us-israeli-attacks-in-ardabil-province-in-northwestern-iran/3892284",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17753402173691bql0",
         "title": "İran üzerinde düşürülen ABD savaş uçağı hakkında şu ana kadar bilinenler",
         "summary": "ABD medyası tarafından aktarılan bilgilere göre, İran hava sahası üzerinde bir ABD savaş uçağı düşürüldü. Olayın ardından uçağın pilotu güvenli bir şekilde kurtarıldı. Ancak, düşen jetin ikinci mürettebat üyesi için arama kurtarma çalışmaları halen devam etmektedir. Bu gelişme, ABD ile İran arasındaki gerilimli ilişkiler bağlamında bölgedeki güvenlik dinamiklerini yeniden gündeme getirdi.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17752156098972x0xk",
-        "title": "Panama Belgeleri'nin Onuncu Yılı: Neler Ortaya Çıktı, Değişen Bir Şey Oldu mu?",
-        "summary": "Tarihin en büyük veri sızıntılarından biri olarak kabul edilen Panama Belgeleri'nin yayımlanmasının üzerinden on yıl geçti. 11,5 milyondan fazla belgenin kamuoyuna sızdırılmasıyla, dünya genelinde siyasetçiler, iş insanları ve ünlüler de dahil olmak üzere birçok kişinin offshore hesapları ve vergi cennetlerindeki gizli finansal işlemleri ifşa edilmişti. Belgeler, Orta Doğu coğrafyasından da çok sayıda üst düzey yetkili ve iş insanının adını içererek bölgedeki finansal şeffaflık tartışmalarını tetiklemişti. Sızıntının ardından bazı ülkelerde soruşturmalar başlatılmış ve yasal düzenlemeler yapılmış olsa da, küresel finansal sistemdeki şeffaflık ve hesap verebilirlik sorunlarının ne ölçüde çözüldüğü hala tartışma konusu.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/18049667/pexels-photo-18049667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T11:26:49.897Z",
-        "location": {
-            "lat": 8.98,
-            "lng": -79.52,
-            "name": "Panama City, Panama"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17752156494292a63m",
-        "title": "Uluslararası Hukuk Uzmanları İran Savaşında İhlaller Olduğunu İddia Ediyor",
-        "summary": "Uluslararası hukuk uzmanları, İran ile ilgili bir savaşta uluslararası hukukun ihlal edildiğine dair iddialarda bulundu. Bu iddialar, Beyaz Saray'ın bölgedeki kısa ve uzun vadeli tehditleri ortadan kaldırarak tüm bölgeyi daha güvenli hale getirme çabaları olduğunu belirtmesiyle eş zamanlı olarak ortaya çıktı. Beyaz Saray, eylemlerinin bölgesel istikrara katkıda bulunduğunu savunurken, hukuk uzmanları bu süreçte uluslararası hukukun çiğnenmiş olabileceği konusunda endişelerini dile getiriyor. Bu durum, Orta Doğu'daki gerilimi ve uluslararası hukukun uygulanabilirliğini yeniden tartışmaya açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7132576/pexels-photo-7132576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T11:27:29.429Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17752156713560sd05",
-        "title": "ABD'nin Karaj Köprüsü'ne Yönelik Saldırısı Sonrası İran'da Endişe Artıyor",
-        "summary": "ABD Başkanı Trump'ın İran'ı, liderlerinin savaşı sona erdirme şartlarını kabul etmemesi halinde köprüler ve elektrik santrallerine yönelik saldırılarla uyarması, bölgede gerilimi tırmandırdı. Bu uyarıların ardından ABD'nin Karaj köprüsüne düzenlediği iddia edilen bir saldırı, İran halkında büyük endişe yarattı. İranlılar, ABD'nin bu eylemi sonrası ülkenin geleceği ve olası yeni çatışmalar konusunda kaygılarını dile getiriyor. Gelişmeler, ABD ile İran arasındaki mevcut gerilimin daha da derinleşebileceği sinyallerini veriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T11:27:51.356Z",
-        "location": {
-            "lat": 35.83,
-            "lng": 50.99,
-            "name": "Karaj, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775215694450o04n8",
-        "title": "Irak hava sahası kapatma süresini bir hafta uzattı",
-        "summary": "Irak Sivil Havacılık Otoritesi, ülke hava sahasının kapatılma süresini bir hafta daha uzattığını açıkladı. Yapılan duyuruda, bu kararın güvenlik endişeleri nedeniyle alındığı belirtildi. Söz konusu kısıtlama, Irak hava sahasını kullanacak tüm uçuşları kapsayacak şekilde uygulanacak. Bu gelişme, bölgedeki güvenlik durumunun devam eden hassasiyetini yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36598556/pexels-photo-36598556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T11:28:14.450Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-extends-airspace-closure-for-week/3890515",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
