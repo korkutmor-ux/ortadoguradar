@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775426113737can0z",
+        "title": "Gazze'de İnsani Durum Kötüleşiyor: ABD-İsrail'in İran'a Karşı Savaşı Etkisi",
+        "summary": "Gazze Şeridi'ndeki insani durumun giderek kötüleştiği rapor edildi. Bu kötüleşmenin, ABD ve İsrail'in İran'a karşı yürüttüğü iddia edilen savaşın ortasında meydana geldiği belirtiliyor. Bölgedeki artan gerilim ve çatışmalar, Gazze'deki sivil halkın yaşam koşullarını daha da zorlaştırıyor. Uluslararası toplumun dikkatini çeken bu durum, insani yardım kuruluşlarının bölgedeki endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34867596/pexels-photo-34867596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T21:55:13.737Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17754170823195jh4e",
         "title": "Trump'tan İran'a Yönelik Sert Tehditler ve Hürmüz Boğazı Gerilimi",
         "summary": "Eski ABD Başkanı Donald Trump, sosyal medya platformları üzerinden İran liderlerine yönelik sert ve küfürlü ifadeler içeren bir paylaşımda bulundu. Bu çıkış, Trump'ın Hürmüz Boğazı'nın yeniden açılması için belirlediği son tarihle aynı zamana denk geldi. Stratejik öneme sahip Hürmüz Boğazı, küresel petrol ticareti için hayati bir geçiş noktası olup, bölgedeki gerilimlerin odak noktası olmuştur. Trump'ın bu açıklamaları, ABD ile İran arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından izleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "177529672193035k0f",
-        "title": "İran'ın Petrokimya Tesislerine Yönelik Saldırılarda En Az 5 Kişi Yaralandı",
-        "summary": "İranlı bir yetkili tarafından yapılan açıklamaya göre, ülkenin güneybatısındaki Huzistan eyaletinde bulunan Fajr, Rejal ve Emir-Kebir petrokimya tesisleri saldırıların hedefi oldu. ABD ve İsrail'e atfedilen bu saldırılarda en az 5 kişinin yaralandığı bildirildi. Saldırılar, İran'ın kritik enerji altyapısına yönelik önemli bir eylem olarak değerlendiriliyor. Bu olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6767962/pexels-photo-6767962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T09:58:41.930Z",
-        "location": {
-            "lat": 31.3,
-            "lng": 48.3,
-            "name": "Huzistan, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-5-injured-in-us-israeli-strikes-on-irans-petrochemical-hubs/3891516",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
