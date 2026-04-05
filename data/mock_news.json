@@ -1,5 +1,37 @@
 [
     {
+        "id": "17754095286826bp3j",
+        "title": "İsrail'in Lübnan Genelindeki Saldırılarında En Az 14 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in Lübnan genelinde düzenlediği saldırılarda en az 14 kişinin yaşamını yitirdiği bildirildi. Bu saldırılar, Hizbullah'ın İsrail'in kuzeyine yönelik füze saldırıları düzenlemesiyle eş zamanlı olarak gerçekleşti. İsrail birlikleri ise güney Lübnan'a doğru ilerleyişini sürdürdü. Bölgedeki çatışmaların yoğunlaştığı ve gerilimin tırmandığı gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T17:18:48.682Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775409647909txnh6",
+        "title": "Afganistan Hükümeti, Pakistan ile Çatışmalarda 761 Sivilin Öldürüldüğünü İddia Etti",
+        "summary": "Afganistan hükümeti, Pakistan ile son dönemde yaşanan çatışmalarda 761 sivilin hayatını kaybettiğini öne sürdü. Bu iddialar, iki ülke arasındaki gerilimi daha da artırdı. Pakistan'dan ise bu açıklamalara henüz resmi bir yanıt gelmedi. Islamabad yönetimi, Şubat ayının sonlarından bu yana düzenlediği hava saldırılarında 600'den fazla militanı etkisiz hale getirdiğini belirtiyor. Bölgedeki güvenlik durumu, sivil kayıpları ve militan faaliyetleri nedeniyle endişe verici olmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36206292/pexels-photo-36206292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T17:20:47.909Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 70.5,
+            "name": "Afganistan-Pakistan Sınır Bölgesi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/761-civilians-killed-in-recent-clashes-with-pakistan-claims-afghan-government/3892890",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775404463558dwhtc",
         "title": "İsrail'in Ben-Gvir'i Filistinliler İçin 'İdam Sırası' Planlarını Detaylandırdı",
         "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Filistinliler için özel bir 'idam sırası' oluşturma planlarını kamuoyuna duyurdu. Bakan Ben-Gvir'in bu planları heyecanla detaylandırdığı belirtildi. Söz konusu adımın, İsrail'in Filistinlilere yönelik güvenlik ve yargı politikalarında önemli bir değişiklik anlamına gelebileceği ifade ediliyor. Bu açıklama, bölgedeki insan hakları örgütleri ve uluslararası toplum tarafından yakından takip ediliyor.",
@@ -764,38 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-claims-it-hit-ballistic-missile-warehouse-in-iran/3891428",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775289328091evuct",
-        "title": "Afganistan'da Deprem: Aynı Aileden Sekiz Kişi Hayatını Kaybetti",
-        "summary": "Afganistan'da meydana gelen bir deprem, aynı aileden sekiz kişinin yaşamını yitirmesine neden oldu. Olayda, ailenin tek kurtulanı olan küçük bir çocuk yaralandı. Depremin yol açtığı yıkım ve can kaybı, bölgede büyük üzüntüye yol açtı. Yetkililer, depremden etkilenen bölgelerde hasar tespit çalışmalarına başladı ve yaralılara tıbbi yardım sağlandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T07:55:28.091Z",
-        "location": {
-            "lat": 34.5,
-            "lng": 69.1,
-            "name": "Afganistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1775289369783ey1co",
-        "title": "İran, İki ABD Savaş Uçağını Düşürdüğünü İddia Etti",
-        "summary": "İran, iki ABD savaş uçağını düşürdüğünü iddia ettiğini duyurdu. Bu gelişme, ABD ve İsrail'in İran'a yönelik saldırılarının 36. günü olarak belirtilen bir dönemde yaşandı. Olayın ardından, düşürülen uçaklardan birine ait olduğu düşünülen kayıp bir mürettebat üyesi için arama kurtarma çalışmaları başlatıldı. Bu iddia, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5391998/pexels-photo-5391998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T07:56:09.783Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
     }
