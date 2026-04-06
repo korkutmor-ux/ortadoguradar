@@ -1,5 +1,69 @@
 [
     {
+        "id": "1775456140713kksf7",
+        "title": "Vietnam'daki Serbest Çalışanlar, İran Savaşının Etkileriyle Artan Yakıt Maliyetleri Nedeniyle Zor Durumda",
+        "summary": "Güneydoğu Asya ülkesi Vietnam'da serbest çalışanlar, artan yakıt maliyetleri nedeniyle ekonomik zorluklarla karşı karşıya. Ülkede dizel fiyatları, İran'ın Hürmüz Boğazı'nı abluka altına almasıyla birlikte iki kattan fazla artış gösterdi. Bu durum, İran'daki olası bir çatışmanın veya gerilimin küresel enerji piyasaları üzerindeki doğrudan etkilerini gözler önüne seriyor. Hürmüz Boğazı, dünya petrol sevkiyatı için stratejik bir geçiş noktası olup, buradaki herhangi bir kesinti küresel çapta enerji fiyatlarını yükseltme potansiyeli taşıyor. Vietnam'daki serbest çalışanlar, bu küresel gelişmelerin yerel ekonomiye yansımasıyla geçim sıkıntısı yaşıyor ve günlük hayatları olumsuz etkileniyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/10420382/pexels-photo-10420382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T06:15:40.713Z",
+        "location": {
+            "lat": 21.0285,
+            "lng": 105.8542,
+            "name": "Hanoi, Vietnam"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775456163933cn85j",
+        "title": "İran-ABD Gerilimi Tırmanıyor: Tahran, Trump'ın Hürmüz Ültimatomunu Reddetti; Hayfa'da Can Kaybı",
+        "summary": "İranlı yetkililer, ABD Başkanı Trump'ın Hürmüz Boğazı'na ilişkin ültimatomunu kesin bir dille reddetti. Tahran yönetimi, Washington'dan gelen son tehditleri 'savaş suçlarına teşvik' olarak değerlendirerek sert bir şekilde kınadı. Bölgedeki gerilimin tırmandığı bu dönemde, haberde ayrıca İsrail'in Hayfa kentinde iki kişinin yaşamını yitirdiği bilgisi de yer aldı. Bu gelişmeler, Orta Doğu'da güvenlik ve istikrar endişelerini artırırken, uluslararası toplumun dikkatini bölgeye çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T06:16:03.933Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17754562013389dlm0",
+        "title": "Trump'tan Hürmüz Boğazı Tehdidi: İran'a Ağır Uyarı",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın kapatılması durumunda İran'a yönelik sert bir tehditte bulundu. Trump, hayati önem taşıyan bu su yolunun yeniden açılmaması halinde İran'ın enerji santralleri ve köprülerinin hedef alınacağını belirtti. Bu açıklama, bölgedeki gerilimi tırmandırabilecek nitelikte olup, uluslararası kamuoyunda endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8903420/pexels-photo-8903420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T06:16:41.338Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17754562697064x1zk",
+        "title": "İsrail-İran Çatışması: Bölgesel Gerilim ve Saldırılar Hakkında Son Durum",
+        "summary": "İsrail ile İran arasındaki çatışmalara ilişkin son gelişmeler yaşanmaktadır. Bölgede ABD-İsrail saldırıları ve İran'ın bu saldırılara yönelik misillemeleri rapor edilmektedir. Yaşanan olaylar sonucunda can kayıpları meydana geldiği belirtilmektedir. Orta Doğu genelinde güvenlik durumu tırmanmaya devam etmekte olup, bölgesel gerilim endişe verici boyutlara ulaşmıştır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T06:17:49.706Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/live-blog/at-least-13-people-dead-in-iran-s-baharestan-following-us-israeli-attacks/26",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775430280115z2f8v",
         "title": "İngiltere'de ABD Üssü Yakınında Protestocular Gözaltına Alındı",
         "summary": "Birleşik Krallık'ta, ABD tarafından kullanıldığı iddia edilen bir Kraliyet Hava Kuvvetleri (RAF) üssü yakınında protesto düzenleyen yedi kişi polis tarafından gözaltına alındı. Aktivistler, söz konusu üssün ABD uçakları için kalkış noktası olarak kullanılmasına karşı çıkıyordu. Bu eylem, ABD'nin küresel askeri operasyonlarındaki rolünü ve İngiltere'deki askeri varlığını yeniden gündeme getirdi. Gözaltına alınan protestocuların eylemleri, askeri üslerin kullanımı ve uluslararası politikalar üzerindeki toplumsal tepkileri yansıtıyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/over-1-400-killed-in-lebanon-since-beginning-of-israeli-attacks-on-march-2/3891961",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17753112415148fpor",
-        "title": "İsrail'in Lübnan'ın Sur Kentindeki Hastaneye Yakın Saldırısı Hasara Yol Açtı",
-        "summary": "İsrail'in Lübnan'ın güneyindeki Sur (Tyre) kenti yakınlarında düzenlediği saldırılar, Lübnan İtalyan Hastanesi'nde hasara neden oldu. Saldırılar sonucunda en az 11 kişinin yaralandığı bildirildi. Olay, bölgedeki gerilimin tırmandığı ve İsrail'in kara harekatının ilerlediği bir dönemde yaşandı. Hastane tesisinin zarar görmesi, sivil altyapıya yönelik endişeleri artırdı. Bölgedeki durum yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19893301/pexels-photo-19893301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T14:00:41.514Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775311264030d4yay",
-        "title": "İran'ın Buşehr Nükleer Santrali Yakınlarına İsabet Eden Mermi Bir Kişiyi Öldürdü: IAEA",
-        "summary": "Uluslararası Atom Enerjisi Ajansı (IAEA), İran'ın Buşehr nükleer santrali yakınlarına bir merminin isabet ettiğini ve olayda bir kişinin hayatını kaybettiğini duyurdu. Tahran yönetimi, bu saldırının ABD ve İsrail'in İran'a karşı yürüttüğü savaş sırasında nükleer santral yakınlarında gerçekleşen dördüncü saldırı olduğunu iddia etti. Olay, bölgedeki gerilimi artırırken, nükleer tesislerin güvenliği konusundaki endişeleri de beraberinde getirdi. Yetkililer, saldırının detaylarına ilişkin soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9170202/pexels-photo-9170202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T14:01:04.030Z",
-        "location": {
-            "lat": 28.92,
-            "lng": 50.83,
-            "name": "Bushehr, Iran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775311285356ptgpb",
-        "title": "İsrail'in Kontrolsüz Savaş Makinesi",
-        "summary": "İsrail'in birden fazla cephede devam eden çatışmalarla birlikte askeri faaliyetlerini sürdürdüğü belirtiliyor. Ülkenin savaş eğiliminin herhangi bir yavaşlama belirtisi göstermediği ifade ediliyor. Bu durum, bölgedeki gerilimin artarak devam ettiğine işaret ediyor. İsrail'in askeri operasyonlarının kontrolsüz bir şekilde ilerlediği yorumları yapılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T14:01:25.356Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/the-listening-post/2026/4/4/israels-unchecked-war-machine?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775300769010neun1",
-        "title": "İran'ın Buşehr nükleer santraline düzenlenen saldırılarda 1 kişi öldü",
-        "summary": "İran'ın Buşehr nükleer santraline yönelik düzenlenen saldırılarda bir kişinin hayatını kaybettiği bildirildi. Uluslararası Atom Enerjisi Ajansı (UAEA) tarafından yapılan açıklamada, santraldeki radyasyon seviyelerinde herhangi bir artış tespit edilmediği belirtildi. Buşehr, İran'ın güneybatısında Basra Körfezi kıyısında yer alan önemli bir nükleer tesis konumundadır. Olayın detaylarına ilişkin henüz resmi bir açıklama yapılmazken, saldırının niteliği ve sorumluları hakkında bilgi verilmedi. UAEA'nın açıklaması, olayın nükleer güvenlik açısından anlık bir tehdit oluşturmadığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32966555/pexels-photo-32966555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T11:06:09.010Z",
-        "location": {
-            "lat": 28.96,
-            "lng": 50.83,
-            "name": "Buşehr, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/1-killed-in-strikes-on-irans-bushehr-nuclear-plant/3891603",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
