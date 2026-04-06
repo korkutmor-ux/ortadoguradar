@@ -1,5 +1,69 @@
 [
     {
+        "id": "1775485890793pk8vt",
+        "title": "Haritalar ve fotoğraflarla: Beş İran sivil köprüsü ABD saldırısı riski altında",
+        "summary": "ABD'nin eski başkanı Donald Trump'ın 'Köprü Günü' olarak adlandırdığı ültimatomu, İran'daki beş sivil köprüyü potansiyel saldırı riski altına soktu. Haber, haritalar ve fotoğraflar eşliğinde, milyonlarca dolarlık bu mega yapıların olası bir ABD müdahalesinde hedef alınabileceği uyarısında bulunuyor. Bu durum, iki ülke arasındaki gerilimin askeri altyapıyı da kapsayabilecek boyutlara ulaşabileceğine işaret ediyor. Söz konusu köprülerin İran'ın sivil altyapısının önemli bir parçası olduğu belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12357501/pexels-photo-12357501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T14:31:30.793Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775485912836okb9y",
+        "title": "ABD'nin İran'da Etnik Kartı Oynama Potansiyeli Değerlendiriliyor",
+        "summary": "Amerika Birleşik Devletleri'nin İran'da etnik farklılıkları kullanarak bir strateji izleyebileceği yönünde değerlendirmeler yapıldığı belirtilmiştir. Ancak haberde, geçmiş deneyimlerin ve mevcut jeopolitik gerçeklerin böyle bir yaklaşımın başarısızlıkla sonuçlanacağını gösterdiği vurgulanmaktadır. Bu durum, ABD'nin İran'a yönelik olası dış politika hamlelerini ve bu tür müdahalelerin etkinliğini sorgulamaktadır. Analiz, iki ülke arasındaki ilişkilerin karmaşıklığına ve İran'ın iç dinamiklerine ışık tutmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34355523/pexels-photo-34355523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T14:31:52.836Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775485943151de12i",
+        "title": "İsrail'in Gazze ekonomisini rehin tutmasıyla işsiz genç Filistinliler kapana kısıldı",
+        "summary": "Gazze Şeridi'nde genç Filistinliler arasında işsizlik oranının yüzde 80'e ulaştığı belirtildi. İsrail'in uyguladığı abluka nedeniyle bölge ekonomisinin çöktüğü ifade ediliyor. Bu durum, işsiz genç Filistinlilerin hayatta kalma mücadelesini zorlaştırıyor ve onları kapana kısılmış hissettiriyor. Bölgedeki ekonomik krizin derinleştiği ve genç nüfusun geleceğinin belirsizliğini koruduğu vurgulanıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T14:32:23.151Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775485984110nnj2h",
+        "title": "ABD Başkanı Trump: İran Üzerinde Düşürülen Savaş Uçağı Pilotu Kurtarıldı",
+        "summary": "ABD Başkanı Donald Trump, İran üzerinde düşürülen bir ABD savaş uçağının pilotunun iki ayrı operasyonla kurtarıldığını duyurdu. Başkan Trump'ın açıklamasına göre, ABD askeri personeli İran topraklarından başarılı bir şekilde çıkarıldı. Bu operasyon, ABD ile İran arasındaki mevcut gerilimi daha da tırmandırabilecek potansiyele sahip bir gelişme olarak değerlendiriliyor. Kurtarma operasyonunun detayları ve nasıl gerçekleştiği hakkında henüz tam bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34640387/pexels-photo-34640387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T14:33:04.110Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1775471863371tzs2w",
         "title": "Irak Teknik Direktörü Arnold'a Sydney'de Kahramanlar Gibi Karşılama",
         "summary": "Irak Milli Futbol Takımı Teknik Direktörü Graham Arnold, başarılı bir Dünya Kupası eleme kampanyasının ardından Avustralya'ya dönüşünde Sydney'de coşkulu Iraklı taraftarlar tarafından kahramanlar gibi karşılandı. Arnold, takımının Dünya Kupası'na katılma yolundaki başarısıyla büyük takdir topladı. Bu karşılama, Irak futbolunun uluslararası arenadaki başarısının ve taraftarların teknik direktöre olan desteğinin bir göstergesi oldu. Taraftarlar, Arnold'a olan minnettarlıklarını ve milli takımlarının geleceğine dair umutlarını dile getirdi.",
@@ -732,70 +796,6 @@
             "name": "Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-shoots-down-cruise-missile-amid-ongoing-escalation/3892355",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17753764197694ei0s",
-        "title": "İran, İsfahan'da bir ABD C-130 destek uçağını düşürdüğünü iddia etti",
-        "summary": "İran, İsfahan kentinde bir ABD C-130 destek uçağını düşürdüğünü öne sürdü. İran'ın yarı resmi Tasnim haber ajansı, İran polisine dayandırdığı haberinde, uçağın \"polis özel kuvvetleri biriminden gelen yoğun ateşle\" imha edildiğini belirtti. Bu iddia, ABD'den henüz resmi bir yanıt almadı. Olayın detayları ve doğruluğu hakkında belirsizlik devam ederken, iki ülke arasındaki potansiyel gerilimi artırabilecek bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9182806/pexels-photo-9182806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T08:06:59.769Z",
-        "location": {
-            "lat": 32.65,
-            "lng": 51.67,
-            "name": "İsfahan, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-it-shot-down-us-c-130-support-aircraft-in-isfahan/3892326",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775376441893njeao",
-        "title": "İsrail'in Lübnan'a Saldırısında En Az 6 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in Lübnan'a düzenlediği hava saldırılarında en az 6 kişi yaşamını yitirdi, 2 kişi ise yaralandı. İsrail savaş uçakları, güney Lübnan'daki Kfar Dounine, Batouliyeh, Al-Shehabiyeh, Ain Baal, Kafra, Siddiqin, Wadi al-Hujayr, Nabatieh ve Qana bölgelerini hedef aldı. Yoğun saldırılar sonucunda bölgede büyük çaplı hasar meydana geldiği ve can kayıplarının yaşandığı bildirildi. Olay, bölgedeki gerilimi daha da tırmandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T08:07:21.893Z",
-        "location": {
-            "lat": 33.5667,
-            "lng": 35.4833,
-            "name": "Nabatieh, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-6-people-killed-2-injured-in-israels-attack-on-lebanon/3892276",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775368550458fb9up",
-        "title": "ABD Kamuoyunda İran'a Yönelik Savaş Karşıtlığı",
-        "summary": "Amerika Birleşik Devletleri kamuoyunun büyük çoğunluğunun, ABD ve İsrail'in İran'a karşı olası bir savaşına karşı çıktığı belirtildi. Habere göre, son dönemde hiçbir ABD savaşının bu denli düşük bir halk desteğiyle başlamadığı ifade edildi. Bu durum, potansiyel bir askeri müdahalenin iç politikadaki zorluklarına işaret ediyor. Kamuoyundaki bu güçlü muhalefet, ABD'nin dış politika kararlarını etkileyebilecek önemli bir faktör olarak öne çıkıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T05:55:50.458Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775368573601nefp1",
-        "title": "İran: Irak Gemileri Hürmüz Boğazı'ndan Geçebilir",
-        "summary": "İran, Irak gemilerinin stratejik öneme sahip Hürmüz Boğazı'ndan geçişinde herhangi bir kısıtlamayla karşılaşmayacağını duyurdu. Tahran yönetimi, Irak'ın ABD'ye karşı verdiği 'mücadeleyi' takdir ettiğini belirtti. Bu açıklama, boğazdaki deniz trafiğinin arttığı bir dönemde yapıldı. İranlı yetkililer, Irak ile olan ilişkilerinin önemine vurgu yaparak bölgesel işbirliğinin altını çizdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/19129264/pexels-photo-19129264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T05:56:13.601Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
