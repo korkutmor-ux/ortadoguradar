@@ -1,5 +1,69 @@
 [
     {
+        "id": "177555961986749dlg",
+        "title": "İran Füze Saldırısı İsrail'de Hasara Yol Açtı",
+        "summary": "İsrail'in Ramat Hasharon bölgesine düzenlenen bir İran füze saldırısının ardından hasar meydana geldi. Saldırıda kaldırımlar zarar görürken, bir aracın devrildiği bildirildi. Olay yerinden paylaşılan görüntülerde, sokaklarda ve araçlarda oluşan hasarın boyutu gözler önüne serildi. Bu saldırı, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27274821/pexels-photo-27274821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T11:00:19.867Z",
+        "location": {
+            "lat": 32.145,
+            "lng": 34.845,
+            "name": "Ramat Hasharon, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-missile-strike-damages-cars-and-street-in-israel?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17755596438733fgw2",
+        "title": "ABD ve İsrail'in Bölge Güvenliğini Tehlikeye Attığı İddiası",
+        "summary": "Haber başlığı, ABD ve İsrail'in Orta Doğu'daki politikalarının bölge güvenliğini ciddi şekilde riske attığı yönündeki endişeleri dile getiriyor. Bu ifade, iki ülkenin bölgedeki eylemlerinin, mevcut istikrarsızlığı artırma ve öngörülemeyen sonuçlara yol açma potansiyeline sahip olduğu görüşünü yansıtıyor. \"Rus ruleti oynamak\" benzetmesi, söz konusu politikaların taşıdığı yüksek riski ve potansiyel tehlikeleri vurgulamaktadır. Analistler, bu tür eleştirilerin genellikle İsrail'in Filistin politikaları, İran'a yönelik tutumu veya ABD'nin bölgedeki askeri varlığı gibi konular üzerinden yapıldığını belirtiyor. Bu durum, Orta Doğu'daki güvenlik dinamiklerinin karmaşıklığını ve uluslararası aktörlerin rollerinin sürekli tartışma konusu olduğunu göstermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T11:00:43.873Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/4/7/us-israel-playing-russian-roulette-with-security-of-the?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775559701261rg9y0",
+        "title": "İstanbul'da İsrail Başkonsolosluğu Yakınlarında Silahlı Saldırı: Üç Ölü",
+        "summary": "İstanbul'da İsrail Başkonsolosluğu yakınlarında silahlı bir saldırı meydana geldi. Olayda üç kişinin hayatını kaybettiği bildirildi. Güvenlik güçleri tarafından yapılan açıklamaya göre, saldırıda iki polis memuru da yaralandı. Bölgede geniş güvenlik önlemleri alındı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5202378/pexels-photo-5202378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T11:01:41.261Z",
+        "location": {
+            "lat": 41,
+            "lng": 29,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775559741221yie7u",
+        "title": "İsrail Saldırılarında Gazze'de 10 Kişi Daha Hayatını Kaybetti, 44 Kişi Yaralandı",
+        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in ateşkes ihlalleriyle devam eden saldırılarında 10 Gazalı daha yaşamını yitirdi, 44 kişi ise yaralandı. Bakanlık, ateşkesin başlamasından bu yana toplamda 733 Filistinlinin hayatını kaybettiğini ve 2.034 kişinin yaralandığını bildirdi. Bu son olaylar, bölgedeki gerilimin ve şiddetin ateşkes anlaşmasına rağmen sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T11:02:21.221Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/10-more-gazans-killed-44-injured-in-israeli-attacks-amid-ceasefire-violations/3895946",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775555109075cptsk",
         "title": "İran'daki Nükleer Tesislere Yönelik Saldırılar Yayılmanın Önlenmesi Tartışmalarını Alevlendirdi",
         "summary": "İran'daki nükleer tesislere yönelik endişe verici saldırılar, nükleer silahların yayılmasının önlenmesi çabalarında askeri eylemlerin etkin bir yöntem olmadığı yönündeki tartışmaları alevlendirdi. Yetkililer, bu saldırıların radyoaktif kirlilik riskini artırdığına dair ciddi endişeler taşıdığını belirtti. Bu durum, nükleer programların güvenliği ve bölgesel istikrar üzerindeki potansiyel etkileri konusunda uluslararası toplumda kaygılara yol açtı. Gelişmeler, Orta Doğu'daki güvenlik dinamikleri ve nükleer silahsızlanma politikaları üzerine yeni değerlendirmeleri beraberinde getiriyor.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177547201925972m1r",
-        "title": "BBC, Hürmüz Boğazı Yakınlarından Bildiriyor: 'Savaş Alanının Eşiğindeyiz'",
-        "summary": "BBC muhabiri Orla Guerin, İran'ın kontrol altında tuttuğu ve dünya petrol ticaretinin kritik geçiş noktası olan Hürmüz Boğazı'nın kenarına seyahat etti. Bölgedeki gerilimin yüksek olduğu ve potansiyel bir çatışma alanı olabileceği belirtiliyor. İran'ın bu stratejik su yolu üzerindeki etkisi, uluslararası arenada endişelere yol açıyor. Muhabir, bölgedeki durumu 'savaş alanının eşiğinde' olarak tanımlayarak mevcut hassas durumu vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17429265/pexels-photo-17429265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:40:19.259Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775472044423m2cxf",
-        "title": "Irak'taki Haşdi Şabi, ABD ve İsrail'e Ait Olduğu İddia Edilen Hava Saldırılarını Duyurdu",
-        "summary": "Irak'taki Haşdi Şabi güçleri, ABD ve İsrail'e ait olduğu öne sürülen hava saldırılarının Irak topraklarında iki farklı noktayı vurduğunu iddia etti. Yapılan açıklamaya göre, Ninova vilayeti ve Tuzhurmatu bölgelerinde gerçekleşen saldırılarda bir istihbarat karargahı ile bir tugay birimi hedef alındı. Haşdi Şabi, bu eylemlerin Irak'ın egemenliğine yönelik ciddi bir ihlal teşkil ettiğini belirtti. Olayla ilgili olarak ABD ve İsrail'den henüz resmi bir doğrulama veya yalanlama gelmedi. Bu iddialar, bölgedeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29159810/pexels-photo-29159810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:40:44.423Z",
-        "location": {
-            "lat": 36.34,
-            "lng": 43.13,
-            "name": "Musul, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-s-popular-mobilization-forces-says-us-israeli-airstrikes-hit-2-sites-in-iraq/3894690",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775472066387zwguw",
-        "title": "ABD ve İsrail Jetleri İran Başkentindeki Yapay Zeka Altyapısını Bombaladı",
-        "summary": "ABD ve İsrail savaş uçaklarının, İran'ın başkenti Tahran'da yapay zeka altyapısını hedef aldığı bildirildi. Haber kaynaklarına göre, saldırı Tahran'daki Şerif Teknoloji Üniversitesi'ne ait bir veri merkezini vurdu. Bu gelişme, ABD ve İsrail'in İran'a yönelik potansiyel siber veya askeri operasyonlarına dair endişeleri artırıyor. Olayın bölgedeki güvenlik dinamikleri üzerindeki etkileri ve İran'ın olası tepkisi yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33333373/pexels-photo-33333373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:41:06.387Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-jets-bomb-artificial-intelligence-infrastructure-in-iranian-capital/3894678",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775472086383i5k8e",
-        "title": "Irak'ın Erbil Kentinde 7 İnsansız Hava Aracı Düşürüldü",
-        "summary": "Yerel medya kaynaklarına göre, Irak'ın Erbil kenti üzerinde hava savunma sistemleri tarafından yedi insansız hava aracı düşürüldü. Olayda herhangi bir can kaybı yaşanmadığı bildirildi. Bu gelişme, bölgedeki artan gerilimlerin ortasında meydana geldiği belirtiliyor. Güvenlik güçleri, düşürülen insansız hava araçlarının kaynağı ve amacı hakkında inceleme başlattı. Bölgedeki durum yakından izlenmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32776845/pexels-photo-32776845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:41:26.383Z",
-        "location": {
-            "lat": 36.19,
-            "lng": 44.01,
-            "name": "Erbil, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/air-defenses-down-7-drones-over-iraq-s-erbil-local-media-say/3894657",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
