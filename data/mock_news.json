@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775599563125psbl1",
+        "title": "İran, Trump'ın Süresi Yaklaşırken Olası Yıkım Endişesiyle Gergin",
+        "summary": "İran'da, ABD liderliğindeki olası saldırı tehditleri nedeniyle büyük bir endişe hakim. Eski ABD Başkanı Trump'ın belirlediği bir son tarihin yaklaşmasıyla birlikte, İranlılar olası bir yıkıma karşı hazırlıklı olmaya çalışıyor. Haberlere göre, bu saldırıların uluslararası hukuku ihlal ederek sivil hedefleri hedef alabileceği belirtiliyor. Ülke genelinde artan gerilim, halk arasında büyük bir kaygıya yol açmış durumda.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19813734/pexels-photo-19813734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T22:06:03.125Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775596491328q6gy0",
         "title": "Iraklı Grup Kaçırılan ABD'li Gazeteciyi Serbest Bıraktı",
         "summary": "Irak'ta kaçırılan Amerikalı gazeteci Shelly Kittleson serbest bırakıldı. Kittleson, 31 Mart tarihinde kimliği belirsiz kişilerce kaçırılmıştı. Serbest bırakılma eylemi, Iraklı bir grup tarafından gerçekleştirildi. Olayın detayları ve gazetecinin sağlık durumu hakkında henüz ek bilgi verilmedi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-praised-airmans-rescue-in-iran-during-white-house-easter-event?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17754944612719c0me",
-        "title": "Gazze'deki Çocuklara Güvenli Bir Ortam Sunan Kamp",
-        "summary": "Gazze Şeridi'nde faaliyet gösteren Samir Projesi, bölgedeki çocuklara yönelik özel bir kamp düzenliyor. Bu kamp, çatışma ortamında büyüyen çocukların öğrenme, iyileşme ve yeniden güven duygusu kazanmalarına yardımcı olmayı hedefliyor. Proje, çocuklara güvenli bir alan sağlayarak psikososyal destek sunmayı amaçlıyor. Kampta düzenlenen çeşitli etkinliklerle çocukların travmatik deneyimlerin etkilerini azaltmaları ve normalleşme süreçlerine katkıda bulunulması hedefleniyor. Bu girişim, Gazze'deki çocukların zorlu koşullar altında dahi gelişimlerini sürdürebilmeleri için önemli bir destek sağlıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T16:54:21.271Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
