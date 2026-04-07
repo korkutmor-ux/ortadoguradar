@@ -1,5 +1,69 @@
 [
     {
+        "id": "1775539573323j43nw",
+        "title": "Trump'tan İran'ın Enerji Santrallerine Yönelik Tehdit",
+        "summary": "Eski ABD Başkanı Donald Trump'ın İran'ın enerji santrallerini hedef alma tehdidi gündeme geldi. Trump, sosyal medya üzerinden yaptığı bir paylaşımda, \"Salı günü enerji santrali günü olacak\" ifadelerini kullandı. Bu açıklama, ABD ile İran arasındaki gerilimi artırabilecek potansiyel bir askeri eylem veya güçlü bir uyarı olarak yorumlandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12720170/pexels-photo-12720170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T05:26:13.323Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775539599748b028r",
+        "title": "İran, ABD'nin Ateşkes Teklifini Reddetti: Geçmiş Kayıtlar Gerekçe Gösterildi",
+        "summary": "Siyasi analist Trita Parsi, İran'ın ABD tarafından önerilen bir ateşkes anlaşması fikrini reddetmesinin şaşırtıcı olmaması gerektiğini belirtti. Parsi, İran'ın bu tutumunu ABD ve İsrail'in geçmişteki eylemlerine dayandırdığını ifade etti. Analist, İran'ın bu iki ülkenin bölgedeki sicilini göz önünde bulundurarak bir ateşkes anlaşmasına neden sıcak bakmayacağı sorusunun gündeme geldiğini kaydetti. Bu açıklama, Orta Doğu'daki diplomatik çabaların ve bölgesel aktörler arasındaki güvensizliğin derinliğini bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T05:26:39.748Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177553963597537ge2",
+        "title": "İsrail Saldırıları Lübnan'daki Ayrılıkları Derinleştiriyor",
+        "summary": "İsrail'in Lübnan'a yönelik artan bombardımanı ve kara harekatı, ülkedeki mevcut ayrılıkları daha da belirginleştiriyor. Devam eden askeri operasyonlar, Lübnan'da halihazırda var olan yerinden edilme krizini ciddi şekilde kötüleştiriyor. Bu durum, Lübnan içindeki siyasi ve toplumsal fay hatlarını derinleştirerek ülkenin birliğini tehdit ediyor. Bölgedeki gerilimin tırmanması, Lübnan'ın iç istikrarını olumsuz etkilemeye devam ediyor ve insani durumu ağırlaştırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T05:27:15.975Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17755396743407f0xr",
+        "title": "Gazze'de İsrail saldırıları ve Hamas ile milisler arasındaki çatışmalarda on kişi hayatını kaybetti",
+        "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail saldırıları ve Hamas ile bir milis grubu arasındaki çatışmalar sonucunda on kişinin hayatını kaybettiği bildirildi. Yerel kaynaklardan edinilen bilgilere göre, İsrail'in düzenlediği hava saldırıları Hamas güvenlik personelini hedef aldı. Bu saldırılar, Hamas güçlerinin Maghazi kampı yakınlarında İsrail destekli olduğu belirtilen bir milis grubuyla çatışmasının ardından gerçekleşti. Bölgedeki gerilimin tırmandığı ve can kayıplarının yaşandığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T05:27:54.340Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775520099663oq0ge",
         "title": "Suudi Arabistan, 7 Balistik Füzenin Engellenmesinin Ardından Enerji Tesisleri Yakınına Enkaz Düştüğünü Duyurdu",
         "summary": "Suudi Arabistan Savunma Bakanlığı, ülkenin doğu bölgesinde enerji tesisleri yakınlarına enkaz düştüğünü bildirdi. Yapılan açıklamada, yedi balistik füzenin başarıyla engellendiği belirtildi. Engellenen füzelerin enkazının düşmesi sonucu bölgedeki enerji altyapısında hasar oluşup oluşmadığına dair kapsamlı değerlendirme çalışmalarının devam ettiği ifade edildi. Olayın ardından Doğu Bölgesi'nde güvenlik önlemlerinin artırıldığı ve durumun yakından takip edildiği kaydedildi.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "17754044859093lbdm",
-        "title": "Trump'tan Hürmüz Boğazı Gerilimi Üzerine İran'a Sert Tehditler",
-        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndaki gerilimle ilgili olarak İran'a yönelik sert tehditlerde bulundu. Sosyal medya üzerinden yaptığı açıklamada, İran'ın elektrik santralleri ve köprüleri gibi altyapı hedeflerini vurabileceğini belirtti. Bu tehditler, bölgedeki tansiyonun yükseldiği ve belirli bir sürenin yaklaştığı bir dönemde geldi. Açıklama, ABD ile İran arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34654444/pexels-photo-34654444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T15:54:45.909Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775397910831ggedk",
-        "title": "Hürmüz Boğazı Kapanışı Avrupa'yı Şoke Ederken Trump Somut Bir Plan Sunmuyor",
-        "summary": "Haber, ABD Başkanı Donald Trump'ın Hürmüz Boğazı'nın kapanmasıyla ortaya çıkan krize yönelik somut bir plan sunmadığını ortaya koyuyor. Ekonomist James Meadway, Trump'ın bu krizi sona erdirmek için yalnızca tehditler savurduğunu ancak net bir stratejisinin olmadığını belirtiyor. Hürmüz Boğazı'nın kapanması, küresel enerji piyasaları ve ticaret yolları için kritik bir öneme sahip olup, özellikle Avrupa üzerinde şok etkisi yaratmıştır. Bu durum, Orta Doğu'daki gerilimin ve enerji güvenliği endişelerinin arttığını gözler önüne sermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36633943/pexels-photo-36633943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T14:05:10.831Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran/Umman"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775397947498zadfh",
-        "title": "İtalya Başbakanı Meloni'den Körfez Vurgusu: Avrupa Güvenliği İçin Temel Öneme Sahip",
-        "summary": "İtalya Başbakanı Giorgia Meloni, Körfez bölgesine gerçekleştirdiği ziyaret sırasında önemli açıklamalarda bulundu. Başbakan Meloni, Körfez'in İtalya ve Avrupa'nın güvenliği için \"temel\" bir öneme sahip olduğunu vurguladı. Bu açıklama, Avrupa'nın enerji güvenliği, bölgesel istikrar ve stratejik işbirliği konularında Körfez ülkeleriyle olan ilişkilerine dikkat çekiyor. Ziyaretin, iki bölge arasındaki diplomatik ve güvenlik işbirliğinin derinleştirilmesi potansiyelini taşıdığı belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T14:05:47.498Z",
-        "location": {
-            "lat": 25.35,
-            "lng": 51.18,
-            "name": "Körfez Bölgesi"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775389753809kc114",
-        "title": "ABD'de Akaryakıt Fiyatlarındaki Artış ve İran Savaşı İlişkisi",
-        "summary": "Amerika Birleşik Devletleri'nde akaryakıt fiyatlarındaki keskin artışlar, Chicago'da sürücülerin ücretsiz benzin dağıtılan noktalarda uzun kuyruklar oluşturmasına neden oldu. Haber ajansları, bu fiyat yükselişlerinin ABD ve İsrail'in İran'a karşı yürüttüğü bir savaştan kaynaklandığını belirtiyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji piyasaları üzerindeki doğrudan etkisini ve ABD'deki tüketiciler üzerindeki ekonomik baskıyı gözler önüne seriyor. Yüksek akaryakıt maliyetleri, ülke genelinde tartışmalara yol açarken, olayların Orta Doğu ile bağlantısı dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4744710/pexels-photo-4744710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T11:49:13.809Z",
-        "location": {
-            "lat": 41.8781,
-            "lng": -87.6298,
-            "name": "Chicago, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
