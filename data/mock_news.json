@@ -1,5 +1,53 @@
 [
     {
+        "id": "17755701042957h5vn",
+        "title": "İran Halkı, ABD'nin Bölgeye İstikrar Getireceği Fikrini Reddediyor",
+        "summary": "İranlılar, ABD'nin Orta Doğu'ya istikrar getireceği yönündeki düşünceyi reddettiklerini belirtiyor. Bu durum, ABD'nin bölgedeki politikalarına yönelik İran kamuoyundaki derin şüpheciliği yansıtmaktadır. Haber, İran halkının ABD'nin geçmişteki müdahalelerini ve mevcut stratejilerini bölgedeki istikrarsızlığın ana nedenlerinden biri olarak gördüğünü vurguluyor. Söz konusu görüş, iki ülke arasındaki gerilimli ilişkilerin ve karşılıklı güvensizliğin önemli bir göstergesi olarak değerlendirilmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/31468385/pexels-photo-31468385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T13:55:04.296Z",
+        "location": {
+            "lat": 35,
+            "lng": 51,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/4/7/iranians-reject-idea-that-us-will-bring?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775570140647wt9h1",
+        "title": "İran Elçilikleri, Trump'ın Kaba Tehdidiyle Nasıl Alay Etti?",
+        "summary": "İran'ın dünya genelindeki elçilikleri, dönemin ABD Başkanı Donald Trump'ın küfürlü ifadeler içeren tehditlerine karşı küresel bir kampanya başlattı. Bu kampanya kapsamında, İran elçilikleri Trump'ın tehditlerine alaycı bir dille yanıt vererek, uluslararası kamuoyunda dikkat çekti. Olay, ABD ile İran arasındaki gerilimin diplomatik ve halkla ilişkiler arenasına yansıyan bir örneğini oluşturdu. Kampanya, iki ülke arasındaki sert söylemlerin ve karşılıklı atışmaların bir parçası olarak değerlendirildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T13:55:40.647Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/7/get-a-grip-how-iranian-embassies-mocked-trumps-vulgar-threat?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775570199020jt4km",
+        "title": "Rusya ve BAE Dışişleri Bakanları ABD-İsrail-İran Gerilimini Görüştü",
+        "summary": "Rusya ve Birleşik Arap Emirlikleri (BAE) dışişleri bakanları, ABD, İsrail ve İran arasındaki gerilimi ele almak üzere bir araya geldi. Rusya Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, diplomatlar Körfez'deki tırmanışa ilişkin \"gizli bir görüş alışverişinde\" bulundu. Görüşmelerde, bölgedeki mevcut durum ve potansiyel riskler değerlendirildi. Taraflar, bölgesel istikrarın korunması ve gerilimin azaltılması yollarını müzakere etti. Bu görüşme, Orta Doğu'daki karmaşık dinamiklerin uluslararası aktörler tarafından yakından takip edildiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T13:56:39.020Z",
+        "location": {
+            "lat": 24.45,
+            "lng": 54.37,
+            "name": "Abu Dhabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/russian-uae-top-diplomats-discuss-us-israeli-iranian-conflict/3896332",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177555961986749dlg",
         "title": "İran Füze Saldırısı İsrail'de Hasara Yol Açtı",
         "summary": "İsrail'in Ramat Hasharon bölgesine düzenlenen bir İran füze saldırısının ardından hasar meydana geldi. Saldırıda kaldırımlar zarar görürken, bir aracın devrildiği bildirildi. Olay yerinden paylaşılan görüntülerde, sokaklarda ve araçlarda oluşan hasarın boyutu gözler önüne serildi. Bu saldırı, bölgedeki gerilimi artırma potansiyeli taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Ramallah, Filistin"
         },
         "source": "https://www.aljazeera.com/video/digital-dilemma/2026/4/6/why-did-handala-target-fbi-director-kash-patel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775471952594f91tl",
-        "title": "İsrail Saldırılarından Kaçan Aileler Lübnan Dağlarına Sığınıyor",
-        "summary": "İsrail'in askeri operasyonlarını hava saldırıları ve kara harekatıyla tırmandırması üzerine, Lübnan genelinde bir milyondan fazla kişi yerinden edildi. İsrail saldırılarından kaçan çok sayıda aile, Lübnan'ın dağlık bölgelerinde kendilerine sığınak bulmaya çalışıyor. Bölgedeki çatışmaların şiddetlenmesi, sivil halk üzerinde ciddi bir insani kriz yaratmış durumda. Yerinden edilen bu kişilerin barınma, gıda ve sağlık gibi temel ihtiyaçlarının karşılanması büyük önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13568043/pexels-photo-13568043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:39:12.594Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775471974233t4tij",
-        "title": "İran'da Mahsur Kalan ABD Hava Kuvvetleri Mensubunun Kurtarılma Operasyonu Detayları",
-        "summary": "ABD Hava Kuvvetleri'ne mensup bir askerin İran'ın uzak bir bölgesinden kurtarılmasına yönelik operasyonun detayları kamuoyuyla paylaşıldı. Düşman bölge olarak nitelendirilen sahadan askerin çıkarılması süreci son derece karmaşık olarak tanımlandı. Operasyona birden fazla ABD hükümet kurumunun dahil olduğu belirtildi. Bu kurtarma görevinin, lojistik ve güvenlik açısından büyük zorluklar içerdiği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36146636/pexels-photo-36146636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:39:34.233Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775471997818vkdg7",
-        "title": "Trump kurtarma operasyonu sonrası zafer ilan etti ancak ABD'nin İran'daki operasyonuna yönelik tehditler devam ediyor",
-        "summary": "ABD Başkanı Trump, bir kurtarma operasyonunun ardından zafer ilan ettiğini duyurdu. Ancak bu gelişmeye rağmen, ABD'nin İran'daki potansiyel operasyonlarına yönelik tehditlerin devam ettiği belirtiliyor. Haberde, söz konusu kurtarma operasyonunun, Trump'ın İran'daki Hark Adası'nı ele geçirme veya zenginleştirilmiş uranyum tesislerine el koyma gibi kara operasyonlarına bakış açısını etkileyebileceği ifade ediliyor. Bu durum, ABD ile İran arasındaki gerilimin sürdüğüne ve bölgedeki stratejik hedeflere yönelik olası askeri müdahalelerin gündemde kalmaya devam ettiğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9731343/pexels-photo-9731343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:39:57.818Z",
-        "location": {
-            "lat": 29.23,
-            "lng": 50.33,
-            "name": "Hark Adası, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
