@@ -1,5 +1,69 @@
 [
     {
+        "id": "1775549691948b0g8q",
+        "title": "İsrail'den İran'ın Demiryollarına Yönelik Tehdit, Bölgesel Gerilimi Artırdı",
+        "summary": "İsrail, ABD Başkanı Trump'ın belirlediği sürenin dolmasına kısa bir süre kala İran'ın trenlerini ve demiryollarını hedef alabileceği tehdidinde bulundu. Bu tehditler, Trump'ın İran altyapısını yok etme yönündeki açıklamalarıyla eş zamanlı olarak geldi. Bölgedeki artan gerilimle birlikte, Suudi Arabistan ile Bahreyn'i birbirine bağlayan köprü kapatıldı. Bu durum, Orta Doğu'daki siyasi ve güvenlik durumunun hassasiyetini ve bölgesel etkileşimleri bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T08:14:51.948Z",
+        "location": {
+            "lat": 28,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775549735203dhqj8",
+        "title": "Rapora Göre Trump, İran Altyapısına Yönelik Saldırıları Artırmayı Değerlendiriyor",
+        "summary": "Eski ABD Başkanı Donald Trump'ın, İran altyapısına yönelik saldırıları artırma olasılığını değerlendirdiği bildirildi. Bu durum, İran ile yürütülen müzakerelerin başarısızlıkla sonuçlanmasının ardından ortaya çıktı. Habere göre, Trump yönetiminin Salı akşamına kadar bu konuda bir karar vermesi bekleniyor. Diplomatik çözüm arayışları ile gerilimi tırmandırma yönündeki baskılar arasında bir denge kurulmaya çalışıldığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700146/pexels-photo-5700146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T08:15:35.203Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/world/trump-weighs-escalating-strikes-on-iran-infrastructure-as-talks-falter-report-says/3895718",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17755497820808i6v1",
+        "title": "Trump, İran savaşı hakkında 'yanlış, temelsiz' iddialarda bulundu: Rapor",
+        "summary": "CNN tarafından yapılan bir doğruluk kontrolü, eski ABD Başkanı Donald Trump'ın İran savaşına ilişkin açıklamalarında 'yanlış ve temelsiz' iddialarda bulunduğunu ortaya koydu. Rapora göre, Trump'ın Usame bin Ladin, askeri kayıplar ve dış politika konularındaki beyanlarında da tutarsızlıklar tespit edildi. Bu bulgular, eski başkanın kamuoyuna yaptığı açıklamaların doğruluğu üzerine ciddi soru işaretleri yaratıyor. CNN'in araştırması, Trump'ın çeşitli konulardaki iddialarının gerçeklerle örtüşmediğini göstererek, siyasi söylemlerin denetlenmesinin önemini vurguluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/31468394/pexels-photo-31468394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T08:16:22.080Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/trump-made-false-unsubstantiated-claims-on-iran-war-report/3895703",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1775549831871qbdf5",
+        "title": "İran Nükleer Santrali'ndeki 175 Rus Personel Moskova'ya Döndü",
+        "summary": "İran'daki bir nükleer santralde görevli 175 Rus personel Moskova'ya döndü. Moskova'nın Erivan Büyükelçiliği'nin açıklamasına göre, bu tahliye, ABD ve İsrail'in İran'a karşı başlattığı savaşın başlangıcından bu yana Ermenistan üzerinden Rusya'ya dönen toplam 509 Rus vatandaşının bir parçası. Büyükelçilik, bu durumun bölgedeki artan gerilimle bağlantılı olduğunu belirtti. Rus personelinin İran'ın nükleer tesislerinden çekilmesi, bölgesel güvenlik dinamikleri açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10165700/pexels-photo-10165700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T08:17:11.871Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/175-russian-staff-leave-iran-nuclear-plant-for-moscow/3895688",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17755447958572ekhp",
         "title": "Avustralya, eski asker Roberts-Smith'i Afgan savaş suçları iddiasıyla tutukladı",
         "summary": "Avustralya, eski özel kuvvetler askeri Ben Roberts-Smith'i Afganistan'daki savaş suçları iddiaları nedeniyle gözaltına aldı. Bu tutuklama, Roberts-Smith'in silahsız Afgan erkeklerin cinayetlerine karıştığını öne süren gazetecilere karşı açtığı iftira davasını kaybetmesinin ardından gerçekleşti. Roberts-Smith, Avustralya özel kuvvetlerinde görev yapmış ve Afganistan'da çeşitli operasyonlara katılmıştı. Hakkındaki iddialar, Avustralya ordusunun Afganistan'daki eylemlerine yönelik geniş çaplı soruşturmaların bir parçası olarak uzun süredir kamuoyunun gündemindeydi. Bu gelişme, uluslararası savaş hukuku ve askeri sorumluluk konularında önemli bir adım olarak değerlendiriliyor.",
@@ -732,70 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17754170823195jh4e",
-        "title": "Trump'tan İran'a Yönelik Sert Tehditler ve Hürmüz Boğazı Gerilimi",
-        "summary": "Eski ABD Başkanı Donald Trump, sosyal medya platformları üzerinden İran liderlerine yönelik sert ve küfürlü ifadeler içeren bir paylaşımda bulundu. Bu çıkış, Trump'ın Hürmüz Boğazı'nın yeniden açılması için belirlediği son tarihle aynı zamana denk geldi. Stratejik öneme sahip Hürmüz Boğazı, küresel petrol ticareti için hayati bir geçiş noktası olup, bölgedeki gerilimlerin odak noktası olmuştur. Trump'ın bu açıklamaları, ABD ile İran arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16386082/pexels-photo-16386082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T19:24:42.319Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/trump-threatens-iran-in-expletive-filled-social-media-post?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775417108454smm5x",
-        "title": "İsrail, Gazze'ye yönelik ölümcül saldırılarını sürdürürken İran ve Lübnan'ı vurdu",
-        "summary": "İsrail, Gazze Şeridi'ne yönelik saldırılarını sürdürürken, aynı zamanda İran ve Lübnan'a da hava saldırıları düzenlediği bildirildi. Pazar günü gerçekleşen bu saldırılarda en az dört Filistinlinin yaşamını yitirdiği belirtildi. Bölgedeki gerilim, İsrail'in birden fazla cephede yürüttüğü operasyonlarla tırmanmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T19:25:08.454Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775417131464hhr4w",
-        "title": "İran'da İnternet Kesintisi Rekor Süreye Ulaşarak Hayal Kırıklığını Artırıyor",
-        "summary": "Ocak ayından bu yana İran'da uygulanan neredeyse tam internet kesintisi, ülke genelinde iş ve işletmeleri olumsuz etkilemeye devam ediyor. Bu durum, ekonomik faaliyetlerde ciddi aksaklıklara yol açarken, vatandaşların günlük yaşamını da zorlaştırıyor. İnternet erişimindeki kısıtlamalar, özellikle dijital ekonomiye bağımlı sektörlerde büyük kayıplara neden oluyor. Ülke genelinde artan hayal kırıklığı, kesintinin süresinin uzamasıyla birlikte daha da derinleşiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6633070/pexels-photo-6633070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T19:25:31.464Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775417236933ygznw",
-        "title": "Çin ve Rusya, BM Güvenlik Konseyi'ndeki Hürmüz Boğazı Kararını Görüştü",
-        "summary": "Çin ve Rusya'nın üst düzey diplomatları, Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) önümüzdeki hafta oylanacak olan Hürmüz Boğazı'na ilişkin karar tasarısını ele aldı. Çin Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Çin Dışişleri Bakanı Wang Yi ve Rusya Dışişleri Bakanı Sergey Lavrov telefon görüşmesi gerçekleştirdi. Görüşmede iki bakan, BMGK'nın daimi üyeleri olarak \"ilkesel konularda adaleti savunma ve objektif ve dengeli bir yaklaşım benimseme\" konusunda mutabık kaldı. Küresel petrol ticareti için kritik bir geçiş noktası olan Hürmüz Boğazı, bölgedeki jeopolitik gerilimlerin odak noktalarından biri olarak biliniyor. Bu diplomatik temas, bölgedeki istikrar ve uluslararası denizcilik güvenliği açısından önem taşıyan bir kararın oylaması öncesinde gerçekleşti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33552552/pexels-photo-33552552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T19:27:16.933Z",
-        "location": {
-            "lat": 23.5859,
-            "lng": 58.4059,
-            "name": "Muscat, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/top-chinese-russian-diplomats-discuss-next-weeks-vote-on-resolution-on-strait-of-hormuz-in-un-security-council/3892970",
         "trendScore": 85,
         "isBreaking": false
     }
