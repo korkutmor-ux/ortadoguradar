@@ -1,5 +1,165 @@
 [
     {
+        "id": "1775633230615lht34",
+        "title": "Yemenli Öğretmenler Maaş Krizi Nedeniyle Uçurumun Eşiğinde",
+        "summary": "Yemen'de öğretmenler, yetersiz ve gecikmeli maaşlar nedeniyle büyük zorluklar yaşıyor. Ülke genelinde öğretmenler, geçimlerini sağlamak amacıyla birden fazla işte çalışmak zorunda kalıyor ve açlıkla mücadele ediyor. Bu durum, eğitim sektöründe ciddi aksaklıklara yol açarken, öğretmenler arasında artan protestolarla kendini gösteriyor. Maaşların çökmesi, Yemen'deki insani krizin derinleştiğini ve toplumun temel hizmetlerinden biri olan eğitimin sürdürülebilirliğini tehdit ettiğini ortaya koyuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8466704/pexels-photo-8466704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:27:10.615Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/8/yemens-teachers-pushed-to-the-brink-as-salaries-collapse?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775633254435ruhxd",
+        "title": "ABD ve İran Arasında İki Haftalık Ateşkes Anlaşması Sağlandı",
+        "summary": "ABD ve İran, eski Başkan Trump'ın çatışmayı tırmandırma süresinin dolmasına sadece bir saat kala iki haftalık bir ateşkes üzerinde anlaştı. Bu anlaşma, ABD ve İsrail'in İran'a yönelik saldırılarının 40. gününde gerçekleşti. Söz konusu ateşkesin, bölgedeki gerilimi azaltma potansiyeli taşıdığı belirtiliyor. Anlaşmanın detayları ve kalıcılığına ilişkin belirsizlikler devam ederken, tarafların bu süre zarfında diplomatik çözüm arayışlarını sürdürmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9867278/pexels-photo-9867278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:27:34.435Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/8/iran-war-what-is-happening-on-day-40-of-us-israeli-attacks?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1775633313867gz8x9",
+        "title": "Hürmüz Boğazı'nda İran ve Çin, ABD Doları Hegemonyasını Hedef Alıyor",
+        "summary": "Hürmüz Boğazı'nda İran ve Çin'in, ABD dolarının küresel ticaretteki hakimiyetini azaltma yönünde adımlar attığı bildirildi. Bu girişim, özellikle Çin yuanının statüsünü güçlendirmeyi hedefliyor. Tahran ve Pekin yönetimleri, bu stratejinin her iki ülkenin de ekonomik ve jeopolitik çıkarlarına hizmet edeceğine inanıyor. Söz konusu hamle, enerji ticareti başta olmak üzere bölgesel ve küresel finansal dinamikleri etkileme potansiyeli taşıyor ve doların uluslararası ticaretteki rolüne meydan okuyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/30413636/pexels-photo-30413636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:28:33.867Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/8/in-strait-of-hormuz-iran-and-china-take-aim-at-us-dollar-hegemony?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17756333373603r4ps",
+        "title": "İran ateşkes anlaşması Trump'a savaştan çıkış yolu sunuyor - ancak yüksek bir bedelle",
+        "summary": "İran ile yapılan iki haftalık ateşkes anlaşmasının, dönemin ABD Başkanı Trump yönetimine olası bir savaştan çıkış yolu sunduğu belirtiliyor. Ancak bu anlaşmanın yüksek bir bedeli olduğu ifade ediliyor. Habere göre, İran ile ateşkes sürecine giden yol, dünyanın geri kalanının ABD'ye bakış açısını temelden değiştirmiş olabilir. Bu durum, ABD'nin Orta Doğu politikasındaki olası değişimleri ve uluslararası algı üzerindeki etkilerini gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19329242/pexels-photo-19329242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:28:57.360Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775633363304spfe3",
+        "title": "ABD ve İran Arasında İki Haftalık Ateşkes: Detaylar",
+        "summary": "ABD ve İran arasında iki haftalık geçici bir ateşkes sağlandığı bildirildi. Bu ateşkesin, ABD ve İsrail'in İran'a yönelik koordineli saldırılarından bir aydan fazla bir süre sonra gelmesi dikkat çekiyor. Anlaşmanın detayları ve kapsamı hakkında henüz tam bilgi verilmezken, tarafların gerilimi azaltma amacı taşıdığı düşünülüyor. Bölgedeki tansiyonun yüksek olduğu bir dönemde gerçekleşen bu ateşkesin, uzun vadeli bir çözüm için zemin hazırlayıp hazırlamayacağı merak konusu. Uluslararası toplum, gelişmeleri yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:29:23.304Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17756333882448j42q",
+        "title": "Pakistan, ABD ve İran Arasında Kırılgan Ateşkesin Sağlanmasına Yardımcı Oldu",
+        "summary": "BBC'nin haberine göre, Pakistan'ın ABD ve İran arasındaki gerilimi azaltmaya yönelik diplomatik çabalarda önemli bir rol oynadığı belirtildi. Tarihsel olarak İran ile güçlü ilişkilere sahip olan Pakistan'ın arabuluculuğu sayesinde, iki ülke arasında kırılgan bir ateşkesin sağlanabildiği ifade edildi. Haberde, anlaşmanın başlangıçta belirsiz olduğu ancak Pakistan'ın çabalarıyla sonuca ulaşıldığı vurgulandı. Bu gelişme, Orta Doğu'daki istikrar açısından kritik bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29982340/pexels-photo-29982340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:29:48.244Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775633469504u4via",
+        "title": "Irak, ABD-İran ateşkesinin bölgede güvenlik ve istikrarı güçlendireceğini belirtti",
+        "summary": "Irak, ABD ile İran arasında sağlanacak bir ateşkesin bölgedeki güvenlik ve istikrarı güçlendireceğine inandığını açıkladı. Irak Dışişleri Bakanlığı tarafından yapılan açıklamada, böyle bir adımın bölgede sükunet beklentilerini artıracağı vurgulandı. Bağdat yönetimi, iki ülke arasındaki gerilimin düşürülmesinin bölgesel barışa önemli katkılar sağlayacağını ifade etti. Bu açıklama, Irak'ın bölgedeki diplomatik çabalarını ve arabuluculuk rolünü yansıtmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:31:09.504Z",
+        "location": {
+            "lat": 33.34,
+            "lng": 44.36,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-us-iran-ceasefire-to-help-strengthen-security-stability-in-region/3897189",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17756334941355hew3",
+        "title": "İsrail Muhalefet Lideri Lapid'den Netanyahu'ya ABD-İran Ateşkesi Eleştirisi",
+        "summary": "İsrail muhalefet lideri Yair Lapid, Başbakan Binyamin Netanyahu hükümetinin ABD ile İran arasındaki ateşkesi desteklemesini sert bir dille eleştirdi. Lapid, bu durumu \"siyasi ve stratejik bir başarısızlık\" olarak nitelendirdi. Muhalefet lideri, İsrail'in ABD'nin İran'a yönelik saldırılarını durdurma kararı gibi kilit bölgesel kararlardan dışlandığını savundu. Lapid'e göre, Netanyahu hükümetinin bu tutumu İsrail'in ulusal çıkarlarına aykırıdır ve ülkenin bölgesel konumunu zayıflatmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13026513/pexels-photo-13026513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:31:34.135Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-slams-netanyahu-s-support-for-us-iran-ceasefire-calls-it-political-strategic-failure-/3897142",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775633515294onhfm",
+        "title": "Umman, İran ve ABD Arasındaki İki Haftalık Ateşkesi Memnuniyetle Karşıladı",
+        "summary": "Umman Sultanlığı, İran ile ABD arasında sağlanan iki haftalık ateşkesi memnuniyetle karşıladığını açıkladı. Maskat yönetimi, taraflar arasındaki çatışmayı sona erdirmeye yönelik arabuluculuk çabalarını takdirle karşıladığını belirtti. Yapılan açıklamada, bölgedeki gerilimin azaltılması ve kalıcı bir çözüm bulunması çağrısında bulunuldu. Bu gelişmenin, bölgesel istikrarın sağlanması açısından önemli bir adım olduğu vurgulandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32137371/pexels-photo-32137371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:31:55.294Z",
+        "location": {
+            "lat": 23.5859,
+            "lng": 58.4059,
+            "name": "Muscat, Oman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oman-welcomes-2-week-ceasefire-between-iran-us/3897086",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17756335377185qajn",
+        "title": "Amerikalıların İsrail ve Netanyahu'ya Yönelik Olumsuz Görüşleri Artıyor: Anket",
+        "summary": "Pew Araştırma Merkezi tarafından yapılan bir ankete göre, Amerikalıların İsrail'e yönelik olumsuz görüşleri artış gösteriyor. Anket sonuçlarına göre, Amerikalıların yüzde 60'ı İsrail hakkında olumsuz düşüncelere sahip. Ayrıca, Amerikalıların yüzde 59'u İsrail Başbakanı Netanyahu'nun dünya meselelerini ele alış biçimine güven duymadığını belirtiyor. Bu bulgular, ABD kamuoyunun İsrail ve liderliğine yönelik değişen algısını ortaya koyuyor ve ABD'nin Orta Doğu politikaları üzerindeki potansiyel etkileri açısından dikkat çekiyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34355562/pexels-photo-34355562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T07:32:17.718Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/americas/negative-views-of-israel-netanyahu-rising-among-americans-survey/3897087",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1775627348332btd0q",
         "title": "ABD Ateşkesi, İran'ın On Maddelik Planı Üzerine Müzakerelere İzin Veriyor",
         "summary": "Amerika Birleşik Devletleri eski Başkanı Donald Trump'ın iki haftalık ateşkes ilan etmesi, İran'ın sunduğu on maddelik plan üzerine müzakerelerin önünü açtı. Bu gelişme, ABD ile İran arasındaki gerilimin azaltılması ve diplomatik bir çözüm bulunması yönünde önemli bir adım olarak değerlendiriliyor. İran'ın planının detayları henüz kamuoyuyla paylaşılmamış olsa da, bu ateşkes süreci taraflar arasında diyalog kurulması için kritik bir fırsat sunuyor. Bölgesel istikrarın sağlanması açısından büyük önem taşıyan bu müzakerelerin, iki ülke arasındaki ilişkilerin geleceğini şekillendirmesi bekleniyor.",
@@ -637,166 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/175-russian-staff-leave-iran-nuclear-plant-for-moscow/3895688",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17755447958572ekhp",
-        "title": "Avustralya, eski asker Roberts-Smith'i Afgan savaş suçları iddiasıyla tutukladı",
-        "summary": "Avustralya, eski özel kuvvetler askeri Ben Roberts-Smith'i Afganistan'daki savaş suçları iddiaları nedeniyle gözaltına aldı. Bu tutuklama, Roberts-Smith'in silahsız Afgan erkeklerin cinayetlerine karıştığını öne süren gazetecilere karşı açtığı iftira davasını kaybetmesinin ardından gerçekleşti. Roberts-Smith, Avustralya özel kuvvetlerinde görev yapmış ve Afganistan'da çeşitli operasyonlara katılmıştı. Hakkındaki iddialar, Avustralya ordusunun Afganistan'daki eylemlerine yönelik geniş çaplı soruşturmaların bir parçası olarak uzun süredir kamuoyunun gündemindeydi. Bu gelişme, uluslararası savaş hukuku ve askeri sorumluluk konularında önemli bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18527688/pexels-photo-18527688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T06:53:15.857Z",
-        "location": {
-            "lat": 34.52,
-            "lng": 69.17,
-            "name": "Kabul, Afganistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775544816999nhqkf",
-        "title": "İran: Tahran'daki Sinagoga ABD-İsrail Füzesi İsabet Etti",
-        "summary": "İran, başkent Tahran'da bulunan bir sinagoga ABD ve İsrail'e ait olduğu iddia edilen bir füzenin isabet ettiğini duyurdu. Mehr Haber Ajansı tarafından yayınlanan bir videoya göre, söz konusu saldırı sinagogda geniş çaplı hasara yol açtı. İranlı yetkililer, olayın sorumluluğunu ABD ve İsrail'e yüklerken, saldırının detayları ve hedef seçimi hakkında henüz resmi bir açıklama yapılmadı. Bu iddia, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5974864/pexels-photo-5974864.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T06:53:36.999Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17755448554953gw3l",
-        "title": "Trump'ın İran Ültimatomu İçin Süre Daralıyor, Çözüm İşareti Yok",
-        "summary": "ABD Başkanı Trump'ın İran'a yönelik Hürmüz Boğazı'nın açılması talebiyle verdiği ültimatom için belirlenen Salı günkü son tarihe saatler kala, diplomatik bir ilerleme kaydedildiğine dair herhangi bir işaret bulunmuyor. Bu durum, ABD Başkanı'nı siyasi açıdan hassas bir konuma sokarken, bölgedeki gerilimin artmasına neden oluyor. Taraflar arasında bir çözüm bulunamaması, uluslararası kamuoyunda endişeyle izleniyor. Sürenin dolmasıyla birlikte atılacak adımlar merakla bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14456981/pexels-photo-14456981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T06:54:15.495Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775539573323j43nw",
-        "title": "Trump'tan İran'ın Enerji Santrallerine Yönelik Tehdit",
-        "summary": "Eski ABD Başkanı Donald Trump'ın İran'ın enerji santrallerini hedef alma tehdidi gündeme geldi. Trump, sosyal medya üzerinden yaptığı bir paylaşımda, \"Salı günü enerji santrali günü olacak\" ifadelerini kullandı. Bu açıklama, ABD ile İran arasındaki gerilimi artırabilecek potansiyel bir askeri eylem veya güçlü bir uyarı olarak yorumlandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12720170/pexels-photo-12720170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T05:26:13.323Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775539599748b028r",
-        "title": "İran, ABD'nin Ateşkes Teklifini Reddetti: Geçmiş Kayıtlar Gerekçe Gösterildi",
-        "summary": "Siyasi analist Trita Parsi, İran'ın ABD tarafından önerilen bir ateşkes anlaşması fikrini reddetmesinin şaşırtıcı olmaması gerektiğini belirtti. Parsi, İran'ın bu tutumunu ABD ve İsrail'in geçmişteki eylemlerine dayandırdığını ifade etti. Analist, İran'ın bu iki ülkenin bölgedeki sicilini göz önünde bulundurarak bir ateşkes anlaşmasına neden sıcak bakmayacağı sorusunun gündeme geldiğini kaydetti. Bu açıklama, Orta Doğu'daki diplomatik çabaların ve bölgesel aktörler arasındaki güvensizliğin derinliğini bir kez daha gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T05:26:39.748Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177553963597537ge2",
-        "title": "İsrail Saldırıları Lübnan'daki Ayrılıkları Derinleştiriyor",
-        "summary": "İsrail'in Lübnan'a yönelik artan bombardımanı ve kara harekatı, ülkedeki mevcut ayrılıkları daha da belirginleştiriyor. Devam eden askeri operasyonlar, Lübnan'da halihazırda var olan yerinden edilme krizini ciddi şekilde kötüleştiriyor. Bu durum, Lübnan içindeki siyasi ve toplumsal fay hatlarını derinleştirerek ülkenin birliğini tehdit ediyor. Bölgedeki gerilimin tırmanması, Lübnan'ın iç istikrarını olumsuz etkilemeye devam ediyor ve insani durumu ağırlaştırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T05:27:15.975Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17755396743407f0xr",
-        "title": "Gazze'de İsrail saldırıları ve Hamas ile milisler arasındaki çatışmalarda on kişi hayatını kaybetti",
-        "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail saldırıları ve Hamas ile bir milis grubu arasındaki çatışmalar sonucunda on kişinin hayatını kaybettiği bildirildi. Yerel kaynaklardan edinilen bilgilere göre, İsrail'in düzenlediği hava saldırıları Hamas güvenlik personelini hedef aldı. Bu saldırılar, Hamas güçlerinin Maghazi kampı yakınlarında İsrail destekli olduğu belirtilen bir milis grubuyla çatışmasının ardından gerçekleşti. Bölgedeki gerilimin tırmandığı ve can kayıplarının yaşandığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T05:27:54.340Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775520099663oq0ge",
-        "title": "Suudi Arabistan, 7 Balistik Füzenin Engellenmesinin Ardından Enerji Tesisleri Yakınına Enkaz Düştüğünü Duyurdu",
-        "summary": "Suudi Arabistan Savunma Bakanlığı, ülkenin doğu bölgesinde enerji tesisleri yakınlarına enkaz düştüğünü bildirdi. Yapılan açıklamada, yedi balistik füzenin başarıyla engellendiği belirtildi. Engellenen füzelerin enkazının düşmesi sonucu bölgedeki enerji altyapısında hasar oluşup oluşmadığına dair kapsamlı değerlendirme çalışmalarının devam ettiği ifade edildi. Olayın ardından Doğu Bölgesi'nde güvenlik önlemlerinin artırıldığı ve durumun yakından takip edildiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31351508/pexels-photo-31351508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T00:01:39.663Z",
-        "location": {
-            "lat": 26.39,
-            "lng": 50.1,
-            "name": "Dammam, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-debris-fell-near-energy-sites-after-interception-of-7-ballistic-missiles/3895513",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17755059545828xbm8",
-        "title": "Rusya'nın Ukrayna Saldırıları Sonrası Odesa'da Enkazdan Çocuk Kurtarıldı",
-        "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarını yoğunlaştırmasıyla Odesa kentinde bir ev enkazından bir çocuk kurtarıldı. Rus saldırısında en az üç kişinin hayatını kaybettiği bildirildi. Kurtarma ekipleri, çöken binanın enkazında arama ve kurtarma çalışmalarını sürdürüyor. Bu olay, devam eden savaşın siviller üzerindeki yıkıcı etkilerini ve insani dramı bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15861615/pexels-photo-15861615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T20:05:54.582Z",
-        "location": {
-            "lat": 46.4825,
-            "lng": 30.7233,
-            "name": "Odesa, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775505976889pgrb2",
-        "title": "İran'da Evlere Yönelik Saldırıların Ardından Kurtarma Çalışmaları Başlatıldı",
-        "summary": "İran'da evlere yönelik saldırıların ardından kurtarma ekipleri, enkaz altında kalanları arama çalışmalarına başladı. İran Kızılayı tarafından yayınlanan görüntüler, saldırıların yol açtığı hasarı gözler önüne serdi. Haberlere göre, söz konusu saldırılar ABD ve İsrail tarafından gerçekleştirildi. Bölgede can kaybı ve yaralı olup olmadığına dair henüz net bir bilgi bulunmuyor. Kurtarma operasyonları devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T20:06:16.889Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/rescuers-search-for-survivors-after-strikes-hit-homes-in-iran?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
