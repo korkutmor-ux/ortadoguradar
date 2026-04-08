@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775654923556dl891",
+        "title": "ABD, Operasyonlara Hazır Olduğunu Belirtirken, Pentagon İran'ın Hava Savunmasının Kalmadığını İddia Etti",
+        "summary": "ABD Genelkurmay Başkanlığı Başkanı, ABD kuvvetlerinin emir verilmesi halinde operasyonlara yeniden başlamaya hazır olduğunu bildirdi. Pentagon'dan yapılan açıklamada ise İran'ın artık bir hava savunmasına sahip olmadığı iddia edildi. Açıklamada, ABD'nin \"İran semalarına sahip olduğu\" öne sürüldü. Bu iddialar, bölgedeki güvenlik dinamikleri ve ABD-İran ilişkileri açısından önemli bir gerilimi işaret ediyor. Gelişmeler, Orta Doğu'daki askeri ve siyasi durumu yakından ilgilendiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19343572/pexels-photo-19343572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T13:28:43.556Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-forces-remain-ready-to-resume-operations-if-ordered-joint-chiefs-of-staff-chairman/3898027",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17756431107355hb5c",
         "title": "KİK ve Diğer Orta Doğu Ülkeleri, İran-ABD Ateşkes Duyurusuna Tepki Gösterdi",
         "summary": "Körfez İşbirliği Konseyi (KİK) üyesi ülkeler ve diğer Orta Doğu ulusları, İran ile ABD arasında ilan edilen geçici ateşkes duyurusuna tepki gösterdi. Bölge ülkeleri, bu geçici ateşkese olumlu yaklaşarak memnuniyetlerini dile getirdi. Açıklamalarda, çatışmanın kalıcı olarak sona erdirilmesi için taraflar arasında müzakerelere başlanması gerektiği vurgulandı. Bu gelişme, bölgedeki gerilimin azaltılması ve diplomatik çözüm yollarının aranması açısından önemli bir adım olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Şiraz, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-it-targeted-another-petrochemical-complex-in-irans-shiraz-city/3895801",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775549691948b0g8q",
-        "title": "İsrail'den İran'ın Demiryollarına Yönelik Tehdit, Bölgesel Gerilimi Artırdı",
-        "summary": "İsrail, ABD Başkanı Trump'ın belirlediği sürenin dolmasına kısa bir süre kala İran'ın trenlerini ve demiryollarını hedef alabileceği tehdidinde bulundu. Bu tehditler, Trump'ın İran altyapısını yok etme yönündeki açıklamalarıyla eş zamanlı olarak geldi. Bölgedeki artan gerilimle birlikte, Suudi Arabistan ile Bahreyn'i birbirine bağlayan köprü kapatıldı. Bu durum, Orta Doğu'daki siyasi ve güvenlik durumunun hassasiyetini ve bölgesel etkileşimleri bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T08:14:51.948Z",
-        "location": {
-            "lat": 28,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
