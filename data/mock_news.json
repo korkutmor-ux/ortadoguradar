@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775676178074mme7q",
+        "title": "Beyaz Saray: Trump'ın İran'ın Nükleer Zenginleştirmesine Karşı 'Kırmızı Çizgisi' Devam Ediyor",
+        "summary": "Beyaz Saray'dan yapılan açıklamada, eski Başkan Trump döneminde belirlenen İran'ın nükleer zenginleştirmesine karşı 'kırmızı çizginin' hala geçerliliğini koruduğu vurgulandı. Açıklamada ayrıca, ABD Başkan Yardımcısı JD Vance'in Cumartesi günü Pakistan'da İran ile gerçekleştirilecek müzakerelerde ABD heyetine başkanlık edeceği belirtildi. Bu görüşmelerin, İran'ın nükleer programına ilişkin uluslararası endişeleri gidermeye yönelik diplomatik çabaların bir parçası olduğu ifade edildi. ABD'nin bu konudaki kararlı tutumu ve müzakerelerin yeri, bölgesel ve küresel diplomasi açısından önem arz ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5520322/pexels-photo-5520322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T19:22:58.074Z",
+        "location": {
+            "lat": 30.3753,
+            "lng": 69.3451,
+            "name": "Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775676247236ajlgj",
+        "title": "ABD-İran Ateşkesi Sonrası Hürmüz Boğazı'nın Yeniden Açılması İçin Daha Fazla Çalışma Gerekiyor",
+        "summary": "İngiltere Başbakanı Keir Starmer, ABD ile İran arasında sağlanan ateşkesin ardından Hürmüz Boğazı'nın yeniden tam kapasiteyle açılması için daha fazla çalışmaya ihtiyaç olduğunu belirtti. Küresel petrol ticaretinin ana arterlerinden biri olan Hürmüz Boğazı, Basra Körfezi'ni Umman Denizi'ne bağlayan stratejik bir geçittir. Boğazın güvenli ve serbest geçişlere tamamen açılması, uluslararası denizcilik ve enerji piyasaları için hayati önem taşımaktadır. Starmer'ın açıklaması, bölgedeki gerilimin düşürülmesi ve normalleşme sürecinin devam etmesi yönündeki diplomatik çabaların altını çizmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18370086/pexels-photo-18370086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T19:24:07.236Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Umman Denizi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775660054276m7ynr",
         "title": "ABD-İran Ateşkes Anlaşmasından Saatler Sonra Lavan Rafinerisindeki Yangın Devam Ediyor",
         "summary": "İran'ın Lavan Adası'nda bulunan bir petrol rafinerisinde çıkan yangın, ABD ile İran arasında varılan ateşkes anlaşmasından saatler sonra da devam etti. Rafineriden yükselen yoğun siyah dumanlar bölgeden gözlemlendi. Yangının nedeni hakkında henüz resmi bir açıklama yapılmazken, olay bölgedeki gerilimi artırma potansiyeli taşıyor. Bu gelişme, iki ülke arasındaki hassas diplomatik süreci takip eden bir dönemde yaşandı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/live-blog/pentagon-cancels-press-briefing-with-defense-secretary-joint-chiefs-of-staff/200",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1775555248407g6ahi",
-        "title": "ABD-İsrail saldırıları İran'ın kuzey ve batısındaki önemli havalimanlarını vurdu",
-        "summary": "İran'ın kuzey ve batı bölgelerinde bulunan Khorramabad ve Mehrabad havalimanlarının hedef alındığı bildirildi. Haberlere göre, bu saldırıların ABD ve İsrail tarafından gerçekleştirildiği iddia ediliyor. Başkent Tahran ve Kum şehirleri genelinde patlama sesleri duyulduğu yönünde raporlar geliyor. Bu olay, Orta Doğu'da gerilimi tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36352111/pexels-photo-36352111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T09:47:28.407Z",
-        "location": {
-            "lat": 35.68,
-            "lng": 51.38,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-strikes-hit-key-airports-in-northern-western-iran/3895839",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "17755552723830u35w",
-        "title": "Batı Şeria'da İsrail Baskını Sonrası Yaşlı Filistinli Kadın Hayatını Kaybetti",
-        "summary": "Batı Şeria'nın Kalkilya bölgesinde İsrail güçlerinin bir eve düzenlediği baskın sonrasında 68 yaşındaki Filistinli bir kadın kalp krizi geçirerek hayatını kaybetti. Yerel kaynaklardan edinilen bilgilere göre, İsrail askerlerinin konuta girmesiyle birlikte yaşlı kadın fenalaşarak kalp krizi geçirdi. Olayın ardından sağlık ekipleri müdahale etse de kadın kurtarılamadı. Bu olay, bölgedeki güvenlik operasyonlarının siviller üzerindeki etkilerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9614916/pexels-photo-9614916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T09:47:52.383Z",
-        "location": {
-            "lat": 32.2,
-            "lng": 35,
-            "name": "Kalkilya, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/elderly-palestinian-woman-dies-of-heart-attack-after-israeli-raid-on-west-bank-home/3895826",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
