@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775679105479rjzk3",
+        "title": "Dünya, ABD-İran Ateşkesi Ortasında İsrail'in Lübnan'a Yönelik 'Acımasız' Saldırılarına Tepki Gösteriyor",
+        "summary": "Lübnan Sivil Savunma Teşkilatı'nın bildirdiğine göre, İsrail'in Lübnan'a yönelik saldırılarında en az 254 kişi yaşamını yitirdi ve 1.165 kişi yaralandı. Dünya genelinde bu 'acımasız' olarak nitelendirilen saldırılara karşı tepkiler yükseldi. Olaylar, ABD ile İran arasında bir ateşkesin sağlandığı bir dönemde meydana geldi. Bu gelişmeler, Orta Doğu'daki bölgesel gerilimleri yeniden gündeme taşıdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T20:11:45.479Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775676178074mme7q",
         "title": "Beyaz Saray: Trump'ın İran'ın Nükleer Zenginleştirmesine Karşı 'Kırmızı Çizgisi' Devam Ediyor",
         "summary": "Beyaz Saray'dan yapılan açıklamada, eski Başkan Trump döneminde belirlenen İran'ın nükleer zenginleştirmesine karşı 'kırmızı çizginin' hala geçerliliğini koruduğu vurgulandı. Açıklamada ayrıca, ABD Başkan Yardımcısı JD Vance'in Cumartesi günü Pakistan'da İran ile gerçekleştirilecek müzakerelerde ABD heyetine başkanlık edeceği belirtildi. Bu görüşmelerin, İran'ın nükleer programına ilişkin uluslararası endişeleri gidermeye yönelik diplomatik çabaların bir parçası olduğu ifade edildi. ABD'nin bu konudaki kararlı tutumu ve müzakerelerin yeri, bölgesel ve küresel diplomasi açısından önem arz ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "177555522747629ixv",
-        "title": "Pentagon, Savunma Bakanı ve Genelkurmay Başkanları ile Basın Toplantısını İptal Etti",
-        "summary": "ABD Savunma Bakanlığı (Pentagon), Savunma Bakanı ve Genelkurmay Başkanları'nın katılımıyla düzenlenmesi planlanan basın toplantısını iptal ettiğini duyurdu. Toplantının neden iptal edildiğine dair herhangi bir resmi açıklama yapılmadı. Bu durum, ABD'nin ulusal güvenlik ve dış politika çevrelerinde çeşitli spekülasyonlara yol açtı. Pentagon'un küresel askeri operasyonları ve stratejik kararları göz önüne alındığında, üst düzey bir bilgilendirme toplantısının gerekçesiz iptali dikkat çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8730980/pexels-photo-8730980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T09:47:07.476Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aa.com.tr/en/live-blog/pentagon-cancels-press-briefing-with-defense-secretary-joint-chiefs-of-staff/200",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
