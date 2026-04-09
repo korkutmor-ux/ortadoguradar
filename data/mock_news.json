@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775724771604zjwqn",
+        "title": "Bowen: Ateşkes Siviller İçin Bir Nefes Alma Anlamına Geliyor, Ancak Uzun Sürmeyebilir",
+        "summary": "Uluslararası editör Jeremy Bowen'ın değerlendirmesine göre, bölgedeki bir ateşkes siviller için geçici bir rahatlama sağlamaktadır. Ancak bu ateşkesin ne kadar süreceği ve kalıcı bir barış anlaşmasına dönüşüp dönüşmeyeceği belirsizliğini korumaktadır. Bowen, devam eden savaşın ve bunun doğurduğu sonuçların Orta Doğu coğrafyasını derinden etkileyerek yeniden şekillendirdiğini belirtmektedir. Bölgedeki gelişmelerin uzun vadeli etkileri yakından izlenmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3926749/pexels-photo-3926749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T08:52:51.604Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775724829159hl6a8",
+        "title": "İsrail'in Lübnan'a Yönelik Hava Saldırılarında Can Kaybı Artıyor",
+        "summary": "İsrail'in Lübnan'a yönelik hava saldırıları devam ediyor. Son olarak, güney Lübnan'a düzenlenen saldırılarda 17 kişinin hayatını kaybettiği bildirildi. Çarşamba günü itibarıyla, Beyrut dahil Lübnan genelindeki İsrail saldırılarında toplam 254 kişi yaşamını yitirirken, 1.165 kişi de yaralandı. Bu saldırılar, bölgedeki çatışma ve güvenlik durumunu daha da kötüleştirerek uluslararası toplumda endişelere neden oluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982144/pexels-photo-35982144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T08:53:49.159Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/live-blog/israel-pounds-beirut-as-lebanon-left-out-of-ceasefire-deal/552",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775718214007ih5d9",
         "title": "ABD ile yapılan ateşkes anlaşması İran'daki muhafazakarları neden endişelendiriyor?",
         "summary": "BBC News Farsça muhabiri Kasra Naji'nin analizine göre, ABD ile varılan iki haftalık ateşkes anlaşması, İran'daki muhafazakar çevrelerde rahatsızlığa yol açtı. Anlaşmanın, Washington ile Tahran arasında doğrudan görüşmelerin önünü açma potansiyeli taşıması, bu kesimlerin tepkisini çekiyor. İran'ın iç siyasetinde önemli bir etkiye sahip olan muhafazakarlar, ABD ile herhangi bir yakınlaşmaya temkinli yaklaşıyor. Bu durum, ateşkesin sadece bölgesel gerilimi azaltmakla kalmayıp, aynı zamanda İran'ın iç siyasetinde de yeni tartışmaları tetiklediğini gösteriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/7/get-a-grip-how-iranian-embassies-mocked-trumps-vulgar-threat?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1775570199020jt4km",
-        "title": "Rusya ve BAE Dışişleri Bakanları ABD-İsrail-İran Gerilimini Görüştü",
-        "summary": "Rusya ve Birleşik Arap Emirlikleri (BAE) dışişleri bakanları, ABD, İsrail ve İran arasındaki gerilimi ele almak üzere bir araya geldi. Rusya Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, diplomatlar Körfez'deki tırmanışa ilişkin \"gizli bir görüş alışverişinde\" bulundu. Görüşmelerde, bölgedeki mevcut durum ve potansiyel riskler değerlendirildi. Taraflar, bölgesel istikrarın korunması ve gerilimin azaltılması yollarını müzakere etti. Bu görüşme, Orta Doğu'daki karmaşık dinamiklerin uluslararası aktörler tarafından yakından takip edildiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T13:56:39.020Z",
-        "location": {
-            "lat": 24.45,
-            "lng": 54.37,
-            "name": "Abu Dhabi, BAE"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/russian-uae-top-diplomats-discuss-us-israeli-iranian-conflict/3896332",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177555961986749dlg",
-        "title": "İran Füze Saldırısı İsrail'de Hasara Yol Açtı",
-        "summary": "İsrail'in Ramat Hasharon bölgesine düzenlenen bir İran füze saldırısının ardından hasar meydana geldi. Saldırıda kaldırımlar zarar görürken, bir aracın devrildiği bildirildi. Olay yerinden paylaşılan görüntülerde, sokaklarda ve araçlarda oluşan hasarın boyutu gözler önüne serildi. Bu saldırı, bölgedeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27274821/pexels-photo-27274821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T11:00:19.867Z",
-        "location": {
-            "lat": 32.145,
-            "lng": 34.845,
-            "name": "Ramat Hasharon, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-missile-strike-damages-cars-and-street-in-israel?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
