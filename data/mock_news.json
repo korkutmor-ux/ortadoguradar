@@ -1,5 +1,21 @@
 [
     {
+        "id": "17758159151929b0zk",
+        "title": "Trump: İran'ın Hürmüz Boğazı'ndaki Tutumu Anlaşmaya Aykırı",
+        "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndaki tutumunu sert bir dille eleştirdi. Trump, İran'ın bu stratejik su yolunu \"çok kötü yönettiğini\" ve mevcut anlaşmalara aykırı davrandığını belirtti. Bu açıklamalar, İsrail ve Lübnan'ın barış görüşmelerine başlama kararı aldığı bir döneme denk geldi. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle uluslararası arenada büyük önem taşıyor. ABD ve İran arasındaki gerilim, bölgedeki siyasi dinamikleri etkilemeye devam ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16691786/pexels-photo-16691786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T10:11:55.193Z",
+        "location": {
+            "lat": 30,
+            "lng": 40,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775811230307pj6qs",
         "title": "ABD-İsrail Saldırıları Sonrası İran'da Ateşkes ve Bölgesel Gerilimler",
         "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının 42. gününde, bölgede önemli bir gelişme yaşandı. Pakistan'ın arabuluculuğunda ABD ile İran arasında bir ateşkes anlaşması yürürlüğe girdi. Ancak, ateşkesin kapsamı ve uygulanış biçimine dair taraflar arasında devam eden anlaşmazlıklar dikkat çekiyor. Bu anlaşmazlıkların, Orta Doğu genelindeki bölgesel gerilimleri daha da tırmandırdığı belirtiliyor. Gelişmeler, bölgedeki güvenlik dinamiklerini yakından etkilemeye devam ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/oman-welcomes-2-week-ceasefire-between-iran-us/3897086",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17756335377185qajn",
-        "title": "Amerikalıların İsrail ve Netanyahu'ya Yönelik Olumsuz Görüşleri Artıyor: Anket",
-        "summary": "Pew Araştırma Merkezi tarafından yapılan bir ankete göre, Amerikalıların İsrail'e yönelik olumsuz görüşleri artış gösteriyor. Anket sonuçlarına göre, Amerikalıların yüzde 60'ı İsrail hakkında olumsuz düşüncelere sahip. Ayrıca, Amerikalıların yüzde 59'u İsrail Başbakanı Netanyahu'nun dünya meselelerini ele alış biçimine güven duymadığını belirtiyor. Bu bulgular, ABD kamuoyunun İsrail ve liderliğine yönelik değişen algısını ortaya koyuyor ve ABD'nin Orta Doğu politikaları üzerindeki potansiyel etkileri açısından dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34355562/pexels-photo-34355562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T07:32:17.718Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/negative-views-of-israel-netanyahu-rising-among-americans-survey/3897087",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
