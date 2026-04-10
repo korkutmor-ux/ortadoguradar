@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775836664809fyqij",
+        "title": "ABD'de Enflasyon İran Savaşı ve Hürmüz Ablukası Ortamında Yükseldi",
+        "summary": "ABD hükümetinin yayımladığı bir rapora göre, ülkede enflasyon oranları yükseliş gösterdi. Mart ayında benzin fiyatları yüzde 21,2 oranında artış kaydetti. Yakıt fiyatları, ateşkes ilan edilmesine rağmen galon başına 4 doların üzerinde seyretmeye devam ediyor. Bu artışın, İran'daki savaş durumu ve Hürmüz Boğazı'ndaki ablukanın etkisiyle gerçekleştiği belirtiliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T15:57:44.809Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775836701968oj3bd",
+        "title": "ABD-İran Görüşmeleri İslamabad'da Başladı: Diyaloğu Sürdürme Hedefi",
+        "summary": "Amerika Birleşik Devletleri ile İran arasındaki görüşmeler Pakistan'ın başkenti İslamabad'da resmen başladı. Aracı ülkelerin temel amacı, iki ülke arasındaki mevcut derin ayrılıklara rağmen diplomatik diyaloğu canlı tutmak ve sürdürülebilir bir iletişim zemini oluşturmak. Pakistan, bu zirveden beklentisini, taraflar arasında görüşmelerin devamlılığını sağlayacak mütevazı bir anlaşma olarak belirledi. Bu diplomatik çabaların, bölgedeki gerilimi azaltma ve gelecekteki müzakereler için bir yol haritası oluşturma potansiyeli taşıdığı ifade ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T15:58:21.968Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775820416849baoc4",
         "title": "Gazze'de aileler 'ateşkes'in üzerinden altı ay geçmesine rağmen ölülerini defnedemiyor",
         "summary": "Gazze Şeridi'nde, İsrail'in bölgeye yönelik operasyonları sırasında yıkılan binaların enkazı altında yaklaşık 10.000 Filistinlinin kayıp olduğu belirtiliyor. 'Ateşkes' ilan edilmesinin üzerinden altı ay geçmesine rağmen, bu kişilerin cenazelerine ulaşılamadığı ve ailelerin sevdiklerini defnedemediği bildirildi. Bölgedeki insani durumun ciddiyetini koruduğu ve enkaz kaldırma çalışmalarının yetersiz kaldığı ifade ediliyor. Bu durum, çatışmaların ardından ortaya çıkan derin insani krizi gözler önüne seriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17756333882448j42q",
-        "title": "Pakistan, ABD ve İran Arasında Kırılgan Ateşkesin Sağlanmasına Yardımcı Oldu",
-        "summary": "BBC'nin haberine göre, Pakistan'ın ABD ve İran arasındaki gerilimi azaltmaya yönelik diplomatik çabalarda önemli bir rol oynadığı belirtildi. Tarihsel olarak İran ile güçlü ilişkilere sahip olan Pakistan'ın arabuluculuğu sayesinde, iki ülke arasında kırılgan bir ateşkesin sağlanabildiği ifade edildi. Haberde, anlaşmanın başlangıçta belirsiz olduğu ancak Pakistan'ın çabalarıyla sonuca ulaşıldığı vurgulandı. Bu gelişme, Orta Doğu'daki istikrar açısından kritik bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/29982340/pexels-photo-29982340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T07:29:48.244Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775633469504u4via",
-        "title": "Irak, ABD-İran ateşkesinin bölgede güvenlik ve istikrarı güçlendireceğini belirtti",
-        "summary": "Irak, ABD ile İran arasında sağlanacak bir ateşkesin bölgedeki güvenlik ve istikrarı güçlendireceğine inandığını açıkladı. Irak Dışişleri Bakanlığı tarafından yapılan açıklamada, böyle bir adımın bölgede sükunet beklentilerini artıracağı vurgulandı. Bağdat yönetimi, iki ülke arasındaki gerilimin düşürülmesinin bölgesel barışa önemli katkılar sağlayacağını ifade etti. Bu açıklama, Irak'ın bölgedeki diplomatik çabalarını ve arabuluculuk rolünü yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T07:31:09.504Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.36,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-us-iran-ceasefire-to-help-strengthen-security-stability-in-region/3897189",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
