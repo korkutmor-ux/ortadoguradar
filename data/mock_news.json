@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775811230307pj6qs",
+        "title": "ABD-İsrail Saldırıları Sonrası İran'da Ateşkes ve Bölgesel Gerilimler",
+        "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının 42. gününde, bölgede önemli bir gelişme yaşandı. Pakistan'ın arabuluculuğunda ABD ile İran arasında bir ateşkes anlaşması yürürlüğe girdi. Ancak, ateşkesin kapsamı ve uygulanış biçimine dair taraflar arasında devam eden anlaşmazlıklar dikkat çekiyor. Bu anlaşmazlıkların, Orta Doğu genelindeki bölgesel gerilimleri daha da tırmandırdığı belirtiliyor. Gelişmeler, bölgedeki güvenlik dinamiklerini yakından etkilemeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T08:53:50.307Z",
+        "location": {
+            "lat": 30,
+            "lng": 40,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17758049269314d6j0",
         "title": "Filistinli gazeteci, İsrail hapishanesinde protez gözünü kaybettiğini anlattı",
         "summary": "Filistinli gazeteci Muath Amarne, İsrail'in gözaltında tutulduğu sırada protez gözünü kaybettiğini açıkladı. Amarne, gözaltı sürecinde yaşadığı bir enfeksiyon nedeniyle protez gözünün düştüğünü belirtti. Bu olay, İsrail hapishanelerindeki Filistinli mahkumların koşulları ve sağlık hizmetleri konusundaki endişeleri yeniden gündeme getirdi. Gazetecinin açıklamaları, uluslararası insan hakları örgütlerinin dikkatini çekebilir ve bölgedeki insan hakları tartışmalarını alevlendirebilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/negative-views-of-israel-netanyahu-rising-among-americans-survey/3897087",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775627348332btd0q",
-        "title": "ABD Ateşkesi, İran'ın On Maddelik Planı Üzerine Müzakerelere İzin Veriyor",
-        "summary": "Amerika Birleşik Devletleri eski Başkanı Donald Trump'ın iki haftalık ateşkes ilan etmesi, İran'ın sunduğu on maddelik plan üzerine müzakerelerin önünü açtı. Bu gelişme, ABD ile İran arasındaki gerilimin azaltılması ve diplomatik bir çözüm bulunması yönünde önemli bir adım olarak değerlendiriliyor. İran'ın planının detayları henüz kamuoyuyla paylaşılmamış olsa da, bu ateşkes süreci taraflar arasında diyalog kurulması için kritik bir fırsat sunuyor. Bölgesel istikrarın sağlanması açısından büyük önem taşıyan bu müzakerelerin, iki ülke arasındaki ilişkilerin geleceğini şekillendirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7964370/pexels-photo-7964370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T05:49:08.332Z",
-        "location": {
-            "lat": 30,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
