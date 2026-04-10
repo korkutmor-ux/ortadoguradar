@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775820416849baoc4",
+        "title": "Gazze'de aileler 'ateşkes'in üzerinden altı ay geçmesine rağmen ölülerini defnedemiyor",
+        "summary": "Gazze Şeridi'nde, İsrail'in bölgeye yönelik operasyonları sırasında yıkılan binaların enkazı altında yaklaşık 10.000 Filistinlinin kayıp olduğu belirtiliyor. 'Ateşkes' ilan edilmesinin üzerinden altı ay geçmesine rağmen, bu kişilerin cenazelerine ulaşılamadığı ve ailelerin sevdiklerini defnedemediği bildirildi. Bölgedeki insani durumun ciddiyetini koruduğu ve enkaz kaldırma çalışmalarının yetersiz kaldığı ifade ediliyor. Bu durum, çatışmaların ardından ortaya çıkan derin insani krizi gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T11:26:56.849Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17758204549531rsiz",
+        "title": "İsrail ve Lübnan Ateşkes Görüşmelerine Başlayacak mı?",
+        "summary": "Orta Doğu'da devam eden gerilimler ışığında, İsrail ve Lübnan arasında olası bir ateşkes görüşmesi ihtimali gündeme geldi. Cuma günü, İsrail ile Lübnan merkezli Hizbullah örgütü arasındaki karşılıklı saldırılar, önceki günlere kıyasla daha düşük bir yoğunlukta seyretti. Bölgedeki çatışmaların azaltılması ve kalıcı bir barışın sağlanması amacıyla diplomatik adımların atılıp atılmayacağı merak ediliyor. Taraflar arasındaki gerilimin düşürülmesi için uluslararası toplumun da devreye girebileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T11:27:34.953Z",
+        "location": {
+            "lat": 33.1,
+            "lng": 35.3,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17758159151929b0zk",
         "title": "Trump: İran'ın Hürmüz Boğazı'ndaki Tutumu Anlaşmaya Aykırı",
         "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndaki tutumunu sert bir dille eleştirdi. Trump, İran'ın bu stratejik su yolunu \"çok kötü yönettiğini\" ve mevcut anlaşmalara aykırı davrandığını belirtti. Bu açıklamalar, İsrail ve Lübnan'ın barış görüşmelerine başlama kararı aldığı bir döneme denk geldi. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle uluslararası arenada büyük önem taşıyor. ABD ve İran arasındaki gerilim, bölgedeki siyasi dinamikleri etkilemeye devam ediyor.",
@@ -764,38 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraq-says-us-iran-ceasefire-to-help-strengthen-security-stability-in-region/3897189",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17756334941355hew3",
-        "title": "İsrail Muhalefet Lideri Lapid'den Netanyahu'ya ABD-İran Ateşkesi Eleştirisi",
-        "summary": "İsrail muhalefet lideri Yair Lapid, Başbakan Binyamin Netanyahu hükümetinin ABD ile İran arasındaki ateşkesi desteklemesini sert bir dille eleştirdi. Lapid, bu durumu \"siyasi ve stratejik bir başarısızlık\" olarak nitelendirdi. Muhalefet lideri, İsrail'in ABD'nin İran'a yönelik saldırılarını durdurma kararı gibi kilit bölgesel kararlardan dışlandığını savundu. Lapid'e göre, Netanyahu hükümetinin bu tutumu İsrail'in ulusal çıkarlarına aykırıdır ve ülkenin bölgesel konumunu zayıflatmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/13026513/pexels-photo-13026513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T07:31:34.135Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-slams-netanyahu-s-support-for-us-iran-ceasefire-calls-it-political-strategic-failure-/3897142",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775633515294onhfm",
-        "title": "Umman, İran ve ABD Arasındaki İki Haftalık Ateşkesi Memnuniyetle Karşıladı",
-        "summary": "Umman Sultanlığı, İran ile ABD arasında sağlanan iki haftalık ateşkesi memnuniyetle karşıladığını açıkladı. Maskat yönetimi, taraflar arasındaki çatışmayı sona erdirmeye yönelik arabuluculuk çabalarını takdirle karşıladığını belirtti. Yapılan açıklamada, bölgedeki gerilimin azaltılması ve kalıcı bir çözüm bulunması çağrısında bulunuldu. Bu gelişmenin, bölgesel istikrarın sağlanması açısından önemli bir adım olduğu vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32137371/pexels-photo-32137371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T07:31:55.294Z",
-        "location": {
-            "lat": 23.5859,
-            "lng": 58.4059,
-            "name": "Muscat, Oman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-welcomes-2-week-ceasefire-between-iran-us/3897086",
         "trendScore": 85,
         "isBreaking": false
     }
