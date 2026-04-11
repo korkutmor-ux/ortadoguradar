@@ -1,5 +1,69 @@
 [
     {
+        "id": "1775892858985piztd",
+        "title": "Cibuti Cumhurbaşkanı Guelleh Altıncı Dönem İçin Yeniden Seçildi",
+        "summary": "Cibuti'nin uzun süredir görevde olan Cumhurbaşkanı İsmail Omar Guelleh, resmi sonuçlara göre oyların yüzde 97'sini alarak altıncı kez göreve seçildi. 1999 yılından bu yana iktidarda olan Guelleh, ülkenin siyasi sahnesindeki uzun soluklu liderliğini sürdürüyor. Kızıldeniz ve Aden Körfezi arasındaki stratejik Bab-ül Mendep Boğazı'nda yer alan Cibuti, uluslararası ticaret ve güvenlik açısından kritik bir öneme sahip. Bu seçim sonucu, bölgedeki siyasi istikrar ve güç dengeleri açısından yakından takip ediliyor ve ülkenin dış ilişkileri üzerindeki etkileri değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5926409/pexels-photo-5926409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T07:34:18.985Z",
+        "location": {
+            "lat": 11.8,
+            "lng": 42.6,
+            "name": "Cibuti Şehri, Cibuti"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1775892890236pt22k",
+        "title": "Vance-Ghalibaf Görüşmeleri: ABD-İran Arasında Tarihi Güven Köprüsü Kurma Çabası",
+        "summary": "ABD ve İran arasında, 1979 İslam Devrimi'nden bu yana en üst düzey doğrudan temasın gerçekleşmesi bekleniyor. Bu potansiyel tarihi görüşmelerde, ABD'li yetkili Vance ile İranlı Ghalibaf'ın bir araya gelmesi planlanıyor. Taraflar arasındaki derin güvensizliği aşmayı hedefleyen bu zirve, iki ülke ilişkilerinde yeni bir dönemin kapısını aralayabilir. Görüşmelerin, Orta Doğu'daki bölgesel ve küresel siyasette önemli yankılar uyandırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1367274/pexels-photo-1367274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T07:34:50.236Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Bilinmiyor, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1775892915216rszj0",
+        "title": "Lübnan ve İsrail Yetkilileri Salı Günü ABD'de Buluşacak",
+        "summary": "Lübnan ve İsrail yetkililerinin Salı günü Amerika Birleşik Devletleri'nde bir araya gelmesi planlanıyor. Görüşmelerin içeriği ve gündemi hakkında detay verilmezken, Lübnanlı üst düzey bir yetkili daha önce BBC'ye yaptığı açıklamada, Lübnan'ın bu tür müzakerelere ancak bölgede bir ateşkesin sağlanması durumunda katılacağını belirtmişti. Bu açıklama, toplantının gerçekleşme koşulları hakkında soru işaretleri yaratıyor. Taraflar arasındaki dolaylı veya doğrudan temaslar, bölgedeki gerilimin azaltılması açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T07:35:15.216Z",
+        "location": {
+            "lat": 38.9,
+            "lng": -77,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775893009786rag8r",
+        "title": "İran'da internet kesintisi 1000 saati aştı: İnternet gözlemcisi",
+        "summary": "İran'da internet erişiminde yaşanan kesintilerin 1000 saati geçtiği bildirildi. İnternet gözlem grubu NetBlocks'un verilerine göre, ülkedeki bağlantı seviyesi Mart ayının başından bu yana yaklaşık %1 seviyesinde seyrediyor. Bu durum, İran genelinde dijital iletişimi ve bilgi akışını ciddi şekilde etkiliyor. Uzun süreli ve yaygın internet kesintileri, hem vatandaşların günlük yaşamını hem de ekonomik faaliyetleri olumsuz yönde etkilemeye devam ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/415043/pexels-photo-415043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T07:36:49.786Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-internet-blackout-surpasses-1-000-hours-internet-watchdog/3901599",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17758876690381hiya",
         "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimci Saldırısında Bir Filistinli Öldürüldü",
         "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimcilerin düzenlediği bir saldırıda bir Filistinli vurularak hayatını kaybetti. Bu ölüm, eski güvenlik şeflerinin 'hükümet destekli Yahudi terörünün' kontrolden çıktığı uyarısında bulunduğu bir döneme denk geldi. Bölgedeki gerilimlerin tırmandığı bu olay, İsrail-Filistin çatışmasının hassasiyetini ve güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Yetkililer, olayın ardından bölgede güvenlik önlemlerini artırdı ve soruşturma başlattı.",
@@ -732,70 +796,6 @@
             "name": "Pakistan"
         },
         "source": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775676247236ajlgj",
-        "title": "ABD-İran Ateşkesi Sonrası Hürmüz Boğazı'nın Yeniden Açılması İçin Daha Fazla Çalışma Gerekiyor",
-        "summary": "İngiltere Başbakanı Keir Starmer, ABD ile İran arasında sağlanan ateşkesin ardından Hürmüz Boğazı'nın yeniden tam kapasiteyle açılması için daha fazla çalışmaya ihtiyaç olduğunu belirtti. Küresel petrol ticaretinin ana arterlerinden biri olan Hürmüz Boğazı, Basra Körfezi'ni Umman Denizi'ne bağlayan stratejik bir geçittir. Boğazın güvenli ve serbest geçişlere tamamen açılması, uluslararası denizcilik ve enerji piyasaları için hayati önem taşımaktadır. Starmer'ın açıklaması, bölgedeki gerilimin düşürülmesi ve normalleşme sürecinin devam etmesi yönündeki diplomatik çabaların altını çizmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18370086/pexels-photo-18370086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T19:24:07.236Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman Denizi"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/starmer-a-lot-of-work-to-do-to-reopen-strait-of-hormuz-after-us-iran-cea?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775660054276m7ynr",
-        "title": "ABD-İran Ateşkes Anlaşmasından Saatler Sonra Lavan Rafinerisindeki Yangın Devam Ediyor",
-        "summary": "İran'ın Lavan Adası'nda bulunan bir petrol rafinerisinde çıkan yangın, ABD ile İran arasında varılan ateşkes anlaşmasından saatler sonra da devam etti. Rafineriden yükselen yoğun siyah dumanlar bölgeden gözlemlendi. Yangının nedeni hakkında henüz resmi bir açıklama yapılmazken, olay bölgedeki gerilimi artırma potansiyeli taşıyor. Bu gelişme, iki ülke arasındaki hassas diplomatik süreci takip eden bir dönemde yaşandı.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/12641124/pexels-photo-12641124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T14:54:14.276Z",
-        "location": {
-            "lat": 27.18,
-            "lng": 53.38,
-            "name": "Lavan Adası, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lavan-refinery-blaze-continues-hours-after-us-iran-ceasefire-agreement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775654923556dl891",
-        "title": "ABD, Operasyonlara Hazır Olduğunu Belirtirken, Pentagon İran'ın Hava Savunmasının Kalmadığını İddia Etti",
-        "summary": "ABD Genelkurmay Başkanlığı Başkanı, ABD kuvvetlerinin emir verilmesi halinde operasyonlara yeniden başlamaya hazır olduğunu bildirdi. Pentagon'dan yapılan açıklamada ise İran'ın artık bir hava savunmasına sahip olmadığı iddia edildi. Açıklamada, ABD'nin \"İran semalarına sahip olduğu\" öne sürüldü. Bu iddialar, bölgedeki güvenlik dinamikleri ve ABD-İran ilişkileri açısından önemli bir gerilimi işaret ediyor. Gelişmeler, Orta Doğu'daki askeri ve siyasi durumu yakından ilgilendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19343572/pexels-photo-19343572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T13:28:43.556Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-forces-remain-ready-to-resume-operations-if-ordered-joint-chiefs-of-staff-chairman/3898027",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17756431107355hb5c",
-        "title": "KİK ve Diğer Orta Doğu Ülkeleri, İran-ABD Ateşkes Duyurusuna Tepki Gösterdi",
-        "summary": "Körfez İşbirliği Konseyi (KİK) üyesi ülkeler ve diğer Orta Doğu ulusları, İran ile ABD arasında ilan edilen geçici ateşkes duyurusuna tepki gösterdi. Bölge ülkeleri, bu geçici ateşkese olumlu yaklaşarak memnuniyetlerini dile getirdi. Açıklamalarda, çatışmanın kalıcı olarak sona erdirilmesi için taraflar arasında müzakerelere başlanması gerektiği vurgulandı. Bu gelişme, bölgedeki gerilimin azaltılması ve diplomatik çözüm yollarının aranması açısından önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T10:11:50.735Z",
-        "location": {
-            "lat": 30,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
