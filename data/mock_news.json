@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775900743910jaxrt",
+        "title": "Rapora Göre İran Hala Binlerce Balistik Füzeye Sahip",
+        "summary": "Yeni bir rapora göre, İran'ın binlerce balistik füzeye sahip olduğu belirtiliyor. Bu durum, ABD Savunma Bakanı Pete Hegseth'in İran'ın füze programının 'işlevsel olarak yok edildiği' yönündeki iddiasıyla çelişiyor. Raporda, Tahran'ın füze gücünün bazı kısımlarını yeniden inşa etme kapasitesine sahip olduğu vurgulanıyor. Bu gelişmeler, İran'ın bölgesel askeri kapasitesi ve uluslararası güvenlik tartışmaları açısından önem arz ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T09:45:43.910Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-still-possesses-thousands-of-ballistic-missiles-report/3901773",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17758974846047crav",
         "title": "İsrail, Lübnan Görüşmeleri Öncesi Hizbullah ile Ateşkesi Reddetti",
         "summary": "İsrail, önümüzdeki hafta Washington'da Lübnan ile yapılması planlanan görüşmeler öncesinde Hizbullah ile bir ateşkes anlaşmasını reddettiğini açıkladı. Bu gelişme, İsrail'in Lübnan'a yönelik saldırılarının devam ettiği bir dönemde yaşandı. İran ise, bölgedeki gerilimi azaltmaya yönelik olası bir ateşkesin kendilerini de kapsaması gerektiğini vurguladı. Washington'daki görüşmelerin, iki ülke arasındaki mevcut çatışma ve gerilimi ele alması bekleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775718256069ff5nw",
-        "title": "İsrail güçleri Batı Şeria'nın kuzeyinde çıkan çatışmalarda bir Filistinliyi öldürdü",
-        "summary": "Batı Şeria'nın kuzeyinde gerilim tırmanıyor. İsrail ordusu, Tayasir ve Akabe bölgelerinde geniş çaplı bir operasyon başlattı. Operasyon sırasında çıkan çatışmalarda Alaa Khaled Subaih adlı bir Filistinli hayatını kaybetti. İsrail güçleri, hayatını kaybeden Filistinlinin naaşını gözaltına aldı. Bölgedeki olaylar, İsrail-Filistin arasındaki gerilimi daha da artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10675775/pexels-photo-10675775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T07:04:16.069Z",
-        "location": {
-            "lat": 32.35,
-            "lng": 35.35,
-            "name": "Kuzey Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-shoot-dead-palestinian-during-clashes-in-northern-west-bank/3898903",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
