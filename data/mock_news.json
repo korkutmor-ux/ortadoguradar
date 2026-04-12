@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776016923153ptg0b",
+        "title": "Amerika'nın Ateşkesi Sağlama ve Savaşı Sona Erdirme Yedi Yolu",
+        "summary": "Amerika Birleşik Devletleri'nin devam eden bir çatışmada ateşkesi sağlama ve savaşı sona erdirme yolları üzerine bir analiz sunulmaktadır. Haberde, eski Başkan Donald Trump'ın bölgesel barışı temin etmek ve yaklaşan ara seçimlerde siyasi bir zafer elde etmek için kararlı adımlar atması gerektiği vurgulanmaktadır. Makale, ABD'nin bu hedeflere ulaşmak için izleyebileceği yedi farklı stratejiyi detaylandırmaktadır. Bu stratejilerin hem uluslararası diplomasiyi hem de iç siyasi dinamikleri göz önünde bulundurduğu belirtilmektedir. Analiz, ABD'nin Orta Doğu'daki rolünü ve barış süreçlerine etkisini değerlendirmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29982340/pexels-photo-29982340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T18:02:03.153Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1776017011507jp6s9",
+        "title": "Suudi Arabistan, Irak Büyükelçisini Krallığa ve Körfez Ülkelerine Yönelik İHA Saldırıları Nedeniyle Çağırdı",
+        "summary": "Suudi Arabistan, Irak'ın büyükelçisini, krallığa ve diğer Körfez ülkelerine yönelik insansız hava aracı (İHA) saldırıları iddiaları üzerine çağırdı. Riyad yönetimi, bu saldırıların Irak topraklarından kaynaklandığını belirtti. Bu diplomatik adım, iki ülke arasındaki güvenlik endişelerini ve bölgesel gerilimi yansıtıyor. Söz konusu olay, Orta Doğu'da İHA tehditlerinin devam eden bir sorun olduğunu ve bölgesel istikrarsızlığı gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T18:03:31.507Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/saudi-arabia-summons-iraqs-ambassador-over-drone-attacks-on-kingdom-gulf-states/3903028",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776013536275gg406",
         "title": "İranlı Yetkililerden Meydan Okuyan Çağrı: Destekçiler Sokaklarda Kalmalı",
         "summary": "İranlı yetkililer, meydan okuyan bir tutum sergileyerek destekçilerini sokaklarda kalmaya çağırdı. Savaşın sona erdirilmesi müzakerelerinde İran heyetine başkanlık eden Mohammad Bagher Ghalibaf, ABD heyetinin 'güven kazanamadığını' ifade etti. Bu açıklama, İran'ın hem iç siyasetindeki kararlılığını hem de uluslararası diplomasi arenasında ABD ile olan ilişkilerindeki mevcut gerilimi gözler önüne serdi. Ülke içindeki bu çağrılar, yetkililerin pozisyonlarını güçlendirme çabası olarak yorumlanırken, dış politikadaki bu söylem müzakerelerin seyrine dair ipuçları veriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/us-delegation-led-by-vice-president-vance-in-pakistan-for-talks-with-iran/3901633",
         "trendScore": 80,
         "isBreaking": true
-    },
-    {
-        "id": "1775892858985piztd",
-        "title": "Cibuti Cumhurbaşkanı Guelleh Altıncı Dönem İçin Yeniden Seçildi",
-        "summary": "Cibuti'nin uzun süredir görevde olan Cumhurbaşkanı İsmail Omar Guelleh, resmi sonuçlara göre oyların yüzde 97'sini alarak altıncı kez göreve seçildi. 1999 yılından bu yana iktidarda olan Guelleh, ülkenin siyasi sahnesindeki uzun soluklu liderliğini sürdürüyor. Kızıldeniz ve Aden Körfezi arasındaki stratejik Bab-ül Mendep Boğazı'nda yer alan Cibuti, uluslararası ticaret ve güvenlik açısından kritik bir öneme sahip. Bu seçim sonucu, bölgedeki siyasi istikrar ve güç dengeleri açısından yakından takip ediliyor ve ülkenin dış ilişkileri üzerindeki etkileri değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5926409/pexels-photo-5926409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T07:34:18.985Z",
-        "location": {
-            "lat": 11.8,
-            "lng": 42.6,
-            "name": "Cibuti Şehri, Cibuti"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1775892890236pt22k",
-        "title": "Vance-Ghalibaf Görüşmeleri: ABD-İran Arasında Tarihi Güven Köprüsü Kurma Çabası",
-        "summary": "ABD ve İran arasında, 1979 İslam Devrimi'nden bu yana en üst düzey doğrudan temasın gerçekleşmesi bekleniyor. Bu potansiyel tarihi görüşmelerde, ABD'li yetkili Vance ile İranlı Ghalibaf'ın bir araya gelmesi planlanıyor. Taraflar arasındaki derin güvensizliği aşmayı hedefleyen bu zirve, iki ülke ilişkilerinde yeni bir dönemin kapısını aralayabilir. Görüşmelerin, Orta Doğu'daki bölgesel ve küresel siyasette önemli yankılar uyandırması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1367274/pexels-photo-1367274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T07:34:50.236Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Bilinmiyor, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": false
     }
 ]
