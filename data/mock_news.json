@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776033529268c7sjx",
+        "title": "İsrail'in Lübnan'da Bir Günde Gerçekleştirdiği Saldırılarda 350'den Fazla Kişi Hayatını Kaybetti",
+        "summary": "8 Nisan Çarşamba günü İsrail güçlerinin Lübnan genelinde düzenlediği saldırılarda dakikalar içinde 350'den fazla kişinin hayatını kaybettiği bildirildi. Olay, bölgedeki gerilimi artırırken, uluslararası toplumdan tepkilere neden oldu. Saldırıların detayları ve hedefleri hakkında henüz net bir açıklama yapılmadı. Bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35007883/pexels-photo-35007883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T22:38:49.268Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776033589624t7i71",
+        "title": "İran Savaşı Küresel Gıda Güvenliğine Kalıcı Riskler Oluşturabilir mi?",
+        "summary": "Birleşmiş Milletler, olası bir İran savaşının küresel gıda güvenliği üzerindeki potansiyel kalıcı risklerine dikkat çekti. Kuruluş, böyle bir çatışmanın sadece savaş süresince değil, uzun vadede de dünya genelinde gıda tedarik zincirlerinde ciddi aksaklıklara yol açabileceği konusunda uyardı. Uzmanlar, bölgedeki istikrarsızlığın enerji fiyatlarını artırarak tarımsal üretim maliyetlerini yükseltebileceği ve temel gıda maddelerinin erişilebilirliğini olumsuz etkileyebileceği endişesini dile getirdi. Bu durumun, özellikle savunmasız ülkelerde açlık ve yoksulluk riskini artırabileceği vurgulanırken, Birleşmiş Milletler uluslararası toplumu diplomatik çözümleri desteklemeye çağırdı.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T22:39:49.624Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17760217181256ca0v",
         "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda En Az 13 Kişi Hayatını Kaybetti",
         "summary": "Güney Lübnan'da İsrail tarafından gerçekleştirilen yeni bir saldırı dalgası sonucunda en az 13 kişi hayatını kaybetti. Bölgedeki kurtarma ekipleri, saldırıların ardından oluşan enkaz yığınları arasında arama kurtarma çalışmalarına devam ediyor. Olayın ardından can kaybının artmasından endişe edilirken, bölgedeki güvenlik durumu yakından takip ediliyor. Bu saldırılar, Orta Doğu'daki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/more-us-forces-to-deploy-in-middle-east-report/3901680",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1775897629452fezjd",
-        "title": "Eski ABD Dışişleri Bakanı Kerry: Netanyahu, ABD Başkanlarına İran'a Saldırı İçin Baskı Yaptı, Yalnızca Trump Kabul Etti",
-        "summary": "Eski ABD Dışişleri Bakanı John Kerry, İsrail Başbakanı Binyamin Netanyahu'nun geçmişte ABD başkanlarına İran'a askeri saldırı düzenlemeleri yönünde defalarca baskı yaptığını iddia etti. Kerry'nin açıklamalarına göre, George W. Bush, Barack Obama ve Joe Biden gibi önceki ABD başkanları bu öneriyi reddederken, yalnızca eski Başkan Donald Trump'ın bu talebe olumlu yanıt verdiği belirtildi. Bu iddialar, ABD ve İsrail'in İran politikaları arasındaki gerilimi ve farklı yaklaşımları bir kez daha gündeme taşıdı. Kerry'nin bu açıklamaları, bölgedeki diplomatik ilişkilerin karmaşıklığını ve liderler arasındaki stratejik farklılıkları gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/31468385/pexels-photo-31468385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:53:49.452Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/americas/former-us-secretary-of-state-says-netanyahu-repeatedly-pressed-us-presidents-to-strike-iran-only-trump-agreed/3901652",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17758976524401wvy0",
-        "title": "İsrail'in Lübnan'a Yönelik Gece Saldırılarında 3 Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusu, Lübnan'ın güneyine düzenlediği gece saldırılarını sürdürüyor. Bu saldırılarda üç kişinin yaşamını yitirdiği bildirildi. İsrail'in operasyonları, İran'ın bölgede ateşkes çağrısı yapmasına rağmen devam ediyor. Ayrıca, çatışmanın sona erdirilmesi için planlanan diplomatik görüşmelerin varlığına rağmen İsrail güçlerinin güney Lübnan'daki faaliyetlerini sürdürdüğü belirtildi. Bölgedeki gerilim ve çatışmaların devam ettiği gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:54:12.440Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israels-overnight-attacks-on-lebanon-kill-3/3901646",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
