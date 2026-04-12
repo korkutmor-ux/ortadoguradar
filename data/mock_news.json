@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775976882203lotcc",
+        "title": "Pakistan, görüşmelerin ardından ABD ve İran'ı ateşkese uymaya çağırdı",
+        "summary": "Pakistan Dışişleri Bakanı Ishaq Dar, ABD ve İran'ın ateşkes anlaşmalarına uymaları gerektiğini vurguladı. Bakan Dar'ın bu açıklaması, iki ülke arasındaki görüşmelerin sona ermesinin ardından geldi. Pakistan, tarafları mevcut mutabakatı sürdürmeye davet ederek, Orta Doğu'daki gerilimin düşürülmesi ve bölgesel istikrarın korunması yönündeki diplomatik çabalara destek verdiğini gösterdi. Bu çağrı, bölgedeki hassas dengeler açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32274668/pexels-photo-32274668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T06:54:42.203Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775976904533vsgax",
+        "title": "ABD ve İran, Pakistan'daki maraton görüşmelerinin ardından barış anlaşmasına varamadı",
+        "summary": "ABD ve İran arasında Pakistan'da düzenlenen maraton görüşmelerinde bir barış anlaşmasına varılamadığı açıklandı. ABD Başkan Yardımcısı JD Vance, İran'ın ABD'nin sunduğu şartları kabul etmediğini belirtti. İranlı yetkililer ise ilk toplantıda bir anlaşma beklemelerinin gerçekçi olmadığını ifade etti. Bu sonuç, iki ülke arasındaki gerilimi azaltma yönündeki diplomatik çabaların henüz somut bir başarıya ulaşamadığını ortaya koydu. Görüşmelerin geleceği hakkında ise henüz net bir bilgi verilmedi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T06:55:04.533Z",
+        "location": {
+            "lat": 33.6844,
+            "lng": 73.0479,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775976995744ohb2k",
+        "title": "İsrail medyası, ordunun Lübnan'daki saldırıları azaltma talimatı aldığını iddia etti",
+        "summary": "İsrail medyası, İsrail ordusuna Lübnan'daki hava saldırılarını azaltma yönünde talimat verildiğini öne sürdü. Bu gelişme, Tel Aviv ile Beyrut arasında Salı günü Washington'da yapılması planlanan görüşmeler öncesinde yaşanıyor. İsrail ordusu, Lübnan'a yönelik yoğun hava saldırılarını sürdürmeye devam ediyor. Haber, bölgedeki gerilimin azaltılmasına yönelik diplomatik çabalarla askeri operasyonların eş zamanlı devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T06:56:35.744Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-media-claims-army-instructed-to-reduce-strikes-in-lebanon/3902482",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775971667328ilhcg",
         "title": "Petrol Tankerleri Hürmüz Boğazı'ndan Ayrıldı: ABD-İran Ateşkesi Kırılganlığını Koruyor",
         "summary": "Küresel enerji sıkıntısının yaşandığı bir dönemde, üç süper tanker Hürmüz Boğazı'ndan geçiş yaparak uluslararası sulara açıldı. Gemi takip verilerine göre, petrol yüklü tankerlerin bu geçişi, ABD ile İran arasındaki kırılgan ateşkes ortamında gerçekleşti. Bu durum, bölgedeki jeopolitik gerilimin enerji tedarik zincirleri üzerindeki potansiyel etkilerini bir kez daha gözler önüne serdi. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle stratejik önem taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/gaza-media-office-denies-board-of-peace-envoy-s-claim-that-602-aid-trucks-entered-enclave/3900381",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775805110449rsf41",
-        "title": "Pakistan Savunma Bakanı'ndan İsrail'e Sert Eleştiri",
-        "summary": "Pakistan Savunma Bakanı Khawaja Asif, İsrail'i \"insanlık için bir lanet\" olarak nitelendiren sert açıklamalarda bulundu. Bakan Asif, devam eden ateşkes çabalarına rağmen Gazze'den Lübnan'a kadar uzanan bölgede \"kan dökülmesinin sürdüğünü\" vurguladı. Bu ifadeler, Orta Doğu'daki mevcut gerilimin ve çatışmaların uluslararası arenadaki yankılarını gözler önüne serdi. Pakistanlı bakanın bu sözleri, bölgedeki insani durumu ve güvenlik endişelerini dile getiren önemli bir siyasi mesaj olarak değerlendirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T07:11:50.449Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Gazze, Filistin; Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/pakistani-defense-minister-calls-israel-curse-for-humanity/3900380",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775771533703zq4vr",
-        "title": "Trump'tan İran'a Hürmüz Boğazı Uyarısı",
-        "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti talep etmemesi gerektiğini belirtti. Trump, \"Eğer alıyorlarsa, şimdi durmaları iyi olur!\" ifadelerini kullanarak İran'a sert bir uyarıda bulundu. Bu açıklama, stratejik öneme sahip Hürmüz Boğazı'ndaki uluslararası seyrüsefer güvenliği ve denizcilik kuralları üzerindeki gerilimi yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34621168/pexels-photo-34621168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T21:52:13.703Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/trump-says-iran-better-not-be-charging-tolls-for-ships-passing-through-strait-of-hormuz/3900324",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775768262464zve5r",
-        "title": "Beyrut'taki İsrail Hava Saldırılarında Can Kaybı ve Yaralı Sayısı Arttı",
-        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, Beyrut'ta gerçekleşen İsrail hava saldırılarında çok sayıda kişi hayatını kaybetti ve yaralandı. Saldırılarda en az 182 kişinin yaşamını yitirdiği, 890 kişinin ise yaralandığı bildirildi. Olayın ardından bölgede arama kurtarma çalışmaları devam ederken, uluslararası medya kuruluşları da gelişmeleri yakından takip ediyor. BBC ekibi de saldırıların yaşandığı bölgede incelemelerde bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33356653/pexels-photo-33356653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T20:57:42.464Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
