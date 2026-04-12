@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775992137290i7u2h",
+        "title": "Gazze'deki Böbrek Hastaları İlaç Kıtlığı ve İsrail Saldırıları Ortasında Yurt Dışında Tedavi Talep Ediyor",
+        "summary": "Gazze Şeridi'nin orta kesimindeki Deyr el-Balah'ta bir grup böbrek hastası, ilaç kıtlığı ve devam eden İsrail saldırıları nedeniyle tedaviye erişim sorunlarına dikkat çekmek amacıyla protesto gösterisi düzenledi. Hastalar, uluslararası topluma seslenerek yaşadıkları acıların sona erdirilmesini ve hayati önem taşıyan tedavilerini alabilmek için yurt dışına seyahat etmelerine izin verilmesini talep etti. Bölgedeki sağlık altyapısının ciddi şekilde zarar görmesi ve tıbbi malzeme eksikliği, böbrek hastaları başta olmak üzere birçok kronik hastanın durumunu kritik hale getiriyor. Bu eylem, Gazze'deki insani krizin derinleşen boyutlarını ve sağlık hizmetlerine erişimdeki zorlukları bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36038711/pexels-photo-36038711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T11:08:57.290Z",
+        "location": {
+            "lat": 31.4167,
+            "lng": 34.3417,
+            "name": "Deyr el-Balah, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/kidney-patients-in-gaza-demand-treatment-abroad-amid-drug-shortage-israeli-assault/3902778",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1775988477742k0akq",
         "title": "Londra'daki Filistin Eylemi mitinginde 500'den fazla kişi gözaltına alındı",
         "summary": "Londra'da düzenlenen Filistin yanlısı bir mitingde 500'den fazla kişi gözaltına alındı. Trafalgar Meydanı'nda gerçekleşen eylemde, protesto organizatörleri Birleşik Krallık hükümetini Gazze'deki soykırıma ortak olmakla suçladı. Yüksek sayıda gözaltı, Birleşik Krallık'ta İsrail-Filistin çatışmasına yönelik kamuoyu tepkisinin ve sivil toplum hareketlerinin devam ettiğini gösteriyor. Bu olay, Orta Doğu'daki gelişmelerin uluslararası arenadaki yansımalarını ve insan hakları odaklı protestoları gözler önüne seriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1775883699459whfsj",
-        "title": "İsrail, Gazze'deki Mülteci Kampına Hava Saldırısı Düzenledi: 6 Ölü",
-        "summary": "İsrail ordusu, Gazze Şeridi'nin orta kesiminde yer alan Bureij mülteci kampına yeni bir hava saldırısı gerçekleştirdi. Saldırıda ilk belirlemelere göre altı kişi hayatını kaybederken, çok sayıda kişinin de yaralandığı bildirildi. Hedef alınan noktanın kamptaki bir polis karakolu olduğu belirtildi. Olay, bölgedeki güvenlik durumunu ve gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32702229/pexels-photo-32702229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T05:01:39.459Z",
-        "location": {
-            "lat": 31.45,
-            "lng": 34.4,
-            "name": "Bureij Mülteci Kampı, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/world/israel-kills-6-in-fresh-airstrike-on-central-gaza-refugee-camp/3901596",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
