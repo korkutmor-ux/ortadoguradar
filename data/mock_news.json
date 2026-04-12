@@ -1,5 +1,53 @@
 [
     {
+        "id": "17760000102102nb58",
+        "title": "Ukrayna ve Rusya, Paskalya Ateşkesini İhlal Etmekle Karşılıklı Suçluyor",
+        "summary": "Ukrayna ve Rusya, Paskalya döneminde ilan edilen ateşkesi ihlal ettikleri gerekçesiyle birbirlerini suçladı. Taraflar arasında ateşkesin uygulanması konusunda karşılıklı suçlamalar dile getirildi. Kremlin'den yapılan açıklamada, Rusya'nın ateşkesi uzatmayacağı belirtildi. Bu kararın, Kiev'in Rusya'nın şartlarını kabul etmemesi halinde geçerli olacağı ifade edildi. Bu durum, bölgedeki gerilimin devam ettiğini ve barış çabalarının zorluğunu gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T13:20:10.210Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776000035085mfsef",
+        "title": "ABD-İran ateşkes görüşmeleri: Temel anlaşmazlık noktaları neler?",
+        "summary": "ABD ile İran arasında devam eden ateşkes görüşmeleri, taraflar arasındaki derin anlaşmazlıkları bir kez daha ortaya koydu. İki haftalık ateşkes süresince yürütülen müzakereler, beklenen ilerlemeyi sağlayamayarak bölgedeki belirsizliği artırdı. Görüşmelerdeki temel anlaşmazlık noktaları, ateşkesin kalıcılığı ve bölgesel güvenlik üzerindeki etkileri konusunda endişelere yol açıyor. Tarafların uzlaşma sağlamakta zorlanması, Orta Doğu'daki gerilimin devam etme riskini canlı tutuyor. Bu durum, ABD-İran ilişkilerinin karmaşıklığını ve bölgesel istikrarın kırılganlığını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7792841/pexels-photo-7792841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T13:20:35.085Z",
+        "location": {
+            "lat": 29,
+            "lng": 48,
+            "name": "Bölgesel"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776000104044l0e5o",
+        "title": "İran görüşmeleri çıkmaza girerken, Trump'ın sonraki adımı bekleniyor",
+        "summary": "İran ile yürütülen görüşmelerin bir anlaşmayla sonuçlanmamasının ardından dünya, ABD Başkanı Trump'ın sonraki adımlarını merakla bekliyor. BBC muhabiri Lyse Doucet'in haberine göre, müzakerelerin çıkmaza girmesiyle birlikte Trump yönetiminin İran'a yönelik politikalarında gerilimi artırma veya yeni bir müzakere sürecine girme seçenekleri masada bulunuyor. Bu durum, Orta Doğu'daki diplomatik dengeler ve bölgesel güvenlik dinamikleri açısından kritik bir dönemeç olarak değerlendiriliyor. Uluslararası toplum, Washington'dan gelecek kararın bölge üzerindeki potansiyel etkilerini yakından takip ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7256463/pexels-photo-7256463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T13:21:44.044Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775992137290i7u2h",
         "title": "Gazze'deki Böbrek Hastaları İlaç Kıtlığı ve İsrail Saldırıları Ortasında Yurt Dışında Tedavi Talep Ediyor",
         "summary": "Gazze Şeridi'nin orta kesimindeki Deyr el-Balah'ta bir grup böbrek hastası, ilaç kıtlığı ve devam eden İsrail saldırıları nedeniyle tedaviye erişim sorunlarına dikkat çekmek amacıyla protesto gösterisi düzenledi. Hastalar, uluslararası topluma seslenerek yaşadıkları acıların sona erdirilmesini ve hayati önem taşıyan tedavilerini alabilmek için yurt dışına seyahat etmelerine izin verilmesini talep etti. Bölgedeki sağlık altyapısının ciddi şekilde zarar görmesi ve tıbbi malzeme eksikliği, böbrek hastaları başta olmak üzere birçok kronik hastanın durumunu kritik hale getiriyor. Bu eylem, Gazze'deki insani krizin derinleşen boyutlarını ve sağlık hizmetlerine erişimdeki zorlukları bir kez daha gözler önüne serdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775887693301iczkl",
-        "title": "Ateşkes olsun ya da olmasın, Orta Doğu'daki yeniden yapılanma henüz tamamlanmadı",
-        "summary": "Orta Doğu'daki jeopolitik dengelerin, olası bir ateşkese rağmen henüz tamamlanmadığı belirtiliyor. Haberde, devam eden savaşın sona ermesi için her iki tarafın da nedenleri olduğu ancak ortak bir zeminde buluşamadıkları ifade ediliyor. Bu durum, bölgenin gelecekteki yapılanmasının belirsizliğini koruduğuna işaret ediyor. Orta Doğu'daki mevcut dinamikler, bölgesel istikrar ve uluslararası ilişkiler üzerinde önemli etkileri olan yeni bir düzenin şekillenmesine yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T06:08:13.301Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177588351851752zlj",
-        "title": "ABD-İran Çatışması: İranlı Yetkililer İslamabad'da Ateşkes Görüşmeleri İçin Bir Araya Geldi",
-        "summary": "İranlı üst düzey yetkililer, Amerika Birleşik Devletleri ile ateşkes görüşmeleri yapmak üzere Pakistan'ın başkenti İslamabad'a ulaştı. Bu diplomatik temasların, iki ülke arasındaki mevcut gerilimi azaltma ve devam eden çatışmayı sona erdirme çabalarının bir parçası olduğu belirtiliyor. ABD ile İran arasındaki gerilim, bölgede uzun süredir devam eden bir dizi olayın ardından tırmanmıştı. İslamabad'daki bu görüşmeler, taraflar arasında doğrudan bir diyalog zemini oluşturmayı hedefliyor ve çatışmanın geleceği açısından kritik önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T04:58:38.517Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775883540272n94n6",
-        "title": "Pakistan Büyükelçisi, ABD-İran Görüşmeleri Arifesinde El Cezire'ye Konuştu",
-        "summary": "Pakistan'ın Washington Büyükelçisi, ABD ile İran arasındaki kritik görüşmelerin arifesinde El Cezire'ye önemli açıklamalarda bulundu. Büyükelçi, haftalar süren yoğun diplomatik çabaların tüm taraflar arasında ortak bir taahhüt oluşmasını sağladığını belirtti. Bu taahhüdün, bölgedeki gerilimi azaltma ve diplomatik çözümler bulma yolunda önemli bir adım olduğu ifade edildi. Görüşmelerin içeriği ve tarafların beklentileri hakkında detay verilmezken, Pakistan'ın bu süreçteki arabuluculuk rolüne veya destekleyici pozisyonuna dikkat çekildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T04:59:00.272Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
