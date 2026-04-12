@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775981115917lgwf7",
+        "title": "Uydu sağlayıcısının ABD baskısı sonrası İran görüntülerine kısıtlama getirmesi endişelere yol açtı",
+        "summary": "Uydu görüntü sağlayıcısı Planet Labs, ABD'nin baskısı üzerine İran ve Orta Doğu'nun bazı bölgelerindeki kapsama alanını süresiz olarak kısıtladığını açıkladı. Bu karar, özellikle İran'daki gelişmelerin uydu üzerinden izlenmesi konusunda endişelere yol açtı. Şirket, kısıtlamanın detaylarına dair bilgi vermezken, kararın ABD hükümetinin talebi doğrultusunda alındığı belirtiliyor. Uluslararası gözlemciler ve insan hakları örgütleri, bu durumun bölgedeki şeffaflığı ve bilgi akışını olumsuz etkileyebileceği konusunda uyarıda bulundu. Gelişme, ABD'nin İran üzerindeki baskısını artırma çabalarının bir yansıması olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30596311/pexels-photo-30596311.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T08:05:15.917Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17759811466186p0k8",
+        "title": "Suudi enerji tesisleri ve Doğu-Batı boru hattı saldırıların ardından operasyonel kapasitesini geri kazandı",
+        "summary": "Suudi Arabistan'daki enerji tesisleri ve ülkenin stratejik Doğu-Batı boru hattı, yakın zamanda meydana gelen saldırıların ardından operasyonel kapasitelerini tamamen geri kazandı. Saldırılar nedeniyle birçok tesiste faaliyetler geçici olarak durdurulmuştu. Yetkililer, gerekli onarım ve güvenlik önlemlerinin alınmasının ardından tüm operasyonların normale döndüğünü duyurdu. Bu gelişme, ülkenin kritik enerji altyapısının dayanıklılığını ve hızlı toparlanma yeteneğini vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16862261/pexels-photo-16862261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T08:05:46.618Z",
+        "location": {
+            "lat": 25,
+            "lng": 45,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-energy-facilities-east-west-pipeline-recover-after-attacks-restore-operational-capacity/3902615",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775981183024vmlgg",
+        "title": "Suudi Arabistan'da Şiddetli Yağışlar ve Seller Nedeniyle Okullar Tatil Edildi",
+        "summary": "Suudi Arabistan'ın başkenti Riyad'ı etkisi altına alan şiddetli yağışlar ve seller nedeniyle yüz yüze eğitime ara verildi. Ülke genelinde etkili olan olumsuz hava koşulları, günlük yaşamı ve ulaşımı olumsuz etkiledi. Hava durumu yetkilileri, şiddetli koşulların Pazar gününe kadar krallığın bazı bölgelerinde devam edeceği uyarısında bulundu. Bu durum karşısında yetkililer, vatandaşları dikkatli olmaya ve gerekli önlemleri almaya çağırdı.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/14823609/pexels-photo-14823609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T08:06:23.024Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6062,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-suspends-in-person-classes-after-torrential-rains-floods-hit-riyadh/3902492",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1775976882203lotcc",
         "title": "Pakistan, görüşmelerin ardından ABD ve İran'ı ateşkese uymaya çağırdı",
         "summary": "Pakistan Dışişleri Bakanı Ishaq Dar, ABD ve İran'ın ateşkes anlaşmalarına uymaları gerektiğini vurguladı. Bakan Dar'ın bu açıklaması, iki ülke arasındaki görüşmelerin sona ermesinin ardından geldi. Pakistan, tarafları mevcut mutabakatı sürdürmeye davet ederek, Orta Doğu'daki gerilimin düşürülmesi ve bölgesel istikrarın korunması yönündeki diplomatik çabalara destek verdiğini gösterdi. Bu çağrı, bölgedeki hassas dengeler açısından önem taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17758049269314d6j0",
-        "title": "Filistinli gazeteci, İsrail hapishanesinde protez gözünü kaybettiğini anlattı",
-        "summary": "Filistinli gazeteci Muath Amarne, İsrail'in gözaltında tutulduğu sırada protez gözünü kaybettiğini açıkladı. Amarne, gözaltı sürecinde yaşadığı bir enfeksiyon nedeniyle protez gözünün düştüğünü belirtti. Bu olay, İsrail hapishanelerindeki Filistinli mahkumların koşulları ve sağlık hizmetleri konusundaki endişeleri yeniden gündeme getirdi. Gazetecinin açıklamaları, uluslararası insan hakları örgütlerinin dikkatini çekebilir ve bölgedeki insan hakları tartışmalarını alevlendirebilir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T07:08:46.931Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177580502041653inm",
-        "title": "Lübnan-İsrail Toplantısı Hazırlık Niteliğinde Olacak",
-        "summary": "Lübnanlı bir kaynağa göre, gelecek hafta ABD destekli Lübnan-İsrail toplantısı müzakere niteliğinde olmayıp hazırlık amaçlı olacak. Anadolu Ajansı'na konuşan üst düzey Lübnanlı bir yetkili, ABD Dışişleri Bakanlığı'nda yapılacak olan bu görüşmenin sadece bir hazırlık toplantısı olduğunu ve doğrudan bir müzakere içermediğini belirtti. Kaynak, isminin açıklanmaması koşuluyla bilgi verdi. Bu toplantının, iki ülke arasındaki ilişkilerde yeni bir adım olup olmayacağı merak konusu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868979/pexels-photo-7868979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T07:10:20.416Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/next-weeks-us-backed-lebanon-israel-meeting-will-be-preparatory-not-a-negotiation-lebanese-source/3900480",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775805076499ptw6z",
-        "title": "Gazze Medya Ofisi, Barış Kurulu Temsilcisinin 602 Yardım Kamyonunun Bölgeye Girdiği İddiasını Yalanladı",
-        "summary": "Gazze Medya Ofisi, bir Barış Kurulu temsilcisinin bölgeye 602 yardım kamyonunun girdiğine dair iddiasını yalanladı. Ofisten yapılan açıklamada, Perşembe günü Gazze Şeridi'ne yalnızca 207 kamyonun giriş yaptığı belirtildi. Bu kamyonlardan sadece 79'unun insani yardım taşıdığı ifade edildi. Açıklama, Gazze'ye ulaşan yardım miktarı konusundaki farklı iddiaları ve bölgedeki insani durumu bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36193759/pexels-photo-36193759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T07:11:16.499Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-media-office-denies-board-of-peace-envoy-s-claim-that-602-aid-trucks-entered-enclave/3900381",
         "trendScore": 85,
         "isBreaking": false
     }
