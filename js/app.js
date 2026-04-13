@@ -550,19 +550,22 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// --- Giriş/Kayıt Sistemi Kontrolleri ---
+// --- Giriş/Kayıt Sistemi Kontrolleri (Global Versiyon) ---
 
-// Modalı açan fonksiyon
-function openAuthModal() {
-    document.getElementById('authModal').classList.remove('hidden');
-}
+window.openAuthModal = function() {
+    const modal = document.getElementById('authModal');
+    if (modal) {
+        modal.classList.remove('hidden');
+    }
+};
 
-// Modalı kapatan fonksiyon
-function closeAuthModal() {
-    document.getElementById('authModal').classList.add('hidden');
-}
+window.closeAuthModal = function() {
+    const modal = document.getElementById('authModal');
+    if (modal) {
+        modal.classList.add('hidden');
+    }
+};
 
-// Giriş ve Kayıt modları arasında geçiş yapma
 let isLoginMode = true;
 const btnSwitch = document.getElementById('btnSwitchAuth');
 const authTitle = document.getElementById('authTitle');
