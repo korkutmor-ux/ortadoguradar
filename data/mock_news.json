@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776093501314l5ssf",
+        "title": "Trump'ın Hürmüz'ü abluka tehdidi: Neden son büyük tırmanış?",
+        "summary": "ABD Başkanı Trump'ın Hürmüz Boğazı'nı abluka altına alma tehdidi, bölgedeki gerilimi önemli ölçüde artırdı. Analistler, Washington'ın bu adımının ABD ile İran arasındaki kırılgan ateşkesi olumsuz etkileyebileceği konusunda uyarılarda bulunuyor. Bu tehdit, iki ülke arasındaki mevcut hassas dengeyi bozma potansiyeli taşıyor. Hürmüz Boğazı, küresel petrol ticareti için stratejik bir geçiş noktası olması nedeniyle, olası bir ablukanın geniş çaplı sonuçları olabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T15:18:21.314Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Umman/İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776088039167dyjid",
         "title": "Çimento Şirketi Lafarge, Suriye'deki Terör Finansmanı Davasında Suçlu Bulundu",
         "summary": "Fransız mahkemesi, çimento devi Lafarge'ı Suriye'deki iç savaş sırasında silahlı grupları finanse etmekten suçlu buldu. Şirket, Suriye'deki faaliyetlerini sürdürebilmek amacıyla terör örgütlerine ödeme yapmakla itham ediliyordu. Bu karar, uzun süredir devam eden hukuki sürecin bir sonucu olarak geldi ve Lafarge'ın Suriye'deki çimento fabrikasını işletmeye devam etmek için IŞİD ve diğer gruplarla anlaşmalar yaptığı iddialarını doğruladı. Mahkeme kararı, uluslararası şirketlerin çatışma bölgelerindeki sorumlulukları konusunda önemli bir emsal teşkil ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/4/11/makeshift-gaza-university-offers-chance-to-resurrect-academic-studies?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775912842578zxjgm",
-        "title": "İsrail ile Güney Kore Lideri Arasında Filistinlilerin Kötü Muamelesi Endişeleri Üzerine Gerginlik",
-        "summary": "Güney Kore Devlet Başkanı, İsrail'in Filistinlilere yönelik muamele konusunda uluslararası eleştirileri dikkate almamasına ilişkin hayal kırıklığını dile getirdi. Bu açıklama, İsrail ile Güney Kore lideri arasında Filistinlilerin kötü muamelesi endişeleri üzerine bir gerginliğe yol açtı. Güney Kore lideri, İsrail'in \"dünyanın dört bir yanından gelen eleştirileri bir kez bile yansıtmamasının\" üzücü olduğunu ifade etti. Bu durum, iki ülke arasındaki diplomatik ilişkilerde yeni bir tartışma konusu oluşturdu ve uluslararası arenada dikkat çekti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4427549/pexels-photo-4427549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T13:07:22.578Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
