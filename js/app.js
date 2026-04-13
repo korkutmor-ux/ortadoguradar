@@ -550,21 +550,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// --- Giriş/Kayıt Sistemi Kontrolleri (Global Versiyon) ---
-
-window.openAuthModal = function() {
-    const modal = document.getElementById('authModal');
-    if (modal) {
-        modal.classList.remove('hidden');
-    }
-};
-
-window.closeAuthModal = function() {
-    const modal = document.getElementById('authModal');
-    if (modal) {
-        modal.classList.add('hidden');
-    }
-};
+// --- GİRİŞ/KAYIT SİSTEMİ (TEK PARÇA VE HATASIZ) ---
 
 let isLoginMode = true;
 const btnSwitch = document.getElementById('btnSwitchAuth');
@@ -572,10 +558,21 @@ const authTitle = document.getElementById('authTitle');
 const authPrimaryBtn = document.getElementById('authPrimaryBtn');
 const authSwitchText = document.getElementById('authSwitchText');
 
+// Modal Kontrolleri
+window.openAuthModal = function() {
+    const modal = document.getElementById('authModal');
+    if (modal) modal.classList.remove('hidden');
+};
+
+window.closeAuthModal = function() {
+    const modal = document.getElementById('authModal');
+    if (modal) modal.classList.add('hidden');
+};
+
+// Mod Değiştirme (Giriş <-> Kayıt)
 if (btnSwitch) {
     btnSwitch.onclick = function() {
         isLoginMode = !isLoginMode;
-        
         if (!isLoginMode) {
             authTitle.innerText = "Radar'a Kayıt Ol";
             authPrimaryBtn.innerText = "Kayıt Ol";
@@ -590,10 +587,7 @@ if (btnSwitch) {
     };
 }
 
-// --- Kullanıcı Kayıt/Giriş İşlemleri ---
-
-const authPrimaryBtn = document.getElementById('authPrimaryBtn');
-
+// Kayıt ve Giriş Tıklama Olayı
 if (authPrimaryBtn) {
     authPrimaryBtn.onclick = function() {
         const username = document.getElementById('authUsername').value.trim();
@@ -605,16 +599,10 @@ if (authPrimaryBtn) {
         }
 
         if (!isLoginMode) {
-            // KAYIT MODU: Yeni kullanıcıyı kaydet
-            const userData = {
-                username: username,
-                password: password // Gerçek projede şifre böyle saklanmaz ama şimdilik kalsın
-            };
-            localStorage.setItem(`user_${username}`, JSON.stringify(userData));
+            localStorage.setItem(`user_${username}`, JSON.stringify({username, password}));
             alert(`Hoş geldin ${username}! Radar seni kaydetti.`);
             loginUser(username);
         } else {
-            // GİRİŞ MODU: Kullanıcıyı kontrol et
             const savedUser = localStorage.getItem(`user_${username}`);
             if (savedUser) {
                 const userData = JSON.parse(savedUser);
@@ -622,32 +610,27 @@ if (authPrimaryBtn) {
                     alert(`Tekrar hoş geldin, ${username}!`);
                     loginUser(username);
                 } else {
-                    alert("Şifre hatalı, istihbarat yanlış!");
+                    alert("Şifre hatalı!");
                 }
             } else {
-                alert("Böyle bir kullanıcı bulunamadı. Önce kayıt olmalısın.");
+                alert("Kullanıcı bulunamadı. Önce kayıt olmalısın.");
             }
         }
     };
 }
 
-// Kullanıcı giriş yapınca arayüzü güncelle
+// Kullanıcı Arayüzünü Güncelle
 function loginUser(username) {
-    // Kullanıcıyı oturumda tut
     localStorage.setItem('currentUser', username);
-    
-    // Modalı kapat
     closeAuthModal();
-    
-    // Header'daki "Giriş Yap" butonunu kullanıcının adıyla değiştir
     const loginBtn = document.getElementById('btn-login-trigger');
     if (loginBtn) {
         loginBtn.innerHTML = `<i class="fa-solid fa-user-check"></i> <span>${username}</span>`;
-        loginBtn.onclick = null; // Tıklanınca tekrar modal açılmasın (İleride profil sayfası açarız)
+        loginBtn.onclick = null; 
     }
 }
 
-// Sayfa yüklendiğinde kullanıcı zaten giriş yapmış mı kontrol et
+// Sayfa Yüklendiğinde Oturum Kontrolü
 window.addEventListener('load', () => {
     const savedSession = localStorage.getItem('currentUser');
     if (savedSession) {
