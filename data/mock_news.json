@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776050428663m6ul6",
+        "title": "ABD ordusu, Pazartesi gününden itibaren tüm İran limanlarını abluka altına almakla tehdit etti",
+        "summary": "ABD Merkez Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, ABD ordusu Pazartesi gününden itibaren İran'ın tüm limanlarına yönelik bir abluka başlatma tehdidinde bulundu. Bu tehdit, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor. CENTCOM, Hürmüz Boğazı'ndan İran dışındaki limanlara giden ve gelen gemilerin geçişine ise izin verileceğini belirtti. Bu durum, ABD'nin İran'a yönelik ekonomik ve siyasi baskısını artırma stratejisinin bir parçası olarak değerlendirilirken, küresel deniz ticareti ve enerji piyasaları üzerindeki olası etkileri tartışılıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20432165/pexels-photo-20432165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T03:20:28.663Z",
+        "location": {
+            "lat": 27,
+            "lng": 54,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1776050451860x12hz",
+        "title": "ABD Ordusu, Hürmüz Boğazı'nda İran Trafiğini Engelleyeceğini Açıkladı",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Hürmüz Boğazı'nda İran'a ait deniz trafiğini engelleyeceğini duyurdu. Yapılan açıklamaya göre, abluka GMT saatiyle 14:00'te başlayacak ve bölgedeki gerilimi tırmandıracak nitelikte. İran ise bu kararın akaryakıt fiyatlarında daha da büyük artışlara yol açacağı uyarısında bulundu. Küresel petrol ticareti için hayati öneme sahip olan Hürmüz Boğazı'ndaki bu gelişme, uluslararası piyasalarda endişeye neden oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17530306/pexels-photo-17530306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T03:20:51.860Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776050521331qze6q",
+        "title": "İranlı Elçi, İslamabad Görüşmelerinin Diplomatik Sürecin Temelini Attığını Belirtti",
+        "summary": "İranlı elçi Reza Amiri Moghadam, Pakistan'ın başkenti İslamabad'da ABD ile gerçekleştirilen görüşmelerin diplomatik bir sürecin temelini attığını açıkladı. Moghadam, bu temasların tüm taraflar için sürdürülebilir bir çerçeve oluşturma potansiyeline sahip olduğunu ifade etti. Görüşmelerin, İran ve ABD arasındaki ilişkilerde yeni bir diplomatik yol haritası çizebileceği belirtiliyor. Bu gelişmeler, bölgesel diplomasi açısından önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T03:22:01.331Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-envoy-says-islamabad-talks-can-create-sustainable-framework-for-all-parties/3903268",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776033529268c7sjx",
         "title": "İsrail'in Lübnan'da Bir Günde Gerçekleştirdiği Saldırılarda 350'den Fazla Kişi Hayatını Kaybetti",
         "summary": "8 Nisan Çarşamba günü İsrail güçlerinin Lübnan genelinde düzenlediği saldırılarda dakikalar içinde 350'den fazla kişinin hayatını kaybettiği bildirildi. Olay, bölgedeki gerilimi artırırken, uluslararası toplumdan tepkilere neden oldu. Saldırıların detayları ve hedefleri hakkında henüz net bir açıklama yapılmadı. Bölgedeki güvenlik durumu yakından takip ediliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775897534800rx1fr",
-        "title": "ABD Başkan Yardımcısı Vance, İran Görüşmeleri İçin Pakistan'da",
-        "summary": "ABD Başkan Yardımcısı JD Vance, İranlı yetkililerle görüşmeler gerçekleştirmek üzere Pakistan'a geldi. Ziyaretin temel amacı, İran'a yönelik savaşı sona erdirecek bir anlaşmaya ulaşmak olarak açıklandı. Bu diplomatik temasların, bölgedeki gerilimi azaltma ve kalıcı bir çözüm bulma çabalarının bir parçası olduğu belirtiliyor. Görüşmelerin sonucunda bölgesel ve uluslararası ilişkilerde önemli gelişmeler yaşanması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:52:14.800Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775897574420wbapx",
-        "title": "ABD Başkan Yardımcısı Vance liderliğindeki heyet, İran ile görüşmeler için Pakistan'da",
-        "summary": "ABD Başkan Yardımcısı Vance liderliğindeki bir heyet, İranlı yetkililerle görüşmeler gerçekleştirmek üzere Pakistan'a ulaştı. Bu kritik ziyaretin temel amacı, Orta Doğu'daki mevcut çatışmalara diplomatik bir çözüm bulmak. Görüşmelerin hem doğrudan hem de dolaylı formatlarda yapılması bekleniyor. Taraflar arasındaki bu temasların, bölgedeki gerilimi azaltma ve uzun vadeli istikrarı sağlama yönünde önemli bir adım teşkil etmesi umuluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:52:54.420Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/live-blog/us-delegation-led-by-vice-president-vance-in-pakistan-for-talks-with-iran/741",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17758975959667k28m",
-        "title": "ABD'den Orta Doğu'ya Ek Askeri Güç Konuşlandırması",
-        "summary": "Wall Street Journal'ın bildirdiğine göre, ABD'nin Orta Doğu'ya ek askeri güç göndereceği açıklandı. Haberde, binlerce denizci ve deniz piyadesinin bölgeye doğru yola çıktığı belirtildi. Bu konuşlandırmanın, ABD'nin bölgedeki stratejik çıkarlarını koruma veya mevcut güvenlik endişelerine yanıt verme amacı taşıdığı düşünülüyor. Söz konusu askeri hareketlilik, Orta Doğu'daki bölgesel dengeler ve güvenlik ortamı üzerinde potansiyel etkiler yaratabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7983754/pexels-photo-7983754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:53:15.966Z",
-        "location": {
-            "lat": 28,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/americas/more-us-forces-to-deploy-in-middle-east-report/3901680",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
