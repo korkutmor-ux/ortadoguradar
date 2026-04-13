@@ -726,10 +726,11 @@ window.handleQuote = function(newsId, quotedPostId = null) {
         const allPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
         const targetPost = allPosts.find(p => p.id === quotedPostId);
         if (targetPost) {
-            quotedData = {
-                author: targetPost.author,
-                content: targetPost.content
-            };
+           quotedData = {
+            id: targetPost.id,    // Bu satırı ekliyoruz (Çok önemli!)
+            author: targetPost.author,
+            content: targetPost.content
+        };
         }
     }
 
@@ -754,18 +755,18 @@ window.handleQuote = function(newsId, quotedPostId = null) {
         renderSocialFeed();
     }
 };
-// --- SOSYAL AKIŞI RENDER ETME (GÜNCEL VERSİYON) ---
+// --- SOSYAL AKIŞI RENDER ETME ---
 function renderSocialFeed() {
     DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
     
     const posts = JSON.parse(localStorage.getItem('radarPosts')) || [];
 
     posts.forEach(post => {
-        // EĞER BU BİR ALINTININ ALINTISIYSA (QUOTE TWEET):
         let quoteBoxHTML = "";
         if (post.quotedPost) {
+            // TIKLANABİLİR ALINTI KUTUSU
             quoteBoxHTML = `
-                <div style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555;">
+                <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor:pointer;" onmouseover="this.style.borderColor='var(--accent-blue)'" onmouseout="this.style.borderColor='#444'">
                     <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
                     <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic; line-height:1.4;">"${post.quotedPost.content}"</p>
                 </div>
@@ -773,7 +774,7 @@ function renderSocialFeed() {
         }
 
         const postHTML = `
-            <div class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue);">
+            <div id="${post.id}" class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue); transition: 0.3s;">
                 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
                     <div style="width: 35px; height: 35px; background: #222; border: 1px solid var(--accent-blue); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: var(--accent-blue);">${post.author[0].toUpperCase()}</div>
                     <div>
@@ -784,7 +785,9 @@ function renderSocialFeed() {
                 
                 <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px; line-height: 1.5;">${post.content}</p>
                 
-                ${quoteBoxHTML} <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; cursor: pointer;">
+                ${quoteBoxHTML}
+
+                <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; cursor: pointer;">
                     ${post.originalNews.imageUrl ? `<img src="${post.originalNews.imageUrl}" style="width: 40px; height: 40px; object-fit: cover; border-radius: 4px;">` : ''}
                     <div style="overflow: hidden;">
                         <h4 style="margin: 0; font-size: 0.8rem; color: #888; white-space: nowrap; text-overflow: ellipsis;">${post.originalNews.title}</h4>
@@ -795,6 +798,9 @@ function renderSocialFeed() {
                     <button onclick="handleLike(event, 'post-${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
                         <i class="fa-regular fa-heart"></i> <span id="likes-post-${post.id}">0</span>
                     </button>
+                    <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
+                        <i class="fa-regular fa-comment"></i> <span>0</span>
+                    </button>
                     <button onclick="handleQuote('${post.originalNews.id}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.85rem;">
                         <i class="fa-solid fa-retweet"></i>
                     </button>
@@ -804,6 +810,18 @@ function renderSocialFeed() {
         DOM.feedContainer.insertAdjacentHTML('beforeend', postHTML);
     });
 }
+
+// BU YENİ FONKSİYON: Alıntıya tıklayınca oraya kaydırır
+window.scrollToPost = function(postId) {
+    const target = document.getElementById(postId);
+    if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        target.style.boxShadow = "0 0 20px var(--accent-blue)";
+        setTimeout(() => target.style.boxShadow = "none", 2000);
+    } else {
+        alert("Bu post akışta çok geride kalmış olabilir kral!");
+    }
+};
 
 // Yeni butonumuza tıklama özelliği ekleyelim
 document.addEventListener('DOMContentLoaded', () => {
