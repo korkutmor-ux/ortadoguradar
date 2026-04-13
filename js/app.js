@@ -696,12 +696,7 @@ window.handleComment = function(newsId) {
     alert(`Radar: ${newsId} nolu habere yorum yapma özelliği yakında eklenecek!`);
 };
 
-window.handleQuote = function(newsId) {
-    if (!checkAuthAction("Alıntıla")) return;
-    alert("Radar: Haber kendi akışında alıntılandı!");
-};
 
-// Bu fonksiyon kullanıcının giriş yapıp yapmadığını kontrol eder
 function checkAuthAction(action) {
     const user = localStorage.getItem('currentUser');
     if (!user) {
@@ -711,51 +706,72 @@ function checkAuthAction(action) {
     }
     return true;
 }
-// --- ALINTILA (TWEET) MOTORU ---
-window.handleQuote = function(newsId) {
+// --- GELİŞMİŞ ALINTILA (TWEET) MOTORU ---
+window.handleQuote = function(newsId, quotedPostId = null) {
     if (!checkAuthAction("Alıntıla")) return;
 
-    // Kullanıcıdan analiz/yorum alalım
-    const userComment = prompt("Bu haber hakkında ne düşünüyorsun kral? Analizini ekle:");
+    // Eğer bir postu alıntılıyorsak "Analiz yap", haber alıntılıyorsak "Düşüncen nedir" diye soralım
+    const promptMsg = quotedPostId ? "Bu analiz üzerine ne eklemek istersin kral?" : "Bu haber hakkında ne düşünüyorsun kral? Analizini ekle:";
+    const userComment = prompt(promptMsg);
     
-    if (userComment === null) return; // İptal ederse
-    if (userComment.trim() === "") {
-        alert("Boş geçme kral, bir iki kelam et!");
-        return;
-    }
+    if (userComment === null || userComment.trim() === "") return;
 
     const currentUser = localStorage.getItem('currentUser');
-    // STATE içinden ilgili haberi bulalım
     const newsItem = STATE.news.find(n => n.id === newsId);
+    
+    let quotedData = null;
 
-    // Yeni Sosyal Post Objasi
+    // EĞER BİR POSTU ALINTILIYORSAK: O postun yazarını ve içeriğini pakete ekle
+    if (quotedPostId) {
+        const allPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
+        const targetPost = allPosts.find(p => p.id === quotedPostId);
+        if (targetPost) {
+            quotedData = {
+                author: targetPost.author,
+                content: targetPost.content
+            };
+        }
+    }
+
     const newPost = {
         id: 'post_' + Date.now(),
         author: currentUser,
         content: userComment,
         originalNews: newsItem,
+        quotedPost: quotedData, // Burası "Kimin sözünü alıntıladık?" bilgisini tutar
         timestamp: new Date().toISOString()
     };
 
-    // Mevcut postları çek ve yenisini en başa ekle
     let socialPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
     socialPosts.unshift(newPost);
     localStorage.setItem('radarPosts', JSON.stringify(socialPosts));
 
-    alert("Analizin Radar Akışı'na başarıyla düştü! 🚀");
+    alert("Analiz üzerine analiz! Radar Akışı güncellendi. 🚀");
+    
+    // Eğer o an sosyal akıştaysak, sayfayı yenilemeden güncelle
+    const btnSocial = document.getElementById('btn-social');
+    if (btnSocial && btnSocial.classList.contains('active')) {
+        renderSocialFeed();
+    }
 };
-// --- SOSYAL AKIŞI RENDER ETME (GÜNCEL) ---
+// --- SOSYAL AKIŞI RENDER ETME (GÜNCEL VERSİYON) ---
 function renderSocialFeed() {
     DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
     
     const posts = JSON.parse(localStorage.getItem('radarPosts')) || [];
 
-    if (posts.length === 0) {
-        DOM.feedContainer.innerHTML += `<div style="text-align:center; padding: 40px; color: #666;">Henüz kimse analiz yapmadı. İlk bombayı sen patlat!</div>`;
-        return;
-    }
-
     posts.forEach(post => {
+        // EĞER BU BİR ALINTININ ALINTISIYSA (QUOTE TWEET):
+        let quoteBoxHTML = "";
+        if (post.quotedPost) {
+            quoteBoxHTML = `
+                <div style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555;">
+                    <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
+                    <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic; line-height:1.4;">"${post.quotedPost.content}"</p>
+                </div>
+            `;
+        }
+
         const postHTML = `
             <div class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue);">
                 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
@@ -768,22 +784,18 @@ function renderSocialFeed() {
                 
                 <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px; line-height: 1.5;">${post.content}</p>
                 
-                <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; cursor: pointer; transition: 0.3s; margin-bottom: 15px;" onmouseover="this.style.borderColor='var(--accent-blue)'" onmouseout="this.style.borderColor='#222'">
-                    ${post.originalNews.imageUrl ? `<img src="${post.originalNews.imageUrl}" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px;">` : ''}
-                    <div>
-                        <h4 style="margin: 0; font-size: 0.85rem; color: #aaa;">${post.originalNews.title}</h4>
-                        <span style="font-size: 0.75rem; color: #444;">${post.originalNews.category} - <span style="color:var(--accent-blue)">Habere Git →</span></span>
+                ${quoteBoxHTML} <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; cursor: pointer;">
+                    ${post.originalNews.imageUrl ? `<img src="${post.originalNews.imageUrl}" style="width: 40px; height: 40px; object-fit: cover; border-radius: 4px;">` : ''}
+                    <div style="overflow: hidden;">
+                        <h4 style="margin: 0; font-size: 0.8rem; color: #888; white-space: nowrap; text-overflow: ellipsis;">${post.originalNews.title}</h4>
                     </div>
                 </div>
 
-                <div class="post-interactions" style="display: flex; gap: 25px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
+                <div class="post-interactions" style="display: flex; gap: 25px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05); margin-top:15px;">
                     <button onclick="handleLike(event, 'post-${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
                         <i class="fa-regular fa-heart"></i> <span id="likes-post-${post.id}">0</span>
                     </button>
-                    <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
-                        <i class="fa-regular fa-comment"></i> <span>0</span>
-                    </button>
-                    <button onclick="handleQuote('${post.originalNews.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.85rem;">
+                    <button onclick="handleQuote('${post.originalNews.id}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.85rem;">
                         <i class="fa-solid fa-retweet"></i>
                     </button>
                 </div>
