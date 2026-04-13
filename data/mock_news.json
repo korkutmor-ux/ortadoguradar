@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776088039167dyjid",
+        "title": "Çimento Şirketi Lafarge, Suriye'deki Terör Finansmanı Davasında Suçlu Bulundu",
+        "summary": "Fransız mahkemesi, çimento devi Lafarge'ı Suriye'deki iç savaş sırasında silahlı grupları finanse etmekten suçlu buldu. Şirket, Suriye'deki faaliyetlerini sürdürebilmek amacıyla terör örgütlerine ödeme yapmakla itham ediliyordu. Bu karar, uzun süredir devam eden hukuki sürecin bir sonucu olarak geldi ve Lafarge'ın Suriye'deki çimento fabrikasını işletmeye devam etmek için IŞİD ve diğer gruplarla anlaşmalar yaptığı iddialarını doğruladı. Mahkeme kararı, uluslararası şirketlerin çatışma bölgelerindeki sorumlulukları konusunda önemli bir emsal teşkil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798303/pexels-photo-36798303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T13:47:19.167Z",
+        "location": {
+            "lat": 34.802075,
+            "lng": 38.996815,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776088106565x8tch",
+        "title": "Lübnan ve İsrail Yetkilileri Salı Günü ABD'de Buluşacak",
+        "summary": "Lübnan ve İsrail'den yetkililerin Salı günü Amerika Birleşik Devletleri'nde bir araya gelmesi planlanıyor. Bu görüşme, iki ülke arasındaki ilişkiler ve bölgesel dinamikler açısından önem taşıyor. Daha önce üst düzey bir Lübnanlı yetkili, BBC'ye yaptığı açıklamada, Lübnan'ın bu tür görüşmelere ancak bir ateşkesin sağlanması halinde katılacağını belirtmişti. Bu açıklama, toplantının potansiyel gündemine ve Lübnan'ın önceliklerine dair önemli bir koşul sunuyor. Toplantının ABD'de gerçekleşecek olması, Washington'ın arabuluculuk rolüne işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433840/pexels-photo-7433840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T13:48:26.565Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17760810887993lf8w",
         "title": "ABD-İran Görüşmeleri İslamabad'da Gerçekleşti",
         "summary": "Pakistan, ABD ile İran arasındaki kritik görüşmelere ev sahipliği yaparak uluslararası arenada dikkatleri üzerine çekti. İslamabad'da gerçekleşen bu müzakereler, Pakistan'ın Körfez ülkeleri, ABD ve Çin ile olan güçlü diplomatik bağları sayesinde diğer ülkelerin başaramadığı bir başarı olarak değerlendiriliyor. Ülke, bu önemli diyalogda arabuluculuk rolü üstlenerek bölgesel ve küresel siyasetteki konumunu pekiştirdi. Görüşmelerin detayları ve sonuçları, Orta Doğu'daki gerilimin azaltılması ve diplomatik çözüm arayışları açısından büyük önem taşıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775912870243a9l76",
-        "title": "İsrail, Kutsal Cumartesi ayinleri sırasında Doğu Kudüs'te kısıtlamalar uyguladı",
-        "summary": "İsrail güçleri, Kutsal Cumartesi ayinleri nedeniyle Doğu Kudüs'te güvenlik önlemleri aldı. Eski Şehir'deki Kutsal Kabir Kilisesi'ne giden yollara kontrol noktaları kuruldu. Bu önlemler, ayinlere katılmak isteyenlerin kiliseye erişimini sınırladı. Uygulanan kısıtlamaların, dini törenler sırasında güvenliği sağlamak amacıyla alındığı belirtildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/20246396/pexels-photo-20246396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T13:07:50.243Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.23,
-            "name": "Doğu Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-imposes-restrictions-in-east-jerusalem-amid-holy-saturday-observances/3901969",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775912891596w78d8",
-        "title": "Pakistan askeri gücü, savunma anlaşması kapsamında Suudi hava üssüne ulaştı",
-        "summary": "Pakistan askeri gücünün, iki ülke arasındaki savunma anlaşması çerçevesinde bir Suudi hava üssüne ulaştığı bildirildi. Suudi Arabistan Savunma Bakanlığı'ndan yapılan açıklamaya göre, bu güç savaş ve destek uçaklarından oluşmaktadır. Konuşlandırmanın temel amacı, iki ordunun koordinasyonunu ve hazırlık seviyesini artırmaktır. Bu gelişme, Pakistan ile Suudi Arabistan arasındaki askeri iş birliğinin bir parçası olarak değerlendirilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12357477/pexels-photo-12357477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T13:08:11.596Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/pakistani-military-force-arrives-at-saudi-air-base-under-defense-pact/3901887",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
