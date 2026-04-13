@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776098681691m1psp",
+        "title": "İran'da Son On Yılların En Yüksek İnfaz Sayısı Gerçekleşti",
+        "summary": "Uluslararası kuruluşlar, İran'da son on yılların en yüksek infaz sayısının kaydedildiğini bildirdi. Ülke genelinde bu yılın başlarında yaşanan hükümet karşıtı protestoların ardından çok daha fazla kişinin idam edilebileceği konusunda uyarılar yapılıyor. İnsan hakları örgütleri, özellikle protestolarla bağlantılı davalarda verilen idam cezalarının artmasından endişe duyuyor. Bu durum, İran'daki insan hakları durumuyla ilgili uluslararası kaygıları artırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8353836/pexels-photo-8353836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T16:44:41.691Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776093501314l5ssf",
         "title": "Trump'ın Hürmüz'ü abluka tehdidi: Neden son büyük tırmanış?",
         "summary": "ABD Başkanı Trump'ın Hürmüz Boğazı'nı abluka altına alma tehdidi, bölgedeki gerilimi önemli ölçüde artırdı. Analistler, Washington'ın bu adımının ABD ile İran arasındaki kırılgan ateşkesi olumsuz etkileyebileceği konusunda uyarılarda bulunuyor. Bu tehdit, iki ülke arasındaki mevcut hassas dengeyi bozma potansiyeli taşıyor. Hürmüz Boğazı, küresel petrol ticareti için stratejik bir geçiş noktası olması nedeniyle, olası bir ablukanın geniş çaplı sonuçları olabileceği belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775912789987fy3pk",
-        "title": "Gazze'de Kurulan Geçici Üniversite, Akademik Çalışmaları Yeniden Canlandırma Fırsatı Sunuyor",
-        "summary": "Gazze'de savaşın ardından yaşanan zorluklar ve kaynak sıkıntısıyla mücadele eden öğrenciler için güneş enerjisiyle çalışan geçici derslikler, akademik bir cankurtaran halatı görevi görüyor. Bu geçici üniversite, bölgedeki gençlerin eğitimlerine devam etmelerine olanak tanıyarak umut vadediyor. Savaşın yol açtığı yıkımın ortasında, öğrencilere eğitimlerini sürdürme ve geleceğe yönelik umutlarını yeşertme imkanı sunuluyor. Güneş enerjisi kullanımı, kısıtlı imkanlara rağmen sürdürülebilir bir çözüm sunarak eğitimin devamlılığını sağlıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36850211/pexels-photo-36850211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T13:06:29.987Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/11/makeshift-gaza-university-offers-chance-to-resurrect-academic-studies?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
