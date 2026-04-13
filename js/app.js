@@ -549,3 +549,40 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
+// --- Giriş/Kayıt Sistemi Kontrolleri ---
+
+// Modalı açan fonksiyon
+function openAuthModal() {
+    document.getElementById('authModal').classList.remove('hidden');
+}
+
+// Modalı kapatan fonksiyon
+function closeAuthModal() {
+    document.getElementById('authModal').classList.add('hidden');
+}
+
+// Giriş ve Kayıt modları arasında geçiş yapma
+let isLoginMode = true;
+const btnSwitch = document.getElementById('btnSwitchAuth');
+const authTitle = document.getElementById('authTitle');
+const authPrimaryBtn = document.getElementById('authPrimaryBtn');
+const authSwitchText = document.getElementById('authSwitchText');
+
+if (btnSwitch) {
+    btnSwitch.onclick = function() {
+        isLoginMode = !isLoginMode;
+        
+        if (!isLoginMode) {
+            authTitle.innerText = "Radar'a Kayıt Ol";
+            authPrimaryBtn.innerText = "Kayıt Ol";
+            authSwitchText.innerText = "Zaten hesabın var mı?";
+            btnSwitch.innerText = "Giriş Yap";
+        } else {
+            authTitle.innerText = "Radar'a Katıl";
+            authPrimaryBtn.innerText = "Giriş Yap";
+            authSwitchText.innerText = "Hesabın yok mu?";
+            btnSwitch.innerText = "Kayıt Ol";
+        }
+    };
+}
