@@ -927,3 +927,16 @@ window.handleLike = async function(event, postId) {
         console.error("Beğeni buluta işlenemedi:", e);
     }
 };
+
+// Sayfa ilk açıldığında ne olacağını belirleyen kısım
+document.addEventListener('DOMContentLoaded', () => {
+    // 1. Önce Haberleri (Ana Sayfayı) yükle ve göster
+    switchView('feed'); 
+    
+    // 2. Arka planda analizleri de hazırla (ama ekrana basma)
+    if (typeof db !== 'undefined') {
+        db.collection("posts").orderBy("timestamp", "desc").limit(1).get().then(() => {
+            console.log("Bulut bağlantısı hazır.");
+        });
+    }
+});
