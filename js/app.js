@@ -256,6 +256,7 @@ function setupEventListeners() {
         STATE.searchQuery = '';
         DOM.searchInput.value = '';
         await fetchNewsData();
+      await fetchRadarPosts();
         updateUI(); 
         switchView('feed');
         document.querySelector('.feed-container').scrollTop = 0;
@@ -336,6 +337,22 @@ function setupEventListeners() {
         switchView('map');
         renderNewsCards(); // Yan taraftaki akışı geri getirir
     });
+  // Radar Akışı (Sosyal Akış) Butonu
+    const socialBtn = document.getElementById('btn-social');
+    if (socialBtn) {
+        socialBtn.addEventListener('click', () => {
+            // Diğer butonların aktifliğini kaldır
+            document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+            // Bu butonu aktif yap
+            socialBtn.classList.add('active');
+            
+            // Görünümü Radar Akışına çevir
+            switchView('social'); 
+            
+            // İŞTE KRİTİK NOKTA: Google Bulut'tan verileri çek
+            fetchRadarPosts(); 
+        });
+    }
 }
 
 function applyFilters() {
@@ -742,18 +759,16 @@ function renderSocialFeed(posts) {
             commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.25); border-radius: 8px; border: 1px solid #222;">`;
             post.comments.forEach(cmt => {
                 commentsHTML += `
-                    <div id="${cmt.id}" style="margin-bottom: 12px; border-bottom: 1px solid #1a1a1a; padding-bottom: 10px;">
-                        <div style="font-size: 0.95rem; margin-bottom: 8px;">
-                            <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
-                            <span style="color: #ddd;">${cmt.text}</span>
-                        </div>
+                    <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px; font-size: 0.92rem;">
+                        <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
+                        <span style="color: #ddd;">${cmt.text}</span>
                     </div>`;
             });
             commentsHTML += `</div>`;
         }
 
         let quoteBoxHTML = post.quotedPost ? `
-            <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor:pointer;">
+            <div style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555;">
                 <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
                 <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic;">"${post.quotedPost.content}"</p>
             </div>` : "";
@@ -766,9 +781,20 @@ function renderSocialFeed(posts) {
                 </div>
                 <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px;">${post.content}</p>
                 ${quoteBoxHTML}
-                <div class="post-interactions" style="display: flex; gap: 25px; margin-top:15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
-                    <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;"><i class="fa-regular fa-comment"></i> <span>${post.comments ? post.comments.length : 0}</span></button>
-                    <button onclick="handleQuote('${post.originalNews?.id || 'general'}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;"><i class="fa-solid fa-retweet"></i></button>
+                
+                <div class="post-interactions" style="display: flex; gap: 30px; margin-top:15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
+                    
+                    <button onclick="handleLike(event, '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display: flex; align-items: center; gap: 5px;">
+                        <i class="fa-regular fa-heart"></i> <span>${post.likes || 0}</span>
+                    </button>
+                    
+                    <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display: flex; align-items: center; gap: 5px;">
+                        <i class="fa-regular fa-comment"></i> <span>${post.comments ? post.comments.length : 0}</span>
+                    </button>
+                    
+                    <button onclick="handleQuote('${post.originalNews?.id || 'general'}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;">
+                        <i class="fa-solid fa-retweet"></i>
+                    </button>
                 </div>
                 ${commentsHTML}
             </div>`;
