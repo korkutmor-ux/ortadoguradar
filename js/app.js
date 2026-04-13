@@ -873,3 +873,31 @@ window.goToNews = function(newsId) {
         }
     }, 300);
 };
+// --- FIREBASE BEĞENİ FONKSİYONU ---
+window.handleLike = async function(event, postId) {
+    if (!checkAuthAction("Beğeni")) return;
+
+    const postRef = db.collection("posts").doc(postId);
+    const icon = event.currentTarget.querySelector('i');
+    const span = event.currentTarget.querySelector('span');
+    
+    try {
+        const doc = await postRef.get();
+        if (doc.exists) {
+            let currentLikes = doc.data().likes || 0;
+            let newLikes = currentLikes + 1;
+            
+            // Buluttaki veriyi güncelle
+            await postRef.update({ likes: newLikes });
+            
+            // Sayfayı yenilemeden ekrandaki sayıyı da hemen değiştir
+            if (span) span.textContent = newLikes;
+            
+            // Kalbi kırmızı yap ve doldur
+            icon.classList.replace('fa-regular', 'fa-solid');
+            icon.style.color = '#ff4757';
+        }
+    } catch (e) {
+        console.error("Beğeni buluta işlenemedi:", e);
+    }
+};
