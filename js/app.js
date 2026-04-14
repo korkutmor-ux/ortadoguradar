@@ -746,32 +746,46 @@ async function fetchRadarPosts() {
     }
 }
 
-// --- 3. SOSYAL AKIŞI RENDER ETME ---
+// --- 3. SOSYAL AKIŞI RENDER ETME (GÜNCEL VERSİYON) ---
 function renderSocialFeed(posts) {
     DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
     
+    // Kimin giriş yaptığını kontrol et
+    const currentUser = localStorage.getItem('currentUser');
+
     posts.forEach(post => {
+        // --- POST BEĞENİ KONTROLÜ ---
+        const isPostLiked = post.likedBy && post.likedBy.includes(currentUser);
+        const postHeartClass = isPostLiked ? 'fa-solid' : 'fa-regular';
+        const postHeartColor = isPostLiked ? '#ff4757' : '#555';
+
         let commentsHTML = "";
         if (post.comments && post.comments.length > 0) {
             commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.25); border-radius: 8px; border: 1px solid #222;">`;
-            post.comments.forEach(cmt => {
-    commentsHTML += `
-        <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px;">
-            <div style="font-size: 0.92rem;">
-                <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
-                <span style="color: #ddd;">${cmt.text}</span>
-            </div>
             
-            <div style="display: flex; gap: 15px; margin-top: 5px; padding-left: 5px;">
-                <button onclick="handleCommentLike('${post.id}', '${cmt.id}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:4px;">
-                    <i class="fa-regular fa-heart"></i> <span>${cmt.likes || 0}</span>
-                </button>
-                <button onclick="handleCommentReply('${post.id}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem;">
-                    <i class="fa-solid fa-reply"></i> Yanıtla
-                </button>
-            </div>
-        </div>`;
-});
+            post.comments.forEach(cmt => {
+                // --- YORUM BEĞENİ KONTROLÜ ---
+                const isCmtLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
+                const cmtHeartClass = isCmtLiked ? 'fa-solid' : 'fa-regular';
+                const cmtHeartColor = isCmtLiked ? '#ff4757' : '#555';
+
+                commentsHTML += `
+                    <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px;">
+                        <div style="font-size: 0.92rem;">
+                            <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
+                            <span style="color: #ddd;">${cmt.text}</span>
+                        </div>
+                        <div style="display: flex; gap: 15px; margin-top: 5px; padding-left: 5px;">
+                            <button onclick="handleCommentLike('${post.id}', '${cmt.id}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:4px;">
+                                <i class="${cmtHeartClass} fa-heart" style="color: ${cmtHeartColor}"></i> 
+                                <span>${cmt.likes || 0}</span>
+                            </button>
+                            <button onclick="handleCommentReply('${post.id}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem;">
+                                <i class="fa-solid fa-reply"></i> Yanıtla
+                            </button>
+                        </div>
+                    </div>`;
+            });
             commentsHTML += `</div>`;
         }
 
@@ -789,17 +803,14 @@ function renderSocialFeed(posts) {
                 </div>
                 <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px;">${post.content}</p>
                 ${quoteBoxHTML}
-                
                 <div class="post-interactions" style="display: flex; gap: 30px; margin-top:15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
-                    
                     <button onclick="handleLike(event, '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display: flex; align-items: center; gap: 5px;">
-                        <i class="fa-regular fa-heart"></i> <span>${post.likes || 0}</span>
+                        <i class="${postHeartClass} fa-heart" style="color: ${postHeartColor}"></i> 
+                        <span>${post.likes || 0}</span>
                     </button>
-                    
                     <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display: flex; align-items: center; gap: 5px;">
                         <i class="fa-regular fa-comment"></i> <span>${post.comments ? post.comments.length : 0}</span>
                     </button>
-                    
                     <button onclick="handleQuote('${post.originalNews?.id || 'general'}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;">
                         <i class="fa-solid fa-retweet"></i>
                     </button>
@@ -902,21 +913,30 @@ window.goToNews = function(newsId) {
 // --- FIREBASE BEĞENİ FONKSİYONU ---
 window.handleLike = async function(event, postId) {
     if (!checkAuthAction("Beğeni")) return;
+    const currentUser = localStorage.getItem('currentUser');
     const postRef = db.collection("posts").doc(postId);
-    const icon = event.currentTarget.querySelector('i');
-    const span = event.currentTarget.querySelector('span');
+
     try {
         const doc = await postRef.get();
         if (doc.exists) {
-            let currentLikes = doc.data().likes || 0;
-            let newLikes = currentLikes + 1;
-            await postRef.update({ likes: newLikes });
-            if (span) span.textContent = newLikes;
-            icon.classList.replace('fa-regular', 'fa-solid');
-            icon.style.color = '#ff4757';
+            let likedBy = doc.data().likedBy || [];
+            
+            if (likedBy.includes(currentUser)) {
+                // Kullanıcı zaten beğenmiş, listeden çıkar (Unlike)
+                likedBy = likedBy.filter(user => user !== currentUser);
+            } else {
+                // Kullanıcı ilk kez beğeniyor, listeye ekle (Like)
+                likedBy.push(currentUser);
+            }
+
+            await postRef.update({ 
+                likedBy: likedBy,
+                likes: likedBy.length // Beğeni sayısı listenin uzunluğu olur
+            });
+            fetchRadarPosts(); // Görünümü güncellemek için akışı tazele
         }
     } catch (e) {
-        console.error("Beğeni buluta işlenemedi:", e);
+        console.error("Beğeni işlemi başarısız:", e);
     }
 };
 
@@ -935,25 +955,31 @@ document.addEventListener('DOMContentLoaded', () => {
 // --- YORUM BEĞENİ FONKSİYONU ---
 window.handleCommentLike = async function(postId, commentId) {
     if (!checkAuthAction("Yorum Beğeni")) return;
-
+    const currentUser = localStorage.getItem('currentUser');
     const postRef = db.collection("posts").doc(postId);
+
     try {
         const doc = await postRef.get();
         if (doc.exists) {
             let comments = doc.data().comments || [];
-            // İlgili yorumu bul ve beğenisini 1 artır
             comments = comments.map(cmt => {
                 if (cmt.id === commentId) {
-                    return { ...cmt, likes: (cmt.likes || 0) + 1 };
+                    let likedBy = cmt.likedBy || [];
+                    if (likedBy.includes(currentUser)) {
+                        likedBy = likedBy.filter(u => u !== currentUser);
+                    } else {
+                        likedBy.push(currentUser);
+                    }
+                    return { ...cmt, likedBy: likedBy, likes: likedBy.length };
                 }
                 return cmt;
             });
 
             await postRef.update({ comments: comments });
-            fetchRadarPosts(); // Ekranda sayıyı güncellemek için akışı tazele
+            fetchRadarPosts();
         }
     } catch (e) {
-        console.error("Yorum beğenisi işlenemedi:", e);
+        console.error("Yorum beğenisi başarısız:", e);
     }
 };
 
