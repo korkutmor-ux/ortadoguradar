@@ -139,8 +139,7 @@ function renderNewsCards() {
         const cardClass = item.isBreaking ? 'news-card breaking' : 'news-card';
         const breakingBadge = item.isBreaking ? `<span class="breaking-tag"><i class="fa-solid fa-bolt"></i> Son Dakika</span>` : '';
         const imageHTML = (item.imageUrl && item.imageUrl.includes('pexels')) ? `<img src="${item.imageUrl}" alt="Haber Görseli" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px 8px 0 0; display: block; border-bottom: 1px solid #333;">` : '';
-
-        const cardHTML = `
+const cardHTML = `
             <article class="${cardClass}">
                 ${imageHTML}
                 <div class="card-header">
@@ -156,15 +155,20 @@ function renderNewsCards() {
                     <p>${item.summary}</p>
                     
                     <div class="card-interactions" style="display: flex; gap: 25px; margin-top: 15px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05);">
-                        <button onclick="handleLike(event, '${item.id}')" class="int-btn" title="Beğen" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem; transition:0.2s;">
-                            <i class="fa-regular fa-heart"></i> <span id="likes-${item.id}">0</span>
+                        <button onclick="handleNewsLike('${item.id}')" class="int-btn" id="news-like-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
+                            <i class="fa-regular fa-heart"></i> <span class="count">0</span>
                         </button>
-                        <button onclick="handleComment('${item.id}')" class="int-btn" title="Yorum Yap" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem; transition:0.2s;">
-                            <i class="fa-regular fa-comment"></i> <span>0</span>
+                        
+                        <button onclick="toggleNewsComments('${item.id}')" class="int-btn" id="news-comm-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
+                            <i class="fa-regular fa-comment"></i> <span class="count">0</span>
                         </button>
-                        <button onclick="handleQuote('${item.id}')" class="int-btn" title="Alıntıla" style="background:none; border:none; color:#888; cursor:pointer; font-size:0.9rem; transition:0.2s;">
+                        
+                        <button onclick="handleQuote('${item.id}')" class="int-btn" style="background:none; border:none; color:#888; cursor:pointer; font-size:0.9rem;">
                             <i class="fa-solid fa-retweet"></i>
                         </button>
+                    </div>
+
+                    <div id="comments-area-${item.id}" class="hidden" style="margin-top: 10px; background: #0c0c0c; border-radius: 8px; border: 1px solid #1a1a1a; overflow: hidden;">
                     </div>
                 </div>
                 
@@ -789,11 +793,24 @@ function renderSocialFeed(posts) {
             commentsHTML += `</div>`;
         }
 
-        let quoteBoxHTML = post.quotedPost ? `
-            <div style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555;">
-                <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
-                <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic;">"${post.quotedPost.content}"</p>
-            </div>` : "";
+        // --- ALINTI KUTUSU GÜNCELLEMESİ (Haber mi, Post mu?) ---
+        let quoteBoxHTML = "";
+        if (post.quotedPost) {
+            // Başka bir kullanıcının analizini alıntıladıysa
+            quoteBoxHTML = `
+                <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor: pointer;">
+                    <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
+                    <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic;">"${post.quotedPost.content}"</p>
+                </div>`;
+        } else if (post.originalNews) {
+            // Canlı Akış'tan bir haberi alıntıladıysa (Yeni Eklenen Kısım)
+            quoteBoxHTML = `
+                <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid var(--accent-blue); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(30, 60, 114, 0.1); border-left: 4px solid var(--accent-blue); cursor: pointer;">
+                    <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;"><i class="fa-solid fa-newspaper"></i> Haber Alıntısı:</strong>
+                    <p style="margin: 0; font-size: 0.95rem; color: #eee; font-weight: 500;">${post.originalNews.title}</p>
+                    <span style="font-size: 0.75rem; color: var(--accent-blue); margin-top: 5px; display: block;">Habere gitmek için tıkla →</span>
+                </div>`;
+        }
 
         const postHTML = `
             <div id="${post.id}" class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue);">
@@ -997,3 +1014,128 @@ window.handleCommentReply = function(postId, targetAuthor) {
     // Güncellediğimiz handleComment'i hazır metinle çağır
     window.handleComment(postId, userComment);
 };
+// =========================================
+// ANA AKIŞ (HABERLER) ETKİLEŞİM MANTIĞI
+// =========================================
+
+// --- HABER BEĞENİSİ ---
+window.handleNewsLike = async function(newsId) {
+    if (!checkAuthAction("Beğeni")) return;
+    const currentUser = localStorage.getItem('currentUser');
+    const newsRef = db.collection("news_interactions").doc(newsId);
+
+    try {
+        const doc = await newsRef.get();
+        let likedBy = (doc.exists && doc.data().likedBy) ? doc.data().likedBy : [];
+
+        if (likedBy.includes(currentUser)) {
+            likedBy = likedBy.filter(u => u !== currentUser);
+        } else {
+            likedBy.push(currentUser);
+        }
+
+        await newsRef.set({ likedBy: likedBy }, { merge: true });
+        updateNewsInteractionsUI(newsId); // Sayıyı ekranda hemen güncelle
+    } catch (e) { console.error("Haber beğenilemedi:", e); }
+};
+
+// --- YORUM PANELİNİ AÇ/KAPAT ---
+window.toggleNewsComments = async function(newsId) {
+    const container = document.getElementById(`comments-area-${newsId}`);
+    if (!container.classList.contains('hidden')) {
+        container.classList.add('hidden');
+        return;
+    }
+
+    container.classList.remove('hidden');
+    container.innerHTML = `<div style="padding:15px; color:#888; font-size:0.8rem;"><i class="fa-solid fa-spinner fa-spin"></i> Yorumlar yükleniyor...</div>`;
+
+    const doc = await db.collection("news_interactions").doc(newsId).get();
+    const comments = (doc.exists && doc.data().comments) ? doc.data().comments : [];
+    renderNewsComments(newsId, comments);
+};
+
+// --- HABER YORUMLARINI ÇİZME ---
+function renderNewsComments(newsId, comments) {
+    const container = document.getElementById(`comments-area-${newsId}`);
+    const currentUser = localStorage.getItem('currentUser');
+    
+    let html = `
+        <div style="padding: 12px; border-top: 1px solid #222; background: #0c0c0c;">
+            <button onclick="handleNewsComment('${newsId}')" style="width:100%; padding:10px; background:var(--accent-blue); border:none; border-radius:6px; color:white; font-weight:bold; margin-bottom:12px; cursor:pointer;">
+                <i class="fa-solid fa-pen-nib"></i> Analizini Ekle
+            </button>
+    `;
+
+    if (comments.length === 0) {
+        html += `<div style="color:#555; font-size:0.85rem; text-align:center; padding:10px;">Henüz yorum yok.</div>`;
+    }
+
+    comments.forEach(cmt => {
+        const isLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
+        html += `
+            <div style="margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid #1a1a1a;">
+                <div style="font-size:0.9rem;"><strong style="color:var(--accent-blue);">@${cmt.author}</strong>: ${cmt.text}</div>
+                <div style="display:flex; gap:15px; margin-top:6px;">
+                    <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem;">
+                        <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> ${cmt.likedBy?.length || 0}
+                    </button>
+                </div>
+            </div>`;
+    });
+
+    html += `<button onclick="toggleNewsComments('${newsId}')" style="width:100%; background:none; border:none; color:#444; font-size:0.75rem; margin-top:5px; cursor:pointer;">Kapat ▲</button></div>`;
+    container.innerHTML = html;
+}
+
+// --- HABER YORUMU KAYDETME ---
+window.handleNewsComment = async function(newsId) {
+    if (!checkAuthAction("Yorum Yapma")) return;
+    const userComment = prompt("Haber hakkındaki analizin nedir kral?");
+    if (!userComment) return;
+
+    const currentUser = localStorage.getItem('currentUser');
+    const newsRef = db.collection("news_interactions").doc(newsId);
+
+    const doc = await newsRef.get();
+    let comments = (doc.exists && doc.data().comments) ? doc.data().comments : [];
+
+    comments.push({
+        id: 'ncmt_' + Date.now(),
+        author: currentUser,
+        text: userComment,
+        likedBy: [],
+        timestamp: new Date().toISOString()
+    });
+
+    await newsRef.set({ comments: comments }, { merge: true });
+    renderNewsComments(newsId, comments);
+    updateNewsInteractionsUI(newsId);
+};
+
+// --- EKRANDAKİ SAYILARI GÜNCELLEME (REAL-TIME GÖRÜNÜM) ---
+async function updateNewsInteractionsUI(newsId) {
+    const doc = await db.collection("news_interactions").doc(newsId).get();
+    if (doc.exists) {
+        const data = doc.data();
+        const likeBtn = document.querySelector(`#news-like-btn-${newsId}`);
+        const commBtn = document.querySelector(`#news-comm-btn-${newsId}`);
+        const currentUser = localStorage.getItem('currentUser');
+
+        if (likeBtn) {
+            const likedBy = data.likedBy || [];
+            likeBtn.querySelector('.count').textContent = likedBy.length;
+            const icon = likeBtn.querySelector('i');
+            if (likedBy.includes(currentUser)) {
+                icon.className = 'fa-solid fa-heart';
+                icon.style.color = '#ff4757';
+            } else {
+                icon.className = 'fa-regular fa-heart';
+                icon.style.color = '#888';
+            }
+        }
+        if (commBtn) {
+            commBtn.querySelector('.count').textContent = (data.comments || []).length;
+        }
+    }
+}
