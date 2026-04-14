@@ -1,5 +1,53 @@
 [
     {
+        "id": "17761972391552ow0a",
+        "title": "ABD'ye yönelik küresel bakış açıları neden kötüleşiyor?",
+        "summary": "ABD'nin uluslararası arenadaki konumu ve küresel itibarı, İran'a karşı başlatılan bir savaşın ardından ve ülkeye yönelik olumsuz görüşlerin yıllardır kötüleşmesi bağlamında tartışılıyor. Haber, ABD'nin dünya genelindeki algısının neden düşüşte olduğunu ve bu durumun arkasındaki nedenleri analiz ediyor. Bu düşüşün diplomatik ve jeopolitik sonuçları üzerinde duruluyor. Analiz, ABD'nin dış politikasının küresel kamuoyundaki yansımalarını inceliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27970289/pexels-photo-27970289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T20:07:19.155Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/the-stream/2026/4/14/why-are-global-views-of-the-us-getting-worse?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17761972643873hlpe",
+        "title": "Pakistan Başbakanı, ABD-İran Görüşmeleri Beklentisiyle Riyad ve Ankara'ya Gidiyor",
+        "summary": "Pakistan Başbakanı Şerif, ABD ile İran arasındaki potansiyel müzakereler zemininde Riyad ve Ankara'ya bir ziyaret gerçekleştiriyor. Başbakan Şerif'in bu ziyaretlerle, taraflar arasındaki müzakerelerin ilerlemesi için çaba sarf ettiği belirtiliyor. ABD Başkanı Trump, görüşmelerin önümüzdeki iki gün içinde Pakistan'da yeniden başlayabileceğini ifade etti. Bu diplomatik girişim, bölgesel gerilimlerin azaltılması ve taraflar arasında diyalog köprülerinin kurulması açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7710139/pexels-photo-7710139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T20:07:44.387Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/14/pakistan-pm-headed-to-saudi-and-turkiye-amid-prospect-of-new-us-iran-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776197284638826op",
+        "title": "İsrail'in Gazze'deki polis aracına düzenlediği saldırıda çocuk hayatını kaybetti",
+        "summary": "Gazze Şeridi'nde meydana gelen olayda, İsrail'in bir polis aracına düzenlediği hava saldırısı sonucu en az dört kişi yaşamını yitirdi. Saldırıda hayatını kaybedenler arasında üç yaşında bir çocuğun da bulunduğu belirtildi. Olay, Gazze Şehri'nde gerçekleşti ve bölgedeki gerilimi artırdı. Yerel kaynaklar, saldırının hedefinin bir polis aracı olduğunu doğruladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/87088/fighter-jet-jet-aircraft-army-87088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T20:08:04.638Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
         "id": "17761922845645vflf",
         "title": "BM Genel Sekreteri Guterres: İran Savaşı Görüşmeleri Yeniden Başlayabilir",
         "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, ABD ve İsrail'in İran'a karşı olası bir savaşı sona erdirmeye yönelik görüşmelerin yeniden başlamasının \"büyük olasılıkla\" olduğunu ifade etti. Guterres'in bu açıklaması, bölgedeki gerilimin azaltılması ve diplomatik çözüm arayışlarının devam edebileceği yönündeki beklentileri güçlendiriyor. ABD, İsrail ve İran arasındaki ilişkiler uzun süredir gergin seyrederken, nükleer program ve bölgesel nüfuz mücadeleleri önemli sorun başlıklarını oluşturuyor. Bu tür görüşmelerin yeniden başlaması, taraflar arasında doğrudan veya dolaylı diyaloğun kapısını aralayarak potansiyel bir çatışmanın önüne geçme amacı taşıyor. Uluslararası toplum, bölgedeki istikrarın sağlanması adına diplomatik çabaların sürdürülmesinin önemini vurguluyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/irans-parliament-speaker-says-us-must-decide-whether-to-build-trust-with-tehran/3902736",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775985900668scx6n",
-        "title": "İran'a Yönelik Savaşın 40 Gününde Neler Yaşandı?",
-        "summary": "İran'a yönelik savaşın ilk 40 gününde yaşanan gelişmeler mercek altına alındı. Bu süreçte kimlerin hedef alındığı, gerçekleştirilen saldırılar ve ortaya çıkan hasar detaylandırıldı. Haber ayrıca, çatışmaların ortasında kalan sivillerin durumu ve yaşadıkları zorluklara da değiniyor. Bu analiz, savaşın insani ve maddi boyutlarını ortaya koymayı amaçlıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19893301/pexels-photo-19893301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T09:25:00.668Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1775985922018x5qs4",
-        "title": "ABD-İran Görüşmeleri Anlaşmasız Sona Erdi",
-        "summary": "Amerika Birleşik Devletleri ile İran arasındaki görüşmeler Pakistan'ın başkenti İslamabad'da tamamlandı. Taraflar, müzakerelerin bir anlaşmayla sonuçlanmamasından birbirlerini sorumlu tuttu. Bu görüşmeler, iki ülke arasındaki gerilimin 44. gününde diplomatik bir çözüm arayışı olarak öne çıkıyordu. Ancak, yapılan açıklamalar, mevcut çatışma ortamında somut bir ilerleme kaydedilemediğini gösteriyor. Bölgedeki tansiyonun düşürülmesi yönündeki çabalar henüz sonuç vermedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8348624/pexels-photo-8348624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T09:25:22.018Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775986001605ii2i6",
-        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda En Az 11 Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusu, Lübnan'ın güneyine yönelik hava saldırılarını sürdürüyor. Bu saldırılarda en az 11 kişinin hayatını kaybettiği bildirildi. Operasyonlar, 14 Nisan'da Washington'da yapılması planlanan Beyrut-Tel Aviv görüşmelerine rağmen devam ediyor. Bölgedeki gerilimin sürdüğünü gösteren bu gelişmeler, diplomatik çabalara rağmen askeri faaliyetlerin devam ettiğini ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T09:26:41.605Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/latest-israeli-strikes-kill-at-least-11-in-lebanon/3902712",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
