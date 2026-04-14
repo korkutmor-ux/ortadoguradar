@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776167948531kb5y5",
+        "title": "Hürmüz Boğazı'nı Kim Kontrol Ediyor?",
+        "summary": "Hürmüz Boğazı'nın kontrolü ve erişim şartları üzerine süregelen mücadele, ABD'nin boğazı engelleme hamlesiyle yeni bir boyut kazandı. Dünya petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolu, küresel enerji güvenliği açısından hayati öneme sahip. ABD'nin bu adımı, bölgedeki güç dengeleri ve uluslararası denizcilik hukuku üzerindeki tartışmaları alevlendirerek gerilimi artırdı. Taraflar arasında boğazın kullanımına ilişkin yaşanan bu gerilimler, Orta Doğu'daki jeopolitik rekabetin ve stratejik çıkarların bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5640138/pexels-photo-5640138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T11:59:08.531Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/4/14/who-controls-the-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776163612449ff351",
         "title": "İran, YouTube'un İran Yanlısı Grubun Yapay Zeka Videolarını Yasaklamasını Kınadı",
         "summary": "İran Dışişleri Bakanlığı, YouTube'un İran yanlısı bir grubun yapay zeka destekli Lego tarzı videolarını yasaklamasını kınadı. Bakanlık sözcüsü, bu adımın \"İran'a karşı yürüttükleri yasa dışı savaş hakkındaki gerçeği bastırmayı\" amaçladığını belirtti. Tahran, bu yasağı uluslararası platformlarda kendi anlatısını yayma çabalarına yönelik bir engelleme olarak değerlendiriyor. Olay, dijital platformlarda içerik denetimi ve ifade özgürlüğü tartışmalarını yeniden gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775976904533vsgax",
-        "title": "ABD ve İran, Pakistan'daki maraton görüşmelerinin ardından barış anlaşmasına varamadı",
-        "summary": "ABD ve İran arasında Pakistan'da düzenlenen maraton görüşmelerinde bir barış anlaşmasına varılamadığı açıklandı. ABD Başkan Yardımcısı JD Vance, İran'ın ABD'nin sunduğu şartları kabul etmediğini belirtti. İranlı yetkililer ise ilk toplantıda bir anlaşma beklemelerinin gerçekçi olmadığını ifade etti. Bu sonuç, iki ülke arasındaki gerilimi azaltma yönündeki diplomatik çabaların henüz somut bir başarıya ulaşamadığını ortaya koydu. Görüşmelerin geleceği hakkında ise henüz net bir bilgi verilmedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T06:55:04.533Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
