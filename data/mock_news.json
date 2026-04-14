@@ -1,5 +1,21 @@
 [
     {
+        "id": "17761351789312m7me",
+        "title": "New York'ta İsrail'e Silah Satışlarının Durdurulması Çağrısı Yapan Savaş Karşıtı Protestocular Gözaltına Alındı",
+        "summary": "New York polisi, ABD'nin İsrail'e silah satışlarının sona erdirilmesi talebiyle düzenlenen bir oturma eyleminde yaklaşık 100 savaş karşıtı protestocuyu gözaltına aldı. Eylemciler, İsrail'e yönelik askeri yardımların durdurulması çağrısında bulunarak, ABD'nin dış politikasını eleştirdi. Protesto, New York'taki bir dizi savaş karşıtı gösterinin sonuncusu olarak kayıtlara geçti. Gözaltına alınanlar arasında, bölgedeki çatışmalara son verilmesini isteyen aktivistler de yer aldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32347985/pexels-photo-32347985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T02:52:58.931Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17761241489491nexh",
         "title": "ABD-İsrail'in İran'a Yönelik Çatışması Nedeniyle Nakliye Maliyetleri ve Enerji Fiyatları Yükseldi",
         "summary": "Son bir ayda küresel nakliye maliyetleri yüzde 10'dan fazla artış gösterdi. Bu artışın temel nedeni olarak, ABD ve İsrail'in İran'a karşı yürüttüğü 'savaş' gösteriliyor. Eski ABD Başkanı Trump'ın Jones Yasası'nı askıya almasına rağmen enerji fiyatlarındaki yükselişin devam ettiği belirtiliyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji ve lojistik piyasaları üzerindeki doğrudan etkisini gözler önüne seriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17759335430753j5jd",
-        "title": "Madrid'de İsrail'in Lübnan Saldırılarının Kurbanları İçin Anma Töreni Düzenlendi",
-        "summary": "İspanya'nın başkenti Madrid'de, İsrail'in Lübnan'a yönelik düzenlediği hava saldırılarında hayatını kaybedenler için bir anma töreni gerçekleştirildi. Şehir merkezinde toplanan onlarca kişi, saldırıların kurbanlarını anarak bölgedeki şiddete dikkat çekti. Katılımcılar, Lübnan'daki mağdurlarla dayanışma mesajları verirken, uluslararası toplumu barış çağrısı yapmaya davet etti. Bu tür sivil toplum etkinlikleri, Orta Doğu'daki çatışmaların insani boyutuna yönelik küresel duyarlılığı yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/14529234/pexels-photo-14529234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T18:52:23.075Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Madrid, İspanya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
