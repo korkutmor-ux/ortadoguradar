@@ -1056,36 +1056,48 @@ window.toggleNewsComments = async function(newsId) {
 };
 
 // --- HABER YORUMLARINI ÇİZME ---
+// --- 1059. SATIRDAN BAŞLAYARAK BURAYI YAPIŞTIR ---
 function renderNewsComments(newsId, comments) {
     const container = document.getElementById(`comments-area-${newsId}`);
     const currentUser = localStorage.getItem('currentUser');
     
     let html = `
-        <div style="padding: 12px; border-top: 1px solid #222; background: #0c0c0c;">
-            <button onclick="handleNewsComment('${newsId}')" style="width:100%; padding:10px; background:var(--accent-blue); border:none; border-radius:6px; color:white; font-weight:bold; margin-bottom:12px; cursor:pointer;">
+        <div style="padding: 15px; border-top: 1px solid #222; background: #0c0c0c;">
+            <button onclick="handleNewsComment('${newsId}')" style="width:100%; padding:10px; background:var(--accent-blue); border:none; border-radius:6px; color:white; font-weight:bold; margin-bottom:15px; cursor:pointer; font-size:0.85rem;">
                 <i class="fa-solid fa-pen-nib"></i> Analizini Ekle
             </button>
     `;
 
-    if (comments.length === 0) {
-        html += `<div style="color:#555; font-size:0.85rem; text-align:center; padding:10px;">Henüz yorum yok.</div>`;
+    if (!comments || comments.length === 0) {
+        html += `<div style="color:#555; font-size:0.85rem; text-align:center; padding:10px;">Henüz analiz yapılmamış kral.</div>`;
+    } else {
+        comments.forEach(cmt => {
+            const isLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
+            
+            html += `
+                <div style="margin-bottom:15px; padding-bottom:12px; border-bottom:1px solid #1a1a1a;">
+                    <div style="font-size:0.92rem; color: #eee; line-height: 1.4; margin-bottom: 8px;">
+                        <strong style="color:var(--accent-blue);">@${cmt.author || 'anonim'}</strong>: 
+                        <span>${cmt.text || cmt.content || '...'}</span>
+                    </div>
+                    
+                    <div style="display:flex; gap:18px; align-items:center;">
+                        <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:5px;">
+                            <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> 
+                            <span>${cmt.likedBy ? cmt.likedBy.length : 0}</span>
+                        </button>
+                        
+                        <button onclick="handleNewsCommentReply('${newsId}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:5px;">
+                            <i class="fa-solid fa-reply"></i> Yanıtla
+                        </button>
+                    </div>
+                </div>`;
+        });
     }
 
-    comments.forEach(cmt => {
-        const isLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
-        html += `
-            <div style="margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid #1a1a1a;">
-                <div style="display:flex; gap:15px; margin-top:6px;">
-    <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:4px;">
-        <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> ${cmt.likedBy?.length || 0}
-    </button>
-    
-    <button onclick="handleNewsCommentReply('${newsId}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem;">
-        <i class="fa-solid fa-reply"></i> Yanıtla
-    </button>
-</div>
-            </div>`;
-    });
+    html += `<button onclick="toggleNewsComments('${newsId}')" style="width:100%; background:none; border:none; color:#444; font-size:0.75rem; margin-top:5px; cursor:pointer;">Kapat ▲</button></div>`;
+    container.innerHTML = html;
+}
 
     html += `<button onclick="toggleNewsComments('${newsId}')" style="width:100%; background:none; border:none; color:#444; font-size:0.75rem; margin-top:5px; cursor:pointer;">Kapat ▲</button></div>`;
     container.innerHTML = html;
