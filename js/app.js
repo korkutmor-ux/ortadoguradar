@@ -1055,8 +1055,7 @@ window.toggleNewsComments = async function(newsId) {
     renderNewsComments(newsId, comments);
 };
 
-// --- HABER YORUMLARINI ÇİZME ---
-// --- 1059. SATIRDAN BAŞLAYARAK BURAYI YAPIŞTIR ---
+// --- HABER YORUMLARINI EKRANA BASMA ---
 function renderNewsComments(newsId, comments) {
     const container = document.getElementById(`comments-area-${newsId}`);
     const currentUser = localStorage.getItem('currentUser');
@@ -1073,20 +1072,17 @@ function renderNewsComments(newsId, comments) {
     } else {
         comments.forEach(cmt => {
             const isLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
-            
             html += `
                 <div style="margin-bottom:15px; padding-bottom:12px; border-bottom:1px solid #1a1a1a;">
                     <div style="font-size:0.92rem; color: #eee; line-height: 1.4; margin-bottom: 8px;">
                         <strong style="color:var(--accent-blue);">@${cmt.author || 'anonim'}</strong>: 
                         <span>${cmt.text || cmt.content || '...'}</span>
                     </div>
-                    
                     <div style="display:flex; gap:18px; align-items:center;">
                         <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:5px;">
                             <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> 
                             <span>${cmt.likedBy ? cmt.likedBy.length : 0}</span>
                         </button>
-                        
                         <button onclick="handleNewsCommentReply('${newsId}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:5px;">
                             <i class="fa-solid fa-reply"></i> Yanıtla
                         </button>
@@ -1099,14 +1095,32 @@ function renderNewsComments(newsId, comments) {
     container.innerHTML = html;
 }
 
-    html += `<button onclick="toggleNewsComments('${newsId}')" style="width:100%; background:none; border:none; color:#444; font-size:0.75rem; margin-top:5px; cursor:pointer;">Kapat ▲</button></div>`;
-    container.innerHTML = html;
-}
+// --- HABER YORUMU BEĞENİ MOTORU ---
+window.handleNewsCommentLike = async function(newsId, commentId) {
+    if (!checkAuthAction("Yorum Beğeni")) return;
+    const currentUser = localStorage.getItem('currentUser');
+    const newsRef = db.collection("news_interactions").doc(newsId);
+    const doc = await newsRef.get();
+    if (doc.exists) {
+        let comments = doc.data().comments || [];
+        comments = comments.map(cmt => {
+            if (cmt.id === commentId) {
+                let likedBy = cmt.likedBy || [];
+                if (likedBy.includes(currentUser)) likedBy = likedBy.filter(u => u !== currentUser);
+                else likedBy.push(currentUser);
+                return { ...cmt, likedBy: likedBy };
+            }
+            return cmt;
+        });
+        await newsRef.update({ comments: comments });
+        renderNewsComments(newsId, comments);
+    }
+};
 
 // --- HABER YORUMU KAYDETME ---
-window.handleNewsComment = async function(newsId) {
+window.handleNewsComment = async function(newsId, manualText = null) {
     if (!checkAuthAction("Yorum Yapma")) return;
-    const userComment = prompt("Haber hakkındaki analizin nedir kral?");
+    const userComment = manualText || prompt("Haber hakkındaki analizin nedir kral?");
     if (!userComment) return;
 
     const currentUser = localStorage.getItem('currentUser');
@@ -1128,7 +1142,16 @@ window.handleNewsComment = async function(newsId) {
     updateNewsInteractionsUI(newsId);
 };
 
-// --- EKRANDAKİ SAYILARI GÜNCELLEME (REAL-TIME GÖRÜNÜM) ---
+// --- HABER YORUMU YANITLAMA ---
+window.handleNewsCommentReply = function(newsId, targetAuthor) {
+    if (!checkAuthAction("Yanıt verme")) return;
+    const replyPrefix = `@${targetAuthor} `;
+    const userComment = prompt(`@${targetAuthor} kullanıcısına yanıtın nedir kral?`, replyPrefix);
+    if (!userComment || userComment.trim() === replyPrefix.trim()) return;
+    window.handleNewsComment(newsId, userComment);
+};
+
+// --- EKRANDAKİ SAYILARI GÜNCELLEME ---
 async function updateNewsInteractionsUI(newsId) {
     const doc = await db.collection("news_interactions").doc(newsId).get();
     if (doc.exists) {
@@ -1154,16 +1177,3 @@ async function updateNewsInteractionsUI(newsId) {
         }
     }
 }
-// --- HABER YORUMU YANITLAMA MOTORU ---
-window.handleNewsCommentReply = function(newsId, targetAuthor) {
-    if (!checkAuthAction("Yanıt verme")) return;
-    
-    const replyPrefix = `@${targetAuthor} `;
-    const userComment = prompt(`@${targetAuthor} kullanıcısına yanıtın nedir kral?`, replyPrefix);
-    
-    // Eğer boşsa veya sadece @etiket duruyorsa işlemi iptal et
-    if (!userComment || userComment.trim() === replyPrefix.trim()) return;
-
-    // Hazır olan yorum kaydetme fonksiyonumuzu çalıştırıyoruz
-    window.handleNewsComment(newsId, userComment);
-};
