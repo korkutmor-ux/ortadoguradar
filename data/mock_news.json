@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776144466968aglj5",
+        "title": "Her Dakika Üç Bebek Sudan Savaşına Doğuyor, Yardım Kuruluşu Uyarıyor",
+        "summary": "Uluslararası yardım kuruluşu Save the Children, Sudan'da devam eden çatışmalar nedeniyle her dakika üç bebeğin savaş koşullarına doğduğu uyarısında bulundu. Kuruluş, Sudanlı çocukların \"hiçbir çocuğun asla karşılaşmaması gereken\" koşullarda dünyaya geldiğini belirtti. Ülkedeki insani krizin derinleştiği ve yeni doğanların temel sağlık hizmetleri ile güvenli ortamlardan mahrum kaldığı vurgulandı. Save the Children, uluslararası toplumu Sudan'daki çocukların korunması ve insani yardımın artırılması konusunda acil önlem almaya çağırdı. Bu durum, çatışmaların siviller üzerindeki yıkıcı etkisini ve özellikle savunmasız grupların yaşadığı zorlukları bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10653640/pexels-photo-10653640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T05:27:46.968Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.55,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17761351789312m7me",
         "title": "New York'ta İsrail'e Silah Satışlarının Durdurulması Çağrısı Yapan Savaş Karşıtı Protestocular Gözaltına Alındı",
         "summary": "New York polisi, ABD'nin İsrail'e silah satışlarının sona erdirilmesi talebiyle düzenlenen bir oturma eyleminde yaklaşık 100 savaş karşıtı protestocuyu gözaltına aldı. Eylemciler, İsrail'e yönelik askeri yardımların durdurulması çağrısında bulunarak, ABD'nin dış politikasını eleştirdi. Protesto, New York'taki bir dizi savaş karşıtı gösterinin sonuncusu olarak kayıtlara geçti. Gözaltına alınanlar arasında, bölgedeki çatışmalara son verilmesini isteyen aktivistler de yer aldı.",
@@ -780,22 +796,6 @@
             "name": "İslamabad, Pakistan"
         },
         "source": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775933517619hpe2m",
-        "title": "Gazze'de aileler, İsrail'in geceki hava saldırılarında hayatını kaybeden yakınları için yas tutuyor",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği geceki hava saldırılarında yedi kişi hayatını kaybetti. Saldırıların ardından, yaşamını yitirenlerin aileleri Gazze'deki bir hastanenin dışında cenazelerin başında toplanarak yas tuttu. Bölgede artan gerilim, uluslararası kamuoyunda endişelere yol açarken, can kayıpları bölgedeki insani durumu daha da kötüleştirdi. Olay, Orta Doğu'daki çatışma dinamiklerinin hassasiyetini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8832578/pexels-photo-8832578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T18:51:57.619Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
     }
