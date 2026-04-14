@@ -1075,12 +1075,15 @@ function renderNewsComments(newsId, comments) {
         const isLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
         html += `
             <div style="margin-bottom:12px; padding-bottom:10px; border-bottom:1px solid #1a1a1a;">
-                <div style="font-size:0.9rem;"><strong style="color:var(--accent-blue);">@${cmt.author}</strong>: ${cmt.text}</div>
                 <div style="display:flex; gap:15px; margin-top:6px;">
-                    <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem;">
-                        <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> ${cmt.likedBy?.length || 0}
-                    </button>
-                </div>
+    <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:4px;">
+        <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> ${cmt.likedBy?.length || 0}
+    </button>
+    
+    <button onclick="handleNewsCommentReply('${newsId}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem;">
+        <i class="fa-solid fa-reply"></i> Yanıtla
+    </button>
+</div>
             </div>`;
     });
 
@@ -1139,3 +1142,16 @@ async function updateNewsInteractionsUI(newsId) {
         }
     }
 }
+// --- HABER YORUMU YANITLAMA MOTORU ---
+window.handleNewsCommentReply = function(newsId, targetAuthor) {
+    if (!checkAuthAction("Yanıt verme")) return;
+    
+    const replyPrefix = `@${targetAuthor} `;
+    const userComment = prompt(`@${targetAuthor} kullanıcısına yanıtın nedir kral?`, replyPrefix);
+    
+    // Eğer boşsa veya sadece @etiket duruyorsa işlemi iptal et
+    if (!userComment || userComment.trim() === replyPrefix.trim()) return;
+
+    // Hazır olan yorum kaydetme fonksiyonumuzu çalıştırıyoruz
+    window.handleNewsComment(newsId, userComment);
+};
