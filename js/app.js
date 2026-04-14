@@ -154,7 +154,8 @@ const cardHTML = `
                     <h3>${item.title}</h3>
                     <p>${item.summary}</p>
                     
-                    <div class="card-interactions" style="display: flex; gap: 25px; margin-top: 15px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05);">
+                   <div class="card-interactions" style="display: flex; gap: 25px; margin-top: 15px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05);">
+                        
                         <button onclick="handleNewsLike('${item.id}')" class="int-btn" id="news-like-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
                             <i class="fa-regular fa-heart"></i> <span class="count">0</span>
                         </button>
@@ -163,8 +164,8 @@ const cardHTML = `
                             <i class="fa-regular fa-comment"></i> <span class="count">0</span>
                         </button>
                         
-                        <button onclick="handleQuote('${item.id}')" class="int-btn" style="background:none; border:none; color:#888; cursor:pointer; font-size:0.9rem;">
-                            <i class="fa-solid fa-retweet"></i>
+                        <button onclick="handleQuote('${item.id}')" class="int-btn" id="news-quote-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
+                            <i class="fa-solid fa-retweet"></i> <span class="count">0</span>
                         </button>
                     </div>
 
@@ -186,6 +187,8 @@ const cardHTML = `
         `;
         DOM.feedContainer.insertAdjacentHTML('beforeend', cardHTML);
     });
+  // 189. satırdaki }); işaretinden hemen sonra burayı yapıştır:
+    STATE.filteredNews.forEach(item => updateNewsInteractionsUI(item.id));
 }
 function renderTrends() {
     DOM.trendList.innerHTML = '';
@@ -864,6 +867,13 @@ window.handleQuote = async function(newsId, quotedId = null) {
     };
 
     await db.collection("posts").add(newPost);
+  // Haberin alıntı sayısını 1 artır
+        if (newsId && newsId !== 'general') {
+            await db.collection("news_interactions").doc(newsId).set({
+                quoteCount: firebase.firestore.FieldValue.increment(1)
+            }, { merge: true });
+            updateNewsInteractionsUI(newsId);
+        }
     fetchRadarPosts();
 };
 
@@ -1151,15 +1161,15 @@ window.handleNewsCommentReply = function(newsId, targetAuthor) {
     window.handleNewsComment(newsId, userComment);
 };
 
-// --- EKRANDAKİ SAYILARI GÜNCELLEME ---
+// --- EKRANDAKİ SAYILARI GÜNCELLEME (BEĞENİ, YORUM, ALINTI) ---
 async function updateNewsInteractionsUI(newsId) {
     const doc = await db.collection("news_interactions").doc(newsId).get();
     if (doc.exists) {
         const data = doc.data();
-        const likeBtn = document.querySelector(`#news-like-btn-${newsId}`);
-        const commBtn = document.querySelector(`#news-comm-btn-${newsId}`);
         const currentUser = localStorage.getItem('currentUser');
 
+        // 1. BEĞENİ GÜNCELLEME
+        const likeBtn = document.querySelector(`#news-like-btn-${newsId}`);
         if (likeBtn) {
             const likedBy = data.likedBy || [];
             likeBtn.querySelector('.count').textContent = likedBy.length;
@@ -1172,8 +1182,18 @@ async function updateNewsInteractionsUI(newsId) {
                 icon.style.color = '#888';
             }
         }
+
+        // 2. YORUM SAYISI GÜNCELLEME
+        const commBtn = document.querySelector(`#news-comm-btn-${newsId}`);
         if (commBtn) {
             commBtn.querySelector('.count').textContent = (data.comments || []).length;
+        }
+
+        // 3. ALINTI SAYISI GÜNCELLEME (YENİ)
+        const quoteBtn = document.querySelector(`#news-quote-btn-${newsId}`);
+        if (quoteBtn) {
+            // Veritabanında quoteCount yoksa 0 yazdırıyoruz
+            quoteBtn.querySelector('.count').textContent = data.quoteCount || 0;
         }
     }
 }
