@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776150642271s0wcv",
+        "title": "Netanyahu: Avrupa'nın 'İyi ve Kötü' Konusunda İsrail'den Öğrenecek Çok Şeyi Var",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, Avrupa'yı 'derin ahlaki zayıflıkla' suçladı. Netanyahu, Avrupa'nın iyi ve kötü arasındaki ayrımı unuttuğunu belirterek, bu konuda İsrail'den 'çok şey öğrenmesi gerektiğini' ifade etti. Bu açıklamalar, İsrail'in Avrupa ülkeleriyle olan ilişkilerindeki gerilimi yansıtan diplomatik bir nitelik taşıyor. İsrail liderinin bu sözleri, özellikle son dönemde İsrail'in politikalarına yönelik uluslararası eleştirilerin arttığı bir dönemde geldi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/2087395/pexels-photo-2087395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T07:10:42.271Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/europe/netanyahu-says-europe-has-much-to-learn-from-israel-on-good-and-evil-/3904570",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776144466968aglj5",
         "title": "Her Dakika Üç Bebek Sudan Savaşına Doğuyor, Yardım Kuruluşu Uyarıyor",
         "summary": "Uluslararası yardım kuruluşu Save the Children, Sudan'da devam eden çatışmalar nedeniyle her dakika üç bebeğin savaş koşullarına doğduğu uyarısında bulundu. Kuruluş, Sudanlı çocukların \"hiçbir çocuğun asla karşılaşmaması gereken\" koşullarda dünyaya geldiğini belirtti. Ülkedeki insani krizin derinleştiği ve yeni doğanların temel sağlık hizmetleri ile güvenli ortamlardan mahrum kaldığı vurgulandı. Save the Children, uluslararası toplumu Sudan'daki çocukların korunması ve insani yardımın artırılması konusunda acil önlem almaya çağırdı. Bu durum, çatışmaların siviller üzerindeki yıkıcı etkisini ve özellikle savunmasız grupların yaşadığı zorlukları bir kez daha gözler önüne serdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-during-israeli-occupiers-attack-in-central-west-bank/3902483",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17759399247584456j",
-        "title": "ABD, iki savaş gemisinin mayın temizleme amacıyla Hürmüz Boğazı'ndan geçtiğini bildirdi",
-        "summary": "ABD, iki savaş gemisinin mayın temizleme faaliyetleri kapsamında Hürmüz Boğazı'ndan geçiş yaptığını duyurdu. Bu geçiş, ABD ve İran heyetleri arasında Pakistan'ın başkenti İslamabad'da devam eden müzakerelerle aynı döneme denk geldi. Görüşmelerde, Hürmüz Boğazı'nın kontrolü önemli bir anlaşmazlık noktası olarak öne çıkıyor. Boğaz, küresel petrol ticareti için stratejik bir geçiş noktası olması nedeniyle büyük jeopolitik öneme sahip. Bu durum, bölgedeki gerilimi ve diplomatik çabaları yakından ilgilendiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/27779116/pexels-photo-27779116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T20:38:44.758Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
