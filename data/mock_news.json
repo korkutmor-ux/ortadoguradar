@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776233035188g94js",
+        "title": "ABD'nin İran'a Yönelik Ablukası ve Başarı Şansı",
+        "summary": "ABD ordusu, İran'ın hayati ticari faaliyetlerini engellemeyi hedefleyen ablukanın başarılı olacağına dair bir strateji izliyor. Ancak, bu ablukanın beklenen sonuçları verip vermeyeceği konusunda ciddi soru işaretleri bulunuyor. Washington'ın bu hamlesiyle Tahran'ı uluslararası ticaretten mahrum bırakarak politikalarını değiştirmeye zorlamayı amaçladığı belirtiliyor. Uzmanlar, bu 'kumar' olarak nitelendirilen stratejinin İran ekonomisi üzerindeki uzun vadeli etkileri ve nihai başarısı hakkında farklı görüşler dile getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11666974/pexels-photo-11666974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T06:03:55.188Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776224941415bofmw",
         "title": "İsrail ve Lübnan On Yıllar Sonra İlk Kez Doğrudan Görüşmeler Gerçekleştirdi",
         "summary": "İsrail ve Lübnan, on yıllardır ilk kez doğrudan görüşmeler gerçekleştirdi. Bu tarihi görüşmelerin ardından, iki ülke müzakerelere başlama konusunda mutabakata vardı. Söz konusu müzakerelerin, iki komşu ülke arasındaki çeşitli konuları ele alması bekleniyor. Bu gelişme, bölgedeki diplomatik ilişkiler açısından önemli bir adım olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/2-dead-bodies-arrive-at-gaza-hospitals-death-toll-surges-to-over-72-320/3902995",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17760000102102nb58",
-        "title": "Ukrayna ve Rusya, Paskalya Ateşkesini İhlal Etmekle Karşılıklı Suçluyor",
-        "summary": "Ukrayna ve Rusya, Paskalya döneminde ilan edilen ateşkesi ihlal ettikleri gerekçesiyle birbirlerini suçladı. Taraflar arasında ateşkesin uygulanması konusunda karşılıklı suçlamalar dile getirildi. Kremlin'den yapılan açıklamada, Rusya'nın ateşkesi uzatmayacağı belirtildi. Bu kararın, Kiev'in Rusya'nın şartlarını kabul etmemesi halinde geçerli olacağı ifade edildi. Bu durum, bölgedeki gerilimin devam ettiğini ve barış çabalarının zorluğunu gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T13:20:10.210Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
