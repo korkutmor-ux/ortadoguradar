@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776283542918jo7nt",
+        "title": "ABD Senatosu, Trump'ın İran Yetkilerini Sınırlama Girişimini Reddetti",
+        "summary": "ABD Senatosu, Başkan Donald Trump'ın İran'a karşı askeri güç kullanma yetkilerini kısıtlamayı hedefleyen bir savaş yetkileri kararını bir kez daha reddetti. Bu oylama, Trump'ın İran medeniyetini yok etmekle tehdit etmesinden bu yana Senato'da yapılan dördüncü savaş yetkileri girişimiydi. Karar tasarısı, Senato'da yeterli desteği bulamayarak başarısız oldu. Bu gelişme, ABD'nin İran politikası ve başkanın dış politika yetkileri üzerindeki devam eden tartışmaları bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T20:05:42.918Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/15/us-senate-rejects-another-war-powers-resolution-to-limit-trump-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17762785816018lwxw",
         "title": "BM uzmanları üye devletleri İsrail'e silah transferlerini askıya almaya çağırdı",
         "summary": "Birleşmiş Milletler uzmanları, üye devletlere İsrail'e yapılan silah transferlerini derhal durdurma çağrısında bulundu. Uzmanlar, İsrail'in 8 Nisan'da Lübnan'a yönelik gerçekleştirdiği bombardımanı \"BM Şartı'nın açık bir ihlali\" olarak nitelendirdi. Bu çağrı, bölgedeki çatışmaların tırmanması ve uluslararası hukukun ihlali iddiaları üzerine yapıldı. Uluslararası toplumun, çatışmalarda sivillerin korunması ve uluslararası insancıl hukuka uyulması konusundaki sorumluluklarını yerine getirmesi gerektiği vurgulandı. Uzmanlar, silah tedarikinin devam etmesinin bölgedeki istikrarsızlığı daha da artırabileceği uyarısında bulundu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17761574857543ts9n",
-        "title": "ABD-İran Çatışmasının 46. Gününde Gerilim Tırmanıyor: Limanlara Abluka, Diplomatik Kapı Açık",
-        "summary": "ABD, İran limanlarına abluka başlattığını duyurdu. Bu gelişme, iki ülke arasındaki gerilimi tırmandıran önemli bir adım olarak kaydedildi. Ancak, ABD Başkanı Trump, Tahran'ın hala bir anlaşmaya varma şansı olduğunu belirtti. Bu açıklama, diplomatik çözüm kapısının tamamen kapanmadığına işaret ediyor. Çatışmanın 46. gününde yaşanan bu gelişmeler, bölgedeki durumu yakından takip eden uluslararası kamuoyunun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T09:04:45.754Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
