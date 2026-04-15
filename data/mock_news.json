@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776294704777qulja",
+        "title": "İsrail, Güney Lübnan'daki Evleri Bombaladı",
+        "summary": "İsrail ordusu, Güney Lübnan'da bulunan Bint Cbeyl bölgesindeki binalara hava saldırısı düzenledi. Saldırılarda bölgedeki evlerin hedef alındığı bildirildi. Olayın ardından bölgedeki güvenlik durumu yeniden gündeme gelirken, saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmadı. Bölgede gerilimin tırmanabileceği endişesi hakim.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31314687/pexels-photo-31314687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T23:11:44.777Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Bint Cbeyl, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1776288461973jm8ve",
         "title": "Guterres, Sudan Savaşı Dördüncü Yılına Girerken Silah Akışının Durdurulması Çağrısı Yaptı",
         "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, Sudan'daki savaşın üçüncü yıl dönümünde yaptığı açıklamada, ülkeye yönelik silah akışının derhal durdurulması çağrısında bulundu. Guterres, çatışmaların dördüncü yılına girmesiyle birlikte insani durumun kötüleştiğine dikkat çekti ve sivillerin çektiği acıların son bulması gerektiğini vurguladı. Uluslararası toplumu, Sudan'daki taraflara silah tedarikini kesmeye ve barışçıl bir çözüm için baskı yapmaya davet etti. Bu çağrı, bölgedeki istikrarsızlığın artması ve siviller üzerindeki yıkıcı etkilerin devam etmesi endişeleri arasında geldi.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17761636778888npld",
-        "title": "Rusya Dışişleri Bakanı Lavrov Çin'i Ziyaret Ederken ABD, İran'a Hürmüz Ablukasıyla Baskı Yapıyor",
-        "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Çin'e resmi bir ziyaret gerçekleştiriyor. Bu ziyaret, Amerika Birleşik Devletleri'nin İran'a yönelik artan baskılarının ve Hürmüz Boğazı'nda olası bir ablukayı gündeme getirmesinin yaşandığı bir döneme denk geliyor. Hem Çin hem de Rusya, İran'ın önemli müttefikleri olarak biliniyor. İki ülke de ABD ve İsrail'in İran'a karşı yürüttüğü iddia edilen \"savaşı\" açıkça eleştiren bir tutum sergiliyor. Bu gelişmeler, bölgesel ve küresel güç dengeleri açısından önemli bir diplomatik hareketliliğe işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T10:47:57.888Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
