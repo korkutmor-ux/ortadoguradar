@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776272939196x9j2i",
+        "title": "İsrail Yüksek Mahkemesi, Ben-Gvir'i Görevden Alma Dilekçelerini Görüştü",
+        "summary": "İsrail Yüksek Mahkemesi, ülkenin aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in görevden alınması talebiyle sunulan dilekçeleri görüşmeye başladı. Mahkeme, Ben-Gvir'in kamu görevine uygunluğu ve bakanlık görevini sürdürme yeterliliği konusunda yapılan başvuruları değerlendiriyor. Ben-Gvir, özellikle Filistinlilere yönelik sert politikaları ve tartışmalı açıklamalarıyla biliniyor. Bu hukuki süreç, İsrail iç siyasetinde önemli bir gelişme olarak kabul ediliyor ve hükümetin geleceği üzerinde potansiyel etkiler yaratabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31091355/pexels-photo-31091355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T17:08:59.196Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1776272967761ysrsx",
+        "title": "Netanyahu Lübnan'ı 'Zafer' İçin Son Şansı Olarak Görüyor",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Gazze ve İran'daki mevcut durumun ardından Lübnan'ı kendisi için bir 'zafer' elde etme konusunda son fırsat olarak gördüğü belirtiliyor. Başbakan Netanyahu'nun, bu bölgelerdeki gelişmeler sonrasında Lübnan'da başarılı olmayı umduğu ifade ediliyor. Bu durum, İsrail'in bölgesel politikaları ve Lübnan ile olan ilişkileri açısından önemli bir gelişme olarak değerlendirilmektedir. Netanyahu'nun bu yaklaşımının, bölgedeki gerilimi artırma potansiyeli taşıdığı ve uluslararası kamuoyunda yakından takip edildiği kaydediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T17:09:27.761Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/4/15/netanyahu-sees-lebanon-as-his-last-chance-for-a?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776268079763jpyps",
         "title": "İran'dan ABD'ye Körfez Ticareti Uyarısı",
         "summary": "İran, ABD'nin gemilerini engellemeye devam etmesi halinde Basra Körfezi'ndeki tüm ticareti durduracağını duyurdu. Tahran yönetimi, Washington'ın uyguladığı deniz ablukasının mevcut ateşkesi tehdit ettiğini ve bölgesel gerilimi artırma potansiyeli taşıdığını belirtti. Bu açıklama, iki ülke arasındaki gerilimin yeni bir boyut kazanabileceğine işaret ediyor.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/europe/netanyahu-says-europe-has-much-to-learn-from-israel-on-good-and-evil-/3904570",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776144466968aglj5",
-        "title": "Her Dakika Üç Bebek Sudan Savaşına Doğuyor, Yardım Kuruluşu Uyarıyor",
-        "summary": "Uluslararası yardım kuruluşu Save the Children, Sudan'da devam eden çatışmalar nedeniyle her dakika üç bebeğin savaş koşullarına doğduğu uyarısında bulundu. Kuruluş, Sudanlı çocukların \"hiçbir çocuğun asla karşılaşmaması gereken\" koşullarda dünyaya geldiğini belirtti. Ülkedeki insani krizin derinleştiği ve yeni doğanların temel sağlık hizmetleri ile güvenli ortamlardan mahrum kaldığı vurgulandı. Save the Children, uluslararası toplumu Sudan'daki çocukların korunması ve insani yardımın artırılması konusunda acil önlem almaya çağırdı. Bu durum, çatışmaların siviller üzerindeki yıkıcı etkisini ve özellikle savunmasız grupların yaşadığı zorlukları bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10653640/pexels-photo-10653640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T05:27:46.968Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.55,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17761351789312m7me",
-        "title": "New York'ta İsrail'e Silah Satışlarının Durdurulması Çağrısı Yapan Savaş Karşıtı Protestocular Gözaltına Alındı",
-        "summary": "New York polisi, ABD'nin İsrail'e silah satışlarının sona erdirilmesi talebiyle düzenlenen bir oturma eyleminde yaklaşık 100 savaş karşıtı protestocuyu gözaltına aldı. Eylemciler, İsrail'e yönelik askeri yardımların durdurulması çağrısında bulunarak, ABD'nin dış politikasını eleştirdi. Protesto, New York'taki bir dizi savaş karşıtı gösterinin sonuncusu olarak kayıtlara geçti. Gözaltına alınanlar arasında, bölgedeki çatışmalara son verilmesini isteyen aktivistler de yer aldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32347985/pexels-photo-32347985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T02:52:58.931Z",
-        "location": {
-            "lat": 40.7128,
-            "lng": -74.006,
-            "name": "New York, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/anti-war-protesters-arrested-in-new-york-urging-end-to-israel-weapon-sales?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
