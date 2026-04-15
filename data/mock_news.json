@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776288461973jm8ve",
+        "title": "Guterres, Sudan Savaşı Dördüncü Yılına Girerken Silah Akışının Durdurulması Çağrısı Yaptı",
+        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, Sudan'daki savaşın üçüncü yıl dönümünde yaptığı açıklamada, ülkeye yönelik silah akışının derhal durdurulması çağrısında bulundu. Guterres, çatışmaların dördüncü yılına girmesiyle birlikte insani durumun kötüleştiğine dikkat çekti ve sivillerin çektiği acıların son bulması gerektiğini vurguladı. Uluslararası toplumu, Sudan'daki taraflara silah tedarikini kesmeye ve barışçıl bir çözüm için baskı yapmaya davet etti. Bu çağrı, bölgedeki istikrarsızlığın artması ve siviller üzerindeki yıkıcı etkilerin devam etmesi endişeleri arasında geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T21:27:41.973Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.5,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/guterres-urges-end-to-arms-flow-as-sudan-war-enters-fourth?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1776288483790j4tz7",
+        "title": "Pakistan Ordu Komutanı, ABD-İran Müzakerelerini Canlandırma Çabalarıyla Tahran'da",
+        "summary": "Pakistan Ordu Komutanı, ABD ile İran arasındaki müzakereleri yeniden başlatma hedefiyle üst düzey görüşmeler yapmak üzere İran'ın başkenti Tahran'a ulaştı. Bu ziyaret, iki ülke arasındaki diplomatik ilişkilerin canlandırılmasına yönelik önemli bir adım olarak görülüyor. Pakistan'ın bu süreçte arabuluculuk rolü üstlendiği ve bölgesel istikrara katkıda bulunmayı amaçladığı belirtiliyor. Görüşmelerin detayları ve olası sonuçları yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T21:28:03.790Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776288524069s5a0k",
+        "title": "İsrail'in Üçlü Saldırısı Lübnan'da Üç Sağlık Görevlisini Öldürdü",
+        "summary": "Lübnan hükümeti, İsrail tarafından gerçekleştirilen ve üç sağlık görevlisinin hayatını kaybetmesine neden olan saldırıyı 'ağır bir suç' olarak kınadı. Yetkililer, saldırının Lübnan topraklarında meydana geldiğini ve uluslararası hukukun ihlali olduğunu belirtti. Hayatını kaybeden sağlık görevlilerinden birinin daha önce BBC tarafından hazırlanan bir haberde yer aldığı bilgisi paylaşıldı. Bu olay, bölgedeki gerilimi tırmandırırken, uluslararası toplumdan tepkilerin gelmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T21:28:44.069Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1776283542918jo7nt",
         "title": "ABD Senatosu, Trump'ın İran Yetkilerini Sınırlama Girişimini Reddetti",
         "summary": "ABD Senatosu, Başkan Donald Trump'ın İran'a karşı askeri güç kullanma yetkilerini kısıtlamayı hedefleyen bir savaş yetkileri kararını bir kez daha reddetti. Bu oylama, Trump'ın İran medeniyetini yok etmekle tehdit etmesinden bu yana Senato'da yapılan dördüncü savaş yetkileri girişimiydi. Karar tasarısı, Senato'da yeterli desteği bulamayarak başarısız oldu. Bu gelişme, ABD'nin İran politikası ve başkanın dış politika yetkileri üzerindeki devam eden tartışmaları bir kez daha gözler önüne serdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776163715094rc416",
-        "title": "Lübnan barış arayışında, ancak önce Hizbullah'ın ikna edilmesi gerekiyor",
-        "summary": "Lübnan hükümeti, barış görüşmelerine başlama niyetinde olduğunu belirtmiştir. Ancak, ülkedeki güçlü siyasi ve askeri aktörlerden biri olan Hizbullah üzerinde sınırlı bir etkiye sahip olduğu ifade edilmektedir. Bu durum, barış müzakerelerinin ilerlemesi önünde önemli bir engel teşkil etmektedir. Hükümetin, barış sürecinde Hizbullah'ı ikna etme zorunluluğu, görüşmelerin seyrini belirleyici bir faktör olarak öne çıkmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6257293/pexels-photo-6257293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T10:48:35.094Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17761638300689ykdm",
-        "title": "İSRAİL-LÜBNAN GÖRÜŞMELERİ: GÜNDEMDE NELER VAR?",
-        "summary": "Lübnanlı ve İsrailli yetkililer, Salı günü Washington'da nadir doğrudan görüşmeler gerçekleştirmeye hazırlanıyor. Bu görüşmeler, iki ülke arasındaki uzun süredir devam eden anlaşmazlıkların çözümüne yönelik önemli bir adım olarak değerlendiriliyor. Görüşmelerin gündeminde sınır anlaşmazlıkları ve deniz yetki alanları gibi kritik konuların yer alması bekleniyor. Taraflar arasındaki bu doğrudan temaslar, bölgesel istikrar açısından büyük önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7710139/pexels-photo-7710139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T10:50:30.068Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/explainer-israel-lebanon-talks-whats-on-the-agenda/3905004",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776157443963e0pbz",
-        "title": "Filistin Haftalık Özeti: Ben-Gvir'den 'Evin Efendisi' Açıklaması ve Gazze'de Devam Eden Saldırılar",
-        "summary": "Filistin'deki son gelişmeler, İsrailli Bakan Ben-Gvir'in Mescid-i Aksa'nın açılmasıyla ilgili 'Evin efendisi' şeklindeki tartışmalı açıklamalarıyla öne çıktı. Bu açıklamalar, bölgedeki gerilimi daha da artırma potansiyeli taşıyor. Öte yandan, Gazze Şeridi'nde devam eden saldırılarda dokuz yaşındaki Ritaj Rihan'ın da aralarında bulunduğu çok sayıda Filistinli hayatını kaybetti. Bölgede şiddetin tırmanmasından endişe ediliyor. Bu olaylar, Orta Doğu'daki hassas durumu ve devam eden çatışmaları bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850172/pexels-photo-36850172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T09:04:03.963Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
