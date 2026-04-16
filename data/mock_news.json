@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776311703697muxb4",
+        "title": "Pakistan Arabuluculuğunda ABD-İran Görüşmelerinde Atılım Umutları Yükseliyor",
+        "summary": "ABD ile İran arasındaki nükleer program görüşmelerinde önemli bir gelişme yaşandığı bildirildi. Pakistan'ın arabuluculuğunda yürütülen bu müzakerelerde bir atılım beklentisi yükseliyor. Pakistanlı kaynaklar, İran'ın nükleer programına ilişkin bir anlaşma konusunda \"büyük bir atılım\" kaydedildiğini belirtiyor. Bu gelişme, uzun süredir devam eden nükleer müzakerelerde yeni bir dönemin başlangıcı olabileceği şeklinde yorumlanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T03:55:03.697Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17763117311942se88",
+        "title": "Demokratlar, ABD Enerji Bakanı ile İran savaşı ve benzin fiyatları konusunda çatıştı",
+        "summary": "ABD'de Demokrat Parti üyeleri ile Enerji Bakanı arasında, İran ile olası bir savaş ve ülkedeki benzin fiyatları konularında sert bir tartışma yaşandı. Bir Demokrat kongre üyesi, Enerji Bakanı'nı \"farklı bir dünyada yaşamakla\" itham ederek eleştirilerini dile getirdi. Bu gerginlik, ABD'nin dış politikası, enerji güvenliği ve iç ekonomik meseleler arasındaki karmaşık ilişkileri bir kez daha gözler önüne serdi. Tartışma, özellikle İran'a yönelik politikaların ve enerji maliyetlerinin kamuoyu üzerindeki etkileri bağlamında derinleşti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36623396/pexels-photo-36623396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T03:55:31.194Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/16/democrats-clash-with-us-energy-secretary-over-iran-war-and-gas-prices?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1776298112240gu6l8",
         "title": "BBC Muhabiri Doucet: İranlılar Kırılgan Ateşkes Altında ABD Anlaşmasını Sorguluyor",
         "summary": "BBC'nin baş uluslararası muhabiri Lyse Doucet, İran'dan yaptığı haberde, ülkedeki kırılgan ateşkes koşulları altında İran halkının ABD ile olası bir anlaşmanın gerçekleşip gerçekleşmeyeceği konusundaki belirsizliğini aktardı. Doucet, bölgede savaşın yeniden başlamasını engellemek amacıyla yürütülen diplomatik çabaların son dönemde hız kazandığını belirtti. Bu diplomatik girişimlerin, taraflar arasındaki gerilimi azaltma ve kalıcı bir çözüm bulma potansiyeli taşıdığı ifade edildi. Ancak, mevcut kırılgan durumun, herhangi bir anlaşmanın başarısı üzerinde önemli bir etken olduğu vurgulandı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/14/after-three-years-of-war-what-is-the-situation-like-in-sudan?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1776175557107es1k5",
-        "title": "Sudan'daki Savaş Üçüncü Yılında Hala Yanlış Anlaşılıyor",
-        "summary": "Sudan'da devam eden savaşın üçüncü yıl dönümü olan 15 Nisan 2026 tarihi yaklaşırken, çatışmanın hala tam olarak anlaşılamadığı belirtiliyor. Üç yıl önce patlak veren bu iç savaş, ülkenin siyasi ve sosyal yapısında derin yaralar açtı. Uluslararası toplumun ve bölgesel aktörlerin çabalarına rağmen, çatışmanın kökenleri, dinamikleri ve çözüm yolları konusundaki belirsizlikler devam ediyor. Uzmanlar, savaşın karmaşık yapısının ve çok boyutlu etkilerinin yeterince kavranamamasının, barış süreçlerini olumsuz etkilediğini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33436818/pexels-photo-33436818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T14:05:57.107Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.6,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/video/africa-now/2026/4/14/sudans-war-still-misunderstood-after-three-years?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776175602047g0tpm",
-        "title": "İsrail, Lübnan ile Barış ve Normalleşme İstiyor",
-        "summary": "İsrail Dışişleri Bakanı Gideon Saar, İsrail'in Lübnan ile \"barış ve normalleşme\" sağlamak istediğini açıkladı. Bakan Saar, bu isteğin İsrail'in dış politika hedefleri arasında yer aldığını vurguladı. Uzun yıllardır süregelen gerilim ve zaman zaman yaşanan çatışmaların ardından gelen bu açıklama, bölgedeki diplomatik çevrelerde dikkatle izleniyor. İsrail'in bu yöndeki adımlarının, Orta Doğu'da istikrar arayışlarına katkıda bulunabileceği belirtiliyor. Lübnan'dan ise bu açıklamaya ilişkin henüz resmi bir yanıt gelmediği kaydedildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6674033/pexels-photo-6674033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T14:06:42.047Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israel-wants-to-reach-peace-and-normalisation-with?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
