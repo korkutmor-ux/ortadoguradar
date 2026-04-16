@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776379609325ugdv9",
+        "title": "İsrail'in Lübnan Köylerindeki Yıkımlarının Boyutu Uydu Görüntüleriyle Ortaya Çıktı",
+        "summary": "BBC Verify tarafından yapılan analize göre, 2 Mart'tan bu yana Lübnan köylerinde 1.400'den fazla yapının yıkıldığı tespit edildi. Uydu görüntüleri, İsrail'in bölgedeki faaliyetlerinin yol açtığı tahribatın boyutunu gözler önüne serdi. Bu yıkımlar, iki ülke arasındaki gerilimin arttığı bir dönemde yaşandı ve bölgedeki sivil altyapı üzerindeki etkileri vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12444964/pexels-photo-12444964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T22:46:49.325Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17763761756307bbfr",
         "title": "Katar, İran Barış Sürecini Yeniden Canlandırma Hedefli Görüşmelere Ev Sahipliği Yapıyor",
         "summary": "Pakistan Başbakanı, Orta Doğu genelinde savaşı sona erdirme olasılığı taşıyan bölgesel görüşmeler için Perşembe günü Doha'ya geldi. Katar'ın ev sahipliği yaptığı bu görüşmeler, İran barış sürecini yeniden rayına oturtmayı amaçlıyor. Diplomatik çabalar, bölgedeki gerilimlerin azaltılması ve kalıcı bir çözüm bulunması hedefini taşıyor. Bu girişim, Orta Doğu'da istikrarın sağlanması açısından kritik bir adım olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/world/iranian-supertanker-reached-iranian-waters-via-strait-of-hormuz-despite-us-blockade-threats-report/3905963",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776233035188g94js",
-        "title": "ABD'nin İran'a Yönelik Ablukası ve Başarı Şansı",
-        "summary": "ABD ordusu, İran'ın hayati ticari faaliyetlerini engellemeyi hedefleyen ablukanın başarılı olacağına dair bir strateji izliyor. Ancak, bu ablukanın beklenen sonuçları verip vermeyeceği konusunda ciddi soru işaretleri bulunuyor. Washington'ın bu hamlesiyle Tahran'ı uluslararası ticaretten mahrum bırakarak politikalarını değiştirmeye zorlamayı amaçladığı belirtiliyor. Uzmanlar, bu 'kumar' olarak nitelendirilen stratejinin İran ekonomisi üzerindeki uzun vadeli etkileri ve nihai başarısı hakkında farklı görüşler dile getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11666974/pexels-photo-11666974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T06:03:55.188Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
