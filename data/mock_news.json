@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776298112240gu6l8",
+        "title": "BBC Muhabiri Doucet: İranlılar Kırılgan Ateşkes Altında ABD Anlaşmasını Sorguluyor",
+        "summary": "BBC'nin baş uluslararası muhabiri Lyse Doucet, İran'dan yaptığı haberde, ülkedeki kırılgan ateşkes koşulları altında İran halkının ABD ile olası bir anlaşmanın gerçekleşip gerçekleşmeyeceği konusundaki belirsizliğini aktardı. Doucet, bölgede savaşın yeniden başlamasını engellemek amacıyla yürütülen diplomatik çabaların son dönemde hız kazandığını belirtti. Bu diplomatik girişimlerin, taraflar arasındaki gerilimi azaltma ve kalıcı bir çözüm bulma potansiyeli taşıdığı ifade edildi. Ancak, mevcut kırılgan durumun, herhangi bir anlaşmanın başarısı üzerinde önemli bir etken olduğu vurgulandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T00:08:32.240Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776298138792xzfkz",
+        "title": "Ailesi: Önde Gelen Filistinli Mahkum Marwan Barghouti Bir Ayda Üç Kez Saldırıya Uğradı",
+        "summary": "Filistin'in önde gelen mahkumlarından Marwan Barghouti'nin ailesi, Barghouti'nin son bir ay içinde cezaevi gardiyanları tarafından üç kez fiziksel saldırıya uğradığını iddia etti. Ailenin açıklamasına göre, Barghouti'ye yönelik şiddet olayları farklı zamanlarda gerçekleşti ve sağlık durumundan endişe duyulduğu belirtildi. İsrail Cezaevi Servisi (IPS) ise bu iddialara hızla yanıt verdi. IPS, Barghouti'nin cezaevi gardiyanları tarafından fiziksel şiddete maruz kaldığına dair suçlamaların \"asılsız ve temelsiz\" olduğunu belirterek iddiaları reddetti. Olayla ilgili taraflar arasında çelişkili açıklamalar devam ederken, uluslararası insan hakları örgütlerinin konuyu takip etmesi bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7407242/pexels-photo-7407242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T00:08:58.792Z",
+        "location": {
+            "lat": 31.9038,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776298160407evicm",
+        "title": "İsrail ve Hizbullah Arasındaki Çatışmalar, ABD'deki Görüşmelere Rağmen Sürüyor",
+        "summary": "İsrail ve Lübnan arasında ABD'de gerçekleşen nadir doğrudan müzakerelerin ardından, taraflar arasındaki çatışmalar yeniden şiddetlendi. İsrail ordusu, Güney Lübnan'daki hedeflere hava saldırıları düzenlediğini duyurdu. Bu saldırılara karşılık olarak, Hizbullah İsrail topraklarına roket atışları gerçekleştirdi. Söz konusu gelişmeler, diplomatik girişimlere rağmen bölgedeki gerilimin devam ettiğini ve güvenlik durumunun kırılganlığını gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T00:09:20.407Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776294704777qulja",
         "title": "İsrail, Güney Lübnan'daki Evleri Bombaladı",
         "summary": "İsrail ordusu, Güney Lübnan'da bulunan Bint Cbeyl bölgesindeki binalara hava saldırısı düzenledi. Saldırılarda bölgedeki evlerin hedef alındığı bildirildi. Olayın ardından bölgedeki güvenlik durumu yeniden gündeme gelirken, saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmadı. Bölgede gerilimin tırmanabileceği endişesi hakim.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israel-wants-to-reach-peace-and-normalisation-with?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1776167948531kb5y5",
-        "title": "Hürmüz Boğazı'nı Kim Kontrol Ediyor?",
-        "summary": "Hürmüz Boğazı'nın kontrolü ve erişim şartları üzerine süregelen mücadele, ABD'nin boğazı engelleme hamlesiyle yeni bir boyut kazandı. Dünya petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolu, küresel enerji güvenliği açısından hayati öneme sahip. ABD'nin bu adımı, bölgedeki güç dengeleri ve uluslararası denizcilik hukuku üzerindeki tartışmaları alevlendirerek gerilimi artırdı. Taraflar arasında boğazın kullanımına ilişkin yaşanan bu gerilimler, Orta Doğu'daki jeopolitik rekabetin ve stratejik çıkarların bir yansıması olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5640138/pexels-photo-5640138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T11:59:08.531Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/4/14/who-controls-the-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776163612449ff351",
-        "title": "İran, YouTube'un İran Yanlısı Grubun Yapay Zeka Videolarını Yasaklamasını Kınadı",
-        "summary": "İran Dışişleri Bakanlığı, YouTube'un İran yanlısı bir grubun yapay zeka destekli Lego tarzı videolarını yasaklamasını kınadı. Bakanlık sözcüsü, bu adımın \"İran'a karşı yürüttükleri yasa dışı savaş hakkındaki gerçeği bastırmayı\" amaçladığını belirtti. Tahran, bu yasağı uluslararası platformlarda kendi anlatısını yayma çabalarına yönelik bir engelleme olarak değerlendiriyor. Olay, dijital platformlarda içerik denetimi ve ifade özgürlüğü tartışmalarını yeniden gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5723266/pexels-photo-5723266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T10:46:52.449Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776163636509owku7",
-        "title": "Yaptırım Uygulanan Tankerler ABD Ablukası Altında Hürmüz Boğazı'ndan Geçti",
-        "summary": "ABD ablukasının ardından, Çin'e ait 'Rich Starry' adlı tanker, Hürmüz Boğazı'ndan geçerek Körfez'den ayrılan ilk yaptırımlı gemi oldu. Bu gelişme, küresel petrol ticaretinin ana arterlerinden biri olan Hürmüz Boğazı'ndaki denizcilik güvenliği ve uluslararası yaptırımların uygulanabilirliği konusunda yeni tartışmaları gündeme getirdi. Stratejik öneme sahip bu su yolunda yaptırımlı bir geminin transit geçişi, ABD'nin bölgedeki deniz operasyonları ve yaptırım politikaları üzerindeki baskıyı artırıyor. Olay, Orta Doğu'daki jeopolitik gerilimleri ve uluslararası ticaret yollarının kontrolü mücadelesini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33947562/pexels-photo-33947562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T10:47:16.509Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
