@@ -1,5 +1,53 @@
 [
     {
+        "id": "17764178052014hqgh",
+        "title": "Sudan Başbakanı: Bu, savaşın dehşetinden çıkış yoludur",
+        "summary": "Sudan Başbakanı Kamil Idris, ülkesindeki savaşı sona erdirme, ülkeyi yeniden inşa etme ve sivil yönetimi yeniden tesis etme vizyonunu açıkladı. Başbakan, hükümetinin bu hedeflere ulaşmak için izleyeceği yolu detaylandırdı. Açıklamada, mevcut çatışma ortamından kalıcı bir çıkış sağlanarak barış ve istikrarın yeniden tesis edilmesi amaçlanıyor. Bu adımların, Sudan'ın geleceği için kritik öneme sahip olduğu vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10932618/pexels-photo-10932618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T09:23:25.201Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5596,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/4/17/sudans-prime-minister-this-is-the-path-out-of-the-horrors-of-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776417830844d5jyi",
+        "title": "İnsan Hakları İzleme Örgütü'nden AB-İsrail Ticaret Anlaşması'nın Askıya Alınması Çağrısı",
+        "summary": "İnsan Hakları İzleme Örgütü (Human Rights Watch) yetkilileri, Avrupa Birliği ile İsrail arasındaki ticaret anlaşmasının askıya alınması zamanının geldiğini belirtti. Bu açıklama, İsrail'in Filistinliler için ölüm cezası yasasını onaylamasının ardından gelen eleştiriler üzerine yapıldı. Örgüt, İsrail'in bu kararının uluslararası insan hakları standartlarına aykırı olduğunu ve bölgedeki gerilimi artırabileceğini ifade etti. AB'nin insan hakları değerlerine bağlılığını göstermesi ve İsrail'e bu konuda baskı yapması gerektiği vurgulandı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8898645/pexels-photo-8898645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T09:23:50.844Z",
+        "location": {
+            "lat": 31.76,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/europe/human-rights-watch-official-says-time-has-come-to-suspend-eu-israel-trade-deal/3909050",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776417856228kfz8v",
+        "title": "Washington, Suriye-İsrail Diplomasisinde Gerekli Görülen Yerde Etki Kullanıyor: ABD'nin Türkiye Büyükelçisi",
+        "summary": "ABD'nin Türkiye Büyükelçisi Barrack, Antalya Diplomasi Forumu'nda Anadolu Ajansı'na yaptığı açıklamada, Washington'ın Suriye-İsrail arasındaki diplomatik süreçlerde \"gerektiği yerde\" etkisini kullandığını belirtti. Büyükelçi Barrack, bölgelerin kendi sorunlarını kendilerinin çözmesi gerektiği çağrısında bulundu. Ayrıca, Suriye'nin gelecekteki gidişatı konusunda \"gerçekten umutlu\" olduğunu ifade etti. Bu açıklamalar, ABD'nin Orta Doğu'daki diplomatik çabalarına ve bölgesel dinamiklere yönelik bakış açısını ortaya koydu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T09:24:16.228Z",
+        "location": {
+            "lat": 36.8969,
+            "lng": 30.7133,
+            "name": "Antalya, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/washington-exerts-influence-where-necessary-on-syria-israel-diplomacy-us-envoy-to-turkiye/3909037",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1776412470884aet1x",
         "title": "Dünya Atletizm Birliği, Türkiye'ye 11 Sporcu Transferini Engelledi",
         "summary": "Dünya Atletizm Birliği (World Athletics), Kenya, Nijerya ve Jamaika'dan Türkiye'ye transfer olmak isteyen 11 sporcunun başvurusunu reddetti. Kararın gerekçesi olarak, Türkiye hükümetinin 'sporcu kazanım programı' gösterildi. Bu durum, uluslararası spor yönetiminde bir ülkenin sporcu transfer politikalarına yönelik bir müdahale olarak değerlendiriliyor. Olay, uluslararası spor federasyonları ile ulusal hükümetler arasındaki ilişkilerde yeni bir tartışma konusu oluşturdu.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/15/iran-citizen-held-in-france-over-pro-palestine-comments-returns-state-tv?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17762470839984mcqv",
-        "title": "Filistinli lider Barghouti İsrail hapishanelerinde 'şiddetli' saldırılara maruz kalıyor",
-        "summary": "Filistinli lider Mervan Barghouti'nin İsrail hapishanelerinde \"şiddetli\" saldırılara maruz kaldığı bildirildi. Gelen son raporlar, Barghouti'nin cezaevinde kötü muamele gördüğünü ve fiziksel şiddete uğradığını ortaya koyuyor. Geçtiğimiz yıl yaşanan bir saldırıda kaburgalarının kırıldığı ve kafa travması geçirdiği belirtilmişti. Bu yeni raporlar, Barghouti'ye yönelik şiddetin devam ettiğini ve cezaevi koşullarının endişe verici boyutlara ulaştığını gösteriyor. Durum, uluslararası insan hakları örgütlerinin dikkatini çekmeye devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6069341/pexels-photo-6069341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T09:58:03.998Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/15/palestinian-leader-barghouti-endures-violent-assaults-in-israeli-prisons?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17762471060807ihq9",
-        "title": "'Yemek birleştiriyor': Lübnan'daki göçmenler savaş mağdurlarını nasıl besliyor?",
-        "summary": "Lübnan'da genellikle göz ardı edilen göçmen topluluğu, devletin eksiklerini doldurarak savaş mağdurlarını besleme görevini üstleniyor. Ülke içinde yerinden edilmiş kişilere yönelik devlet desteğinin yetersiz kaldığı bir dönemde, göçmenler kendi imkanlarıyla dayanışma ağları kuruyor. Bu çabalar, özellikle zorlu ekonomik koşullar altında yaşam mücadelesi veren yerinden edilmiş topluluklar için hayati önem taşıyor. Göçmenlerin bu insani yardımları, Lübnan toplumunda derinleşen sosyal ve ekonomik sorunlara dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6646882/pexels-photo-6646882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T09:58:26.080Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17762471283135k1lx",
-        "title": "Sudan'da Milyonlarca Kişi Yerinden Edilme ve Açlıkla Mücadele Ediyor",
-        "summary": "Sudan'da dokuz milyondan fazla kişi yerinden edilmiş durumda bulunuyor. Ülke genelinde yaklaşık 29 milyon kişi ise akut açlık tehlikesiyle karşı karşıya. Yıllardır süren bu insani kriz, Sudan genelindeki ailelerin yaşam koşullarını derinden etkiliyor. Yerinden edilme ve gıda güvensizliği, milyonlarca kişinin temel ihtiyaçlara erişimini zorlaştırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/17067104/pexels-photo-17067104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T09:58:48.313Z",
-        "location": {
-            "lat": 15,
-            "lng": 32,
-            "name": "Sudan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
