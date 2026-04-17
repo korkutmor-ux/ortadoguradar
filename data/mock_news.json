@@ -1,5 +1,53 @@
 [
     {
+        "id": "17764038852233gwi5",
+        "title": "Trump, İran'a karşı savaşı 'küçük bir dikkat dağıtma' olarak nitelendirdi",
+        "summary": "ABD Başkanı Donald Trump, 2.000'den fazla kişinin hayatını kaybettiği İran'a karşı yürütülen savaşı 'küçük bir dikkat dağıtma' olarak tanımladı. Bu açıklama, eski bir ABD liderinin Orta Doğu'daki önemli bir çatışmaya yönelik bakış açısını yansıtıyor. Trump'ın bu ifadesi, bölgedeki gerilimler ve ABD'nin dış politikası bağlamında geniş yankı uyandırdı. Söz konusu savaşın insani maliyeti ve jeopolitik etkileri göz önüne alındığında, bu yorum dikkat çekici bulundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7404564/pexels-photo-7404564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T05:31:25.223Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-calls-war-on-iran-a-little?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776403911689kqcnz",
+        "title": "Avustralyalı Eski Asker Roberts-Smith'e Afganistan Savaş Suçları Davasında Kefaletle Serbestlik",
+        "summary": "Avustralya'da eski asker Ben Roberts-Smith'e, Afganistan'da işlediği iddia edilen savaş suçları davası kapsamında kefaletle serbestlik verildi. Roberts-Smith, Afganistan'da beş kişiyi öldürmekle suçlanıyor. Bu dava, Avustralya Silahlı Kuvvetleri'nin Afganistan'daki operasyonları sırasında işlendiği iddia edilen savaş suçlarına ilişkin önemli bir gelişme olarak değerlendiriliyor. Yargı süreci devam ederken, eski askerin kefaletle serbest bırakılması kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18527688/pexels-photo-18527688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T05:31:51.689Z",
+        "location": {
+            "lat": 34.526,
+            "lng": 69.1776,
+            "name": "Kabul, Afganistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17764039365900duor",
+        "title": "Fransa, 1982'deki Yahudi Restoranı Saldırısı Şüphelisini Yakaladı",
+        "summary": "Fransa, 1982 yılında Paris'teki bir Yahudi restoranına düzenlenen ve altı kişinin ölümüne neden olan saldırının şüphelisi Mahmoud Khader Abed Adra'yı gözaltına aldı. Kırk yılı aşkın süredir uluslararası düzeyde aranan Adra, Filistin makamları tarafından Fransız yetkililere teslim edildi. Bu gelişme, Fransa'da uzun yıllar önce gerçekleşen terör saldırısının faillerinden birinin adalete teslim edilmesi yolunda önemli bir adım olarak kaydedildi. Olay, uluslararası adli işbirliğinin bir sonucu olarak değerlendirilirken, soruşturmanın devam ettiği bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T05:32:16.590Z",
+        "location": {
+            "lat": 48.8566,
+            "lng": 2.3522,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/17/france-arrests-suspect-over-1982-attack-on-jewish-restaurant?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1776394373819m8yxj",
         "title": "İsrail ve Lübnan Arasındaki Ateşkes 'Sorunlu' Bulundu",
         "summary": "İsrail ve Lübnan arasında sağlanan ateşkes, İsrailli siyasi yorumcu Abed Abou Shhadeh tarafından 'sorunlu' olarak nitelendirildi. Shhadeh, ateşkesin içeriği ve bölgedeki güvenlik dinamikleri üzerindeki potansiyel etkileri hakkında endişelerini dile getirdi. Haberde ayrıca, ABD'nin eski başkanı Trump'ın İsrail'i bu ateşkese zorladığı iddia edildi. Bu gelişme, Orta Doğu'daki siyasi ve güvenlik dengeleri açısından önem taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Naqoura, Lübnan"
         },
         "source": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776240976518rkp4q",
-        "title": "Hizbullah ile Cephe Hattındaki İsrail Kasabası",
-        "summary": "BBC dış muhabiri Nick Beake, Lübnan tarafından üç tarafı çevrili olan İsrail kasabası Metula'yı ziyaret etti. Bu kasaba, İsrail'in Hizbullah ile olan cephe hattında stratejik bir konumda yer alıyor. Ziyaret, bölgedeki güvenlik durumunu ve İsrail-Lübnan sınırındaki sürekli gerilimi gözler önüne seriyor. Metula'nın coğrafi konumu, bölgedeki potansiyel çatışma risklerini ve sınır hattında yaşayanların karşılaştığı zorlukları vurguluyor. Haber, sınır bölgesindeki yaşam koşulları ve güvenlik endişeleri üzerine odaklanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10116047/pexels-photo-10116047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T08:16:16.518Z",
-        "location": {
-            "lat": 33.24,
-            "lng": 35.57,
-            "name": "Metula, İsrail"
-        },
-        "source": "https://www.bbc.com/news/videos/cm2kk32npv5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776241034664is0i2",
-        "title": "İsrail'den Fransa'nın Lübnan Müzakerelerinden Dışlanması Çağrısı",
-        "summary": "İsrail'in Amerika Birleşik Devletleri Büyükelçisi, Fransa'nın Lübnan ile ilgili yürütülen müzakerelerden çıkarılması gerektiğini ifade etti. Bu açıklama, uluslararası toplumun Lübnan'daki müzakerelerde ilerleme kaydedilmesi yönündeki çağrılarının ardından geldi. İsrail'in bu tutumu, Lübnan'ın geleceği ve bölgesel istikrar konularında uluslararası aktörlerin rolüne dair diplomatik farklılıkları gözler önüne seriyor. Müzakerelerin katılımcıları ve kapsamı, Orta Doğu'daki siyasi dinamikler açısından kritik önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5489419/pexels-photo-5489419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T08:17:14.664Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-envoy-to-us-says-france-should-be-excluded-from-lebanon-talks/3906002",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776241056246as4qb",
-        "title": "İsrail Güçleri Batı Şeria'da 17 Filistinliyi Gözaltına Aldı",
-        "summary": "İsrail güçleri, Batı Şeria'da düzenlediği operasyonlarda 17 Filistinliyi gözaltına aldı. Güvenlik kaynaklarından edinilen bilgilere göre, gözaltına alınanlar arasında bir kadın da bulunuyor. Bölge genelinde askeri operasyonların sürdüğü belirtildi. Bu operasyonlar, İsrail ile Filistinliler arasındaki gerilimin devam ettiği bir dönemde gerçekleşti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10476380/pexels-photo-10476380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T08:17:36.246Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-arrest-17-palestinians-in-west-bank-raids/3905992",
         "trendScore": 85,
         "isBreaking": false
     }
