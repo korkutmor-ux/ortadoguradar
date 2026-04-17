@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776454767692pezc7",
+        "title": "ABD-İran Gerilimi Ortasında Hürmüz Boğazı'nın Yeniden Açılmasına Dünya Tepkisi",
+        "summary": "Hürmüz Boğazı'nın yeniden ulaşıma açılması, uluslararası kamuoyu ve enerji sektörü tarafından memnuniyetle karşılandı. ABD ile İran arasındaki gerilimin sürdüğü bir dönemde, bu hayati su yolundaki trafiğin kısıtlanması küresel petrol fiyatlarında önemli artışlara yol açmıştı. Boğaz'ın yeniden faaliyete geçmesiyle birlikte, dünya genelindeki siyasetçiler ve sanayi temsilcileri, enerji tedarik zincirindeki belirsizliğin azalmasını ve piyasaların istikrara kavuşmasını umuyor. Bu gelişme, bölgedeki tansiyonun düşürülmesi adına olumlu bir adım olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T19:39:27.692Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1776454805431kdmd3",
+        "title": "Akademisyen Rumeysa Öztürk, Trump Dönemi Sınır Dışı Baskılarının Ardından Türkiye'ye Döndü",
+        "summary": "Akademisyen Rumeysa Öztürk, eski ABD Başkanı Donald Trump döneminde karşılaştığı sınır dışı etme girişimlerinin ardından Türkiye'ye geri döndü. Öztürk, bu kararı, Trump yönetimi altında maruz kaldığı \"devletin uyguladığı şiddet ve düşmanlığa daha fazla zaman kaybetmemek\" amacıyla aldığını ifade etti. Bu gelişme, ABD'deki siyasi iklimin uluslararası akademisyenler üzerindeki etkilerini ve bireylerin yaşadığı zorlukları bir kez daha gözler önüne serdi. Öztürk'ün Türkiye'ye dönüşü, hem kişisel bir tercih hem de siyasi baskıların bir sonucu olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8390511/pexels-photo-8390511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T19:40:05.431Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/17/scholar-rumeysa-ozturk-returns-to-turkiye-following-trump-deportation-push?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1776449601091kf3vp",
         "title": "İsrail Saldırıları Güney Lübnan'daki Tek Çalışan Hastaneyi Vurdu",
         "summary": "Al Jazeera muhabiri Obaida Hitto'nun Tibnin Hastanesi'nden bildirdiğine göre, Güney Lübnan'ın tek işlevsel hastanesi olan Tibnin Hastanesi, İsrail saldırılarında hasar gördü. Bölgedeki sağlık hizmetleri için hayati öneme sahip olan bu hastanenin aldığı hasar, bölgedeki insani durumu daha da kötüleştirebilir. Saldırının detayları ve hastanenin mevcut durumu hakkında daha fazla bilgi bekleniyor. Bu olay, Lübnan-İsrail sınırındaki gerilimin artmaya devam ettiğini gösteriyor.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/americas/washington-yet-to-formally-agree-to-iran-ceasefire-extension-us-official/3906651",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776255116447lky45",
-        "title": "İsrail'in ABD Büyükelçisi ve Lübnanlı Mevkidaşı Arasında Görüşmeler Gerçekleşti",
-        "summary": "İsrail'in ABD Büyükelçisi Yechiel Leiter, Lübnanlı mevkidaşı ile bir araya gelerek diplomatik görüşmelerde bulundu. Bu temaslar, iki komşu Orta Doğu ülkesi arasındaki ilişkiler açısından önem taşıyor. Ancak, Büyükelçi Leiter'ın eleştirmenler tarafından 'sorunlu bir müzakereci' olarak nitelendirilmesi, görüşmelerin geleceği hakkında soru işaretleri yaratıyor. Leiter'ın müzakere yeteneği ve geçmişi, diplomatik çevrelerde tartışma konusu olmaya devam ediyor ve bu durum, bölgesel diyalogların seyrini etkileyebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7643756/pexels-photo-7643756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T12:11:56.447Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17762513724963p1ud",
-        "title": "İtalya, İsrail ile 20 Yıllık Savunma Anlaşmasını Askıya Aldı",
-        "summary": "İtalya, İsrail ile yirmi yıldır devam eden bir savunma anlaşmasının yenilenmesini askıya alma kararı aldı. Bu karar, iki ülke arasındaki son dönemde yaşanan gerilimlerin ardından geldi. Anlaşmanın askıya alınması, İtalya'nın İsrail ile olan savunma işbirliğinde önemli bir değişikliğe işaret ediyor. Kararın bölgesel ve uluslararası ilişkiler üzerindeki potansiyel etkileri yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7489095/pexels-photo-7489095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T11:09:32.496Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/italy-suspends-long-standing-defence-agreement-with-israel?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
