@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776459253840kb8j4",
+        "title": "Netanyahu: İsrail'in Hizbullah'a Karşı 'Misyonu' Lübnan'la Ateşkese Rağmen Bitmedi",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, Lübnan ile yapılan ateşkese rağmen İsrail'in Hizbullah'a karşı 'misyonunun' sona ermediğini açıkladı. Başbakan Netanyahu, kalan roket ve insansız hava aracı tehditlerine ilişkin planları olduğunu ancak detay vermeyeceğini belirtti. Bu açıklama, dönemin ABD Başkanı Trump'ın İsrail'in Lübnan'a yönelik daha fazla saldırı düzenlemesini aktif olarak yasaklama taahhütlerine rağmen geldi. İsrail lideri, ülkesinin güvenlik endişelerinin devam ettiğini ve bu tehditlerle mücadele etmeye kararlı olduğunu vurguladı. Bu durum, bölgedeki gerilimin sürebileceğine işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T20:54:13.840Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-says-israel-s-mission-against-hezbollah-not-over-despite-ceasefire-with-lebanon/3910002",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776454767692pezc7",
         "title": "ABD-İran Gerilimi Ortasında Hürmüz Boğazı'nın Yeniden Açılmasına Dünya Tepkisi",
         "summary": "Hürmüz Boğazı'nın yeniden ulaşıma açılması, uluslararası kamuoyu ve enerji sektörü tarafından memnuniyetle karşılandı. ABD ile İran arasındaki gerilimin sürdüğü bir dönemde, bu hayati su yolundaki trafiğin kısıtlanması küresel petrol fiyatlarında önemli artışlara yol açmıştı. Boğaz'ın yeniden faaliyete geçmesiyle birlikte, dünya genelindeki siyasetçiler ve sanayi temsilcileri, enerji tedarik zincirindeki belirsizliğin azalmasını ve piyasaların istikrara kavuşmasını umuyor. Bu gelişme, bölgedeki tansiyonun düşürülmesi adına olumlu bir adım olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/15/four-killed-in-turkiyes-second-school-shooting-in-two-days?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": true
-    },
-    {
-        "id": "1776262397326hzhiv",
-        "title": "Washington, İran ateşkes uzatmasına henüz resmi olarak onay vermedi: ABD yetkilisi",
-        "summary": "ABD'li bir yetkili, Washington'ın İran ile ilgili bir ateşkesin uzatılmasına henüz resmi olarak onay vermediğini bildirdi. Anadolu Ajansı'na konuşan üst düzey yetkili, ABD ile İran arasında bir anlaşmaya varılması için görüşmelerin devam ettiğini belirtti. Bu durum, iki ülke arasındaki diplomatik çabaların sürdüğünü ve bölgesel bir çatışmanın çözümüne yönelik potansiyel adımları işaret ediyor. Görüşmelerin amacı, taraflar arasında kalıcı bir uzlaşmaya ulaşmak olarak ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T14:13:17.326Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/washington-yet-to-formally-agree-to-iran-ceasefire-extension-us-official/3906651",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
