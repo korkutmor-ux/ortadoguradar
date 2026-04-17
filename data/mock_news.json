@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776422304560hinlw",
+        "title": "İran'a Yönelik Savaş Belirsizliği Avustralya'yı Enerji Güvenliği İçin Harekete Geçirdi",
+        "summary": "İran'a yönelik olası bir savaşın yarattığı belirsizlik ortamında Avustralya, enerji güvenliğini sağlamak için yoğun çaba sarf ediyor. İthal petrole büyük ölçüde bağımlı olan ülke, enerji arzında yaşanabilecek aksaklıklara karşı önlemler almayı hedefliyor. Bu kapsamda Avustralya hükümeti, bölgesel diplomatik girişimlerden iç tüketimi azaltmaya yönelik adımlara kadar çeşitli hızlı çözümler üzerinde duruyor. Haber, Orta Doğu'daki jeopolitik gelişmelerin küresel enerji piyasaları ve ülkelerin enerji politikaları üzerindeki etkisini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T10:38:24.560Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17764178052014hqgh",
         "title": "Sudan Başbakanı: Bu, savaşın dehşetinden çıkış yoludur",
         "summary": "Sudan Başbakanı Kamil Idris, ülkesindeki savaşı sona erdirme, ülkeyi yeniden inşa etme ve sivil yönetimi yeniden tesis etme vizyonunu açıkladı. Başbakan, hükümetinin bu hedeflere ulaşmak için izleyeceği yolu detaylandırdı. Açıklamada, mevcut çatışma ortamından kalıcı bir çıkış sağlanarak barış ve istikrarın yeniden tesis edilmesi amaçlanıyor. Bu adımların, Sudan'ın geleceği için kritik öneme sahip olduğu vurgulandı.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1776247042495ws783",
-        "title": "Fransa'da Gözaltına Alınan İran Vatandaşı Ülkesine Döndü",
-        "summary": "Fransa'da Filistin yanlısı yorumları nedeniyle gözaltına alınan İran vatandaşı Mahdieh Esfandiari, ülkesine geri döndü. Bu gelişme, İran'ın casusluk suçlamasıyla tutuklu bulunan iki Fransız vatandaşını serbest bırakmasından bir hafta sonra gerçekleşti. Karşılıklı vatandaş serbest bırakmaları, Tahran ile Paris arasındaki diplomatik ilişkilerde bir yumuşama işareti olarak yorumlanıyor. Olay, iki ülke arasındaki gerilimi azaltma potansiyeli taşıyan önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T09:57:22.495Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/15/iran-citizen-held-in-france-over-pro-palestine-comments-returns-state-tv?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
