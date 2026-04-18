@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776545411950kpk5g",
+        "title": "Mazzucato: İran Savaşı'nın Ekonomik Şokunun Bedelini Kim Ödeyecek?",
+        "summary": "Ekonomist Mariana Mazzucato, İran'da yaşanacak olası bir savaşın küresel ekonomiye etkilerini değerlendirdi. Redi Tlhabi ile yaptığı söyleşide Mazzucato, böyle bir çatışmanın yaratacağı ekonomik şokun boyutlarını ve bu şokun bedelini kimlerin ödeyeceğini analiz etti. Uzmanlar, Orta Doğu'daki gerilimin enerji fiyatları, tedarik zincirleri ve küresel finans piyasaları üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor. Bu tür bir savaşın, bölgesel istikrarsızlığın yanı sıra uluslararası ekonomik dengeleri de derinden sarsabileceği vurgulandı.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T20:50:11.950Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776545484590a832o",
+        "title": "İsrailli Asker, Güney Lübnan'daki Bombalı Saldırıda Hayatını Kaybetti",
+        "summary": "İsrail ordusu tarafından yapılan açıklamaya göre, Güney Lübnan'da meydana gelen bir bombalı saldırıda yaralanan bir İsrailli asker, aldığı yaralara yenik düşerek hayatını kaybetti. Ordu, aynı patlamada üç askerin daha yaralandığını bildirdi. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Bu gelişme, İsrail ile Lübnan sınırındaki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35317852/pexels-photo-35317852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T20:51:24.590Z",
+        "location": {
+            "lat": 33,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-succumbs-to-wounds-from-southern-lebanon-bomb-blast/3910982",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776540228935qfn9j",
         "title": "Sudanlı Mülteciler Fas'ta Sınırlar ve Bürokrasi Arasında Sıkışıp Kaldı",
         "summary": "Savaştan kaçan çok sayıda Sudanlı mülteci, Fas'a ulaşmalarına rağmen burada zorlu bir durumla karşı karşıya kalıyor. Ülkeye gelen mülteciler, hem sınır geçişlerindeki engeller hem de bürokratik süreçler nedeniyle ilerleyemiyor. Bu durum, mültecilerin insani ihtiyaçlarının karşılanmasında ve güvenli bir yaşam kurma çabalarında ciddi aksaklıklara yol açıyor. Fas'taki sivil toplum kuruluşları ve uluslararası örgütler, bu mültecilerin yaşadığı zorluklara dikkat çekerek çözüm çağrısında bulunuyor. Artan mülteci akını, Fas'ın göç politikaları üzerinde de baskı oluşturuyor.",
@@ -764,38 +796,6 @@
             "name": "Gazze Şehri, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/2-brothers-killed-another-wounded-by-israeli-fire-in-eastern-gaza/3908917",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776412575439q3p9g",
-        "title": "Pakistan Başbakanı, Lübnan'daki Ateşkesin Sürdürülebilir Barışa Zemin Hazırlamasını Umuyor",
-        "summary": "Pakistan Başbakanı Şehbaz Şerif, Lübnan'da sağlanan ateşkesin bölgede sürdürülebilir barışa zemin hazırlamasını umduğunu dile getirdi. Şerif, 10 günlük bu ateşkesin, ABD Başkanı Trump'ın \"cesur ve bilge diplomatik çabaları\" sayesinde mümkün olduğunu vurguladı. Pakistan lideri, bu diplomatik başarının Orta Doğu'daki gerilimin azaltılması ve istikrarın sağlanması açısından önemli bir adım olduğunu belirtti. Açıklamasında, tüm tarafların barışçıl çözümlere odaklanması gerektiğinin altını çizdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4117789/pexels-photo-4117789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T07:56:15.439Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistani-premier-hopes-ceasefire-in-lebanon-paves-way-for-sustainable-peace/3908891",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776412606753n2ew8",
-        "title": "Pakistan Bandıralı Tanker, ABD Ablukasından Bu Yana Hürmüz'den Kargoyla Çıkan İlk Ham Petrol Taşıyıcısı Oldu",
-        "summary": "Pakistan bandıralı 'Shalamar' adlı tankerin, ABD ablukası sonrası Hürmüz Boğazı'ndan kargoyla ayrılan ilk ham petrol taşıyıcısı olduğu bildirildi. Gemi takip verilerine göre, tanker Birleşik Arap Emirlikleri'nden yaklaşık 450.000 varil ham petrolle Körfez'den ayrıldı. Bu gelişme, küresel petrol ticareti için hayati önem taşıyan bu su yolundaki trafiğin hala sınırlı olduğunu gözler önüne seriyor. Hürmüz Boğazı, Orta Doğu petrolünün dünya pazarlarına ulaşmasında kritik bir geçiş noktası olup, bölgedeki jeopolitik gerilimler nedeniyle sıkça gündeme gelmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36474351/pexels-photo-36474351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T07:56:46.753Z",
-        "location": {
-            "lat": 26.25,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-flagged-tanker-becomes-1st-crude-carrier-to-exit-hormuz-with-cargo-since-us-blockade/3908845",
         "trendScore": 85,
         "isBreaking": false
     }
