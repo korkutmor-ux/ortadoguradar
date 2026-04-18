@@ -1340,3 +1340,6 @@ body {
 #authModal.hidden {
     display: none !important; /* Gizliyken kesinlikle görünmez */
 }
+.logo {
+    flex-shrink: 0 !important;
+}
