@@ -1214,11 +1214,11 @@ window.closeNewsletterModal = function() {
     }
 };
 
-/* --- RADAR ASİSTAN MASTER AI PAKETİ (TAM SİSTEM) --- */
+/* --- RADAR ASİSTAN MASTER AI PAKETİ (EN GÜNCEL) --- */
 
-// 1. GÜVENLİK: Base64 şifreni buraya yapıştır
-const sifreliKey = "QUl6YVN5QWU3VTVwU3lxX3pUblh0YkdfRlc1bFBfZENsSUpUSEtB"; 
-const GEMINI_API_KEY = atob(sifreliKey); 
+// 1. GÜVENLİK: Base64 şifreni buraya yapıştır (Tırnak içinde boşluk kalmasın!)
+const sifreliKey = "QUl6YVN5Q3pQeGVNRFdNcGJmb0FkWkJhYklJY3d6SGJnQmdGYVN3"; 
+const GEMINI_API_KEY = atob(sifreliKey.trim()); 
 
 // 2. MESAJ GÖNDERME
 async function sendMessage() {
@@ -1236,20 +1236,31 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
     try {
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+        // v1beta -> v1 olarak güncellendi
+        const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                contents: [{ parts: [{ text: `Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: ${msg}` }] }]
+                contents: [{ parts: [{ text: `Sen Orta Doğu Radar asistanısın. Profesyonel ve net ol. Sadece Orta Doğu siyaseti ve tarihi konuş. Maksimum 3 cümle cevap ver. Soru: ${msg}` }] }]
             })
         });
+
         const data = await response.json();
+
+        // Eğer Google hata kodu döndürürse konsola yazdır
+        if (data.error) {
+            console.error("Google AI Hatası:", data.error.message);
+            throw new Error(data.error.message);
+        }
+
         const aiResponse = data.candidates[0].content.parts[0].text;
         document.getElementById(loadingId).remove();
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
+        
     } catch (error) {
+        console.error("Bağlantı Hatası Detayı:", error);
         if(document.getElementById(loadingId)) document.getElementById(loadingId).remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası.</div>`;
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Şu an cevap veremiyorum. Lütfen az sonra tekrar deneyin.</div>`;
     } finally {
         input.disabled = false;
         input.focus();
@@ -1265,7 +1276,7 @@ function toggleChat() {
 
 function handleChatKey(e) { if (e.key === 'Enter') sendMessage(); }
 
-// 4. GÖRÜNÜRLÜK (BOTUN EKRANA GELMESİNİ SAĞLAYAN KISIM)
+// 4. GÖRÜNÜRLÜK AYARLARI
 window.addEventListener('DOMContentLoaded', () => {
     const assistant = document.getElementById('radar-assistant-container');
     if (assistant) assistant.classList.remove('hidden');
