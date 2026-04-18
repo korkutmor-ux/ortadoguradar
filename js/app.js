@@ -1215,14 +1215,30 @@ window.closeNewsletterModal = function() {
 };
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-// 1. BURAYA AI STUDIO'DAN ALDIĞIN YEPYENİ ANAHTARI YAPIŞTIR
-const GEMINI_API_KEY = "AIzaSyAHT_gQqteId6rq7C3Xegm5MpGeu5IYBDI".trim(); 
+const GEMINI_API_KEY = "AIzaSyAHT_gQqteId6rq7C3Xegm5MpGeu5IYBDI"; 
 
 async function sendMessage() {
-    // ... input ve msg kısımları aynı ...
+    const input = document.getElementById('user-input');
+    const chatMsgs = document.getElementById('chat-messages');
     
+    if (!input || !chatMsgs) return;
+
+    const msg = input.value.trim();
+    if (msg === "" || input.disabled) return;
+
+    // 1. Kullanıcı mesajını ekrana bas
+    chatMsgs.innerHTML += `<div style="background: #3498db; color: white; padding: 10px 15px; border-radius: 15px 15px 0 15px; align-self: flex-end; max-width: 80%; font-size: 14px; margin-left: auto; margin-bottom: 10px;">${msg}</div>`;
+    
+    input.value = "";
+    input.disabled = true;
+
+    // 2. Yükleniyor mesajı
+    const loadingId = 'loading-' + Date.now();
+    chatMsgs.innerHTML += `<div id="${loadingId}" class="bot-msg" style="background: #252525; color: #aaa; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px; font-style: italic;">Radar verileri taranıyor...</div>`;
+    chatMsgs.scrollTop = chatMsgs.scrollHeight;
+
     try {
-        // v1beta her zaman en sağlamıdır, adresi tam olarak bu şekilde yaz:
+        // En sağlam kapı v1beta'dır, tırnak hatası olmasın diye (+) ile birleştiriyoruz
         const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
         const response = await fetch(apiUrl, {
@@ -1235,45 +1251,47 @@ async function sendMessage() {
 
         const data = await response.json();
         
-        // Burası çok önemli: Hata varsa nedenini konsola yazdırıyoruz
-        if (data.error) {
-            console.error("Google'dan Gelen Hata Detayı:", data.error);
-            throw new Error(data.error.message);
-        }
+        if (data.error) throw new Error(data.error.message);
 
         const aiResponse = data.candidates[0].content.parts[0].text;
         const loadingElement = document.getElementById(loadingId);
         if (loadingElement) loadingElement.remove();
         
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">` + aiResponse + `</div>`;
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
         
     } catch (error) {
         console.error("Hata:", error);
         const loadingElement = document.getElementById(loadingId);
         if (loadingElement) loadingElement.remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Hata: ` + error.message + `</div>`;
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası: ${error.message}</div>`;
     } finally {
         input.disabled = false;
         input.focus();
         chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
-} // sendMessage Kapanışı
+}
 
+// 3. KONTROLLER VE DİNLEYİCİLER
 function toggleChat() {
     const win = document.getElementById('chat-window');
     if (win) win.classList.toggle('hidden');
 }
 
-function handleChatKey(e) { 
-    if (e.key === 'Enter') sendMessage(); 
-}
-
-window.addEventListener('DOMContentLoaded', () => {
-    const assistant = document.getElementById('radar-assistant-container');
-    if (assistant) assistant.classList.remove('hidden');
+// Enter tuşuna basınca gönder
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && document.activeElement.id === 'user-input') {
+        sendMessage();
+    }
 });
 
+// Tıklama olayları (Gönder butonu ve Navigasyon)
 document.addEventListener('click', function(e) {
+    // Gönder butonu kontrolü
+    if (e.target.closest('#send-btn') || e.target.closest('.fa-paper-plane')) {
+        sendMessage();
+    }
+
+    // Navigasyon (Akış, Rasathane vb.) kontrolü
     const btn = e.target.closest('.nav-item') || e.target.closest('button');
     if (!btn) return;
     const text = btn.innerText.toLowerCase();
