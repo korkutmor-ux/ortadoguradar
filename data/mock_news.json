@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776524841976wf9i3",
+        "title": "Trump'ın İran İddiaları Tahran'da Tartışma Yaratırken, Hürmüz Boğazı Kısıtlandı",
+        "summary": "ABD eski Başkanı Donald Trump'ın İran'a yönelik taviz iddiaları Tahran'da hem soru işaretleri hem de reddiyelerle karşılandı. Bu siyasi gerilim, İran Devrim Muhafızları Ordusu'nun (IRGC) Hürmüz Boğazı'nı yeniden kısıtladığını duyurmasıyla doruk noktasına ulaştı. Boğazın kısıtlanması, bölgedeki deniz trafiği ve enerji güvenliği açısından önemli sonuçlar doğurabilir. Bu durum, ABD ile İran arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor ve uluslararası kamuoyunda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35533703/pexels-photo-35533703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T15:07:21.976Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1776518469657h6nq7",
         "title": "Kölelik Tazminatları Adil, Ancak Kim Kime Borçlu?",
         "summary": "Kölelik tazminatları konusundaki küresel tartışmalar, adalet arayışının karmaşıklığını gözler önüne seriyor. Haber, köle ticaretinden ve sömürgeleştirmeden bazı Afrikalı elitlerin de fayda sağladığına dikkat çekiyor. Bu durum, tazminat tartışmalarında kimin kime borçlu olduğu sorusunu daha da derinleştirerek, sorumluluğun tek taraflı olmadığını vurguluyor. Tarihsel adaletsizliklerin telafisi sürecinde, tüm aktörlerin rolünün kapsamlı bir şekilde değerlendirilmesi gerektiği belirtiliyor. Bu yaklaşım, tazminat taleplerinin ve ödemelerinin daha adil bir zeminde ele alınmasına olanak tanıyor.",
@@ -780,22 +796,6 @@
             "name": "Kabul, Afganistan"
         },
         "source": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17764039365900duor",
-        "title": "Fransa, 1982'deki Yahudi Restoranı Saldırısı Şüphelisini Yakaladı",
-        "summary": "Fransa, 1982 yılında Paris'teki bir Yahudi restoranına düzenlenen ve altı kişinin ölümüne neden olan saldırının şüphelisi Mahmoud Khader Abed Adra'yı gözaltına aldı. Kırk yılı aşkın süredir uluslararası düzeyde aranan Adra, Filistin makamları tarafından Fransız yetkililere teslim edildi. Bu gelişme, Fransa'da uzun yıllar önce gerçekleşen terör saldırısının faillerinden birinin adalete teslim edilmesi yolunda önemli bir adım olarak kaydedildi. Olay, uluslararası adli işbirliğinin bir sonucu olarak değerlendirilirken, soruşturmanın devam ettiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T05:32:16.590Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/17/france-arrests-suspect-over-1982-attack-on-jewish-restaurant?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
