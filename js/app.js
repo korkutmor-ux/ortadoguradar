@@ -1269,17 +1269,38 @@ function handleChatKey(event) {
         sendMessage();
     }
 }
-// Menü butonlarını bul ve asistanı onlara bağla
-document.addEventListener('click', function(e) {
-    // Eğer tıklanan şey bir menü butonuysa
-    if (e.target.closest('.nav-item') || e.target.closest('button')) {
-        const btnText = e.target.innerText.toLowerCase();
-        
-        // Eğer butonun içinde "akış" geçiyorsa göster, geçmiyorsa gizle
-        if (btnText.includes('akış')) {
-            updateAssistantVisibility('akis');
-        } else if (btnText.includes('rasathane') || btnText.includes('oyun') || btnText.includes('envanter')) {
-            updateAssistantVisibility('diger');
-        }
+// 1. Sayfa ilk açıldığında asistanı göster
+window.addEventListener('DOMContentLoaded', () => {
+    const assistant = document.getElementById('radar-assistant-container');
+    if (assistant) {
+        assistant.classList.remove('hidden');
     }
 });
+
+// 2. Menü butonlarını takip et ve asistanı gizle/göster
+document.addEventListener('click', function(e) {
+    const btn = e.target.closest('.nav-item') || e.target.closest('button');
+    if (!btn) return;
+
+    const btnText = btn.innerText.toLowerCase();
+    const assistant = document.getElementById('radar-assistant-container');
+    if (!assistant) return;
+
+    // Eğer "akış" butonuna basılırsa göster
+    if (btnText.includes('akış')) {
+        assistant.classList.remove('hidden');
+    } 
+    // Diğer sekmelere (Rasathane, Oyun vb.) basılırsa gizle
+    else if (btnText.includes('rasathane') || btnText.includes('oyun') || btnText.includes('envanter') || btnText.includes('radar akışı')) {
+        assistant.classList.add('hidden');
+        document.getElementById('chat-window').classList.add('hidden');
+    }
+});
+
+// 3. Pencereyi açıp kapatma fonksiyonu
+function toggleChat() {
+    const chatWin = document.getElementById('chat-window');
+    if (chatWin) {
+        chatWin.classList.toggle('hidden');
+    }
+}
