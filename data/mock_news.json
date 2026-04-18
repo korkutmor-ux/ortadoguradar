@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776499309352bikq2",
+        "title": "ABD, Sudan'daki Çatışmayla Bağlantılı Olduğu İddia Edilen 5 Aktöre Yaptırım Uyguladı",
+        "summary": "Amerika Birleşik Devletleri, Sudan'daki çatışmalarla bağlantılı olduğu iddia edilen beş aktöre yaptırım uygulama kararı aldı. Bu yaptırımlar, Sudan'daki iç savaşın dördüncü yılına girdiği bir dönemde geldi. ABD Dışişleri Bakanlığı, Sudan'da kalıcı bir barışın sağlanması yönündeki taahhüdünü sürdürdüğünü belirtti. Yaptırımların, çatışmanın tarafları üzerindeki baskıyı artırmayı hedeflediği düşünülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33700907/pexels-photo-33700907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T08:01:49.352Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5599,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-imposes-sanctions-on-5-actors-for-alleged-sudan-war-links-as-conflict-enters-4th-year/3910265",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776499334069ob7eg",
+        "title": "İsrail'in Sınır Kısıtlamaları Yardım Teslimatına Ana Engel",
+        "summary": "Bir Barış Kurulu yetkilisi, İsrail'in uyguladığı sınır kısıtlamalarının insani yardımların bölgeye ulaştırılmasındaki temel engel olduğunu belirtti. Yüksek Temsilci Nickolay Mladenov'a göre, önceki yardım dağıtım mekanizmaları tahrip edilmiş durumda ve alternatif sistemler henüz devreye sokulamadı. Bu durum, bölgedeki ihtiyaç sahiplerine yardım ulaştırılmasını ciddi şekilde aksatıyor ve insani krizi derinleştiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6647121/pexels-photo-6647121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T08:02:14.069Z",
+        "location": {
+            "lat": 32,
+            "lng": 34.8,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/world/board-of-peace-official-says-israel-s-border-restrictions-main-obstacle-to-aid-delivery/3910263",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177649935624659d9j",
+        "title": "UNICEF, Kuzey Gazze'de İki Su Kamyonu Şoförünün İsrailliler Tarafından Öldürülmesini Kınadı",
+        "summary": "Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF), Kuzey Gazze'de iki su kamyonu şoförünün İsrailliler tarafından öldürülmesini kınadığını duyurdu. Kuruluş, olayın derhal soruşturulması ve sorumluların hesap vermesi çağrısında bulundu. UNICEF tarafından yapılan açıklamada, İsrail makamlarına bu olayı acilen araştırmaları ve tam hesap verebilirliği sağlamaları yönünde çağrı yapıldığı belirtildi. Bu olay, bölgedeki insani yardım operasyonlarının güvenliği konusunda endişeleri artırdı ve Gazze'de su temininin kritik bir insani ihtiyaç olmaya devam ettiğini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850177/pexels-photo-36850177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T08:02:36.246Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Kuzey Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/unicef-condemns-killing-of-2-water-truck-drivers-by-israeli-in-northern-gaza/3910261",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776494832734w596m",
         "title": "Trump: İran Anlaşması Olmazsa ABD 'Yeniden Bomba Atmaya Başlamak Zorunda Kalacak'",
         "summary": "ABD Başkanı Donald Trump, ABD ile İran arasında bir anlaşmaya varılamaması halinde ABD'nin 'yeniden bomba atmaya başlamak zorunda kalacağını' belirtti. Bu açıklama, iki ülke arasındaki gerilimin devam ettiğini ve diplomatik çabaların başarısız olması durumunda askeri seçeneğin masada olabileceğini gösteriyor. Trump'ın bu sözleri, İran'ın nükleer programı ve bölgesel faaliyetleri etrafındaki müzakerelerin kritik önemini vurguluyor. Beyaz Saray'dan yapılan bu tür bir açıklama, uluslararası kamuoyunda geniş yankı uyandırarak bölgedeki güvenlik endişelerini artırıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1776298138792xzfkz",
-        "title": "Ailesi: Önde Gelen Filistinli Mahkum Marwan Barghouti Bir Ayda Üç Kez Saldırıya Uğradı",
-        "summary": "Filistin'in önde gelen mahkumlarından Marwan Barghouti'nin ailesi, Barghouti'nin son bir ay içinde cezaevi gardiyanları tarafından üç kez fiziksel saldırıya uğradığını iddia etti. Ailenin açıklamasına göre, Barghouti'ye yönelik şiddet olayları farklı zamanlarda gerçekleşti ve sağlık durumundan endişe duyulduğu belirtildi. İsrail Cezaevi Servisi (IPS) ise bu iddialara hızla yanıt verdi. IPS, Barghouti'nin cezaevi gardiyanları tarafından fiziksel şiddete maruz kaldığına dair suçlamaların \"asılsız ve temelsiz\" olduğunu belirterek iddiaları reddetti. Olayla ilgili taraflar arasında çelişkili açıklamalar devam ederken, uluslararası insan hakları örgütlerinin konuyu takip etmesi bekleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7407242/pexels-photo-7407242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T00:08:58.792Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776298160407evicm",
-        "title": "İsrail ve Hizbullah Arasındaki Çatışmalar, ABD'deki Görüşmelere Rağmen Sürüyor",
-        "summary": "İsrail ve Lübnan arasında ABD'de gerçekleşen nadir doğrudan müzakerelerin ardından, taraflar arasındaki çatışmalar yeniden şiddetlendi. İsrail ordusu, Güney Lübnan'daki hedeflere hava saldırıları düzenlediğini duyurdu. Bu saldırılara karşılık olarak, Hizbullah İsrail topraklarına roket atışları gerçekleştirdi. Söz konusu gelişmeler, diplomatik girişimlere rağmen bölgedeki gerilimin devam ettiğini ve güvenlik durumunun kırılganlığını gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T00:09:20.407Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776294704777qulja",
-        "title": "İsrail, Güney Lübnan'daki Evleri Bombaladı",
-        "summary": "İsrail ordusu, Güney Lübnan'da bulunan Bint Cbeyl bölgesindeki binalara hava saldırısı düzenledi. Saldırılarda bölgedeki evlerin hedef alındığı bildirildi. Olayın ardından bölgedeki güvenlik durumu yeniden gündeme gelirken, saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmadı. Bölgede gerilimin tırmanabileceği endişesi hakim.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31314687/pexels-photo-31314687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T23:11:44.777Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Bint Cbeyl, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
