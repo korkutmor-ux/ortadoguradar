@@ -1264,43 +1264,81 @@ function sendMessage() {
 }
 
 // Enter tuşuyla mesaj gönderme
-function handleChatKey(event) {
-    if (event.key === 'Enter') {
-        sendMessage();
+/* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
+
+const GEMINI_API_KEY = "BURAYA_API_KEYINI_YAPISTIR"; // Kendi anahtarını tırnak içine koy
+
+// 1. Mesaj Gönderme ve AI Bağlantısı
+async function sendMessage() {
+    const input = document.getElementById('user-input');
+    const msg = input.value.trim();
+    if (msg === "" || input.disabled) return;
+
+    const chatMsgs = document.getElementById('chat-messages');
+    
+    chatMsgs.innerHTML += `<div style="background: #3498db; color: white; padding: 10px 15px; border-radius: 15px 15px 0 15px; align-self: flex-end; max-width: 80%; font-size: 14px; margin-left: auto; margin-bottom: 10px;">${msg}</div>`;
+    input.value = "";
+    input.disabled = true;
+
+    const loadingId = 'loading-' + Date.now();
+    chatMsgs.innerHTML += `<div id="${loadingId}" class="bot-msg" style="background: #252525; color: #aaa; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px; font-style: italic;">Analiz ediliyor...</div>`;
+    chatMsgs.scrollTop = chatMsgs.scrollHeight;
+
+    try {
+        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                contents: [{
+                    parts: [{
+                        text: `Sen "Orta Doğu Radar" sitesinin asistanısın. Profesyonel ve net ol. Sadece Orta Doğu, siyaset ve tarih konuş. Maksimum 3 cümle cevap ver. Kullanıcı sorusu: ${msg}`
+                    }]
+                }]
+            })
+        });
+
+        const data = await response.json();
+        const aiResponse = data.candidates[0].content.parts[0].text;
+
+        document.getElementById(loadingId).remove();
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
+        
+    } catch (error) {
+        document.getElementById(loadingId).innerText = "Şu an cevap veremiyorum, lütfen API anahtarınızı kontrol edin.";
+    } finally {
+        input.disabled = false;
+        input.focus();
+        chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
 }
-// 1. Sayfa ilk açıldığında asistanı göster
+
+// 2. Pencereyi Aç/Kapat
+function toggleChat() {
+    const win = document.getElementById('chat-window');
+    if (win) win.classList.toggle('hidden');
+}
+
+// 3. Enter Tuşu
+function handleChatKey(e) { if (e.key === 'Enter') sendMessage(); }
+
+// 4. Görünürlük Kontrolü (Sekme Takibi)
 window.addEventListener('DOMContentLoaded', () => {
     const assistant = document.getElementById('radar-assistant-container');
-    if (assistant) {
-        assistant.classList.remove('hidden');
-    }
+    if (assistant) assistant.classList.remove('hidden');
 });
 
-// 2. Menü butonlarını takip et ve asistanı gizle/göster
 document.addEventListener('click', function(e) {
     const btn = e.target.closest('.nav-item') || e.target.closest('button');
     if (!btn) return;
 
-    const btnText = btn.innerText.toLowerCase();
+    const text = btn.innerText.toLowerCase();
     const assistant = document.getElementById('radar-assistant-container');
     if (!assistant) return;
 
-    // Eğer "akış" butonuna basılırsa göster
-    if (btnText.includes('akış')) {
+    if (text.includes('akış')) {
         assistant.classList.remove('hidden');
-    } 
-    // Diğer sekmelere (Rasathane, Oyun vb.) basılırsa gizle
-    else if (btnText.includes('rasathane') || btnText.includes('oyun') || btnText.includes('envanter') || btnText.includes('radar akışı')) {
+    } else if (['rasathane', 'oyun', 'envanter', 'radar akışı'].some(s => text.includes(s))) {
         assistant.classList.add('hidden');
         document.getElementById('chat-window').classList.add('hidden');
     }
 });
-
-// 3. Pencereyi açıp kapatma fonksiyonu
-function toggleChat() {
-    const chatWin = document.getElementById('chat-window');
-    if (chatWin) {
-        chatWin.classList.toggle('hidden');
-    }
-}
