@@ -1232,36 +1232,42 @@ async function sendMessage() {
     chatMsgs.innerHTML += `<div id="${loadingId}" class="bot-msg" style="background: #252525; color: #aaa; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px; font-style: italic;">Radar verileri taranıyor...</div>`;
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
-    try {
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+   try {
+        // Tek tırnak belasından kurtulmak için artı (+) ile birleştiriyoruz, en güvenli yol budur:
+        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
+
+        const response = await fetch(apiUrl, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                contents: [{ parts: [{ text: `Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: ${msg}` }] }]
+                contents: [{ 
+                    parts: [{ 
+                        text: "Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: " + msg 
+                    }] 
+                }]
             })
         });
 
         const data = await response.json();
-        
+
         if (data.error) throw new Error(data.error.message);
 
         const aiResponse = data.candidates[0].content.parts[0].text;
         const loadingElement = document.getElementById(loadingId);
         if (loadingElement) loadingElement.remove();
-        
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
-        
+
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">` + aiResponse + `</div>`;
+
     } catch (error) {
         console.error("Hata:", error);
         const loadingElement = document.getElementById(loadingId);
         if (loadingElement) loadingElement.remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası: ${error.message}</div>`;
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Hata: ` + error.message + `</div>`;
     } finally {
         input.disabled = false;
         input.focus();
         chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
-}
 
 function toggleChat() {
     const win = document.getElementById('chat-window');
