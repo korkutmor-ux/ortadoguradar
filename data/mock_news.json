@@ -1,5 +1,69 @@
 [
     {
+        "id": "1776510497694t0fh5",
+        "title": "Hormuz Boğazı'nda Gerilim: Propaganda ve Taktik Savaşları",
+        "summary": "Hormuz Boğazı'nda yaşanan abluka süreci, bölgedeki gerilimi artırmaya devam ediyor. Haber, bu stratejik su yolunda uygulanan savaş taktikleri ile propaganda taktikleri arasındaki çekişmeyi ele alıyor. Küresel enerji tedariki için hayati öneme sahip olan boğazda, taraflar arasında askeri ve iletişimsel bir mücadele yaşandığı belirtiliyor. Bu durum, bölgedeki jeopolitik dinamiklerin karmaşıklığını ve uluslararası ilişkilerdeki hassasiyeti gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36263106/pexels-photo-36263106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T11:08:17.694Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hormuz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17765105183510zv3s",
+        "title": "Güney Lübnan'daki Ambulans Ekibi, İsrail'in 'Üçlü Vuruş' Saldırısını Anlattı",
+        "summary": "Lübnan'daki ambulans çalışanları, İsrail'in hedefli 'üçlü vuruş' saldırılarını anlattı. Bu saldırılarda dört sağlık görevlisinin hayatını kaybettiği ve altı kişinin yaralandığı belirtildi. Olayın güney Lübnan'da meydana geldiği ve İsrail güçlerinin ambulans ekiplerini hedef aldığı iddia ediliyor. Bu tür saldırılar, uluslararası hukukta sivil hedeflere yönelik saldırı endişelerini gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8942688/pexels-photo-8942688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T11:08:38.351Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17765105443003xujh",
+        "title": "Hürmüz Boğazı'nda Yeni Kriz: Petrol Fiyatları Düşüşte",
+        "summary": "Petrol fiyatları haftalar sonra 91 doların altına gerilerken, Hürmüz Boğazı'nda yeni bir krizin baş gösterdiği bildirildi. İran'ın, daha önce açacağını duyurduğu su yolunu ABD ablukası gerekçesiyle yeniden kapatma kararı alması piyasalarda yankı buldu. Bu gelişme üzerine Brent petrol fiyatları yüzde 9'dan fazla düşüş kaydetti. İran'ın bu adımı, bölgedeki jeopolitik gerilimi artırarak küresel enerji tedarik zincirleri üzerindeki endişeleri yükseltti.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/36152063/pexels-photo-36152063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T11:09:04.300Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776510567944wpft4",
+        "title": "İsrail'in Ölüm Cezası Yasası AB'nin İsrail'i Apartheid Devleti Olarak Görmesi Gerektiği İddialarını Güçlendiriyor",
+        "summary": "Avrupa Birliği'nin İsrail'e yönelik politikaları ve İsrail-Filistin çatışması bağlamında yeni bir tartışma başladı. Pernando Barrena, İsrail'in Filistinlilere yönelik ölüm cezası uygulamasının, Avrupa'nın İsrail ile diplomatik ilişkilerini kesmesi ve İsrail'i bir apartheid devleti olarak tanıması gerektiği yönündeki iddiaları güçlendirdiğini belirtti. Bu açıklama, İsrail'in insan hakları sicili ve uluslararası hukuka uygunluğu konusundaki endişeleri yeniden gündeme taşıdı ve AB'nin Orta Doğu politikalarına yönelik baskıyı artırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30284225/pexels-photo-30284225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T11:09:27.944Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/4/18/death-penalty-law-proves-the-eu-must-treat-israel-as-an-apartheid-state?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776506902615zvo3i",
         "title": "Pakistan'dan ABD-İran Görüşmeleri İçin Diplomatik Çaba",
         "summary": "Pakistan Başbakanı Şahbaz Şerif ve Genelkurmay Başkanı Asım Munir, ABD ile İran arasındaki müzakerelerin yeniden başlaması yönündeki diplomatik girişimlerini tamamladı. Genelkurmay Başkanı Munir, Tahran ziyaretini sonlandırırken, Başbakan Şerif de Türkiye'den ülkesine döndü. Her iki ziyaretin de ABD-İran görüşmelerinin yeni bir turunun gerçekleşmesi umuduyla yapıldığı belirtildi. Bu çabalar, bölgesel istikrar ve uluslararası ilişkiler açısından önem taşıyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1776362980741b168v",
-        "title": "Trump, Lübnan ve İsrail Arasında 10 Günlük Ateşkes İlan Etti",
-        "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, İsrail ve Lübnan arasında 10 günlük bir ateşkes anlaşmasına varıldığını açıkladı. Yapılan duyuruya göre, ateşkes Perşembe günü Greenwich Ortalama Saati (GMT) ile 21:00'de yürürlüğe girecek. Bu gelişme, Orta Doğu'da uzun süredir devam eden gerilimin azaltılmasına yönelik önemli bir adım olarak değerlendiriliyor. Ateşkesin, taraflar arasında diplomatik görüşmelerin önünü açması ve bölgede daha geniş çaplı bir istikrarın sağlanmasına katkıda bulunması umuluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16563569/pexels-photo-16563569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T18:09:40.741Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/16/10-day-lebanon-israel-ceasefire-announced-by-trump?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1776357827444d16ih",
-        "title": "Suriye, ABD Güçlerinin Konuşlandığı Tüm Üslerin Kontrolünü Ele Geçirdi",
-        "summary": "ABD askerleri ve teçhizatından oluşan son konvoyun Suriye'nin kuzeydoğusundaki Haseke vilayetinde bulunan Qasrak hava üssünden ayrılmasıyla, Suriye ordusu ABD güçlerinin daha önce konuşlandığı tüm üslerin kontrolünü sağladı. Bu gelişme, bölgedeki güç dengelerinde önemli bir değişime işaret ediyor. ABD'nin bölgeden çekilmesi, Suriye hükümetinin egemenliğini pekiştirme çabaları açısından kritik bir adım olarak değerlendiriliyor. Uluslararası gözlemciler, bu durumun Suriye'deki iç savaşın seyrini ve bölgesel aktörlerin pozisyonlarını etkileyebileceğini belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163467/war-desert-guns-gunshow-163467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T16:43:47.444Z",
-        "location": {
-            "lat": 36.689722,
-            "lng": 40.803056,
-            "name": "Qasrak, Haseke, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17763578681429bwfu",
-        "title": "Trump: İsrail ve Lübnan Geçici Ateşkes Konusunda Anlaştı",
-        "summary": "ABD Başkanı Donald Trump, İsrail ve Lübnan arasında geçici bir ateşkes anlaşmasına varıldığını duyurdu. Bu gelişme, Orta Doğu'da uzun süredir devam eden gerilimin ardından geldi. Anlaşmanın detayları henüz tam olarak bilinmemekle birlikte, bölgedeki çatışmaların durdurulması yönünde önemli bir adım olduğu belirtiliyor. Gelişmenin, taraflar arasındaki diplomatik çabaların bir sonucu olduğu ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3926749/pexels-photo-3926749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T16:44:28.142Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1776343414941yy8xz",
-        "title": "İsrail ve Lübnan Arasında Tarihi Görüşmeler Gerçekleşecek",
-        "summary": "İsrail ve Lübnan liderleri, 34 yıllık sessizliğin ardından tarihi görüşmeler için bir araya gelmeye hazırlanıyor. Bu görüşmelerin, devam eden çatışmaların ortasında iki ülke arasındaki gerilimi azaltmayı hedeflediği belirtiliyor. Taraflar, uzun süredir devam eden anlaşmazlıklara diplomatik bir çözüm bulma umudu taşıyor. Bu adım, bölgesel istikrar açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T12:43:34.941Z",
-        "location": {
-            "lat": 33.1,
-            "lng": 35.1,
-            "name": "Naqoura, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/16/can-historic-israel-lebanon-talks-lead-to-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
