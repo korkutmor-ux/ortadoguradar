@@ -1215,7 +1215,8 @@ window.closeNewsletterModal = function() {
 };
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-const GEMINI_API_KEY = "AIzaSyBd_uiYA3ggl2o_ZNe7wre6C37oKeBEe-s"; 
+// Eski hali yerine bunu yapıştır (Tırnak içindeki anahtar senin yeni aldığın anahtar olsun)
+const GEMINI_API_KEY = "AIzaSyAuKXKgtL4PV7VKZ0EvUcweriA99pqguXA".trim();
 
 async function sendMessage() {
     const input = document.getElementById('user-input');
@@ -1232,7 +1233,7 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
     try {
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+        const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
