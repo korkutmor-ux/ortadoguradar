@@ -51,6 +51,9 @@
                 <button class="toggle-btn" id="btn-social" title="Radar Akışı (Sosyal)">
     <i class="fa-solid fa-users-viewfinder"></i> Radar Akışı
 </button>
+                <button onclick="openNewsletterModal()" class="toggle-btn" style="color: #3498db; border: 1px solid #3498db; margin-left: 15px;">
+    <i class="fa-solid fa-envelope-open-text"></i> Bültene Abone Ol
+</button>
             </div>
 <div class="user-auth-area" style="margin-left: 15px; display: flex; align-items: center; gap: 10px;">
     <button onclick="openAuthModal()" class="toggle-btn" id="btn-login-trigger" title="Giriş Yap veya Kayıt Ol" style="background: rgba(255,255,255,0.05); border: 1px solid #333; color: #fff; padding: 8px 15px; border-radius: 20px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: 0.3s;">
@@ -327,5 +330,30 @@
     <script src="js/quiz.js"></script>
     <script src="js/oil_game.js"></script>
 
+                    <div id="newsletter-modal" class="hidden" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 9999; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(5px);">
+        
+        <div style="background: #121212; border: 1px solid #333; border-radius: 12px; width: 90%; max-width: 400px; padding: 25px; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+            
+            <button onclick="closeNewsletterModal()" style="position: absolute; top: 15px; right: 15px; background: none; border: none; color: #888; font-size: 1.5rem; cursor: pointer;">&times;</button>
+            
+            <h2 style="color: #fff; margin-bottom: 10px; font-size: 1.4rem;">Haftalık Radar Özeti 📡</h2>
+            <p style="color: #aaa; font-size: 0.9rem; margin-bottom: 20px; line-height: 1.5;">Haftanın en kritik diplomatik, ekonomik ve askeri gelişmelerini her Cuma e-posta kutuna gönderelim.</p>
+
+            <form action="https://SENIN_SUBSTACK_ADIN.substack.com/subscribe" method="GET" target="_blank" style="display: flex; flex-direction: column; gap: 8px;">
+                
+                <input type="email" name="email" placeholder="E-posta adresin..." required
+                       style="width: 100%; padding: 14px; background: #1a1a1a; border: 1px solid #333; color: #fff; border-radius: 8px; font-size: 1rem; outline: none; box-sizing: border-box;">
+                
+                <div style="color: #666; font-size: 0.75rem; text-align: center; margin-bottom: 10px;">
+                    * Tamamen ücretsizdir ve istediğin zaman ayrılabilirsin.
+                </div>
+                
+                <button type="submit" style="width: 100%; padding: 14px; background: var(--accent-blue, #3498db); border: none; color: white; font-weight: bold; border-radius: 8px; cursor: pointer; font-size: 1rem; transition: 0.3s;">
+                    Abone Ol
+                </button>
+            </form>
+
+        </div>
+    </div>
 </body>
 </html>
