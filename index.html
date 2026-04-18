@@ -355,5 +355,28 @@
 
         </div>
     </div>
+                    <div id="radar-assistant-container" class="hidden">
+    <div id="chat-window" class="hidden">
+        <div class="chat-header" style="background: #1a1a1a; padding: 15px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #333; color: #3498db; font-weight: bold;">
+            <span><i class="fa-solid fa-robot"></i> Radar Asistan</span>
+            <button onclick="toggleChat()" style="background: none; border: none; color: #666; cursor: pointer;"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div id="chat-messages" style="flex: 1; padding: 15px; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; height: 300px;">
+            <div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px;">
+                Merhaba Barkın! Ben Radar Asistan. Bölge tarihi veya haberler hakkında bir sorun var mı?
+            </div>
+        </div>
+        <div class="chat-input-area" style="padding: 15px; display: flex; gap: 10px; border-top: 1px solid #333;">
+            <input type="text" id="user-input" placeholder="Sorunu buraya yaz..." onkeypress="handleChatKey(event)" style="flex: 1; background: #1a1a1a; border: 1px solid #333; color: white; padding: 8px 12px; border-radius: 8px;">
+            <button onclick="sendMessage()" style="background: #3498db; border: none; color: white; padding: 0 15px; border-radius: 8px; cursor: pointer;">
+                <i class="fa-solid fa-paper-plane"></i>
+            </button>
+        </div>
+    </div>
+    
+    <button id="chat-bubble" onclick="toggleChat()" style="position: fixed; bottom: 25px; right: 25px; width: 60px; height: 60px; border-radius: 50%; background: #3498db; color: white; border: none; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); z-index: 10001;">
+        <i class="fa-solid fa-comment-dots"></i>
+    </button>
+</div>
 </body>
 </html>
