@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776577218842vsu0s",
+        "title": "Britanya Aşırı Sağının Filistin'de Saygı Duyulan Bir Azizi Kutlaması",
+        "summary": "Britanya'nın aşırı sağcı \"Britain First\" grubunun yüzlerce destekçisi, Aziz George'u kutlamak amacıyla Manchester sokaklarında bir yürüyüş gerçekleştirdi. Haber başlığı, Britanya aşırı sağının Filistin'de de saygı duyulan bu azizi neden kutladığı sorusunu gündeme getiriyor. Aziz George, Hristiyanlıkta önemli bir figür olmasının yanı sıra, Filistin'de hem Hristiyanlar hem de Müslümanlar tarafından Hızır adıyla hürmet gören bir azizdir. Bu durum, aşırı sağcı bir grubun kültürel ve dini sembolleri farklı coğrafyalardaki anlamlarıyla ilişkilendirmesi açısından dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6054381/pexels-photo-6054381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T05:40:18.842Z",
+        "location": {
+            "lat": 53.48,
+            "lng": -2.24,
+            "name": "Manchester, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/19/why-britains-far-right-celebrates-a-saint-revered-in-palestine?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1776577352355t1sns",
+        "title": "İsrail Ateşi Güney Gazze'de Bir Filistinliyi Öldürdü, Ateşkes İhlalleri Devam Ediyor",
+        "summary": "Gazze Şeridi'nde yaşanan son olayda, İsrail güçleri tarafından açılan ateş sonucu güney Gazze'de bir Filistinli hayatını kaybetti. Bu olay, bölgede devam eden ateşkes ihlallerinin bir parçası olarak kayıtlara geçti. Ayrıca, daha önce kuzey Gazze'de İsrail'in açtığı ateşle yaralanan başka bir Filistinlinin de aldığı yaralar nedeniyle yaşamını yitirdiği bildirildi. Bölgedeki gerilim ve çatışmaların sürdüğü, can kayıplarının yaşanmaya devam ettiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T05:42:32.355Z",
+        "location": {
+            "lat": 31.4,
+            "lng": 34.4,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-fire-kills-palestinian-in-southern-gaza-amid-ongoing-ceasefire-violations/3911062",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776568710813hvslk",
         "title": "İran'dan ABD ile Görüşme Tarihi Olmadığı Açıklaması ve Hürmüz Boğazı Tehdidi",
         "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nın, ABD'nin İran limanlarına uyguladığı ablukayı sona erdirene kadar kapalı kalacağını duyurdu. Bu açıklama, ABD ile İran arasındaki mevcut gerilimi daha da artırdı. Küresel petrol ticareti için hayati önem taşıyan bu stratejik su yolunun kapatılması tehdidi, uluslararası piyasalarda endişelere yol açtı. Tahran yönetimi ayrıca, ABD ile herhangi bir görüşme için henüz bir tarih belirlenmediğini de belirtti.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/turkiye/washington-exerts-influence-where-necessary-on-syria-israel-diplomacy-us-envoy-to-turkiye/3909037",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776412470884aet1x",
-        "title": "Dünya Atletizm Birliği, Türkiye'ye 11 Sporcu Transferini Engelledi",
-        "summary": "Dünya Atletizm Birliği (World Athletics), Kenya, Nijerya ve Jamaika'dan Türkiye'ye transfer olmak isteyen 11 sporcunun başvurusunu reddetti. Kararın gerekçesi olarak, Türkiye hükümetinin 'sporcu kazanım programı' gösterildi. Bu durum, uluslararası spor yönetiminde bir ülkenin sporcu transfer politikalarına yönelik bir müdahale olarak değerlendiriliyor. Olay, uluslararası spor federasyonları ile ulusal hükümetler arasındaki ilişkilerde yeni bir tartışma konusu oluşturdu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5961801/pexels-photo-5961801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T07:54:30.884Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 32.8,
-            "name": "Türkiye"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/17/world-athletics-deliver-nationality-switch-hammer-blow-to-turkiye?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776412531446cisj3",
-        "title": "İsrail-Lübnan Ateşkesi Hakkında Bilinenler",
-        "summary": "İsrail ile Lübnan arasında 10 günlük bir ateşkes yürürlüğe girdi. Bu gelişme, iki ülke arasındaki gerilimi azaltma yönünde atılmış önemli bir adım olarak değerlendiriliyor. İran destekli Hizbullah örgütü de ateşkesi desteklediğini açıkladı. Öte yandan, Amerika Birleşik Devletleri ile İran arasındaki müzakerelerin devam etmesi, bölgesel dinamikler açısından bu ateşkesin önemini artırıyor. Ateşkesin, bölgedeki uzun vadeli barış çabalarına nasıl bir etki yapacağı merak konusu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14357129/pexels-photo-14357129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T07:55:31.446Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
