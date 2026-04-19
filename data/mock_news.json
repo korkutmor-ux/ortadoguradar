@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776568710813hvslk",
+        "title": "İran'dan ABD ile Görüşme Tarihi Olmadığı Açıklaması ve Hürmüz Boğazı Tehdidi",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nın, ABD'nin İran limanlarına uyguladığı ablukayı sona erdirene kadar kapalı kalacağını duyurdu. Bu açıklama, ABD ile İran arasındaki mevcut gerilimi daha da artırdı. Küresel petrol ticareti için hayati önem taşıyan bu stratejik su yolunun kapatılması tehdidi, uluslararası piyasalarda endişelere yol açtı. Tahran yönetimi ayrıca, ABD ile herhangi bir görüşme için henüz bir tarih belirlenmediğini de belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27597349/pexels-photo-27597349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T03:18:30.813Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1776545411950kpk5g",
         "title": "Mazzucato: İran Savaşı'nın Ekonomik Şokunun Bedelini Kim Ödeyecek?",
         "summary": "Ekonomist Mariana Mazzucato, İran'da yaşanacak olası bir savaşın küresel ekonomiye etkilerini değerlendirdi. Redi Tlhabi ile yaptığı söyleşide Mazzucato, böyle bir çatışmanın yaratacağı ekonomik şokun boyutlarını ve bu şokun bedelini kimlerin ödeyeceğini analiz etti. Uzmanlar, Orta Doğu'daki gerilimin enerji fiyatları, tedarik zincirleri ve küresel finans piyasaları üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor. Bu tür bir savaşın, bölgesel istikrarsızlığın yanı sıra uluslararası ekonomik dengeleri de derinden sarsabileceği vurgulandı.",
@@ -780,22 +796,6 @@
             "name": "İsrail, Lübnan"
         },
         "source": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17764125532541r8of",
-        "title": "Gazze'nin Doğusunda İsrail Ateşiyle İki Kardeş Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nin doğusunda, İsrail güçlerinin açtığı ateş sonucu iki kardeşin yaşamını yitirdiği, bir diğerinin ise yaralandığı bildirildi. Sağlık kaynakları, İsrail ateşiyle Şucaiye bölgesinde bir su tankerinin vurulduğunu belirtti. Bu olayın, devam eden ateşkes ihlallerinin bir parçası olduğu ifade edildi. Bölgedeki gerilim ve çatışmaların sürdüğü kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193761/pexels-photo-36193761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T07:55:53.254Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-brothers-killed-another-wounded-by-israeli-fire-in-eastern-gaza/3908917",
         "trendScore": 85,
         "isBreaking": false
     }
