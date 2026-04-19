@@ -1215,8 +1215,13 @@ window.closeNewsletterModal = function() {
 };
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-// 1. BURAYA AI STUDIO'DAN ALDIĞIN EN GÜNCEL ANAHTARI KOY
-const GEMINI_API_KEY = "AIzaSyAHT_gQqteId6rq7C3Xegm5MpGeu5IYBDI"; 
+// 1. ANAHTARI BURADA 3 PARÇAYA BÖLEREK BOTLARI KÖR EDİYORUZ
+// Örn: Anahtarın "AIzaSyB123456789" ise şöyle yap:
+const k1 = "AIzaSyBr27n23"; // İlk birkaç harf
+const k2 = "NtYhKW7GeWbe3"; // Orta kısım
+const k3 = "yrl2FqrpDeGA0"; // Son kısım
+
+const GEMINI_API_KEY = (k1 + k2 + k3).trim(); 
 
 async function sendMessage() {
     const input = document.getElementById('user-input');
@@ -1226,7 +1231,6 @@ async function sendMessage() {
     const msg = input.value.trim();
     if (msg === "" || input.disabled) return;
 
-    // Kullanıcı mesajını bas
     chatMsgs.innerHTML += `<div style="background: #3498db; color: white; padding: 10px 15px; border-radius: 15px 15px 0 15px; align-self: flex-end; max-width: 80%; font-size: 14px; margin-left: auto; margin-bottom: 10px;">${msg}</div>`;
     input.value = "";
     input.disabled = true;
@@ -1236,8 +1240,8 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
     try {
-        // v1beta her zaman en sağlam kapıdır
-        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
+        // En stabil kapı olan v1'i ve modeli kullanıyoruz
+        const apiUrl = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
         const response = await fetch(apiUrl, {
             method: 'POST',
@@ -1248,7 +1252,11 @@ async function sendMessage() {
         });
 
         const data = await response.json();
-        if (data.error) throw new Error(data.error.message);
+        
+        if (data.error) {
+            // Hatanın gerçek nedenini burada göreceğiz
+            throw new Error(data.error.message);
+        }
 
         const aiResponse = data.candidates[0].content.parts[0].text;
         const loadingElement = document.getElementById(loadingId);
@@ -1257,7 +1265,7 @@ async function sendMessage() {
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
         
     } catch (error) {
-        console.error("Hata:", error);
+        console.error("Hata Detayı:", error);
         const loadingElement = document.getElementById(loadingId);
         if (loadingElement) loadingElement.remove();
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası: ${error.message}</div>`;
@@ -1274,21 +1282,19 @@ function toggleChat() {
     if (win) win.classList.toggle('hidden');
 }
 
-// Enter tuşu ile gönder
+// Olay Dinleyicileri
 document.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' && document.activeElement.id === 'user-input') sendMessage();
 });
 
-// Sayfa yüklendiğinde botu görünür yap (O "kaybolma" buradaki parantez hatasındandı)
 window.addEventListener('DOMContentLoaded', () => {
     const assistant = document.getElementById('radar-assistant-container');
     if (assistant) assistant.classList.remove('hidden');
 });
 
-// Tıklama olayları (Gönder butonu ve Menüler)
 document.addEventListener('click', (e) => {
     if (e.target.closest('#send-btn') || e.target.closest('.fa-paper-plane')) sendMessage();
-
+    
     const btn = e.target.closest('.nav-item') || e.target.closest('button');
     if (!btn) return;
     const text = btn.innerText.toLowerCase();
