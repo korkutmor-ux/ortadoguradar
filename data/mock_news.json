@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776587583039bdoc0",
+        "title": "İsrail İHA Saldırısında Gazze'de Filistinli Genç Yaralandı",
+        "summary": "Anadolu Ajansı'nın tıbbi kaynaklara dayandırdığı bilgilere göre, Gazze Şeridi'nin orta kesimlerinde 16 yaşındaki bir Filistinli genç, İsrail insansız hava aracı saldırısında ağır yaralandı. Olay, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Yaralı genç, Al-Aksa Şehitleri Hastanesi'ne kaldırılarak tedavi altına alındı. Bu saldırı, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T08:33:03.039Z",
+        "location": {
+            "lat": 31.45,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-fire-injures-teenaged-palestinian-in-central-gaza/3911161",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1776587620379bgd8b",
+        "title": "Lübnan Ordusu, İsrail Saldırıları Nedeniyle Kesilen Önemli Yolları Yeniden Açtı",
+        "summary": "Lübnan ordusu, ülkenin güneyinde İsrail saldırıları sonucu ulaşıma kapanan kritik güzergahları yeniden hizmete soktuğunu duyurdu. Ordu kaynaklarından yapılan açıklamaya göre, Khardali-Nabatiye yolu tamamen ulaşıma açıldı. Ayrıca, Burç Rahal-Sur köprüsüne erişimin de kısmen sağlandığı belirtildi. Bu adımlar, bölgedeki sivil ulaşımın normalleşmesi adına atılan önemli adımlar olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31920582/pexels-photo-31920582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T08:33:40.379Z",
+        "location": {
+            "lat": 33.56,
+            "lng": 35.49,
+            "name": "Nabatiye, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-army-reopens-key-routes-disrupted-by-israeli-attacks/3911107",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "177658351368396vsg",
         "title": "Nakit Sıkıntısı, Para Biriminin İstikrara Kavuşmasına Rağmen Yemen'i Etkisi Altına Aldı",
         "summary": "Yemen'de para biriminin istikrara kavuşmasına yönelik adımlara rağmen, ülke genelinde nakit sıkıntısı derinleşiyor. Devam eden likidite krizi nedeniyle döviz büroları, para dönüştürme işlemlerini sınırlamak zorunda kalıyor. Bu durum, ekonomik zorluklarla mücadele eden Yemenliler arasında artan bir hayal kırıklığına neden oluyor. Nakit akışındaki bu aksaklıklar, halkın günlük yaşamını ve temel ihtiyaçlara erişimini olumsuz etkiliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1776459253840kb8j4",
-        "title": "Netanyahu: İsrail'in Hizbullah'a Karşı 'Misyonu' Lübnan'la Ateşkese Rağmen Bitmedi",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, Lübnan ile yapılan ateşkese rağmen İsrail'in Hizbullah'a karşı 'misyonunun' sona ermediğini açıkladı. Başbakan Netanyahu, kalan roket ve insansız hava aracı tehditlerine ilişkin planları olduğunu ancak detay vermeyeceğini belirtti. Bu açıklama, dönemin ABD Başkanı Trump'ın İsrail'in Lübnan'a yönelik daha fazla saldırı düzenlemesini aktif olarak yasaklama taahhütlerine rağmen geldi. İsrail lideri, ülkesinin güvenlik endişelerinin devam ettiğini ve bu tehditlerle mücadele etmeye kararlı olduğunu vurguladı. Bu durum, bölgedeki gerilimin sürebileceğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T20:54:13.840Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-says-israel-s-mission-against-hezbollah-not-over-despite-ceasefire-with-lebanon/3910002",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776454767692pezc7",
-        "title": "ABD-İran Gerilimi Ortasında Hürmüz Boğazı'nın Yeniden Açılmasına Dünya Tepkisi",
-        "summary": "Hürmüz Boğazı'nın yeniden ulaşıma açılması, uluslararası kamuoyu ve enerji sektörü tarafından memnuniyetle karşılandı. ABD ile İran arasındaki gerilimin sürdüğü bir dönemde, bu hayati su yolundaki trafiğin kısıtlanması küresel petrol fiyatlarında önemli artışlara yol açmıştı. Boğaz'ın yeniden faaliyete geçmesiyle birlikte, dünya genelindeki siyasetçiler ve sanayi temsilcileri, enerji tedarik zincirindeki belirsizliğin azalmasını ve piyasaların istikrara kavuşmasını umuyor. Bu gelişme, bölgedeki tansiyonun düşürülmesi adına olumlu bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T19:39:27.692Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
