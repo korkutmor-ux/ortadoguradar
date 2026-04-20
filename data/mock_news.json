@@ -1,5 +1,37 @@
 [
     {
+        "id": "17767229814241wztd",
+        "title": "Macaristan seçimlerinin ardından AB, Ukrayna kredisi ve İsrailli yerleşimci yaptırımlarını değerlendiriyor",
+        "summary": "Avrupa Birliği'nin, Macaristan'daki seçimlerin ardından önemli dış politika kararlarını değerlendirme aşamasına geldiği bildirildi. Macaristan Başbakanı Viktor Orban'ın AB içindeki 'engelleyici' rolünün sona ermesiyle birlikte, 27 üyeli blokta kilit kararların önünün açıldığı belirtiliyor. Bu kararlar arasında Ukrayna'ya yönelik bir kredi paketi ve İsrailli yerleşimcilere uygulanacak yaptırımlar yer alıyor. AB'nin bu adımlarla bölgesel ve uluslararası meselelerde daha aktif bir rol oynamayı hedeflediği ifade ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386396/pexels-photo-4386396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T22:09:41.424Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1776723049461ioox3",
+        "title": "ABD-İran Görüşmelerinin Pakistan'daki Yeni Turu Hakkında Bilinmesi Gerekenler",
+        "summary": "ABD ve İran arasında doğrudan görüşmelerin yeni bir turunun Salı günü Pakistan'da yapılması planlanıyor. Bu görüşmelerin, iki ülke arasındaki gerilimi azaltma ve çeşitli bölgesel konuları ele alma potansiyeli taşıdığı belirtiliyor. Ancak, İran tarafının bu görüşmelere katılıp katılmayacağı konusunda belirsizlikler bulunuyor. Görüşmelerin gerçekleşmesi halinde, taraflar arasındaki diplomatik çabaların devamı açısından önem arz edeceği ifade ediliyor. İran'ın katılımı, gelecekteki ilişkilerin seyrini etkileyebilecek kritik bir faktör olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T22:10:49.461Z",
+        "location": {
+            "lat": 33.68,
+            "lng": 73.05,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177671536296692475",
         "title": "İsrailli Askerin İsa Heykelini Tahrip Etmesi Lübnanlı Rahip Tarafından Kınandı",
         "summary": "Bir İsrailli askerin İsa heykeline zarar vermesi, Lübnanlı bir rahip tarafından sert bir şekilde eleştirildi. Rahip Dany Darghem, Anadolu Ajansı'na yaptığı açıklamada, bu olayın inanç özgürlüğünü ve başkalarının inandığı değerlerin kutsallığını ihlal eden kınanmış bir eylem olduğunu belirtti. Darghem, yaşananların kabul edilemez olduğunu ve bölgedeki dini hoşgörüye aykırı olduğunu vurguladı. Olay, Orta Doğu'da dini sembollere yönelik saldırıların yol açabileceği gerilimi ve inanç özgürlüğü tartışmalarını bir kez daha gündeme getirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/turkiye/american-side-talks-a-lot-iran-says-us-remarks-confusing-contradictory-/3910539",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17765135096443dz2v",
-        "title": "İran, ABD ile bir sonraki tur görüşmelere henüz onay vermedi",
-        "summary": "Tasnim haber ajansının bildirdiğine göre, İran, ABD ile planlanan bir sonraki tur görüşmelere henüz rıza göstermedi. Tahran yönetimi, bu kararı ABD'nin İran limanlarına uyguladığı abluka ve \"aşırı talepler\" gerekçesiyle aldığını belirtti. Bu durum, iki ülke arasındaki diplomatik ilişkilerde devam eden gerilimi bir kez daha gözler önüne serdi. Görüşmelerin geleceği ve taraflar arasındaki anlaşmazlıkların nasıl çözüleceği belirsizliğini koruyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8730173/pexels-photo-8730173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T11:58:29.644Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-has-not-yet-agreed-to-next-round-of-talks-with-us-report/3910498",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776510497694t0fh5",
-        "title": "Hormuz Boğazı'nda Gerilim: Propaganda ve Taktik Savaşları",
-        "summary": "Hormuz Boğazı'nda yaşanan abluka süreci, bölgedeki gerilimi artırmaya devam ediyor. Haber, bu stratejik su yolunda uygulanan savaş taktikleri ile propaganda taktikleri arasındaki çekişmeyi ele alıyor. Küresel enerji tedariki için hayati öneme sahip olan boğazda, taraflar arasında askeri ve iletişimsel bir mücadele yaşandığı belirtiliyor. Bu durum, bölgedeki jeopolitik dinamiklerin karmaşıklığını ve uluslararası ilişkilerdeki hassasiyeti gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36263106/pexels-photo-36263106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T11:08:17.694Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hormuz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/the-listening-post/2026/4/18/hormuz-spin-in-the-strait?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
