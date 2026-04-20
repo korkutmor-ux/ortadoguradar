@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776674187682ary53",
+        "title": "İran, İsrail 'Casus Ağı' İddiasıyla 2 Kişiyi İdam Etti",
+        "summary": "İran yargısı, İsrail ile bağlantılı olduğu iddia edilen bir casus ağına üye olmakla suçlanan iki kişiyi idam ettiğini duyurdu. İdam edilen şahısların, güvenli iletişim eğitimi aldıkları, hassas bölgeleri hedefledikleri ve patlayıcı madde ürettikleri öne sürüldü. İranlı yetkililer, bu kişilerin İsrail istihbarat servisleriyle işbirliği yaptığını iddia etti. Bu olay, İran'ın ulusal güvenliğine yönelik tehdit algılamalarını ve bölgedeki gerilimi yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5380651/pexels-photo-5380651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T08:36:27.682Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-executes-2-over-alleged-links-to-israeli-spy-network-/3911754",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776674210655271ma",
+        "title": "İsrail ordusu, ateşkes olmasına rağmen güney Lübnan sakinlerini sınır bölgelerinden uzak durmaları konusunda uyardı",
+        "summary": "İsrail ordusu, güney Lübnan'da yaşayan vatandaşları, devam eden ateşkese rağmen sınır bölgelerinden uzak durmaları konusunda bir uyarı yayınladı. Askeri sözcü, bölgede süren operasyonlar nedeniyle sivillerin belirlenen köylerden ve Litani Nehri çevresinden uzak durmalarını talep etti. Bu uyarı, bölgedeki gerilimin ve askeri faaliyetlerin ateşkes koşullarına rağmen sürdüğünü gösteriyor. Bölgedeki güvenlik durumu, iki ülke arasındaki hassas dengeyi koruma çabalarını zorlaştırmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10116045/pexels-photo-10116045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T08:36:50.655Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-warns-southern-lebanon-residents-to-avoid-border-areas-despite-ceasefire/3911721",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177666635354420qun",
         "title": "İsrail ile Ateşkes Lübnan'a Nefes Aldırdı, Ancak Barışın Önündeki Engeller Sürüyor",
         "summary": "İsrail ile Lübnan arasında haftalar süren çatışmaların sona ermesi, Lübnan'da büyük bir rahatlama ve sevinçle karşılandı. Ülke genelinde yaşanan bu ateşkes, halka geçici bir nefes alma imkanı sundu. Ancak, bölgedeki kaynaklar ve analistler, bu ateşkesin kalıcı bir barışa dönüşmesinin önünde ciddi engellerin bulunduğunu belirtiyor. Taraflar arasındaki güvensizlik ve temel sorunların çözülememesi, barış sürecinin kırılganlığını koruduğunu gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/indonesia-seeks-permanent-ceasefire-in-lebanon-respect-for-sovereignty/3910466",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776504279394a7k0s",
-        "title": "İran, Hürmüz Boğazı'nın En Güçlü Caydırıcısı Olduğunu Öğrendi",
-        "summary": "Tufts Üniversitesi'nden kıdemli araştırmacı Donald Heflin, İran'ın nükleer silahlara caydırıcı olarak ihtiyaç duymadığını gösterdiğini belirtti. Heflin'e göre, Tahran yönetimi Hürmüz Boğazı'nın stratejik önemini kendi lehine kullanmayı öğrenmiştir. Bu durum, boğazın İran için en güçlü caydırıcı güç haline geldiği yorumlarına yol açmaktadır. Analiz, İran'ın bölgesel güvenliğini ve dış politikasını şekillendiren unsurlara dair yeni bir bakış açısı sunmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19910644/pexels-photo-19910644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T09:24:39.394Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/4/18/iran-has-learned-that-the-strait-of-hormuz-is-its-strongest-deterrent?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776504308886iwe65",
-        "title": "Man City - Arsenal: Şampiyonluk Yarışının Kritik Maçı",
-        "summary": "İngiltere Premier Lig'de şampiyonluk yarışının kritik virajında, liderlik koltuğunda baskı altındaki Arsenal, formda Manchester City'ye konuk oluyor. Bu karşılaşma, ligin zirvesindeki dengeleri doğrudan etkileyecek büyük bir öneme sahip. Arsenal'in son haftalarda yaşadığı puan kayıpları, şampiyonluk iddiasını zayıflatırken, Manchester City galibiyet serisiyle zirve takibini sürdürüyor. Abu Dabi merkezli City Football Group'un sahibi olduğu Manchester City'nin bu kritik maçı, aynı zamanda Orta Doğu'dan yapılan uluslararası spor yatırımlarının görünürlüğünü de artırıyor. Maçın sonucu, hem ligin gidişatını hem de iki takımın sezon sonu hedeflerini belirlemede kilit rol oynayacak.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/28532605/pexels-photo-28532605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T09:25:08.886Z",
-        "location": {
-            "lat": 53.4808,
-            "lng": -2.2426,
-            "name": "Manchester, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/18/man-city-vs-arsenal-all-you-need-to-know-about-title-showdown?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
