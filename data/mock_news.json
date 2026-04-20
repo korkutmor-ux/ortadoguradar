@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776704913620lna80",
+        "title": "Uganda ve Kongo Güçleri, IŞİD Destekli ADF'den 200 Kişiyi Kurtardı",
+        "summary": "Uganda ve Kongo Demokratik Cumhuriyeti (KDC) güvenlik güçleri, terör örgütü IŞİD ile bağlantılı Müttefik Demokratik Güçler (ADF) tarafından alıkonulan 200 sivili kurtardı. Ortak operasyon, iki ülkenin sınır bölgelerinde ADF'nin faaliyet gösterdiği alanlarda gerçekleştirildi. ADF, Orta Afrika'da uzun süredir aktif olan ve son yıllarda IŞİD'den destek aldığı bilinen radikal bir grup olarak tanınıyor. Kurtarılan sivillerin sağlık durumları ve kimlikleri hakkında detaylı bilgi verilmezken, güvenlik birimleri bölgedeki operasyonlarını sürdürüyor. Bu kurtarma operasyonu, bölgedeki terör tehdidine karşı uluslararası işbirliğinin önemini bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36163607/pexels-photo-36163607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T17:08:33.620Z",
+        "location": {
+            "lat": -0.5,
+            "lng": 29.4,
+            "name": "Beni, Demokratik Kongo Cumhuriyeti"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/20/ugandan-and-congolese-forces-rescue-200-from-isil-backed-adf?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776700497920ndwmn",
         "title": "Üst Düzey İranlı Siyasetçi BBC'ye Konuştu: Tahran Hürmüz Boğazı'nın Kontrolünü Asla Bırakmayacak",
         "summary": "İranlı üst düzey bir siyasetçi, Tahran'ın stratejik Hürmüz Boğazı üzerindeki kontrolünü asla bırakmayacağını belirtti. BBC'ye konuşan Ebrahim Azizi, ülkesinin bu kritik deniz yolu üzerinden geçiş hakkına kimin sahip olacağına karar vereceğini ifade etti. Bu açıklama, uluslararası denizcilik ve bölgesel güvenlik açısından önemli bir mesaj olarak değerlendiriliyor. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği hayati bir geçiş noktasıdır ve İran'ın bu konudaki tutumu küresel enerji piyasalarını ve bölgesel ilişkileri doğrudan etkilemektedir.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776510567944wpft4",
-        "title": "İsrail'in Ölüm Cezası Yasası AB'nin İsrail'i Apartheid Devleti Olarak Görmesi Gerektiği İddialarını Güçlendiriyor",
-        "summary": "Avrupa Birliği'nin İsrail'e yönelik politikaları ve İsrail-Filistin çatışması bağlamında yeni bir tartışma başladı. Pernando Barrena, İsrail'in Filistinlilere yönelik ölüm cezası uygulamasının, Avrupa'nın İsrail ile diplomatik ilişkilerini kesmesi ve İsrail'i bir apartheid devleti olarak tanıması gerektiği yönündeki iddiaları güçlendirdiğini belirtti. Bu açıklama, İsrail'in insan hakları sicili ve uluslararası hukuka uygunluğu konusundaki endişeleri yeniden gündeme taşıdı ve AB'nin Orta Doğu politikalarına yönelik baskıyı artırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30284225/pexels-photo-30284225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T11:09:27.944Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/4/18/death-penalty-law-proves-the-eu-must-treat-israel-as-an-apartheid-state?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
