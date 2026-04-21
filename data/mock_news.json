@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776805052974s9gtu",
+        "title": "IOM: 2025 Yılında Göç Yollarında Yaklaşık 8.000 Kişi Hayatını Kaybetti veya Kayboldu",
+        "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), 2025 yılına ilişkin yayımladığı raporda, dünya genelindeki göç yollarında yaklaşık 8.000 kişinin hayatını kaybettiğini veya kaybolduğunu bildirdi. Kurumun açıklamasına göre, bu ölümlerin ve kaybolmaların yüzde 40'ından fazlası Avrupa'ya ulaşmaya çalışan göçmenlerin kullandığı deniz rotalarında gerçekleşti. Özellikle Akdeniz'deki tehlikeli geçişler, can kayıplarının önemli bir kısmını oluşturuyor. IOM, bu durumun göçmenlerin karşılaştığı risklerin ciddiyetini bir kez daha gözler önüne serdiğini vurguladı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35621630/pexels-photo-35621630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T20:57:32.974Z",
+        "location": {
+            "lat": 35,
+            "lng": 18,
+            "name": "Akdeniz, Avrupa"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776805075951a8l1u",
+        "title": "ABD, İran'a Yönelik Yeni Yaptırımlar Uyguladı",
+        "summary": "Amerika Birleşik Devletleri, İran'ın silah endüstrisiyle bağlantılı olduğu iddia edilen 14 kişi ve kuruluşa yönelik yeni yaptırımlar uyguladı. Trump yönetimi tarafından alınan bu karar, Pakistan'da İran ile yapılabilecek olası görüşmelerin arifesinde geldi. Washington, Tahran'ın balistik füze programı ve bölgesel istikrarsızlaştırıcı faaliyetleri nedeniyle bu adımı attığını belirtti. Yaptırımların, İran üzerindeki ekonomik ve siyasi baskıyı artırmayı hedeflediği ifade edildi. Bu gelişme, ABD-İran ilişkilerindeki gerilimi daha da tırmandırabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30917890/pexels-photo-30917890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T20:57:55.951Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776805129818apbw1",
+        "title": "Trump, İran'a Yönelik Ateşkesin Uzatıldığını Duyurdu Ancak Ablukanın Süreceğini Belirtti",
+        "summary": "ABD Başkanı Donald Trump, İran'a yönelik saldırıların durdurulması kararının uzatıldığını açıkladı. Trump, bu kararın, İranlı liderlerin savaşı sona erdirmek için 'birleşik bir öneri' sunana kadar geçerli olacağını belirtti. Ancak, İran'a uygulanan ablukanın devam edeceğini vurguladı. Bu gelişme, ABD'nin İran'a yönelik politikalarında gerilimi düşürme çabası olarak yorumlanırken, Tahran'dan henüz resmi bir yanıt gelmedi. Karar, bölgedeki tansiyonun seyrini etkileyebilecek önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29056910/pexels-photo-29056910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T20:58:49.818Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776800748614cadez",
         "title": "Nikaragua Devlet Başkanı'ndan Trump'a İran Eleştirisi",
         "summary": "Nikaragua Devlet Başkanı, ABD Başkanı Donald Trump'ı İran'a yönelik olası bir savaş politikası nedeniyle sert bir dille eleştirdi. Nikaragua lideri, Trump'ın bu konudaki tutumunu 'akli dengesi bozuk' olarak nitelendirdi. Bu açıklama, ABD ile İran arasındaki gerilimin uluslararası alanda farklı ülkelerden de tepki çektiğini gösteriyor.",
@@ -748,54 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/world/israeli-army-kills-1-palestinian-wounds-another-in-gaza/3911161",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776587583039bdoc0",
-        "title": "İsrail İHA Saldırısında Gazze'de Filistinli Genç Yaralandı",
-        "summary": "Anadolu Ajansı'nın tıbbi kaynaklara dayandırdığı bilgilere göre, Gazze Şeridi'nin orta kesimlerinde 16 yaşındaki bir Filistinli genç, İsrail insansız hava aracı saldırısında ağır yaralandı. Olay, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Yaralı genç, Al-Aksa Şehitleri Hastanesi'ne kaldırılarak tedavi altına alındı. Bu saldırı, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T08:33:03.039Z",
-        "location": {
-            "lat": 31.45,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-fire-injures-teenaged-palestinian-in-central-gaza/3911161",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1776587620379bgd8b",
-        "title": "Lübnan Ordusu, İsrail Saldırıları Nedeniyle Kesilen Önemli Yolları Yeniden Açtı",
-        "summary": "Lübnan ordusu, ülkenin güneyinde İsrail saldırıları sonucu ulaşıma kapanan kritik güzergahları yeniden hizmete soktuğunu duyurdu. Ordu kaynaklarından yapılan açıklamaya göre, Khardali-Nabatiye yolu tamamen ulaşıma açıldı. Ayrıca, Burç Rahal-Sur köprüsüne erişimin de kısmen sağlandığı belirtildi. Bu adımlar, bölgedeki sivil ulaşımın normalleşmesi adına atılan önemli adımlar olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31920582/pexels-photo-31920582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T08:33:40.379Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Nabatiye, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-army-reopens-key-routes-disrupted-by-israeli-attacks/3911107",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "177658351368396vsg",
-        "title": "Nakit Sıkıntısı, Para Biriminin İstikrara Kavuşmasına Rağmen Yemen'i Etkisi Altına Aldı",
-        "summary": "Yemen'de para biriminin istikrara kavuşmasına yönelik adımlara rağmen, ülke genelinde nakit sıkıntısı derinleşiyor. Devam eden likidite krizi nedeniyle döviz büroları, para dönüştürme işlemlerini sınırlamak zorunda kalıyor. Bu durum, ekonomik zorluklarla mücadele eden Yemenliler arasında artan bir hayal kırıklığına neden oluyor. Nakit akışındaki bu aksaklıklar, halkın günlük yaşamını ve temel ihtiyaçlara erişimini olumsuz etkiliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/36095554/pexels-photo-36095554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T07:25:13.683Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 48.5,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
