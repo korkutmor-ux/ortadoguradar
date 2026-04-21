@@ -1,5 +1,37 @@
 [
     {
+        "id": "17767657639507yesu",
+        "title": "Trump: ABD, İran ile Anlaşma Yapılana Kadar Hürmüz Ablukasını Kaldırmayacak",
+        "summary": "ABD Başkanı Donald Trump, İran ile bir anlaşma sağlanana kadar Hürmüz Boğazı'ndaki ablukanın kaldırılmayacağını açıkladı. Bu açıklama, İran'ın bu hafta Pakistan'da düzenlenmesi beklenen barış görüşmelerine katılıp katılmayacağına dair belirsizliğin devam ettiği bir dönemde geldi. Küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'ndaki bu durum, bölgedeki gerilimi artırma potansiyeli taşıyor. ABD'nin bu tutumu, İran üzerindeki ekonomik ve siyasi baskıyı sürdürme kararlılığını gösteriyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/32481362/pexels-photo-32481362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T10:02:43.950Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776765868485sqsys",
+        "title": "İran Devlet Televizyonu: ABD Görüşmeleri İçin Pakistan'a Henüz Heyet Gitmedi",
+        "summary": "İran devlet televizyonu, ABD ile yapılması planlanan görüşmelerin ikinci turu için Pakistan'a henüz herhangi bir İran heyetinin seyahat etmediğini bildirdi. Görüşmelerin Pakistan'ın başkenti İslamabad'da gerçekleşmesi ve bölgedeki mevcut bir savaşı kalıcı olarak sona erdirmeyi hedeflediği belirtiliyor. Bu diplomatik temaslar, ABD ve İran arasındaki ilişkilerin yanı sıra Orta Doğu ve Güney Asya'daki bölgesel güvenlik dinamikleri açısından büyük önem taşıyor. Taraflar arasındaki diyalog, bölgesel istikrarın sağlanması ve çatışmaların çözümüne yönelik potansiyeli nedeniyle yakından izleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T10:04:28.485Z",
+        "location": {
+            "lat": 33.6844,
+            "lng": 73.0479,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/no-iranian-delegation-traveled-to-pakistan-so-far-for-2nd-round-of-us-talks-iran-state-tv-says/3913120",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776759527765bwzeg",
         "title": "Trump'ın Barış Kurulu, Gazze'nin Yeniden İnşası İçin BAE'nin DP World'ü ile Görüşmeler Yaptı",
         "summary": "Eski ABD Başkanı Donald Trump'ın kurduğu Barış Kurulu, Birleşik Arap Emirlikleri'nin (BAE) liman işletmecisi DP World ile Gazze Şeridi'nin yeniden inşası konusunda görüşmeler gerçekleştirdi. Bu görüşmeler, bölgedeki yıkımın ardından Gazze'nin altyapısının yeniden kurulması potansiyelini ele alıyor. Haberde ayrıca, ABD arabuluculuğunda geçen yıl sağlanan 'ateşkes' anlaşmasına rağmen İsrail'in Gazze'de 700'den fazla kişiyi öldürdüğü belirtiliyor. Bu durum, Gazze'deki insani krizin ve yeniden inşa ihtiyacının aciliyetini vurgulamaktadır. Görüşmelerin, bölgedeki istikrar ve kalkınma çabalarına katkı sağlaması hedefleniyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/israeli-occupiers-torch-palestinian-home-in-west-bank-assault-elderly-woman/3911066",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776583679667pd7em",
-        "title": "İsrailliler Lübnan'a Karşı Devam Eden Savaşı Protesto Etti",
-        "summary": "İsrail'in Hayfa kentinde yüzlerce kişi, Lübnan'a karşı devam eden savaşı protesto etmek amacıyla gösteri düzenledi. Protestocular, çatışmaların derhal sona erdirilmesi çağrısında bulunurken, hükümetin savaş politikalarını sert bir dille eleştirdi. Gösterilerde, bölgedeki gerilimin azaltılması ve diplomatik çözüm yollarının aranması gerektiği vurgulandı. Eylemciler, hükümetin mevcut yaklaşımının hem İsrail hem de Lübnan halkı için yıkıcı sonuçlar doğurduğunu belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27499944/pexels-photo-27499944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T07:27:59.667Z",
-        "location": {
-            "lat": 32.8,
-            "lng": 35,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hundreds-of-israelis-protest-continuing-war-against-lebanon/3911056",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776577218842vsu0s",
-        "title": "Britanya Aşırı Sağının Filistin'de Saygı Duyulan Bir Azizi Kutlaması",
-        "summary": "Britanya'nın aşırı sağcı \"Britain First\" grubunun yüzlerce destekçisi, Aziz George'u kutlamak amacıyla Manchester sokaklarında bir yürüyüş gerçekleştirdi. Haber başlığı, Britanya aşırı sağının Filistin'de de saygı duyulan bu azizi neden kutladığı sorusunu gündeme getiriyor. Aziz George, Hristiyanlıkta önemli bir figür olmasının yanı sıra, Filistin'de hem Hristiyanlar hem de Müslümanlar tarafından Hızır adıyla hürmet gören bir azizdir. Bu durum, aşırı sağcı bir grubun kültürel ve dini sembolleri farklı coğrafyalardaki anlamlarıyla ilişkilendirmesi açısından dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6054381/pexels-photo-6054381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T05:40:18.842Z",
-        "location": {
-            "lat": 53.48,
-            "lng": -2.24,
-            "name": "Manchester, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/19/why-britains-far-right-celebrates-a-saint-revered-in-palestine?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
