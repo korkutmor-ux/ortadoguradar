@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776771582070qxc66",
+        "title": "Hürmüz Boğazı: Bir Tehditten Stratejik Bir Kontrol Mekanizmasına Dönüşüm",
+        "summary": "Haber, Hürmüz Boğazı'nın küresel güç dengelerini ve dünya ekonomisini şekillendiren bir kontrol sistemine nasıl dönüştüğünü inceliyor. Boğazın başlangıçta bir tehdit unsuru olarak algılanmasından, zamanla jeopolitik bir strateji ve kontrol mekanizması haline gelme süreci ele alınıyor. Uluslararası ticaret yolları üzerindeki kritik etkisi ve enerji arzı güvenliği açısından taşıdığı önem vurgulanıyor. Bu durum, boğazın sadece bir geçiş noktası olmaktan çıkarak bölgesel ve küresel aktörler için stratejik bir araç haline geldiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35533703/pexels-photo-35533703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T11:39:42.070Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776771609397k7pnk",
+        "title": "Pakistan Sınırındaki Çatışmalar Nedeniyle Yerinden Edilen Afganlar Çadır Kamplarında Hayatta Kalmaya Çalışıyor",
+        "summary": "Pakistan sınırında yaşanan son çatışmalar nedeniyle on binlerce Afgan yerinden oldu. Çatışmalardan kaçan bu kişiler, zorlu koşullar altında çadır kamplarında hayatta kalma mücadelesi veriyor. Bölgedeki güvenlik sorunları ve insani kriz, yerinden edilen Afganların temel ihtiyaçlara erişimini ciddi şekilde kısıtlıyor. Bu durum, uluslararası toplumun dikkatini çekerek, bölgedeki istikrarsızlığın insani boyutunu bir kez daha gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4510971/pexels-photo-4510971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T11:40:09.397Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 70.1,
+            "name": "Afganistan-Pakistan Sınırı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/21/afghans-displaced-by-pakistan-conflict-survive-in-tent-camps?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17767657639507yesu",
         "title": "Trump: ABD, İran ile Anlaşma Yapılana Kadar Hürmüz Ablukasını Kaldırmayacak",
         "summary": "ABD Başkanı Donald Trump, İran ile bir anlaşma sağlanana kadar Hürmüz Boğazı'ndaki ablukanın kaldırılmayacağını açıkladı. Bu açıklama, İran'ın bu hafta Pakistan'da düzenlenmesi beklenen barış görüşmelerine katılıp katılmayacağına dair belirsizliğin devam ettiği bir dönemde geldi. Küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'ndaki bu durum, bölgedeki gerilimi artırma potansiyeli taşıyor. ABD'nin bu tutumu, İran üzerindeki ekonomik ve siyasi baskıyı sürdürme kararlılığını gösteriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/another-israeli-soldier-killed-9-injured-in-southern-lebanon-despite-ceasefire/3911075",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17765836354274siwa",
-        "title": "İsrail ordusu Suriye'nin Kuneytra bölgesine yeni operasyon başlattı, prefabrik yapılar kurdu",
-        "summary": "İsrail ordusu, Suriye'nin Kuneytra bölgesine yeni bir askeri operasyon başlattı. Tanklarla desteklenen İsrail güçleri, Kuneytra'nın güney kesimlerine girdi. Bu gelişme, İsrail'in bölgeye prefabrik odalar ve bir buldozer getirmesinden bir gün sonra yaşandı. Operasyonun amacı ve kurulan prefabrik yapıların niteliği hakkında detay verilmezken, İsrail'in Suriye topraklarındaki askeri varlığını ve faaliyetlerini sürdürdüğü belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12357472/pexels-photo-12357472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T07:27:15.427Z",
-        "location": {
-            "lat": 33.106,
-            "lng": 35.795,
-            "name": "Kuneytra, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-new-incursion-into-syria-s-quneitra-sets-up-prefabricated-structures/3911068",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1776583658211a18k5",
-        "title": "Batı Şeria'da Filistinli Ev Kundaklandı, Yaşlı Kadına Saldırı Düzenlendi",
-        "summary": "Batı Şeria'da Filistinlilere ait bir ev ateşe verildi ve yaşlı bir kadın saldırıya uğradı. Olayda yaralanan Filistinli kadının üç oğlu gözaltına alındı. İsrail ordusu, Hebron ve Nablus şehirlerine baskınlar düzenledi. Bu olaylar, bölgedeki gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4235993/pexels-photo-4235993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T07:27:38.211Z",
-        "location": {
-            "lat": 31.53,
-            "lng": 35.1,
-            "name": "Hebron, Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/israeli-occupiers-torch-palestinian-home-in-west-bank-assault-elderly-woman/3911066",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
