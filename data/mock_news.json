@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776826489169oq960",
+        "title": "İsrailli askerler Lübnan'daki İsa heykeline zarar verdikleri için cezalandırıldı",
+        "summary": "İsrail ordusu, Lübnan'da bir İsa heykeline zarar veren iki asker hakkında disiplin cezası uyguladığını duyurdu. Yapılan açıklamaya göre, söz konusu askerler muharebe görevinden alınacak ve 30 gün askeri gözaltında tutulacak. Bu olay, İsrail askerlerinin komşu bir ülkedeki dini bir sembole yönelik eylemlerini ve bu tür davranışlara karşı alınan askeri disiplin tedbirlerini gözler önüne sermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5718909/pexels-photo-5718909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T02:54:49.169Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776808498179ye42o",
         "title": "AB, İran Kaynaklı Gerilim Nedeniyle Jet Yakıtı Kıtlığı Tehdidine Karşı Seçenekleri Değerlendiriyor",
         "summary": "Avrupa Birliği, İran ile ilgili çatışmanın potansiyel jet yakıtı kıtlığı tehdidi nedeniyle alternatifleri değerlendiriyor. Haber, Hürmüz Boğazı'nın abluka altına alınmasının Avrupa'da ciddi endişelere yol açtığını belirtiyor. Zira Avrupa, ithal jet yakıtına büyük ölçüde bağımlı bir konumda bulunuyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji tedarik zincirleri üzerindeki doğrudan etkisini gözler önüne seriyor. AB'nin bu duruma karşı çözüm arayışında olduğu ifade ediliyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776592348278sk3ua",
-        "title": "İran Cumhurbaşkanı Pezeshkian: Trump'ın Tahran'ı Nükleer Haklarından Mahrum Bırakma Hakkı Yok",
-        "summary": "İran Cumhurbaşkanı Pezeshkian, ABD Başkanı Donald Trump'ın Tahran'ı nükleer haklarından mahrum bırakma hakkı olmadığını belirtti. Pezeshkian'ın bu açıklaması, İran'ın nükleer programına yönelik uluslararası baskıların devam ettiği bir dönemde geldi. İran, nükleer faaliyetlerinin barışçıl amaçlı olduğunu savunurken, Batılı ülkeler programın askeri potansiyeli konusunda endişelerini dile getiriyor. Bu açıklama, İran'ın nükleer meselesindeki kararlı duruşunu ve egemenlik haklarına vurgusunu bir kez daha gösterdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T09:52:28.278Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-is-seeking-to-end-war-with-dignity-says-president-pezeshkian/3911173",
         "trendScore": 85,
         "isBreaking": false
     }
