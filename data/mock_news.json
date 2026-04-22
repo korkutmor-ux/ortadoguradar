@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776883166328ovc6l",
+        "title": "İngiltere'deki üniversitelerin Filistin yanlısı öğrencileri izlettiği iddiaları",
+        "summary": "İngiltere'deki üniversitelerin, Filistin yanlısı öğrencileri izlemek amacıyla askeri istihbarat bağlantıları bulunan bir güvenlik firmasıyla anlaştığı iddia edildi. Bu iddialar, üniversite yönetimlerinin öğrenci aktivizmini hedef aldığı ve gözetim altında tuttuğu yönünde ciddi endişelere yol açtı. Durum, ifade özgürlüğü ve öğrenci hakları konularında geniş çaplı tartışmaları beraberinde getirirken, Filistin yanlısı öğrenci hareketlerinin küresel çapta destek ve protestoları devam ediyor. Söz konusu iddiaların doğruluğu ve üniversitelerin bu konudaki tutumu kamuoyunda yakından takip edilmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/34315435/pexels-photo-34315435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T18:39:26.328Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": -0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1776883267217sbco8",
+        "title": "İran: Taahhütlerin İhlali ve Abluka, ABD ile 'Gerçek' Müzakerelerin Önündeki Temel Engellerdir",
+        "summary": "İran Cumhurbaşkanı, taahhütlerin ihlali, abluka ve tehditlerin ABD ile gerçek müzakerelerin önündeki ana engeller olduğunu belirtti. İran Meclis Başkanı ise, \"ateşkesin bariz ihlali\" gerekçesiyle Hürmüz Boğazı'nın yeniden açılmasını reddettiklerini açıkladı. Bu açıklamalar, iki ülke arasındaki gerilimin devam ettiğini ve diplomatik çözüm arayışlarının önündeki zorlukları gözler önüne seriyor. İranlı yetkililer, ABD'nin mevcut politikalarını değiştirmeden anlamlı bir diyalog kurulamayacağını vurguluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T18:41:07.217Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-breach-of-commitments-blockade-are-primary-obstacles-to-genuine-talks-with-us/3915147",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776873098946ur18b",
         "title": "Ukrayna İHA'ları Rus Petrol Rafinerisini Vurdu: Yangınlar Çıktı",
         "summary": "Rusya'nın Karadeniz kıyısındaki Tuapse kentinde bulunan bir petrol rafinerisinde Ukrayna insansız hava araçlarının (İHA) saldırısı sonucu büyük yangınlar çıktığı bildirildi. Yerel yetkililer, yüzlerce itfaiyecinin tesiste çıkan alevleri kontrol altına almak için yoğun çaba gösterdiğini belirtti. Bu saldırı, Rusya-Ukrayna savaşının enerji altyapısına yönelik devam eden saldırılar zincirinin bir parçası olarak değerlendiriliyor. Rusya'nın önemli enerji tesislerine yönelik bu tür eylemler, küresel enerji piyasalarında belirsizliğe yol açarak petrol fiyatları üzerinde etkili olabilmektedir.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776657599087qxbla",
-        "title": "ABD-İran Görüşmelerini Canlandırabilecek İki Ateşkes: Risk ve Fırsat Anı",
-        "summary": "ABD ile İran arasında diplomatik ilerlemeler kaydedildiği belirtiliyor. Haber, iki ateşkesin bu görüşmeleri nasıl hızlandırabileceğini ve mevcut risk ile fırsatları değerlendiriyor. Ancak, kaydedilen bu diplomatik adımların bölgede savaşa dönüşü engellemeye yeterli olup olmadığı sorgulanıyor. Bu durum, Orta Doğu'da gerilimin düşürülmesi ve kalıcı barışın sağlanması adına kritik bir dönemeç olarak görülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T03:59:59.087Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177665765549396aqj",
-        "title": "Trump: ABD güçleri, deniz ablukasını ihlal eden İran kargo gemisini durdurdu",
-        "summary": "ABD eski Başkanı Donald Trump, ABD güçlerinin deniz ablukasını ihlal eden bir İran kargo gemisini durdurduğunu açıkladı. ABD Merkez Kuvvetler Komutanlığı (CENTCOM) olayı doğruladı. CENTCOM'dan yapılan açıklamaya göre, bir savaş gemisi, kuzey Umman Denizi'nden geçerek İran'ın Bender Abbas limanına gitmekte olan gemiye müdahale etti. Bu olay, ABD'nin İran'a yönelik yaptırımları ve bölgedeki deniz güvenliği bağlamında önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18384464/pexels-photo-18384464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T04:00:55.493Z",
-        "location": {
-            "lat": 20,
-            "lng": 60,
-            "name": "Umman Denizi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/trump-says-us-forces-intercepted-iranian-cargo-ship-breaching-naval-blockade/3911611",
         "trendScore": 85,
         "isBreaking": false
     }
