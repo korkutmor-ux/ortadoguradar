@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776835798818kjo7z",
+        "title": "FIFA, daha fazla Dünya Kupası bileti satışa sundu ve yeni, daha pahalı kategoriler ekledi",
+        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA), Dünya Kupası için ek biletleri satışa sunduğunu duyurdu. Bu yeni satış dalgası, daha önce mevcut olmayan ve taraftarlar arasında tepkiye neden olan yeni, premium fiyatlı kategorileri de içeriyor. Futbolun küresel yönetim organı, turnuvaya olan yoğun talebi karşılamak amacıyla bu adımı attığını belirtti. Ancak, bilet fiyatlarındaki artış ve yeni lüks seçeneklerin eklenmesi, bazı taraftar gruplarının memnuniyetsizliğine yol açtı. Bu durum, Dünya Kupası biletlerinin erişilebilirliği ve taraftar deneyimi üzerine tartışmaları yeniden gündeme getirdi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/27151463/pexels-photo-27151463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T05:29:58.818Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/22/fifa-unlocks-more-world-cup-tickets-and-adds-new-more-expensive-categories?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776826489169oq960",
         "title": "İsrailli askerler Lübnan'daki İsa heykeline zarar verdikleri için cezalandırıldı",
         "summary": "İsrail ordusu, Lübnan'da bir İsa heykeline zarar veren iki asker hakkında disiplin cezası uyguladığını duyurdu. Yapılan açıklamaya göre, söz konusu askerler muharebe görevinden alınacak ve 30 gün askeri gözaltında tutulacak. Bu olay, İsrail askerlerinin komşu bir ülkedeki dini bir sembole yönelik eylemlerini ve bu tür davranışlara karşı alınan askeri disiplin tedbirlerini gözler önüne sermektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1776592269459ees0a",
-        "title": "İran ve ABD, Hürmüz Boğazı Çıkmazında Hala Çözümden Uzak",
-        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, Tahran'ın ABD'nin her an düşmanlıklara yeniden başlamasına tamamen hazır olduğunu bildirdi. Bu açıklama, İran ile ABD arasında Hürmüz Boğazı'ndaki çıkmazın devam ettiği ve iki ülkenin bir uzlaşmaya hala 'uzak' olduğu bir dönemde geldi. Kalibaf'ın sözleri, bölgedeki mevcut gerilimi ve potansiyel çatışma riskini vurgularken, Tahran'ın olası bir tırmanışa karşı hazırlıklı olduğunu gösteriyor. İki ülke arasındaki ilişkilerde herhangi bir ilerleme kaydedilemediği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36548655/pexels-photo-36548655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T09:51:09.459Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
