@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776932470468k1n1p",
+        "title": "Onlarca İsrailli yerleşimci, yerleşim talebiyle Suriye topraklarına geçti",
+        "summary": "İsrailli yerleşimciler, Golan Tepeleri'ndeki Suriye topraklarına geçiş yaptı. Onlarca yerleşimcinin, yeni bir yerleşim yeri talebiyle Suriye sınırını ihlal ettiği belirtildi. Yerleşimcilerin, bölgede bir çatının üzerine çıkarak kendilerini barikat kurduğu bildirildi. Bu olay, İsrail ile Suriye arasındaki hassas sınır bölgesinde gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9754753/pexels-photo-9754753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T08:21:10.468Z",
+        "location": {
+            "lat": 33,
+            "lng": 35.8,
+            "name": "Golan Tepeleri, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/dozens-of-israeli-settlers-cross-into-syria-to-demand-settlement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776932583752p04ob",
+        "title": "Hürmüz Boğazı'nda Gemiler Ateş Altında: İran, Boğazın Yeniden Açılmasını Reddediyor",
+        "summary": "Hürmüz Boğazı'nda seyreden gemilerin ateş altında olduğu bildirildi. İran'ın baş müzakerecisi, ABD-İran ateşkesinin \"açık ihlalleri\" gerekçesiyle boğazın yeniden açılmasının \"mümkün olmadığını\" açıkladı. Bu gelişme, küresel petrol ticaretinin ana arterlerinden biri olan stratejik su yolundaki gerilimi artırıyor. İranlı yetkilinin açıklaması, bölgedeki güvenlik durumunun ciddiyetini ve uluslararası denizcilik üzerindeki potansiyel etkilerini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T08:23:03.752Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776932707019mlhuq",
+        "title": "Hamas: Gazze Anlaşması'nın 1. Aşamasını Uygulamadan Silahsızlanma, Trump'ın Planıyla Çelişiyor",
+        "summary": "Hamas, Gazze'deki ateşkes anlaşmasının ilk aşaması uygulanmadan silahsızlanma konusunun gündeme getirilmesinin, eski ABD Başkanı Trump'ın planıyla çeliştiğini belirtti. Filistinli grubun sözcüsü, Anadolu Ajansı'na yaptığı açıklamada, ateşkesin uygulanması ile silahsızlanma meselesinin birbirine bağlanmasının, ikinci aşama müzakerelerini karmaşık hale getirdiğini ifade etti. Bu durumun, bölgedeki barış çabalarını olumsuz etkileyebileceği vurgulandı. Hamas, anlaşmanın aşamalı olarak ilerlemesi gerektiğini ve silahsızlanmanın ancak belirli koşullar altında ele alınabileceğini savundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31652486/pexels-photo-31652486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T08:25:07.019Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/disarmament-without-implementing-gaza-deal-phase-1-contradicts-trump-s-plan-hamas/3915403",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776916484022jnxru",
         "title": "İsrail'in Güney Lübnan'da Düzenlediği Saldırıda Bir Gazeteci Öldü, Bir Diğeri Yaralandı",
         "summary": "İsrail güçlerinin Güney Lübnan'da düzenlediği hedefli bir saldırıda gazeteci Amal Khalil hayatını kaybetti. Olayda Zeinab Faraj isimli bir diğer gazeteci de yaralandı. Haberde, saldırının 'çift vuruş' şeklinde gerçekleştiği belirtildi. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1776682373421ceadu",
-        "title": "ABD, İran Gemisi 'Touska'yı Ele Geçirdi: Tahran'dan 'Korsanlık' Suçlaması",
-        "summary": "ABD, İran'a ait 'Touska' adlı bir gemiyi ele geçirdiğini açıkladı. Washington yönetimi, geminin deniz ablukasını ihlal etmeye çalıştığını iddia ederken, Tahran bu eylemi 'korsanlık' olarak değerlendirdi. Bölgede arabuluculuk çabalarının devam ettiği bir dönemde yaşanan bu olay, ABD ile İran arasındaki mevcut gerilimi daha da artırdı. Gelişme, Orta Doğu'da deniz güvenliği ve uluslararası hukuk çerçevesindeki tartışmaları yeniden gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33017980/pexels-photo-33017980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T10:52:53.421Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776682430293ap7ty",
-        "title": "Güney Kore Devlet Başkanı: Orta Doğu barışı küresel güvenlik ve ekonomi için hayati önem taşıyor",
-        "summary": "Güney Kore Devlet Başkanı, Orta Doğu'da barışın sağlanmasının küresel güvenlik ve ekonomi için kritik bir öneme sahip olduğunu vurguladı. Bu açıklama, Güney Kore Devlet Başkanı'nın Hindistan Başbakanı Modi tarafından Yeni Delhi'de düzenlenen bir zirve kapsamında yapıldı. Zirve, bir Güney Kore devlet başkanının son sekiz yıldaki ilk Hindistan ziyareti olma özelliğini taşıyor. Liderler arasındaki bu görüşme, bölgesel ve küresel meselelerin ele alındığı önemli bir platform oldu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T10:53:50.293Z",
-        "location": {
-            "lat": 28.6139,
-            "lng": 77.209,
-            "name": "Yeni Delhi, Hindistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/mideast-peace-crucial-for-global-security-economy-south-korean-president/3912040",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776674187682ary53",
-        "title": "İran, İsrail 'Casus Ağı' İddiasıyla 2 Kişiyi İdam Etti",
-        "summary": "İran yargısı, İsrail ile bağlantılı olduğu iddia edilen bir casus ağına üye olmakla suçlanan iki kişiyi idam ettiğini duyurdu. İdam edilen şahısların, güvenli iletişim eğitimi aldıkları, hassas bölgeleri hedefledikleri ve patlayıcı madde ürettikleri öne sürüldü. İranlı yetkililer, bu kişilerin İsrail istihbarat servisleriyle işbirliği yaptığını iddia etti. Bu olay, İran'ın ulusal güvenliğine yönelik tehdit algılamalarını ve bölgedeki gerilimi yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380651/pexels-photo-5380651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T08:36:27.682Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-executes-2-over-alleged-links-to-israeli-spy-network-/3911754",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
