@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776916484022jnxru",
+        "title": "İsrail'in Güney Lübnan'da Düzenlediği Saldırıda Bir Gazeteci Öldü, Bir Diğeri Yaralandı",
+        "summary": "İsrail güçlerinin Güney Lübnan'da düzenlediği hedefli bir saldırıda gazeteci Amal Khalil hayatını kaybetti. Olayda Zeinab Faraj isimli bir diğer gazeteci de yaralandı. Haberde, saldırının 'çift vuruş' şeklinde gerçekleştiği belirtildi. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T03:54:44.022Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1776916507583owje0",
+        "title": "Ultra-Ortodoks Yahudiler Ulusal Günü Protesto İçin İsrail Bayraklarını Yaktı",
+        "summary": "Batı Kudüs'te Ultra-Ortodoks Yahudi protestocular, ulusal bir günü protesto etmek amacıyla İsrail bayraklarını ateşe verdi. Göstericiler ayrıca Siyonizm karşıtı pankartlar taşıdı. Bu eylem, İsrail'deki Ultra-Ortodoks cemaatinin devletin laik ve Siyonist karakterine yönelik muhalefetini bir kez daha gözler önüne serdi. Protesto, cemaatin devletle olan gerilimli ilişkisini ve bazı kesimlerinin İsrail'in varlığını dini gerekçelerle tanımadığını vurguluyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5428361/pexels-photo-5428361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T03:55:07.583Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Batı Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1776893220077e3nh9",
         "title": "Erdoğan: Türkiye, Rusya-Ukrayna görüşmelerini canlandırma çabalarını sürdürüyor",
         "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, ülkesinin Rusya ile Ukrayna arasındaki barış görüşmelerini yeniden canlandırma yönündeki çabalarını sürdürdüğünü belirtti. Bu açıklama, Cumhurbaşkanı Erdoğan'ın NATO Genel Sekreteri ile bir araya gelmesinin ardından geldi. Ukrayna'nın başkenti Kiev'in, Ankara'dan Rusya ile liderler düzeyinde bir toplantıya ev sahipliği yapmasını talep ettiği bildirildi. Türkiye, savaşın başından bu yana iki ülke arasında arabuluculuk rolü üstlenmişti.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-executes-2-over-alleged-links-to-israeli-spy-network-/3911754",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776674210655271ma",
-        "title": "İsrail ordusu, ateşkes olmasına rağmen güney Lübnan sakinlerini sınır bölgelerinden uzak durmaları konusunda uyardı",
-        "summary": "İsrail ordusu, güney Lübnan'da yaşayan vatandaşları, devam eden ateşkese rağmen sınır bölgelerinden uzak durmaları konusunda bir uyarı yayınladı. Askeri sözcü, bölgede süren operasyonlar nedeniyle sivillerin belirlenen köylerden ve Litani Nehri çevresinden uzak durmalarını talep etti. Bu uyarı, bölgedeki gerilimin ve askeri faaliyetlerin ateşkes koşullarına rağmen sürdüğünü gösteriyor. Bölgedeki güvenlik durumu, iki ülke arasındaki hassas dengeyi koruma çabalarını zorlaştırmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10116045/pexels-photo-10116045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T08:36:50.655Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-warns-southern-lebanon-residents-to-avoid-border-areas-despite-ceasefire/3911721",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177666635354420qun",
-        "title": "İsrail ile Ateşkes Lübnan'a Nefes Aldırdı, Ancak Barışın Önündeki Engeller Sürüyor",
-        "summary": "İsrail ile Lübnan arasında haftalar süren çatışmaların sona ermesi, Lübnan'da büyük bir rahatlama ve sevinçle karşılandı. Ülke genelinde yaşanan bu ateşkes, halka geçici bir nefes alma imkanı sundu. Ancak, bölgedeki kaynaklar ve analistler, bu ateşkesin kalıcı bir barışa dönüşmesinin önünde ciddi engellerin bulunduğunu belirtiyor. Taraflar arasındaki güvensizlik ve temel sorunların çözülememesi, barış sürecinin kırılganlığını koruduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T06:25:53.544Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
