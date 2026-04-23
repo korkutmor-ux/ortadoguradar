@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776952373967zu75i",
+        "title": "Lübnanlı Gazeteci Amal Khalil'in İsrail Tarafından Takip Edilerek Öldürülme Şekli Açıklandı",
+        "summary": "Lübnanlı gazeteci Amal Khalil'in İsrail güçleri tarafından nasıl 'takip edildiği' ve öldürüldüğüne dair detaylar kamuoyuyla paylaşıldı. Yayınlanan bilgilerde, İsrail'in gazeteciyi hedef alarak gerçekleştirdiği operasyonun ayrıntılarına yer verildiği belirtiliyor. Bu olay, bölgedeki gazetecilerin güvenliği ve İsrail'in askeri operasyonlarının uluslararası hukukla uyumu konularında endişeleri artırdı. Olayın, Lübnan ve İsrail arasındaki gerilimi tırmandırabileceği değerlendirilirken, uluslararası kuruluşlardan konuya ilişkin açıklama yapılması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36797224/pexels-photo-36797224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T13:52:53.967Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/how-lebanese-journalist-amal-khalil-was-pursued-and-killed-by-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776932470468k1n1p",
         "title": "Onlarca İsrailli yerleşimci, yerleşim talebiyle Suriye topraklarına geçti",
         "summary": "İsrailli yerleşimciler, Golan Tepeleri'ndeki Suriye topraklarına geçiş yaptı. Onlarca yerleşimcinin, yeni bir yerleşim yeri talebiyle Suriye sınırını ihlal ettiği belirtildi. Yerleşimcilerin, bölgede bir çatının üzerine çıkarak kendilerini barikat kurduğu bildirildi. Bu olay, İsrail ile Suriye arasındaki hassas sınır bölgesinde gerilimi artırma potansiyeli taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/20/ugandan-and-congolese-forces-rescue-200-from-isil-backed-adf?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776700497920ndwmn",
-        "title": "Üst Düzey İranlı Siyasetçi BBC'ye Konuştu: Tahran Hürmüz Boğazı'nın Kontrolünü Asla Bırakmayacak",
-        "summary": "İranlı üst düzey bir siyasetçi, Tahran'ın stratejik Hürmüz Boğazı üzerindeki kontrolünü asla bırakmayacağını belirtti. BBC'ye konuşan Ebrahim Azizi, ülkesinin bu kritik deniz yolu üzerinden geçiş hakkına kimin sahip olacağına karar vereceğini ifade etti. Bu açıklama, uluslararası denizcilik ve bölgesel güvenlik açısından önemli bir mesaj olarak değerlendiriliyor. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği hayati bir geçiş noktasıdır ve İran'ın bu konudaki tutumu küresel enerji piyasalarını ve bölgesel ilişkileri doğrudan etkilemektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17720284/pexels-photo-17720284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T15:54:57.920Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
