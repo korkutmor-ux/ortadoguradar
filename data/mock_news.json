@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776959853116jesmf",
+        "title": "Türkiye Milletvekilleri 15 Yaş Altı Çocuklar İçin Sosyal Medya Kullanımını Kısıtlayan Yasa Tasarısını Kabul Etti",
+        "summary": "Türkiye Büyük Millet Meclisi'nde milletvekilleri, 15 yaş altı çocukların sosyal medya kullanımına kısıtlamalar getiren bir yasa tasarısını kabul etti. Yeni yasa, sosyal medya platformlarının yaş doğrulama araçları ve etkili kontrol mekanizmaları geliştirmesini zorunlu kılıyor. Bu düzenleme ile çocukların çevrimiçi ortamda daha güvenli bir deneyim yaşaması ve zararlı içeriklere karşı korunması amaçlanıyor. Kabul edilen yasa, platformların belirlenen standartlara uyum sağlaması için yasal bir çerçeve sunarken, uygulamanın detayları ve denetim süreçleri ilgili kurumlarca belirlenecek.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9129526/pexels-photo-9129526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T15:57:33.116Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/23/turkiye-mps-pass-bill-to-restrict-social-media-use-for-children-under-15?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1776959880018pqy58",
+        "title": "ABD Ordusu Uluslararası Sularda Bir Gemiyi Ele Geçirdi",
+        "summary": "ABD Savunma Bakanlığı (Pentagon), uluslararası sularda bir gemiye helikopterlerle inen ve gemiyi ele geçiren ABD askerlerinin görüntülerini yayımladı. Pentagon tarafından paylaşılan videoda, ABD güçlerinin bir gemiye müdahale ederek kontrolü ele aldığı anlar yer aldı. Bu tür operasyonlar, genellikle bölgedeki deniz güvenliğini sağlamak, yasa dışı faaliyetleri engellemek veya yaptırımları uygulamak amacıyla gerçekleştirilmektedir. Olayın tam konumu ve ele geçirilen geminin niteliği hakkında detay verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35608743/pexels-photo-35608743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T15:58:00.018Z",
+        "location": {
+            "lat": 25,
+            "lng": 58,
+            "name": "Umman Körfezi, Uluslararası Sular"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/us-military-board-seize-another-ship-in-international-waters?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1776952373967zu75i",
         "title": "Lübnanlı Gazeteci Amal Khalil'in İsrail Tarafından Takip Edilerek Öldürülme Şekli Açıklandı",
         "summary": "Lübnanlı gazeteci Amal Khalil'in İsrail güçleri tarafından nasıl 'takip edildiği' ve öldürüldüğüne dair detaylar kamuoyuyla paylaşıldı. Yayınlanan bilgilerde, İsrail'in gazeteciyi hedef alarak gerçekleştirdiği operasyonun ayrıntılarına yer verildiği belirtiliyor. Bu olay, bölgedeki gazetecilerin güvenliği ve İsrail'in askeri operasyonlarının uluslararası hukukla uyumu konularında endişeleri artırdı. Olayın, Lübnan ve İsrail arasındaki gerilimi tırmandırabileceği değerlendirilirken, uluslararası kuruluşlardan konuya ilişkin açıklama yapılması bekleniyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-s-destruction-of-jesus-statue-violates-freedom-of-belief-lebanese-priest/3912695",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776710083948sgzvd",
-        "title": "BAE, İran bağlantılı 'terör' hücresinin çökertildiğini duyurdu",
-        "summary": "Birleşik Arap Emirlikleri (BAE) yetkilileri, İran ile bağlantılı olduğu iddia edilen bir \"terör\" hücresinin çökertildiğini ve üyelerinin tutuklandığını bildirdi. Bu operasyon, BAE'nin Körfez komşularına yönelik İran saldırılarının etkilerini yoğun bir şekilde hissetmesinin ardından geldi. Haberde, çökertilen hücrenin faaliyetleri veya tutuklanan kişi sayısı hakkında detay verilmedi. BAE, bölgesel güvenlik ve istikrarı tehdit eden unsurlara karşı mücadelesini sürdürdüğünü vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13530046/pexels-photo-13530046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T18:34:43.948Z",
-        "location": {
-            "lat": 24.4539,
-            "lng": 54.3773,
-            "name": "Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776704913620lna80",
-        "title": "Uganda ve Kongo Güçleri, IŞİD Destekli ADF'den 200 Kişiyi Kurtardı",
-        "summary": "Uganda ve Kongo Demokratik Cumhuriyeti (KDC) güvenlik güçleri, terör örgütü IŞİD ile bağlantılı Müttefik Demokratik Güçler (ADF) tarafından alıkonulan 200 sivili kurtardı. Ortak operasyon, iki ülkenin sınır bölgelerinde ADF'nin faaliyet gösterdiği alanlarda gerçekleştirildi. ADF, Orta Afrika'da uzun süredir aktif olan ve son yıllarda IŞİD'den destek aldığı bilinen radikal bir grup olarak tanınıyor. Kurtarılan sivillerin sağlık durumları ve kimlikleri hakkında detaylı bilgi verilmezken, güvenlik birimleri bölgedeki operasyonlarını sürdürüyor. Bu kurtarma operasyonu, bölgedeki terör tehdidine karşı uluslararası işbirliğinin önemini bir kez daha ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36163607/pexels-photo-36163607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T17:08:33.620Z",
-        "location": {
-            "lat": -0.5,
-            "lng": 29.4,
-            "name": "Beni, Demokratik Kongo Cumhuriyeti"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/20/ugandan-and-congolese-forces-rescue-200-from-isil-backed-adf?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
