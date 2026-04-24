@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776999384256oj0ku",
+        "title": "İran Savaşı Canlı: Lübnan'da Ateşkes Uzatıldı; Trump Tahran'ın Zamanının Kalmadığını Söyledi",
+        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Gazze Şeridi'ne yönelik devam eden saldırılarında can kaybı artıyor. Son verilere göre, bölgedeki çatışmalarda hayatını kaybedenlerin sayısı 72.568'e ulaştı. Yaralı sayısı ise 172.338 olarak kaydedildi. Bakanlık, bu rakamların İsrail'in Gazze'ye yönelik 'soykırım savaşı' olarak nitelendirdiği operasyonlar sonucunda ortaya çıktığını belirtti. Bölgedeki insani durumun ciddiyetini koruduğu ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T02:56:24.256Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
+        "id": "1776999407121pd9pv",
+        "title": "ABD'li Profesörler Filistin Yanlısı Protesto Sırasında Tutuklanmaları Nedeniyle Üniversiteye Dava Açtı",
+        "summary": "Amerika Birleşik Devletleri'nde Filistin yanlısı bir protesto sırasında tutuklanan profesörler, üniversitelerine dava açtı. Felsefe profesörü Noelle McAfee, üniversitenin protestolara yönelik müdahalesinde öğrencileri ve personeli koruyamadığını iddia etti. Bu dava, üniversite yönetimlerinin kampüslerdeki siyasi gösterilere yaklaşımını ve ifade özgürlüğü sınırlarını tartışmaya açıyor. Olay, ABD'deki üniversitelerde Filistin-İsrail çatışmasıyla ilgili protestoların artan gerilimini yansıtıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9748681/pexels-photo-9748681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T02:56:47.121Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1776999477559tj7ak",
+        "title": "Kuveyt'te Gözaltına Alınan ABD-Kuveytli Gazeteci Beraat Etti",
+        "summary": "ABD ve Kuveyt vatandaşı gazeteci Ahmed Shihab-Eldin'in, sosyal medya paylaşımları nedeniyle Kuveyt'te gözaltına alındığı ve yargılandığı bildirildi. Gazeteci, İran savaşıyla ilgili görselleri yeniden paylaşmasının ardından yanlış bilgi yaymak da dahil olmak üzere çeşitli suçlamalarla karşı karşıya kalmıştı. Avukatları tarafından yapılan açıklamaya göre, Shihab-Eldin bu suçlamalardan beraat etti. Olay, Orta Doğu'da ifade özgürlüğü ve sosyal medya kullanımı üzerindeki tartışmaları bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11219740/pexels-photo-11219740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T02:57:57.559Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17769810902497mmuw",
         "title": "Papa, göçmen ve mültecilere 'evcil hayvanlardan daha kötü' muamele edilmesini kınadı",
         "summary": "Katolik Kilisesi lideri Papa, göçmen ve mültecilere yönelik muameleyi sert bir dille eleştirdi. Küresel çapta yaşanan mülteci krizine dikkat çeken Papa, bu kişilerin \"evcil hayvanlardan bile daha kötü\" koşullarda yaşadığını belirtti. Daha önce ABD'nin eski başkanı Donald Trump'ın göçmenlik politikalarını da eleştiren Papa, mültecilere daha iyi muamele edilmesi çağrısında bulunmuştu. Bu açıklamalar, dünya genelindeki göçmen ve mülteci hakları tartışmalarına yeni bir boyut kazandırdı. Papa'nın bu insani çağrısı, uluslararası toplumun dikkatini bir kez daha bu hassas konuya çekti.",
@@ -748,54 +796,6 @@
             "name": "Gaza Şeridi, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestinian-pastor-urges-focus-on-civilian-deaths-in-gaza-lebanon-after-statue-incident/3913030",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776759646874hhrj3",
-        "title": "İsrail güçleri Gazze'de biri kadın 4 Filistinliyi öldürdü",
-        "summary": "Gazze Şeridi'nde İsrail güçlerinin düzenlediği operasyonlarda biri kadın olmak üzere dört Filistinli hayatını kaybetti. Olaylar, Gazze'nin güneyindeki Han Yunus ve kuzeyindeki Beyt Lahya bölgelerinde meydana geldi. Bölgede devam eden ateşkes ihlalleri ortamında gerçekleşen bu saldırılarda, İsrail güçlerinin hava saldırıları ve silahlı çatışmalar gerçekleştirdiği belirtildi. Yaşanan gelişmeler, bölgedeki gerilimin sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850175/pexels-photo-36850175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T08:20:46.874Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-kill-4-palestinians-in-gaza-including-1-woman/3912969",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17767596864967ao47",
-        "title": "İran, Umman Körfezi'nde Kargo Gemisine El Konulmasını Kınadı",
-        "summary": "İran, Umman Körfezi'nde bir kargo gemisine ABD tarafından el konulmasını şiddetle kınadı. Tahran yönetimi, ABD'nin bu eylemini \"deniz haydutluğu ve terör eylemi\" olarak nitelendirerek uluslararası hukuka aykırı olduğunu belirtti. İran Dışişleri Bakanlığı, el konulan geminin yanı sıra mürettebatının ve ailelerinin derhal serbest bırakılmasını talep etti. Bu olay, ABD ile İran arasındaki gerilimi daha da artırma potansiyeli taşırken, bölgesel denizcilik güvenliği konusunda endişeleri yeniden gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9644977/pexels-photo-9644977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T08:21:26.496Z",
-        "location": {
-            "lat": 25,
-            "lng": 58,
-            "name": "Umman Körfezi"
-        },
-        "source": "https://www.aa.com.tr/en/americas/iran-condemns-us-seizure-of-cargo-ship-in-gulf-of-oman/3912853",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776759715403yqay0",
-        "title": "ABD Başkanı Trump: İran'daki Nükleer Tesisler İmha Edildi, Uranyumun Geri Kazanımı Zorlu Süreç Gerektirecek",
-        "summary": "ABD Başkanı Donald Trump, İran'ın zenginleştirilmiş uranyumunun geri kazanımının \"uzun ve zorlu bir süreç\" gerektireceğini belirtti. Trump, \"Gece Yarısı Çekici Operasyonu'nun (Operation Midnight Hammer), İran'daki Nükleer Toz sahalarının tamamen ve bütünüyle yok edilmesiyle sonuçlandığını\" ifade etti. Bu açıklama, ABD'nin İran'ın nükleer programına yönelik tutumunu ve bölgedeki gerilimi bir kez daha gündeme getirdi. Operasyonun detayları hakkında ek bilgi verilmezken, ABD'nin İran'ın nükleer kapasitesini hedef aldığı anlaşıldı. Gelişmeler, Orta Doğu'da güvenlik ve istikrar konularındaki endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32966555/pexels-photo-32966555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T08:21:55.403Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/trump-says-recovery-of-irans-enriched-uranium-will-require-long-and-difficult-process/3912848",
         "trendScore": 85,
         "isBreaking": false
     }
