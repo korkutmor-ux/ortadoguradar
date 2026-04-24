@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777038262146eppdy",
+        "title": "Suriye, Tadamon Katliamı'nın Baş Şüphelisini Tutukladı",
+        "summary": "Suriye makamları, 2013 yılında başkent Şam'da gerçekleşen ve Suriye iç savaşının en karanlık olaylarından biri olarak kabul edilen Tadamon katliamının baş şüphelisi Amjad Yousef'i gözaltına aldı. Bu tutuklama, yıllar sonra gelen önemli bir gelişme olarak değerlendiriliyor. Katliam, sivil halka yönelik vahşet görüntüleriyle dünya kamuoyunda büyük yankı uyandırmıştı. Olayın detayları ve Yousef'in rolü hakkında soruşturmanın devam ettiği bildirildi. Bu gelişme, Suriye'deki savaş suçları ve insan hakları ihlalleriyle ilgili hesap verebilirlik arayışlarına yeni bir boyut kazandırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/534590/pexels-photo-534590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T13:44:22.146Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17770308953796ppbw",
         "title": "İsrail Güçleri Ateşkese Rağmen Güney Lübnan'da Patlamalar Gerçekleştirdi",
         "summary": "İsrail güçleri, devam eden ateşkese rağmen Güney Lübnan'da patlamalar düzenledi. Olayın ardından Güney Lübnan'daki Khiam kasabası üzerinde dumanların yükseldiği bildirildi. Bu eylem, bölgedeki gerilimi tırmandırma potansiyeli taşıyor ve ateşkesin kırılganlığını gözler önüne seriyor. Bölgedeki durum yakından takip ediliyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776771609397k7pnk",
-        "title": "Pakistan Sınırındaki Çatışmalar Nedeniyle Yerinden Edilen Afganlar Çadır Kamplarında Hayatta Kalmaya Çalışıyor",
-        "summary": "Pakistan sınırında yaşanan son çatışmalar nedeniyle on binlerce Afgan yerinden oldu. Çatışmalardan kaçan bu kişiler, zorlu koşullar altında çadır kamplarında hayatta kalma mücadelesi veriyor. Bölgedeki güvenlik sorunları ve insani kriz, yerinden edilen Afganların temel ihtiyaçlara erişimini ciddi şekilde kısıtlıyor. Bu durum, uluslararası toplumun dikkatini çekerek, bölgedeki istikrarsızlığın insani boyutunu bir kez daha gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4510971/pexels-photo-4510971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T11:40:09.397Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 70.1,
-            "name": "Afganistan-Pakistan Sınırı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/21/afghans-displaced-by-pakistan-conflict-survive-in-tent-camps?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
