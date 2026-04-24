@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777025348652xbqld",
+        "title": "İran, İstanbul ve Maskat'a uluslararası uçuşları Cumartesi günü yeniden başlatıyor",
+        "summary": "İran, İstanbul ve Umman'ın başkenti Maskat'a uluslararası uçuşlarını Cumartesi günü yeniden başlatma kararı aldı. Yetkililer tarafından yapılan açıklamaya göre, İstanbul ve Maskat'a gidiş-dönüş seferleri için izinler şimdiden verildi. Bu kararın, bölgedeki ateşkes ortamında alındığı belirtildi ve daha önce askıya alınan seferlerin yeniden başlaması anlamına geliyor. Ülke içinde ve uluslararası alanda ek rotalar için izinlerin ise talebe bağlı olarak kademeli bir şekilde çıkarılacağı ifade edildi. Bu adım, İran'ın hava ulaşımını normalleştirme ve uluslararası bağlantılarını güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/1311074/pexels-photo-1311074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T10:09:08.652Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-to-resume-international-flights-to-istanbul-muscat-on-saturday-amid-ceasefire/3916598",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777018308199ivm0e",
         "title": "Lübnanlı Çift, Evlerinin İsrail Tarafından Yıkıldığını Uydu Görüntüleriyle Keşfetti",
         "summary": "Joe Elias adlı bir kişi, köyünün İsrail güçleri tarafından yıkılan birçok yerleşim yeri arasında olduğu yönündeki haberlerin ardından BBC Verify ile iletişime geçti. Elias ve eşi, Lübnan'daki evlerinin İsrail tarafından yıkıldığını uydu görüntüleri aracılığıyla tespit etti. Bu olay, İsrail'in bölgedeki askeri faaliyetleri sırasında sivil yerleşim yerlerinde meydana gelen hasarı bir kez daha gözler önüne serdi. Haber, Lübnan'da yaşanan çatışmaların sivil halk üzerindeki yıkıcı etkilerini vurguluyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı, İran"
         },
         "source": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776765868485sqsys",
-        "title": "İran Devlet Televizyonu: ABD Görüşmeleri İçin Pakistan'a Henüz Heyet Gitmedi",
-        "summary": "İran devlet televizyonu, ABD ile yapılması planlanan görüşmelerin ikinci turu için Pakistan'a henüz herhangi bir İran heyetinin seyahat etmediğini bildirdi. Görüşmelerin Pakistan'ın başkenti İslamabad'da gerçekleşmesi ve bölgedeki mevcut bir savaşı kalıcı olarak sona erdirmeyi hedeflediği belirtiliyor. Bu diplomatik temaslar, ABD ve İran arasındaki ilişkilerin yanı sıra Orta Doğu ve Güney Asya'daki bölgesel güvenlik dinamikleri açısından büyük önem taşıyor. Taraflar arasındaki diyalog, bölgesel istikrarın sağlanması ve çatışmaların çözümüne yönelik potansiyeli nedeniyle yakından izleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T10:04:28.485Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/no-iranian-delegation-traveled-to-pakistan-so-far-for-2nd-round-of-us-talks-iran-state-tv-says/3913120",
         "trendScore": 85,
         "isBreaking": false
     }
