@@ -1,5 +1,53 @@
 [
     {
+        "id": "17770434697522m5ol",
+        "title": "İranlı Müzisyenler, ABD-İsrail Saldırılarının Harap Ettiği Bölgelerde Sahne Alıyor",
+        "summary": "İranlı müzisyenler, ABD ve İsrail'in saldırıları sonucu tahrip olan bölgelerde ve şehir sokaklarında sahne alıyor. Bu kültürel girişim, yıkımın yaşandığı alanlara müzik aracılığıyla bir mesaj taşıyor. Müzisyenlerin bu eylemi, saldırılardan etkilenen topluluklara moral verme ve sanatsal bir direniş sergileme amacı güdüyor. Söz konusu performanslar, bölgedeki gerilimli atmosfere rağmen kültürel ifade ve dayanışmanın bir göstergesi olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35303384/pexels-photo-35303384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T15:11:09.752Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17770435033547ieqp",
+        "title": "Birleşik Krallık, İsrail'in Potansiyel İhlallerini Takip Eden Projeyi Sonlandırıyor: Rapor",
+        "summary": "Birleşik Krallık'ın, İsrail'in potansiyel ihlallerini takip eden bir projeyi sonlandırma kararı aldığı bildirildi. İngiliz bir gazetenin haberine göre, Birleşik Krallık Dışişleri Bakanlığı'na bağlı, olası savaş suçlarını kaydeden bu birim, fon kesintileri gerekçe gösterilerek kapatıldı. Proje, İsrail'in eylemlerine ilişkin insan hakları ve uluslararası hukuk ihlallerini izlemekle görevliydi. Bu kararın, insan hakları örgütleri ve uluslararası gözlemciler arasında tartışmalara yol açması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7715090/pexels-photo-7715090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T15:11:43.354Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777043667770zzz1z",
+        "title": "Lübnan, bölgesel çatışmalarda 'pazarlık kozu' olmayı reddediyor: Cumhurbaşkanı Aoun",
+        "summary": "Lübnan Cumhurbaşkanı Mişel Aoun, ülkesinin bölgesel çatışmalarda bir 'pazarlık kozu' olarak kullanılmasını kesin bir dille reddettiğini açıkladı. Aoun, Lübnan'ın egemenliğinin korunmasının hayati önem taşıdığını vurguladı. Cumhurbaşkanı, İsrail'in devam eden saldırılarını durdurmak ve bölgedeki gerilimi azaltmak amacıyla diplomatik çözüm yollarının aranması çağrısında bulundu. Bu bağlamda, uluslararası toplumun Lübnan'ın istikrarına destek vermesi ve barışçıl çözümler için çaba göstermesi gerektiğini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29982340/pexels-photo-29982340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T15:14:27.770Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanon-rejects-being-bargaining-chip-in-regional-conflicts-president-aoun/3917093",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777038262146eppdy",
         "title": "Suriye, Tadamon Katliamı'nın Baş Şüphelisini Tutukladı",
         "summary": "Suriye makamları, 2013 yılında başkent Şam'da gerçekleşen ve Suriye iç savaşının en karanlık olaylarından biri olarak kabul edilen Tadamon katliamının baş şüphelisi Amjad Yousef'i gözaltına aldı. Bu tutuklama, yıllar sonra gelen önemli bir gelişme olarak değerlendiriliyor. Katliam, sivil halka yönelik vahşet görüntüleriyle dünya kamuoyunda büyük yankı uyandırmıştı. Olayın detayları ve Yousef'in rolü hakkında soruşturmanın devam ettiği bildirildi. Bu gelişme, Suriye'deki savaş suçları ve insan hakları ihlalleriyle ilgili hesap verebilirlik arayışlarına yeni bir boyut kazandırıyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776800748614cadez",
-        "title": "Nikaragua Devlet Başkanı'ndan Trump'a İran Eleştirisi",
-        "summary": "Nikaragua Devlet Başkanı, ABD Başkanı Donald Trump'ı İran'a yönelik olası bir savaş politikası nedeniyle sert bir dille eleştirdi. Nikaragua lideri, Trump'ın bu konudaki tutumunu 'akli dengesi bozuk' olarak nitelendirdi. Bu açıklama, ABD ile İran arasındaki gerilimin uluslararası alanda farklı ülkelerden de tepki çektiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T19:45:48.614Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/21/nicaraguas-president-says-trump-mentally-deranged-over-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776800864718g2oxw",
-        "title": "Papa Francis'in Vefatından Bir Yıl Sonra Popemobile Çocuk Kliniği Gazze'ye Ulaşamadı",
-        "summary": "Papa Francis'in son dileklerinden biri, kendi aracının Gazze'deki çocuklar için bir kliniğe dönüştürülerek kullanılmasıydı. Bu insani yardım projesi kapsamında, Popemobile'ın Gazze'ye gönderilmesi hedefleniyordu. Ancak, Papa'nın vefatının üzerinden bir yıl geçmesine rağmen, projeyi yürüten yardım kuruluşu hala aracın bölgeye girişi için gerekli izinleri beklemektedir. Bu durum, Gazze'ye yönelik insani yardım çabalarının karşılaştığı bürokratik ve lojistik zorlukları bir kez daha ortaya koymaktadır. Kliniğin bölgeye ulaşamaması, Gazze'deki çocukların sağlık hizmetlerine erişimindeki mevcut sıkıntıları derinleştirmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T19:47:44.718Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1776771582070qxc66",
-        "title": "Hürmüz Boğazı: Bir Tehditten Stratejik Bir Kontrol Mekanizmasına Dönüşüm",
-        "summary": "Haber, Hürmüz Boğazı'nın küresel güç dengelerini ve dünya ekonomisini şekillendiren bir kontrol sistemine nasıl dönüştüğünü inceliyor. Boğazın başlangıçta bir tehdit unsuru olarak algılanmasından, zamanla jeopolitik bir strateji ve kontrol mekanizması haline gelme süreci ele alınıyor. Uluslararası ticaret yolları üzerindeki kritik etkisi ve enerji arzı güvenliği açısından taşıdığı önem vurgulanıyor. Bu durum, boğazın sadece bir geçiş noktası olmaktan çıkarak bölgesel ve küresel aktörler için stratejik bir araç haline geldiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35533703/pexels-photo-35533703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T11:39:42.070Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
