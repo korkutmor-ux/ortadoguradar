@@ -1,5 +1,37 @@
 [
     {
+        "id": "17770851598730nabe",
+        "title": "İran Savaşı Canlı: Tahran Dışişleri Bakanı İslamabad'da; ABD Elçileri Görüşmeler İçin Seyahat Edecek",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırıları ve tank atışları sonucunda en az 12 Filistinli hayatını kaybetti. Hayatını kaybedenler arasında altı polis memuru da bulunuyor. Bölgedeki gerilim devam ederken, bu saldırılar uluslararası kamuoyunda endişelere yol açtı. Olaylar, Orta Doğu'daki mevcut çatışma ortamının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934178/pexels-photo-35934178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T02:45:59.873Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.45,
+            "name": "Gaza Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1777085213782w8ywb",
+        "title": "Suriye İç Savaşı'ndaki Tadamon Katliamı'nın Kilit Şüphelisi Tutuklandı",
+        "summary": "Suriye iç savaşı sırasında 2013 Nisan ayında Şam'ın Tadamon bölgesinde yaşanan ve sivillerin toplu olarak öldürüldüğü katliamın kilit şüphelisi Amjad Youssef tutuklandı. Gözleri bağlı sivillerin infaz edildiği görüntülerle uluslararası kamuoyunda infial yaratan bu olayla ilgili Youssef uzun süredir aranıyordu. Şam'ın bir mahallesi olan Tadamon'da gerçekleşen katliam, Suriye'deki savaş suçlarının sembollerinden biri haline gelmişti. Youssef'in yakalanması, Suriye'deki insan hakları ihlallerinin sorumlularının yargılanması yönündeki uluslararası çabalara önemli bir katkı olarak değerlendiriliyor. Bu gelişme, Suriye'deki çatışma döneminde işlenen suçlara ilişkin adalet arayışında kritik bir adım teşkil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32933060/pexels-photo-32933060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T02:46:53.782Z",
+        "location": {
+            "lat": 33.51,
+            "lng": 36.28,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777070530746kgjct",
         "title": "İsrail'in Gazze'deki Saldırılarında 12 Filistinli Hayatını Kaybetti",
         "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail güçlerinin en az 12 Filistinliyi öldürdüğü bildirildi. Bu gelişmeler, bölgede ilan edildiği belirtilen 'ateşkes' ortamında yaşandı. Hamas tarafından yapılan açıklamada, İsrail'in bu eylemlerinin uluslararası toplumun Gazze'deki ateşkese uyulmasını sağlama konusundaki başarısızlığını temsil ettiği belirtildi. Olaylar, bölgedeki gerilimi yeniden tırmandırırken, uluslararası tepkiler merakla bekleniyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17768421229242xdvs",
-        "title": "Lübnan'ın Bekaa Vadisi'nde Ateşkese Rağmen İHA Saldırısı: 1 Ölü, 2 Yaralı",
-        "summary": "Lübnan'ın doğusundaki Bekaa Vadisi'nde bir insansız hava aracı (İHA) saldırısı düzenlendi. Saldırıda bir kişi hayatını kaybederken, iki kişi yaralandı. Bu olay, Lübnan ile İsrail arasında cuma günü yürürlüğe giren 10 günlük ateşkese rağmen gerçekleşti. Bölgedeki gerilimi artıran saldırı, ateşkesin ihlal edildiği yönündeki endişeleri gündeme getirdi. Yetkililer, olayın detaylarına ilişkin henüz resmi bir açıklama yapmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6726590/pexels-photo-6726590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:15:22.924Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.9,
-            "name": "Bekaa Vadisi, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-strike-kills-1-wounds-2-in-lebanon-s-bekaa-despite-ceasefire/3914124",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1776842144536p8wky",
-        "title": "Umman Açıklarında Konteyner Gemisi Topçu Ateşiyle Hasar Gördü, Mürettebat Güvende",
-        "summary": "Bir konteyner gemisinin Umman açıklarında bir topçu botu tarafından açılan ateş sonucu hasar gördüğü bildirildi. Birleşik Krallık Deniz Ticaret Operasyonları (UKMTO) tarafından yapılan açıklamada, olayda herhangi bir yangın veya çevresel etki rapor edilmediği belirtildi. Gemideki tüm mürettebatın güvende olduğu ve herhangi bir yaralanma yaşanmadığı doğrulandı. Olayın detayları ve saldırının arkasındaki nedenler hakkında henüz ek bilgi verilmedi. Bölgedeki deniz güvenliği endişeleri devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8730540/pexels-photo-8730540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:15:44.536Z",
-        "location": {
-            "lat": 25,
-            "lng": 58,
-            "name": "Umman Denizi, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/container-ship-damaged-by-gunboat-fire-near-oman-crew-safe/3914087",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
