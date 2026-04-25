@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777160530580a2fxr",
+        "title": "ABD Göçmenlik Gözaltında En Uzun Süre Kalan Aile Serbest Bırakıldıktan Sonra Yeniden Tutuklandı",
+        "summary": "El Gamal ailesi, ABD göçmenlik gözaltında en uzun süre tutulan ailelerden biri olarak biliniyor. Aile, 10 aylık bir gözaltı sürecinin ardından serbest bırakıldıktan sadece saatler sonra yeniden tutuklandı. Avukatları, ailenin Trump yönetimi tarafından evlerine döndükten kısa bir süre sonra tekrar gözaltına alındığını belirtti. Bu durum, ABD'nin göçmenlik politikaları ve göçmenlerin muamelesi konusundaki tartışmaları yeniden alevlendirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/34631/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T23:42:10.580Z",
+        "location": {
+            "lat": 39.8283,
+            "lng": -98.5795,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/25/family-longest-held-in-us-immigration-detention-re-arrested-after-release?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17771568816888xrh4",
         "title": "NATO İçinde İran Savaşına Katılım Konusunda Gerilim",
         "summary": "NATO içinde, eski ABD Başkanı Donald Trump'ın Avrupa ülkelerinin İran'a karşı olası bir savaşa katılmayı reddetmesi üzerine ciddi bir gerilim yaşandığı belirtiliyor. Bu durum, ittifakın geleceği ve üyeler arasındaki işbirliği konusunda derin soru işaretleri yaratmaktadır. Avrupa ülkelerinin bu konudaki tutumu, Orta Doğu'daki potansiyel çatışmalara yönelik farklı yaklaşımları gözler önüne sermektedir. Söz konusu gerilim, NATO'nun ortak dış politika ve güvenlik stratejileri üzerindeki etkileri açısından yakından takip edilmektedir.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-says-45-soldiers-wounded-bringing-total-injured-since-start-of-iran-war-to-735/3916299",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777009270783piysc",
-        "title": "Petrol Fiyatları Yükseldi: ABD ve İran Hürmüz Boğazı'nda Çıkmazda",
-        "summary": "Küresel petrol fiyatları, ABD ile İran arasındaki Hürmüz Boğazı'ndaki gerilimin artmasıyla varil başına 106 doların üzerine çıktı. Eski ABD Başkanı Donald Trump'ın bölgeden geçecek gemilerin ABD Donanması'ndan izin alması gerektiğini belirtmesi, iki ülke arasındaki çıkmazı derinleştirdi. Dünya petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolundaki bu durum, piyasalarda belirsizliğe yol açtı. Olay, bölgedeki güvenlik endişelerini ve enerji arz güvenliği üzerindeki potansiyel etkilerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T05:41:10.783Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
