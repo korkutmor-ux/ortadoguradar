@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777112685931l3fya",
+        "title": "İran'ın Enformasyon Savaşı: Lego, Yapay Zeka ve Giderek Sıkılaşan Kontrol",
+        "summary": "İran'ın enformasyon savaşı stratejileri ve anlatı mücadelesindeki çabaları mercek altına alındı. Ülkenin bu alandaki faaliyetlerinde Lego ve yapay zeka gibi modern araçları kullandığı belirtiliyor. Bu tekniklerin, İran'ın kendi anlatısını güçlendirme ve kontrolü sıkılaştırma hedefine hizmet ettiği vurgulanıyor. Haber, İran'ın bilgi savaşındaki yöntemlerini ve bu alandaki giderek artan kontrolünü detaylandırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5380597/pexels-photo-5380597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T10:24:45.931Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777112726606b1p8r",
+        "title": "Gazze'de 21 Yıl Sonra İlk Seçimler Yapılırken Filistinliler Sandık Başında",
+        "summary": "Filistinliler, Gazze Şeridi'nde 21 yıl aradan sonra ilk kez düzenlenen belediye seçimleri için sandık başına gitti. Yaklaşık 70.000 kayıtlı seçmenin bulunduğu bu seçimlerde, Gazze halkı yerel yönetimlerini belirlemek üzere oy kullanıyor. Bu seçimler, bölgenin siyasi yaşamında önemli bir dönüm noktası olarak kabul ediliyor ve demokratik katılım açısından büyük önem taşıyor. Seçimlerin sonuçları, Gazze'deki yerel yönetim dinamiklerini yeniden şekillendirecek.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17322139/pexels-photo-17322139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T10:25:26.606Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1777109319399m7mk8",
         "title": "İran ve Pakistanlı Üst Düzey Yetkililer İslamabad'da Bir Araya Geldi",
         "summary": "İran Dışişleri Bakanı Abbas Araghchi, Pakistanlı yetkililerle görüşmeler yapmak üzere İslamabad'da bulunuyor. Bu diplomatik ziyaret, ABD elçilerinin de şehre gelmesinin beklendiği bir döneme denk geliyor. Görüşmelerin, iki ülke arasındaki ikili ilişkilerin güçlendirilmesi ve bölgesel konuların ele alınması hedeflendiği belirtildi. Ziyaretin, Orta Doğu ve Güney Asya'daki diplomatik trafiği artırması bekleniyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1776959853116jesmf",
-        "title": "Türkiye Milletvekilleri 15 Yaş Altı Çocuklar İçin Sosyal Medya Kullanımını Kısıtlayan Yasa Tasarısını Kabul Etti",
-        "summary": "Türkiye Büyük Millet Meclisi'nde milletvekilleri, 15 yaş altı çocukların sosyal medya kullanımına kısıtlamalar getiren bir yasa tasarısını kabul etti. Yeni yasa, sosyal medya platformlarının yaş doğrulama araçları ve etkili kontrol mekanizmaları geliştirmesini zorunlu kılıyor. Bu düzenleme ile çocukların çevrimiçi ortamda daha güvenli bir deneyim yaşaması ve zararlı içeriklere karşı korunması amaçlanıyor. Kabul edilen yasa, platformların belirlenen standartlara uyum sağlaması için yasal bir çerçeve sunarken, uygulamanın detayları ve denetim süreçleri ilgili kurumlarca belirlenecek.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9129526/pexels-photo-9129526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T15:57:33.116Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/23/turkiye-mps-pass-bill-to-restrict-social-media-use-for-children-under-15?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1776959880018pqy58",
-        "title": "ABD Ordusu Uluslararası Sularda Bir Gemiyi Ele Geçirdi",
-        "summary": "ABD Savunma Bakanlığı (Pentagon), uluslararası sularda bir gemiye helikopterlerle inen ve gemiyi ele geçiren ABD askerlerinin görüntülerini yayımladı. Pentagon tarafından paylaşılan videoda, ABD güçlerinin bir gemiye müdahale ederek kontrolü ele aldığı anlar yer aldı. Bu tür operasyonlar, genellikle bölgedeki deniz güvenliğini sağlamak, yasa dışı faaliyetleri engellemek veya yaptırımları uygulamak amacıyla gerçekleştirilmektedir. Olayın tam konumu ve ele geçirilen geminin niteliği hakkında detay verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35608743/pexels-photo-35608743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T15:58:00.018Z",
-        "location": {
-            "lat": 25,
-            "lng": 58,
-            "name": "Umman Körfezi, Uluslararası Sular"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/us-military-board-seize-another-ship-in-international-waters?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
