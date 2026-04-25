@@ -1,5 +1,37 @@
 [
     {
+        "id": "17771155979591rdgx",
+        "title": "Birleşik Krallık ve Finlandiya, İsrail'in Lübnan'daki Gazetecilere Yönelik Saldırılarını Kınadı",
+        "summary": "Birleşik Krallık ve Finlandiya, İsrail'in Lübnan'da görev yapan gazetecilere yönelik saldırılarını 'kabul edilemez' olarak nitelendirerek kınadıklarını açıkladı. Bu kınama, bölgedeki çatışmalar sırasında basın mensuplarının güvenliğine ilişkin artan endişeleri yansıtıyor. Son olarak, Amal Khalil'in hayatını kaybetmesiyle birlikte, 2 Mart'tan bu yana Lübnan'da öldürülen gazeteci sayısı 27'ye yükseldi. Uluslararası toplum, gazetecilerin hedef alınmasının savaş suçu teşkil edebileceği uyarısında bulunarak, bu tür olayların kapsamlı bir şekilde soruşturulması çağrısında bulunuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10464787/pexels-photo-10464787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T11:13:17.959Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/europe/uk-finland-condemn-unacceptable-israeli-attacks-on-journalists-in-lebanon/3917695",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777115622856m01tl",
+        "title": "Mısır Cumhurbaşkanı Sisi'den Orta Doğu Haritasının Yeniden Çizilmesi Uyarısı",
+        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, Orta Doğu haritasının yeniden çizilmesine yönelik kasıtlı girişimler yapıldığı konusunda ciddi uyarılarda bulundu. Cumhurbaşkanı Sisi, bölgedeki mevcut istikrarsızlığa ve jeopolitik değişim çabalarına dikkat çekti. Ayrıca, Gazze'deki ateşkes anlaşmasının ikinci aşamasının tam olarak uygulanması çağrısında bulunarak, bölgedeki çatışmaların sona erdirilmesinin önemini vurguladı. Bu açıklamalar, Mısır'ın bölgesel güvenlik ve istikrar konusundaki endişelerini yansıtırken, Gazze'deki insani durumun iyileştirilmesi ve kalıcı barışın sağlanması yönündeki beklentileri de dile getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850210/pexels-photo-36850210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T11:13:42.856Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-deliberate-attempts-being-made-to-redraw-middle-east-map-egyptian-president-warns/3917671",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777112685931l3fya",
         "title": "İran'ın Enformasyon Savaşı: Lego, Yapay Zeka ve Giderek Sıkılaşan Kontrol",
         "summary": "İran'ın enformasyon savaşı stratejileri ve anlatı mücadelesindeki çabaları mercek altına alındı. Ülkenin bu alandaki faaliyetlerinde Lego ve yapay zeka gibi modern araçları kullandığı belirtiliyor. Bu tekniklerin, İran'ın kendi anlatısını güçlendirme ve kontrolü sıkılaştırma hedefine hizmet ettiği vurgulanıyor. Haber, İran'ın bilgi savaşındaki yöntemlerini ve bu alandaki giderek artan kontrolünü detaylandırıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1776966107110o8xmi",
-        "title": "BM uyardı: ABD-İsrail'in İran'a yönelik savaşı 30 milyon kişiyi yoksulluğa sürükleyecek",
-        "summary": "Birleşmiş Milletler (BM), ABD ve İsrail'in İran'a yönelik olası bir askeri müdahalesinin küresel çapta ciddi insani ve ekonomik sonuçlar doğurabileceği uyarısında bulundu. BM Kalkınma Programı (UNDP) Başkanı, böyle bir çatışmanın 30 milyon insanı yeniden yoksulluğa itebileceğini belirtti. Uyarıda, Hürmüz Boğazı'nın kapanması durumunda yakıt ve gübre tedarikinde yaşanacak aksaklıkların tarımsal verimi olumsuz etkileyeceği vurgulandı. Bu durumun, özellikle gıda güvenliği açısından küresel çapta geniş çaplı bir krize yol açabileceği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T17:41:47.110Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776966193895gip0e",
-        "title": "Lübnan, hava saldırısında öldürülen gazetecinin İsrail tarafından hedef alındığını iddia etti",
-        "summary": "Lübnan Başbakanı, İsrail'i hava saldırısında öldürülen bir gazeteciyi hedef almakla suçladı. Başbakan, İsrail Savunma Kuvvetleri'nin (IDF) Kızıl Haç araçlarına yönelik saldırılarının kurtarma ekiplerinin olay yerine ulaşmasını engellediğini belirterek, bu eylemleri savaş suçu olarak nitelendirdi. Olay, bölgedeki gerilimi artırırken, uluslararası hukukun ihlali iddialarını gündeme getirdi. Lübnan hükümeti, konunun uluslararası platformlarda takipçisi olacağını ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34098896/pexels-photo-34098896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T17:43:13.895Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
