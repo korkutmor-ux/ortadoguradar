@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777109319399m7mk8",
+        "title": "İran ve Pakistanlı Üst Düzey Yetkililer İslamabad'da Bir Araya Geldi",
+        "summary": "İran Dışişleri Bakanı Abbas Araghchi, Pakistanlı yetkililerle görüşmeler yapmak üzere İslamabad'da bulunuyor. Bu diplomatik ziyaret, ABD elçilerinin de şehre gelmesinin beklendiği bir döneme denk geliyor. Görüşmelerin, iki ülke arasındaki ikili ilişkilerin güçlendirilmesi ve bölgesel konuların ele alınması hedeflendiği belirtildi. Ziyaretin, Orta Doğu ve Güney Asya'daki diplomatik trafiği artırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T09:28:39.399Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777109381653a62p0",
+        "title": "İrlanda, İsrail'den Filistin Okulunun Yıkımı İçin Tazminat Talep Edecek",
+        "summary": "İrlanda hükümeti, İsrail makamlarından, Filistin topraklarında yerleşimciler tarafından yıkılan bir okulun maliyetinin karşılanmasını talep edeceğini açıkladı. Bu talep, uluslararası hukuka aykırı olduğu belirtilen Filistinlilere ait yapıların yıkımına karşı İrlanda'nın gösterdiği tepkinin bir parçasıdır. İrlanda, bu tür eylemlerin Filistin toplumuna ve çocukların eğitim hakkına verdiği zarara dikkat çekmeyi amaçlamaktadır. Söz konusu okulun, bölgedeki Filistinli çocukların eğitim ihtiyaçlarını karşılamak üzere inşa edildiği belirtilmiştir. Bu diplomatik girişim, İsrail-Filistin çatışması bağlamında uluslararası toplumun sorumluluklarına vurgu yapmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12805860/pexels-photo-12805860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T09:29:41.653Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777109405093b7i11",
+        "title": "İsrail Ordusu, Ateşkese Rağmen Sivilleri Güney Lübnan Köylerine Dönmemeleri Konusunda Uyardı",
+        "summary": "İsrail ordusu, devam eden ateşkese rağmen sivilleri güney Lübnan köylerine geri dönmemeleri konusunda uyardı. Ordu sözcüsü tarafından yapılan açıklamada, Litani Nehri, Salhani Vadisi ve Saluki bölgelerine yaklaşmanın kesinlikle yasak olduğu vurgulandı. Bu uyarı, bölgedeki güvenlik durumunun henüz normale dönmediğini ve potansiyel tehlikelerin devam ettiğini işaret ediyor. Sivillerin güvenliği için alınan bu önlem, çatışma sonrası hassas dönemin bir göstergesi olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5522695/pexels-photo-5522695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T09:30:05.093Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/world/israeli-army-warns-civilians-against-returning-to-southern-lebanon-villages-despite-ceasefire/3917652",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777104376786kc0cz",
         "title": "Batı Şeria'da Filistinliler Yerel Seçimlere Şüpheyle Yaklaşıyor",
         "summary": "Batı Şeria'da Filistinliler arasında yerel seçimlerin önemli bir değişiklik getireceğine dair yaygın bir şüphecilik gözlemleniyor. Filistin Yönetimi'ne duyulan hayal kırıklığı ve İsrail işgalinin devam etmesi, seçmen ilgisizliğini körüklüyor. Bu durum, bölgedeki siyasi ve toplumsal gerilimi yansıtırken, halkın mevcut duruma yönelik umutsuzluğunu ortaya koyuyor. Seçmenlerin sandığa gitme motivasyonunun düşük olduğu ve seçimlerin mevcut sorunlara çözüm getirmeyeceğine inandıkları belirtiliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/us-military-board-seize-another-ship-in-international-waters?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1776952373967zu75i",
-        "title": "Lübnanlı Gazeteci Amal Khalil'in İsrail Tarafından Takip Edilerek Öldürülme Şekli Açıklandı",
-        "summary": "Lübnanlı gazeteci Amal Khalil'in İsrail güçleri tarafından nasıl 'takip edildiği' ve öldürüldüğüne dair detaylar kamuoyuyla paylaşıldı. Yayınlanan bilgilerde, İsrail'in gazeteciyi hedef alarak gerçekleştirdiği operasyonun ayrıntılarına yer verildiği belirtiliyor. Bu olay, bölgedeki gazetecilerin güvenliği ve İsrail'in askeri operasyonlarının uluslararası hukukla uyumu konularında endişeleri artırdı. Olayın, Lübnan ve İsrail arasındaki gerilimi tırmandırabileceği değerlendirilirken, uluslararası kuruluşlardan konuya ilişkin açıklama yapılması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36797224/pexels-photo-36797224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T13:52:53.967Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/how-lebanese-journalist-amal-khalil-was-pursued-and-killed-by-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776932470468k1n1p",
-        "title": "Onlarca İsrailli yerleşimci, yerleşim talebiyle Suriye topraklarına geçti",
-        "summary": "İsrailli yerleşimciler, Golan Tepeleri'ndeki Suriye topraklarına geçiş yaptı. Onlarca yerleşimcinin, yeni bir yerleşim yeri talebiyle Suriye sınırını ihlal ettiği belirtildi. Yerleşimcilerin, bölgede bir çatının üzerine çıkarak kendilerini barikat kurduğu bildirildi. Bu olay, İsrail ile Suriye arasındaki hassas sınır bölgesinde gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9754753/pexels-photo-9754753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T08:21:10.468Z",
-        "location": {
-            "lat": 33,
-            "lng": 35.8,
-            "name": "Golan Tepeleri, Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/23/dozens-of-israeli-settlers-cross-into-syria-to-demand-settlement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776932583752p04ob",
-        "title": "Hürmüz Boğazı'nda Gemiler Ateş Altında: İran, Boğazın Yeniden Açılmasını Reddediyor",
-        "summary": "Hürmüz Boğazı'nda seyreden gemilerin ateş altında olduğu bildirildi. İran'ın baş müzakerecisi, ABD-İran ateşkesinin \"açık ihlalleri\" gerekçesiyle boğazın yeniden açılmasının \"mümkün olmadığını\" açıkladı. Bu gelişme, küresel petrol ticaretinin ana arterlerinden biri olan stratejik su yolundaki gerilimi artırıyor. İranlı yetkilinin açıklaması, bölgedeki güvenlik durumunun ciddiyetini ve uluslararası denizcilik üzerindeki potansiyel etkilerini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T08:23:03.752Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
