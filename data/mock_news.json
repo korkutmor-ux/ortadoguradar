@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777201927315utipl",
+        "title": "İsrail'in Gazze'deki Saldırılarında 'Ateşkes'e Rağmen En Az Dört Kişi Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde yaşanan gelişmelerde, İsrail güçlerinin bölgedeki ilerleyişini sürdürdüğü bildirildi. Batı Gazze'ye doğru daha fazla ilerleyen İsrail kuvvetleri, doğu kesimlerdeki kontrol alanlarını da kademeli olarak genişletiyor. Bu ilerleyişler sırasında, 'ateşkes' ilan edilmiş olmasına rağmen İsrail saldırılarında en az dört kişinin yaşamını yitirdiği belirtildi. Bölgedeki insani durum ve güvenlik endişeleri artmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28297262/pexels-photo-28297262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T11:12:07.315Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şeridi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17771983623440r5s1",
         "title": "Yemen'in Mayın Krizi, Ateşkese ve Temizleme Çabalarına Rağmen Devam Ediyor",
         "summary": "Yemen'de mayın krizi, ilan edilen ateşkese ve devam eden mayın temizleme çabalarına rağmen sürmektedir. Ülke genelinde kara mayınları, çatışmaların sona ermesine rağmen can almaya ve insanları sakat bırakmaya devam ediyor. Bu durum, insani yardım kuruluşlarının ve yerel ekiplerin yoğun çalışmalarına rağmen mayınların yaygınlığını ve tehlikesini gözler önüne seriyor. Savaşın ardından kalan bu patlayıcılar, sivil halk için ciddi bir tehdit oluşturmaya devam ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1777085213782w8ywb",
-        "title": "Suriye İç Savaşı'ndaki Tadamon Katliamı'nın Kilit Şüphelisi Tutuklandı",
-        "summary": "Suriye iç savaşı sırasında 2013 Nisan ayında Şam'ın Tadamon bölgesinde yaşanan ve sivillerin toplu olarak öldürüldüğü katliamın kilit şüphelisi Amjad Youssef tutuklandı. Gözleri bağlı sivillerin infaz edildiği görüntülerle uluslararası kamuoyunda infial yaratan bu olayla ilgili Youssef uzun süredir aranıyordu. Şam'ın bir mahallesi olan Tadamon'da gerçekleşen katliam, Suriye'deki savaş suçlarının sembollerinden biri haline gelmişti. Youssef'in yakalanması, Suriye'deki insan hakları ihlallerinin sorumlularının yargılanması yönündeki uluslararası çabalara önemli bir katkı olarak değerlendiriliyor. Bu gelişme, Suriye'deki çatışma döneminde işlenen suçlara ilişkin adalet arayışında kritik bir adım teşkil ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32933060/pexels-photo-32933060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T02:46:53.782Z",
-        "location": {
-            "lat": 33.51,
-            "lng": 36.28,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
