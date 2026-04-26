@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777222261546rxwuh",
+        "title": "Yamal, Salah ve Ekitike 2026 Dünya Kupası'nı Sakatlık Nedeniyle Kaçırabilir mi?",
+        "summary": "2026 Dünya Kupası'na katılamama riski taşıyan önemli futbolcuların sakatlık durumları gündeme geldi. Haberde, İspanyol genç yetenek Lamine Yamal, Mısırlı yıldız Mohamed Salah ve Brezilyalı üçlü dahil olmak üzere toplam 10 oyuncunun sakatlık nedeniyle sahalardan uzak kalabileceği belirtiliyor. Bu durum, futbol dünyasında endişe yaratırken, özellikle Mısır'ın önemli oyuncusu Salah'ın durumu Orta Doğu'da yakından takip ediliyor. Oyuncuların sağlık durumları ve Dünya Kupası'na yetişip yetişemeyecekleri önümüzdeki dönemde netleşecek.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/29558669/pexels-photo-29558669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T16:51:01.546Z",
+        "location": {
+            "lat": 30.04,
+            "lng": 31.23,
+            "name": "Mısır"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/26/will-yamal-salah-and-ekitike-miss-the-world-cup-2026-due-to-injury?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777218412209l783e",
         "title": "ABD-İran Çatışması: İslamabad Görüşmeleri Duraksarken Son Durum Ne?",
         "summary": "ABD ile İran arasındaki gerilim devam ederken, taraflar pozisyonlarını koruyor. İslamabad'da yürütülen diplomatik görüşmelerin duraksadığı bildirildi. Arabulucular, Washington ve Tahran arasındaki anlaşmazlıkta diplomatik bir çözüm umuyor. Haberde, ABD ve İsrail'in İran'a karşı yürüttüğü savaşta bir diplomatik atılım beklendiği belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-seizes-2-cargo-vessels-in-strait-of-hormuz-for-alleged-links-to-israel/3917457",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1777094110860eaqmq",
-        "title": "İran ve ABD Temsilcileri İslamabad'da Bir Araya Geliyor",
-        "summary": "İran Dışişleri Bakanı'nın İslamabad'da bulunması ve ABD temsilcilerinin de aynı şehre doğru yola çıkması, iki ülke arasında potansiyel bir diplomatik temasın sinyallerini veriyor. Bu gelişme, uzun süredir gergin olan İran-ABD ilişkilerinde yeni bir sayfa açma veya belirli konularda görüş alışverişinde bulunma ihtimalini gündeme getiriyor. Pakistan'ın bu diplomatik trafiğe ev sahipliği yapması, bölgesel arabuluculuk çabaları açısından da önem taşıyor. Görüşmelerin içeriği ve olası sonuçları, Orta Doğu'daki siyasi dinamikler açısından yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644014/pexels-photo-7644014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T05:15:10.860Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": true
     }
 ]
