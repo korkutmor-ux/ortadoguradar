@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777211208501se2ja",
+        "title": "Gazze'de Ateşkeslerin Geleceği: Bölgesel Gerilim Azalırken Yeni Çıkmazlar",
+        "summary": "Bölgesel gerilimin azalmasıyla birlikte, dikkatler Gazze'deki duruma çevrilmiş durumda. İran ve Lübnan'daki ateşkeslerin ardından, Gazze'de Hamas'ın silahları ve gelecekteki yönetimi konusundaki çıkmaz, bölgedeki ateşkesi tehdit ediyor. Bu durum, Gazze'de kalıcı bir barışın sağlanması önündeki engelleri bir kez daha gözler önüne seriyor. Bölgesel aktörler ve uluslararası toplum, Gazze'deki bu kilitlenmeyi aşmak için diplomatik çabalarını yoğunlaştırmak zorunda kalabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193761/pexels-photo-36193761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T13:46:48.501Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777211329115mt4cg",
+        "title": "İran Savaşı Endişeleri İngiltere'yi Acil Durum Planlamasına Yöneltiyor",
+        "summary": "İngiltere hükümeti, İran ile olası bir savaşın küresel tedarik zincirlerinde yaratabileceği aksaklıklara karşı acil durum planlamalarını hızlandırdı. Hükümet, vatandaşlarını yakın zamanda bir kıtlık yaşanmasa bile, enerji, gıda ve uçuş maliyetlerinde aylarca sürebilecek artışlar konusunda uyardı. Bu önlemler, olası bir çatışmanın ekonomik etkilerine karşı hazırlıklı olunması ve kritik tedarik zincirlerinin korunması amacıyla yoğunlaştırılıyor. İngiltere, potansiyel risklere karşı proaktif bir yaklaşım sergiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T13:48:49.115Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/europe/supply-shortage-fears-push-uk-to-ramp-up-contingency-planning-over-iran-war/3918511",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777201927315utipl",
         "title": "İsrail'in Gazze'deki Saldırılarında 'Ateşkes'e Rağmen En Az Dört Kişi Hayatını Kaybetti",
         "summary": "Gazze Şeridi'nde yaşanan gelişmelerde, İsrail güçlerinin bölgedeki ilerleyişini sürdürdüğü bildirildi. Batı Gazze'ye doğru daha fazla ilerleyen İsrail kuvvetleri, doğu kesimlerdeki kontrol alanlarını da kademeli olarak genişletiyor. Bu ilerleyişler sırasında, 'ateşkes' ilan edilmiş olmasına rağmen İsrail saldırılarında en az dört kişinin yaşamını yitirdiği belirtildi. Bölgedeki insani durum ve güvenlik endişeleri artmaya devam ediyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1777094270776g47mh",
-        "title": "İranlı yetkili: İslamabad'da İran-ABD görüşmesi planlanmıyor",
-        "summary": "İranlı bir yetkili, İran ile ABD arasında Pakistan'ın başkenti İslamabad'da herhangi bir görüşme planlanmadığını bildirdi. İran Dışişleri Bakanlığı Sözcüsü Esmaeil Baqaei, bu yöndeki iddiaları yalanlarken, İran'ın konuyla ilgili gözlemlerinin Pakistan'a iletileceğini belirtti. Bu açıklama, iki ülke arasında olası bir diplomatik temas spekülasyonlarına yanıt niteliği taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7710139/pexels-photo-7710139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T05:17:50.776Z",
-        "location": {
-            "lat": 33.68,
-            "lng": 73.05,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/no-iran-us-meeting-planned-in-islamabad-iranian-official/3917451",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17770851598730nabe",
-        "title": "İran Savaşı Canlı: Tahran Dışişleri Bakanı İslamabad'da; ABD Elçileri Görüşmeler İçin Seyahat Edecek",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırıları ve tank atışları sonucunda en az 12 Filistinli hayatını kaybetti. Hayatını kaybedenler arasında altı polis memuru da bulunuyor. Bölgedeki gerilim devam ederken, bu saldırılar uluslararası kamuoyunda endişelere yol açtı. Olaylar, Orta Doğu'daki mevcut çatışma ortamının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934178/pexels-photo-35934178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T02:45:59.873Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.45,
-            "name": "Gaza Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
