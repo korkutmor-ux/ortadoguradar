@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777218412209l783e",
+        "title": "ABD-İran Çatışması: İslamabad Görüşmeleri Duraksarken Son Durum Ne?",
+        "summary": "ABD ile İran arasındaki gerilim devam ederken, taraflar pozisyonlarını koruyor. İslamabad'da yürütülen diplomatik görüşmelerin duraksadığı bildirildi. Arabulucular, Washington ve Tahran arasındaki anlaşmazlıkta diplomatik bir çözüm umuyor. Haberde, ABD ve İsrail'in İran'a karşı yürüttüğü savaşta bir diplomatik atılım beklendiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T15:46:52.209Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777215039509l49b6",
         "title": "Lübnanlı Gazeteci Amal Khalil Öldürüldü: Shireen Abu Akleh Benzetmesi",
         "summary": "Lübnanlı gazeteci Amal Khalil'in susturulma girişimlerine boyun eğmeyi reddettiği için öldürüldüğü bildirildi. Haber başlığında, İsrail'in Khalil'den, daha önce öldürülen Filistinli-Amerikalı gazeteci Shireen Abu Akleh'ten korktuğu gibi korktuğu ifade ediliyor. Bu olay, bölgedeki gazetecilerin karşılaştığı riskleri ve ifade özgürlüğü üzerindeki baskıları bir kez daha gündeme getiriyor. Gazetecinin ölümü, Orta Doğu'da basın özgürlüğü ve insan hakları konularında endişeleri artırdı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "177709413272415k7b",
-        "title": "İsrail, Gazze'deki saldırılarını artırdı: 12 kişi hayatını kaybetti",
-        "summary": "İsrail güçleri, Gazze Şeridi genelinde düzenlediği çeşitli saldırılarda 12 Filistinliyi öldürdü. Hayatını kaybedenler arasında altı polis memuru da bulunuyor. Bu saldırılar, bölgedeki gerilimi daha da tırmandırdı. Olaylar, uluslararası toplumda endişeyle karşılanırken, bölgedeki güvenlik durumu yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T05:15:32.724Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
