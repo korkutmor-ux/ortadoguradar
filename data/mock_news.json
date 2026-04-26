@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777237547675x0l3f",
+        "title": "İsrailli Yerleşimci, El Halil'de Filistinli Aktivistin Evine Saldırdı",
+        "summary": "Batı Şeria'nın El Halil kentinde bir İsrailli yerleşimcinin, Filistinli aktivist Issa Amro'nun evine saldırdığı bildirildi. Çekilen görüntülerde, yerleşimcinin aktivistin evine taş attığı ve içeri girmeye çalıştığı kaydedildi. Olay sırasında bir İsrail askerinin de bölgede bulunduğu ancak müdahale etmediği belirtildi. Bu saldırı, bölgedeki İsrailli yerleşimciler ile Filistinliler arasındaki gerilimi bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33905466/pexels-photo-33905466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T21:05:47.675Z",
+        "location": {
+            "lat": 31.53,
+            "lng": 35.1,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1777233872639sxnbx",
         "title": "Suriye İç Savaşı'ndaki Tadamon Katliamı'nın Kilit Şüphelisi Tutuklandı",
         "summary": "Suriye iç savaşı sırasında 2013 yılında Şam'ın Tadamon bölgesinde meydana gelen ve çok sayıda sivilin öldürüldüğü katliamın kilit şüphelisi Amjad Youssef tutuklandı. Youssef, Nisan 2013'te gözleri bağlı sivillerin toplu infazından sorumlu tutuluyordu. Bu olay, Suriye'deki çatışmaların en vahşi eylemlerinden biri olarak kayıtlara geçmişti. Şüphelinin yakalanması, savaş suçlarının faillerinin adalet önüne çıkarılması yönündeki uluslararası çabalara katkı sağlayacak önemli bir gelişme olarak değerlendirilmektedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/local-elections-begin-in-occupied-west-bank-gaza-strips-deir-al-balah/3917532",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104548497imo10",
-        "title": "İran Dışişleri Bakanı, ABD ile Olası İkinci Tur Görüşmeleri İçin Pakistan Ordu Komutanı ile Bir Araya Geldi",
-        "summary": "İran Dışişleri Bakanı, ABD ile potansiyel ikinci tur görüşmeleri değerlendirmek üzere Pakistan'a resmi bir ziyaret gerçekleştirdi. Bakan, İslamabad'da Pakistan Ordu Komutanı ile bir araya gelerek bu önemli konuyu masaya yatırdı. Görüşmelerin, daha önce kesintiye uğrayan müzakerelerin yeniden başlaması ihtimalini taşıdığı belirtildi. İranlı yetkili Araghchi'nin, bu diplomatik temaslar için Cuma günü geç saatlerde İslamabad'a ulaştığı bildirildi. Bu görüşmeler, bölgesel diplomasi ve ABD-İran ilişkilerinin geleceği açısından kritik bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644014/pexels-photo-7644014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:09:08.497Z",
-        "location": {
-            "lat": 33.6844,
-            "lng": 73.0479,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-fm-meets-pakistans-army-chief-to-discuss-possible-2nd-round-of-talks-with-us/3917518",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
