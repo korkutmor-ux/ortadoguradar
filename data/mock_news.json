@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777233872639sxnbx",
+        "title": "Suriye İç Savaşı'ndaki Tadamon Katliamı'nın Kilit Şüphelisi Tutuklandı",
+        "summary": "Suriye iç savaşı sırasında 2013 yılında Şam'ın Tadamon bölgesinde meydana gelen ve çok sayıda sivilin öldürüldüğü katliamın kilit şüphelisi Amjad Youssef tutuklandı. Youssef, Nisan 2013'te gözleri bağlı sivillerin toplu infazından sorumlu tutuluyordu. Bu olay, Suriye'deki çatışmaların en vahşi eylemlerinden biri olarak kayıtlara geçmişti. Şüphelinin yakalanması, savaş suçlarının faillerinin adalet önüne çıkarılması yönündeki uluslararası çabalara katkı sağlayacak önemli bir gelişme olarak değerlendirilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7714895/pexels-photo-7714895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T20:04:32.639Z",
+        "location": {
+            "lat": 33.51,
+            "lng": 36.28,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177722532326139q9e",
         "title": "İran, Savaş Belirsizliğinde Ekonomik Odağını Temel İhtiyaçlara Kaydırıyor",
         "summary": "İran hükümeti, ülkedeki savaş belirsizliğinin yarattığı ekonomik baskılar karşısında yeni adımlar atıyor. Bu kapsamda, temel ihtiyaç maddeleri için alınan bir döviz kararını kısmen geri çekme kararı alındı. Ayrıca, devletin egemen varlık fonundan kaynak aktarımı yapılacağı belirtildi. Bu hamlelerin, vatandaşların temel ihtiyaçlarını güvence altına almayı ve ekonomik istikrarı sağlamayı hedeflediği ifade ediliyor. Ülkenin ekonomik politikalarında yaşanan bu değişim, bölgesel gerilimlerin iç ekonomiye yansımaları olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "İslamabad, Pakistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iranian-fm-meets-pakistans-army-chief-to-discuss-possible-2nd-round-of-talks-with-us/3917518",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104571351sgerr",
-        "title": "İran, ABD ile Savaşta Füze Yeteneklerinin Çoğunun Kullanılmadığını Bildirdi",
-        "summary": "İran'dan yapılan bir açıklamada, ABD ile olası bir savaş durumunda füze yeteneklerinin büyük bir kısmının kullanılmadığı belirtildi. Tasnim Haber Ajansı'nın aktardığına göre, bir Bakan Yardımcısı sözcüsü, İran güçlerinin söz konusu savaş boyunca İsrail toprakları üzerinde 'tam hava üstünlüğünü' koruduğunu ifade etti. Bu açıklama, İran'ın askeri kapasitesine ve bölgesel güç dengesine dair önemli bir mesaj olarak değerlendirildi. İran'ın bu tür bir çatışmada sahip olduğu askeri potansiyeli vurgulaması, bölgedeki güvenlik dinamiklerini etkileyebilecek bir gelişme olarak öne çıkıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14207910/pexels-photo-14207910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:09:31.351Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-most-missile-capabilities-unused-in-war-with-us-report/3917466",
         "trendScore": 80,
         "isBreaking": false
     }
