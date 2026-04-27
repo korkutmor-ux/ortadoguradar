@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777248351318go9bu",
+        "title": "İran Dışişleri Bakanı Rusya'ya Gidiyor, Trump Tahran'a Görüşme Teklif Etti",
+        "summary": "İran Dışişleri Bakanı, ABD Başkanı Donald Trump'ın İranlı liderlerin görüşmek istemeleri halinde telefonla arayabileceklerini belirtmesinin ardından Rusya'ya bir ziyaret gerçekleştirecek. Bu diplomatik hamle, İran ile uluslararası güçler arasındaki mevcut gerilimi azaltma veya diplomatik yollarla çözüm bulma çabalarının bir parçası olarak değerlendiriliyor. Görüşmelerin, bölgedeki durumu ve nükleer anlaşma gibi konuları ele alması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8518815/pexels-photo-8518815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T00:05:51.318Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777241040211uydic",
         "title": "İran Dışişleri Bakanı Pakistan'dan Rusya'ya Geçti",
         "summary": "İran Dışişleri Bakanı, Pakistan ziyaretinin ardından Rusya'ya hareket etti. İran Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Bakan Abbas Araghchi, Moskova'da üst düzey Rus yetkililerle bir araya gelecek. Görüşmelerin içeriği hakkında detay verilmezken, bölgesel ve uluslararası konuların ele alınması bekleniyor. Bu ziyaret, İran'ın dış politikasındaki aktif rolünü ve Rusya ile olan ilişkilerinin önemini bir kez daha vurguluyor.",
@@ -780,22 +796,6 @@
             "name": "Basra Körfezi, Orta Doğu"
         },
         "source": "https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104478966irfot",
-        "title": "İsrail Polisi, Yahudi Takkesinden Filistin Bayrağı Kestiği İddiasını Soruşturuyor",
-        "summary": "İsrail polisi, bir memurun bir Yahudi takkesinden (kippa) Filistin bayrağını kestiği iddiasıyla ilgili bir soruşturma başlattı. Olay, İsrail ve Filistin bayraklarının işlendiği bir kippa takan İngiliz-İsrailli bir adamın, takkesinin birileri tarafından rahatsız edici bulunması üzerine gözaltına alınmasıyla meydana geldi. Adam, gözaltına alındıktan sonra takkesindeki Filistin bayrağının kesildiğini iddia ediyor. Bu soruşturma, polis memurlarının eylemlerini ve olayın detaylarını aydınlatmayı hedefliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32304422/pexels-photo-32304422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:07:58.966Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
