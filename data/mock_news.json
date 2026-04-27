@@ -1,5 +1,21 @@
 [
     {
+        "id": "17773326301955hghq",
+        "title": "İran, BM'de ABD ve İsrail'i Saldırganlıkla Suçladı, Hürmüz Boğazı'ndaki Eylemlerini Savundu",
+        "summary": "İran, Birleşmiş Milletler'de yaptığı açıklamada ABD ve İsrail'i saldırganlıkla suçladı. İran temsilcisi, ABD ve İsrail rejiminin 28 Şubat'tan bu yana İran'a karşı haksız ve büyük çaplı bir saldırı savaşı başlattığını iddia etti. Tahran yönetimi, aynı zamanda stratejik öneme sahip Hürmüz Boğazı'ndaki eylemlerini uluslararası platformda savundu. Bu açıklamalar, Orta Doğu'daki mevcut gerilimin diplomatik arenaya taşındığını göstermektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T23:30:30.195Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/iran-accuses-us-israel-of-aggression-defends-actions-in-strait-of-hormuz-at-un/3919896",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777328785650po105",
         "title": "Bahreyn, İran desteği nedeniyle 69 kişinin vatandaşlığını iptal etti",
         "summary": "Bahreyn hükümeti, İran'ı destekledikleri iddiasıyla 69 kişinin vatandaşlığını iptal ettiğini duyurdu. Bu karar, uluslararası insan hakları örgütleri tarafından sert bir şekilde eleştirildi. Hak grupları, söz konusu adımı 'gücün açıkça kötüye kullanılması' olarak nitelendirdi. Bahreyn'in bu hamlesi, ülkenin iç güvenlik endişeleri ve İran ile olan gergin ilişkileri bağlamında değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Gazze Şeridi, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/brown-university-professor-describes-gaza-war-as-genocide-/3918146",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777173795743z82kf",
-        "title": "ABD-İran Barış Görüşmelerinin Duraksaması Üzerine Tel Aviv'de Protesto",
-        "summary": "Tel Aviv'de pazar günü yüzlerce İsrailli protestocu sokağa çıktı. Gösteriler, ABD ile İran arasındaki barış görüşmelerinin duraksamasıyla eş zamanlı olarak gerçekleşti. Protestocular, ABD ve İsrail'in İran'a karşı olası bir savaşının yeniden başlayabileceği yönündeki endişelerini dile getirdi. Bu durum, bölgedeki gerilimin artması ve diplomatik çözüm arayışlarının zorlaşmasıyla ilgili kaygıları yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5428361/pexels-photo-5428361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T03:23:15.743Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
