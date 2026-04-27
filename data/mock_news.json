@@ -1,5 +1,69 @@
 [
     {
+        "id": "1777312200015p2se8",
+        "title": "İsrail'de Bennett-Lapid İttifakı Netanyahu'yu Devirme Girişiminde",
+        "summary": "İsrail'de siyasi analistler, Naftali Bennett ve Yair Lapid'in Başbakan Binyamin Netanyahu'yu görevden uzaklaştırmak amacıyla yeniden bir ittifak kurduğunu belirtiyor. Bu ittifakın, iktidarı ele geçirme yönündeki yenilenmiş bir girişim olduğu ifade ediliyor. Analistler, bu siyasi hamlenin Filistinliler için kayda değer bir değişiklik getirmeyeceği uyarısında bulunuyor. İç siyasi dinamiklerin, Filistinliler üzerindeki etkisinin sınırlı kalacağı öngörülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32304414/pexels-photo-32304414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T17:50:00.015Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777312226243owd7f",
+        "title": "Korsanlık Şüphesiyle Kargo Gemisi Somali'ye Yönlendirildi, Hürmüz Boğazı Kapanma Tehdidi Altında",
+        "summary": "Korsanlık şüphesiyle bir kargo gemisinin Somali'ye doğru yönlendirildiği bildirildi. Bu olay, deniz trafiğinin Afrika'ya yönlendirildiği ve küresel enerji tedariki için hayati önem taşıyan Hürmüz Boğazı'nın fiilen kapalı olduğu bir dönemde yaşanıyor. Hürmüz Boğazı'ndaki bu durum, Orta Doğu'daki deniz güvenliği endişelerini artırırken, uluslararası denizcilik rotaları üzerindeki baskıyı da yükseltiyor. Bölgedeki gerilimler, deniz taşımacılığı ve enerji piyasaları üzerinde doğrudan etki yaratma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12569906/pexels-photo-12569906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T17:50:26.243Z",
+        "location": {
+            "lat": 27.19,
+            "lng": 56.29,
+            "name": "Bandar Abbas, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777312250266gwre7",
+        "title": "İran Savaşı Milyonları Yoksulluğa Sürükler mi?",
+        "summary": "ABD ve İsrail'in İran'a yönelik olası bir askeri müdahalesinin, küresel çapta yakıt ve gıda maliyetlerini önemli ölçüde artırabileceği belirtiliyor. Bu durumun, dünya genelinde 32,5 milyon insanı yoksulluk riskiyle karşı karşıya bırakabileceği ifade ediliyor. Orta Doğu'daki potansiyel bir çatışmanın, enerji piyasaları ve tedarik zincirleri üzerindeki olumsuz etkileri nedeniyle küresel ekonomide ciddi dalgalanmalara yol açabileceği vurgulanıyor. Uzmanlar, bölgedeki gerilimin küresel refah üzerindeki potansiyel yıkıcı etkileri konusunda uyarıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T17:50:50.266Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17773122938836806h",
+        "title": "İran'da Kararları Kim Veriyor?",
+        "summary": "İran'daki karar alma süreçlerinin karmaşıklığına dikkat çeken haber, ülkenin yeni Yüce Lideri'nin nihai söz sahibi olması beklentisine rağmen, pratikte durumun çok daha belirsiz olduğunu belirtiyor. Bu durum, İran'ın iç ve dış politikalarında farklı güç odaklarının etkili olabileceğine işaret ediyor. Ülkenin yönetim yapısındaki bu belirsizlik, gelecekteki politikaların yönünü etkileyebilecek önemli bir faktör olarak değerlendiriliyor. Haber, İran'ın siyasi sistemindeki güç dengelerini ve liderlik mekanizmalarını sorguluyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/8846952/pexels-photo-8846952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T17:51:33.883Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777306127829r5p7a",
         "title": "Almanya'dan Merz: ABD'nin İran'a Yönelik Savaşında Stratejisi Yok",
         "summary": "Almanya Şansölyesi Friedrich Merz, ABD'nin İran'a karşı yürüttüğü savaşta net bir çıkış stratejisine sahip olmadığını ifade etti. Merz'in bu açıklaması, uluslararası arenada İran ile ilgili artan gerilimler ve bölgesel istikrarsızlık endişeleri bağlamında dikkat çekti. ABD'nin İran politikalarının uzun vadeli sonuçları ve bölge üzerindeki potansiyel etkileri, küresel çapta tartışma konusu olmaya devam ediyor. Alman liderin bu sözleri, Washington'ın Orta Doğu'daki askeri angajmanlarına yönelik eleştirileri bir kez daha gündeme getirirken, Almanya'nın ABD'nin dış politikalarına ilişkin endişelerini de yansıtmaktadır.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777143557878s2dc2",
-        "title": "Gazze'nin Deir el-Balah Kentinde Seçim Sevinci ve Değişim Arzusu",
-        "summary": "Gazze Şeridi'ndeki Deir el-Balah kentinde, 2006 yılından bu yana ilk kez yerel seçimler düzenlendi. Bölgedeki yoğun yıkım, yerinden edilme ve soykırım iddialarına rağmen, kent sakinleri sandık başına giderek oy kullandı. Halkın bu seçimlere katılımı, hem bir sevinç kaynağı hem de mevcut zorlu koşullar altında değişim arzusunun güçlü bir göstergesi olarak değerlendiriliyor. Seçimler, bölgenin karşı karşıya olduğu zorluklara rağmen demokratik süreçlere olan inancı yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T18:59:17.878Z",
-        "location": {
-            "lat": 31.41,
-            "lng": 34.34,
-            "name": "Deir el-Balah, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777143621671gwzeu",
-        "title": "Suriye Devlet Başkanı ve Lübnanlı Dürzi Lider Şam'da Bölgesel Gelişmeleri Görüştü",
-        "summary": "Suriye Devlet Başkanı ve Lübnanlı Dürzi lider Jumblatt, Şam'daki başkanlık sarayında bir araya geldi. Görüşmede, taraflar Orta Doğu'daki son bölgesel gelişmeleri detaylı bir şekilde değerlendirdi. Toplantıda, bölgenin karşı karşıya olduğu zorluklar ve işbirliği imkanları üzerinde duruldu. Bu buluşma, iki ülke arasındaki ilişkilerin ve bölgesel istikrarın önemini vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T19:00:21.671Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-lebanese-druze-leader-discuss-regional-developments-in-damascus/3918076",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777135894334h69pb",
-        "title": "Sudan'ın Kordofan Bölgesi'ne RSF İHA Saldırısı: 7 Ölü, 22 Yaralı",
-        "summary": "Sudan'ın Kordofan bölgesinde Hızlı Destek Kuvvetleri (RSF) tarafından düzenlenen insansız hava aracı (İHA) saldırısında ilk belirlemelere göre 7 kişi hayatını kaybetti, 22 kişi yaralandı. Sudan Doktorlar Ağı, saldırının sivil yerleşim yerlerini hedef aldığını iddia etti. Ağ, uluslararası toplumu sivilleri korumak için Hızlı Destek Kuvvetleri üzerinde baskı kurmaya çağırdı. Bu olay, Sudan'da devam eden çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T16:51:34.334Z",
-        "location": {
-            "lat": 13.17,
-            "lng": 30.22,
-            "name": "Kordofan, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/7-killed-22-injured-in-rsf-drone-attack-on-sudan-s-kordofan-medics/3917952",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777135917892f68i1",
-        "title": "İran'ın ABD Üslerine Verdiği Hasar Açıklanandan Daha Büyük: Rapor",
-        "summary": "NBC tarafından yayımlanan bir rapora göre, İran'ın Orta Doğu'daki ABD askeri üslerine yönelik misilleme saldırılarının yol açtığı hasar, daha önce kamuoyuna açıklanandan çok daha kapsamlı boyutlarda. Söz konusu rapor, bu saldırıların onarım maliyetinin milyarlarca dolara ulaşmasının beklendiğini ortaya koyuyor. İran'ın bu eylemleri, bölgedeki gerilimin ciddiyetini ve askeri altyapı üzerindeki yıkıcı etkilerini bir kez daha gözler önüne serdi. Hasarın gerçek boyutu, ABD ve İran arasındaki ilişkilerin kırılganlığını ve potansiyel çatışma risklerini yeniden gündeme taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19822632/pexels-photo-19822632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T16:51:57.892Z",
-        "location": {
-            "lat": 30,
-            "lng": 40,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-inflicted-extensive-damage-to-us-bases-than-previously-disclosed-report/3917950",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
