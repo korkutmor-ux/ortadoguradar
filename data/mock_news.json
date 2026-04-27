@@ -1,5 +1,37 @@
 [
     {
+        "id": "17773187165525jayx",
+        "title": "Lübnan-İsrail Müzakereleri ve Beyrut Kamuoyu",
+        "summary": "Lübnan ve İsrail arasında otuz yılı aşkın bir süredir ilk doğrudan müzakereler bu ayın başlarında Washington'da gerçekleşti. Bu tarihi görüşmelerde Lübnanlı liderler İsrailli yetkililerle bir araya geldi. Haber, Beyrut'taki vatandaşların bu müzakerelere ilişkin düşüncelerini ve beklentilerini mercek altına alıyor. Kamuoyunun, iki ülke arasındaki ilişkilerin geleceği ve olası anlaşmalar hakkındaki görüşleri önem taşıyor. Bu müzakerelerin bölgedeki barış ve istikrara etkileri de tartışılıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T19:38:36.552Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/27/what-people-in-beirut-think-about-the-lebanon-israel-negotiations?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777318739040kyqo9",
+        "title": "Irak Cumhurbaşkanı, Şii Blok Adayı Ali el-Zaidi'yi Başbakan Adayı Olarak Atadı",
+        "summary": "Irak Cumhurbaşkanı, aylardır süren siyasi çıkmazın ardından Şii blok adayı Ali el-Zaidi'yi başbakan adayı olarak belirledi. Bu atama, ülkedeki hükümet kurma sürecinde yaşanan tıkanıklığı sona erdirmeyi hedefliyor. Daha önce eski Başbakan Nuri el-Maliki'nin atanmasına yönelik girişimler, ABD'nin itirazları nedeniyle sonuçsuz kalmıştı. El-Zaidi'nin seçimi, özellikle İran yanlısı olarak bilinen el-Maliki'nin adaylığının ABD tarafından reddedilmesinin ardından geldi. Yeni başbakan adayının, ülkedeki siyasi istikrarı sağlama ve farklı gruplar arasında uzlaşı sağlama çabalarına liderlik etmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33634805/pexels-photo-33634805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T19:38:59.040Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777312200015p2se8",
         "title": "İsrail'de Bennett-Lapid İttifakı Netanyahu'yu Devirme Girişiminde",
         "summary": "İsrail'de siyasi analistler, Naftali Bennett ve Yair Lapid'in Başbakan Binyamin Netanyahu'yu görevden uzaklaştırmak amacıyla yeniden bir ittifak kurduğunu belirtiyor. Bu ittifakın, iktidarı ele geçirme yönündeki yenilenmiş bir girişim olduğu ifade ediliyor. Analistler, bu siyasi hamlenin Filistinliler için kayda değer bir değişiklik getirmeyeceği uyarısında bulunuyor. İç siyasi dinamiklerin, Filistinliler üzerindeki etkisinin sınırlı kalacağı öngörülüyor.",
@@ -764,38 +796,6 @@
             "name": "Amerika Birleşik Devletleri"
         },
         "source": "https://www.aljazeera.com/news/2026/4/25/family-longest-held-in-us-immigration-detention-re-arrested-after-release?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17771568816888xrh4",
-        "title": "NATO İçinde İran Savaşına Katılım Konusunda Gerilim",
-        "summary": "NATO içinde, eski ABD Başkanı Donald Trump'ın Avrupa ülkelerinin İran'a karşı olası bir savaşa katılmayı reddetmesi üzerine ciddi bir gerilim yaşandığı belirtiliyor. Bu durum, ittifakın geleceği ve üyeler arasındaki işbirliği konusunda derin soru işaretleri yaratmaktadır. Avrupa ülkelerinin bu konudaki tutumu, Orta Doğu'daki potansiyel çatışmalara yönelik farklı yaklaşımları gözler önüne sermektedir. Söz konusu gerilim, NATO'nun ortak dış politika ve güvenlik stratejileri üzerindeki etkileri açısından yakından takip edilmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/19343533/pexels-photo-19343533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T22:41:21.689Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777143519433lvmr5",
-        "title": "Trump, İranlı Yetkilinin Pakistan Ziyareti Sonrası ABD Elçilerinin Seyahatini İptal Etti",
-        "summary": "ABD Başkanı Donald Trump, İranlı yetkili Araghchi'nin Pakistan'dan ayrılmasının ardından ABD elçilerinin planlanan seyahatini iptal ettiğini duyurdu. Trump, daha sonraki görüşmelerin telefon üzerinden yapılabileceğini ima ederek, \"Konuşmak istiyorlarsa, tek yapmaları gereken aramak!!!\" ifadelerini kullandı. Bu gelişme, ABD ile İran arasındaki gerilimli diplomatik ilişkiler ve potansiyel müzakereler bağlamında önemli bir adım olarak değerlendiriliyor. İptal edilen seyahat ve Trump'ın açıklaması, iki ülke arasındaki iletişim kanallarının geleceğine dair belirsizliği artırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8770999/pexels-photo-8770999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T18:58:39.433Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
