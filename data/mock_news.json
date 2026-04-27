@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777306127829r5p7a",
+        "title": "Almanya'dan Merz: ABD'nin İran'a Yönelik Savaşında Stratejisi Yok",
+        "summary": "Almanya Şansölyesi Friedrich Merz, ABD'nin İran'a karşı yürüttüğü savaşta net bir çıkış stratejisine sahip olmadığını ifade etti. Merz'in bu açıklaması, uluslararası arenada İran ile ilgili artan gerilimler ve bölgesel istikrarsızlık endişeleri bağlamında dikkat çekti. ABD'nin İran politikalarının uzun vadeli sonuçları ve bölge üzerindeki potansiyel etkileri, küresel çapta tartışma konusu olmaya devam ediyor. Alman liderin bu sözleri, Washington'ın Orta Doğu'daki askeri angajmanlarına yönelik eleştirileri bir kez daha gündeme getirirken, Almanya'nın ABD'nin dış politikalarına ilişkin endişelerini de yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T16:08:47.829Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/27/germanys-merz-says-us-has-no-strategy-in-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17773062508452ujuh",
+        "title": "ABD'den Tunus'a Sınır Güvenliği Ekipmanı Satışı Onayı",
+        "summary": "Amerika Birleşik Devletleri Dışişleri Bakanlığı, Tunus'a yönelik olası bir sınır projesi için ekipman satışını onayladığını duyurdu. Savunma Güvenlik İşbirliği Ajansı'ndan yapılan açıklamaya göre, bu potansiyel satışın tahmini maliyeti 95 milyon dolar olarak belirlendi. Söz konusu ekipmanların, Tunus'un sınır güvenliğini güçlendirme çabalarına destek olması bekleniyor. Bu onay, ABD'nin Kuzey Afrika'daki güvenlik ortaklarına verdiği desteğin bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13398906/pexels-photo-13398906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T16:10:50.845Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-state-department-approves-possible-sale-of-equipment-for-tunisian-border-project/3919577",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17772905141148ei2g",
         "title": "Gazze'de Ateşkes Devam Ederken İsrail Ordusu Ateşiyle Bir Filistinli Öldürüldü, Bir Diğeri Yaralandı",
         "summary": "Gazze Şeridi'nde yaşanan son olayda, İsrail ordusunun açtığı ateş sonucu bir Filistinli hayatını kaybederken, bir diğeri yaralandı. Bu olay, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Haber kaynakları, saldırının ateşkes ihlallerinin sürdüğü ve İsrail'in bölgedeki operasyonlarının devam ettiği bir dönemde meydana geldiğini bildirdi. Yaşanan bu gelişme, Gazze'deki gerilimin ve güvenlik endişelerinin devam ettiğini gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-inflicted-extensive-damage-to-us-bases-than-previously-disclosed-report/3917950",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "177712465369700psv",
-        "title": "Endonezyalı BM Barış Gücü Mensubu Lübnan'da Öldürülen Altıncı Kişi Oldu",
-        "summary": "Birleşmiş Milletler (BM) Barış Gücü bünyesinde görev yapan Endonezyalı bir asker, Lübnan'ın güneyinde yaşanan son çatışmalarda hayatını kaybetti. Bu olayla birlikte, bölgedeki düşmanlıklarda yaşamını yitiren BM barış gücü mensuplarının sayısı altıya yükseldi. Endonezyalı askerin ölümü, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. BM yetkilileri, barış gücü askerlerinin güvenliğinin sağlanması konusunda endişelerini dile getirdi ve olayın soruşturulacağını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35108475/pexels-photo-35108475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T13:44:13.697Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1777124674314i7212",
-        "title": "Tahran Havalimanı'nda Uçuşlar Yeniden Başladı",
-        "summary": "Tahran İmam Humeyni Uluslararası Havalimanı'nda uluslararası uçuşlar yeniden başladı. Haftalar süren kesintinin ardından uçuşların normale döndüğü belirtildi. Bu gelişme, ABD ile İran arasındaki ateşkesin devam etmesiyle birlikte yaşandı. Savaş nedeniyle aksayan seferlerin yeniden başlaması, bölgedeki gerilimin azaldığına işaret ediyor ve sivil havacılığın normalleşme sürecine girdiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32653098/pexels-photo-32653098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T13:44:34.314Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
