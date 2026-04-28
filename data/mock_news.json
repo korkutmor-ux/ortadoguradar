@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777352252755g5ug1",
+        "title": "Nijerya'nın Kuzeydoğusunda Silahlı Saldırıda En Az 29 Kişi Hayatını Kaybetti",
+        "summary": "Nijerya'nın kuzeydoğusundaki Adamawa eyaletine bağlı Guyaku köyünde düzenlenen silahlı saldırıda en az 29 kişi yaşamını yitirdi. Birkaç saat süren saldırının sorumluluğunu terör örgütü IŞİD (DEAŞ) üstlendi. Bölgedeki güvenlik durumu endişe yaratmaya devam ederken, saldırı örgütün Afrika kıtasındaki faaliyetlerinin bir göstergesi olarak değerlendiriliyor. Olay, Nijerya'nın kuzeydoğusunda terör örgütlerinin neden olduğu şiddet olaylarının devam ettiğini gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15626454/pexels-photo-15626454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T04:57:32.755Z",
+        "location": {
+            "lat": 9.2,
+            "lng": 12.48,
+            "name": "Guyaku Köyü, Adamawa Eyaleti, Nijerya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/28/gunmen-kill-at-least-29-in-nigerias-northeast-adamawa-state?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777339007097g26tx",
         "title": "Hürmüz Boğazı Gerilimi: BM Küresel Gıda Krizi Uyarısı Yaparken, Trump Barış Planını İnceliyor",
         "summary": "Birleşmiş Milletler Genel Sekreteri, ABD ile İran arasında Hürmüz Boğazı'nda yaşanan gerilimin küresel bir gıda acil durumunu tetikleme riski taşıdığı konusunda uyarıda bulundu. BM, stratejik öneme sahip Hürmüz Boğazı'nın uluslararası denizcilik için yeniden açılması çağrısını yineledi. Bu çağrı, bölgedeki seyrüsefer güvenliğinin ve uluslararası ticaretin kesintisiz devamının kritik önemini vurguluyor. Haber başlığında ayrıca ABD Başkanı Trump'ın bölgedeki tansiyonu düşürmeye yönelik bir barış planını gözden geçirdiği bilgisi yer alıyor.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/war-in-lebanon-carries-huge-political-cost-with-no-military-solution-to-hezbollah-missiles-israeli-media/3918165",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777183339040zv7yx",
-        "title": "ABD, Umman Denizi'nde Yaptırım Uygulanan Gemiyi Durdurdu, İran'a Yönlendirdi",
-        "summary": "ABD Merkez Komutanlığı (CENTCOM), Umman Denizi'nde yaptırım uygulanan bir gemiye müdahale ettiğini ve gemiyi İran'a geri yönlendirdiğini açıkladı. Bu olay, ABD'nin bölgedeki deniz ablukası uygulamalarını kararlılıkla sürdürdüğünü gösteriyor. CENTCOM, devam eden abluka faaliyetleri kapsamında bugüne kadar toplam 37 geminin geri çevrildiğini bildirdi. Bu tür müdahaleler, uluslararası yaptırımların uygulanması ve bölgesel deniz güvenliğinin sağlanması çabalarının bir parçası olarak değerlendirilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34070726/pexels-photo-34070726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T06:02:19.040Z",
-        "location": {
-            "lat": 18,
-            "lng": 65,
-            "name": "Umman Denizi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-intercepts-sanctioned-vessel-in-arabian-sea-redirects-to-iran/3918149",
         "trendScore": 85,
         "isBreaking": false
     }
