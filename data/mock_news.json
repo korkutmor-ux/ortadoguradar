@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777409275169xve3d",
+        "title": "İran'daki 60 Günlük Savaşın Ardından ABD Kongresi Söz Sahibi Olmak İstiyor mu?",
+        "summary": "İran'da devam eden bir savaşın 60. gününe ulaşmasının ardından, ABD Kongresi'nin bu konudaki rolü tartışılmaya başlandı. Uzmanlar, mevcut yasalara göre ABD Başkanı Trump'ın savaşı sürdürmek için Kongre'nin onayını alması gerektiğini belirtiyor. Ancak, Kongre'nin bu meseleye müdahil olmaktan kaçınabileceği veya konuyu tamamen göz ardı edebileceği yönünde değerlendirmeler bulunuyor. Bu durum, ABD'nin dış politika ve askeri operasyon kararlarında yasama ve yürütme arasındaki yetki paylaşımını ve Kongre'nin savaş yetkileri üzerindeki potansiyel etkisini gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T20:47:55.169Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777409295364ld8yl",
+        "title": "İsrail Operasyonundan Kaynaklanan Büyük Patlama Güney Lübnan'da Görüldü",
+        "summary": "İsrail ordusunun açıklamasına göre, Güney Lübnan'da Hizbullah'a ait tünellere yönelik düzenlenen operasyonlar sırasında büyük patlamalar meydana geldi. Olayın görüntüleri bölgeden kaydedildi. İsrail, bu saldırıların Hizbullah'ın altyapısını hedef aldığını belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982175/pexels-photo-35982175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T20:48:15.364Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17774093959493k5wp",
+        "title": "Körfez Liderleri Hürmüz Boğazı'nda Serbest Seyrüsefer Çağrısı Yaptı, Ücretleri Reddetti",
+        "summary": "Körfez ülkeleri liderleri, Hürmüz Boğazı'ndan geçen gemilere herhangi bir ücret uygulanmasını kesin bir dille reddetti ve uluslararası hukuka uygun olarak serbest seyrüseferin devam etmesi çağrısında bulundu. Körfez İşbirliği Konseyi (KİK) liderleri, İran'ın Hürmüz Boğazı'nı kapatma girişimini 'yasa dışı' olarak nitelendirerek bu adıma karşı çıktıklarını belirtti. Bu açıklamalar, küresel enerji ve ticaret için hayati önem taşıyan boğazın güvenliği ve statüsü üzerindeki bölgesel gerilimi gözler önüne serdi. Liderler, boğazın tüm gemilere açık kalmasının bölgesel ve küresel istikrar için kritik olduğunu vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4345477/pexels-photo-4345477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T20:49:55.949Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gulf-leaders-reject-any-fees-on-ships-transiting-hormuz-call-for-free-navigation/3920925",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777403316576k7gnk",
         "title": "Suriye'de Esad ve Eski Yetkililerin Yargılanmasında Sembolik Adalet Arayışı",
         "summary": "Suriye'de Beşar Esad ve eski yetkililerin yargılanmasıyla ilgili haber, ülkedeki adalet arayışının sembolik bir boyutunu ortaya koyuyor. Daha önce ölüm cezasına çarptırılan Yargıç el-Aryan'ın bu davaya başkanlık etmesi, sürecin dikkat çekici ve ironik bir yönü olarak öne çıkıyor. Bu durum, Suriye'deki geçiş dönemi adaletinin henüz tamamlanmaktan uzak olduğunu ve karmaşık zorluklarla karşı karşıya olduğunu gösteriyor. Haber, yargılamanın sembolik önemini ve ülkenin geleceği için taşıdığı anlamı vurguluyor.",
@@ -748,54 +796,6 @@
             "name": "Maskat, Umman"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-s-foreign-minister-says-oman-talks-focused-on-safe-transit-in-strait-of-hormuz/3918900",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777248351318go9bu",
-        "title": "İran Dışişleri Bakanı Rusya'ya Gidiyor, Trump Tahran'a Görüşme Teklif Etti",
-        "summary": "İran Dışişleri Bakanı, ABD Başkanı Donald Trump'ın İranlı liderlerin görüşmek istemeleri halinde telefonla arayabileceklerini belirtmesinin ardından Rusya'ya bir ziyaret gerçekleştirecek. Bu diplomatik hamle, İran ile uluslararası güçler arasındaki mevcut gerilimi azaltma veya diplomatik yollarla çözüm bulma çabalarının bir parçası olarak değerlendiriliyor. Görüşmelerin, bölgedeki durumu ve nükleer anlaşma gibi konuları ele alması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8518815/pexels-photo-8518815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T00:05:51.318Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777241040211uydic",
-        "title": "İran Dışişleri Bakanı Pakistan'dan Rusya'ya Geçti",
-        "summary": "İran Dışişleri Bakanı, Pakistan ziyaretinin ardından Rusya'ya hareket etti. İran Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Bakan Abbas Araghchi, Moskova'da üst düzey Rus yetkililerle bir araya gelecek. Görüşmelerin içeriği hakkında detay verilmezken, bölgesel ve uluslararası konuların ele alınması bekleniyor. Bu ziyaret, İran'ın dış politikasındaki aktif rolünü ve Rusya ile olan ilişkilerinin önemini bir kez daha vurguluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T22:04:00.211Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Moskova, Rusya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1777241146815a1cbh",
-        "title": "İsrailli İşgalciler Batı Şeria'da Ana Yolu Kapattı, Filistin Araçlarına Taş Attı",
-        "summary": "Batı Şeria'nın orta kesimlerinde İsrailli işgalcilerin ana bir yolu kapatarak Filistinlilere ait araçlara taşlı saldırıda bulunduğu bildirildi. Bu olay, bölgedeki gerilimi yeniden tırmandırdı. Resmi Filistin kaynaklarından alınan bilgilere göre, İsrail güçleri ve işgalciler Mart ayı boyunca Filistinlilere yönelik toplam 1.819 saldırı gerçekleştirdi. Bu saldırılar, bölgedeki güvenlik durumunun kırılganlığını ve devam eden çatışmaları gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T22:05:46.815Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-block-main-road-in-central-west-bank-stone-palestinian-vehicles/3918847",
         "trendScore": 85,
         "isBreaking": false
     }
