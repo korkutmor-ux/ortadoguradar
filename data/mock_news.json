@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777479414402jz979",
+        "title": "İsrail Dışişleri Bakanı, Trump ile İran Konusunda Görüş Ayrılıklarını Kabul Etti",
+        "summary": "İsrail Dışişleri Bakanı Gideon Saar, eski ABD Başkanı Donald Trump'ın yönetimiyle İran politikaları konusunda farklı görüşlere sahip olduklarını belirtti. Bakan Saar, İsrail'in İran'da rejim değişikliğini teşvik etmek için net bir fırsat ortaya çıkması halinde harekete geçeceğini ifade etti. Bu açıklama, İsrail'in İran'a yönelik uzun vadeli stratejik hedeflerini ve bölgedeki potansiyel müdahale niyetini ortaya koymaktadır. Söz konusu durum, Orta Doğu'daki güç dengeleri ve bölgesel güvenlik dinamikleri üzerinde önemli etkilere sahip olabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4502492/pexels-photo-4502492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T16:16:54.402Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-foreign-minister-acknowledges-differences-with-trump-over-iran/3921828",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17774794525057cdty",
+        "title": "İran Para Birimi, ABD ile Süregelen Gerilimler Ortasında Değer Kaybetti",
+        "summary": "İran'ın para birimi riyal, ABD ile devam eden çatışmalar ve piyasalardaki oynaklık nedeniyle dolar karşısında önemli ölçüde değer kaybetti. İran medyası, riyalin son iki günde dolar karşısında %14'ten fazla düşüş yaşadığını bildirdi. Bu durum, ülkenin ekonomik istikrarına yönelik endişeleri artırırken, piyasalardaki belirsizliğin bir göstergesi olarak yorumlanıyor. Değer kaybı, ABD ile süregelen siyasi ve ekonomik gerilimlerin doğrudan bir yansıması olarak görülüyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/30413636/pexels-photo-30413636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T16:17:32.505Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-currency-further-weakens-amid-ongoing-conflict-with-us/3921713",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777471593356t6v95",
         "title": "Lübnan'da İsrail Saldırısı: Beş Aile Üyesi Hayatını Kaybetti",
         "summary": "İsrail'in Lübnan topraklarına düzenlediği bir hava saldırısında aynı aileden beş kişinin yaşamını yitirdiği bildirildi. Saldırının, Lübnan'ın güney bölgelerinde gerçekleştiği ve hayatını kaybedenlerin sivil olduğu belirtildi. Bu olay, İsrail ile Lübnan arasındaki sınır hattında devam eden gerilimin ve çatışmaların bir parçası olarak değerlendiriliyor. Bölgedeki güvenlik durumu, bu tür saldırılarla daha da karmaşık bir hal alırken, uluslararası toplumdan itidal çağrıları yükseliyor.",
@@ -764,38 +796,6 @@
             "name": "Bandar Abbas, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777312250266gwre7",
-        "title": "İran Savaşı Milyonları Yoksulluğa Sürükler mi?",
-        "summary": "ABD ve İsrail'in İran'a yönelik olası bir askeri müdahalesinin, küresel çapta yakıt ve gıda maliyetlerini önemli ölçüde artırabileceği belirtiliyor. Bu durumun, dünya genelinde 32,5 milyon insanı yoksulluk riskiyle karşı karşıya bırakabileceği ifade ediliyor. Orta Doğu'daki potansiyel bir çatışmanın, enerji piyasaları ve tedarik zincirleri üzerindeki olumsuz etkileri nedeniyle küresel ekonomide ciddi dalgalanmalara yol açabileceği vurgulanıyor. Uzmanlar, bölgedeki gerilimin küresel refah üzerindeki potansiyel yıkıcı etkileri konusunda uyarıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T17:50:50.266Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17773122938836806h",
-        "title": "İran'da Kararları Kim Veriyor?",
-        "summary": "İran'daki karar alma süreçlerinin karmaşıklığına dikkat çeken haber, ülkenin yeni Yüce Lideri'nin nihai söz sahibi olması beklentisine rağmen, pratikte durumun çok daha belirsiz olduğunu belirtiyor. Bu durum, İran'ın iç ve dış politikalarında farklı güç odaklarının etkili olabileceğine işaret ediyor. Ülkenin yönetim yapısındaki bu belirsizlik, gelecekteki politikaların yönünü etkileyebilecek önemli bir faktör olarak değerlendiriliyor. Haber, İran'ın siyasi sistemindeki güç dengelerini ve liderlik mekanizmalarını sorguluyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/8846952/pexels-photo-8846952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T17:51:33.883Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
