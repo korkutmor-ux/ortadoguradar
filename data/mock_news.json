@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777591823180mkf48",
+        "title": "Eski ABD Yetkilileri, İran'daki Ölümcül Okul Saldırısı Konusunda Pentagon'un Sessizliğini Eleştirdi",
+        "summary": "Eski Amerikalı yetkililer, İran'da meydana gelen ve ölümcül sonuçlar doğuran bir okul saldırısına ilişkin Pentagon'un sessizliğini eleştirdi. Olayın üzerinden iki ay geçmesine rağmen, ABD Savunma Bakanlığı'nın bu konuda yalnızca bir soruşturma yürütüldüğünü belirtmesi dikkat çekti. Bu durum, ABD'nin İran'daki bu tür olaylara yaklaşımındaki şeffaflık ve hesap verebilirlik eksikliği konusunda endişeleri artırdı. Eski yetkililer, Pentagon'dan daha net bir açıklama ve hızlı bir yanıt beklediklerini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10082701/pexels-photo-10082701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T23:30:23.180Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777588172119sxk4q",
         "title": "Filistin Futbol Federasyonu Başkanı FIFA Kongresi'nde İsrail Federasyonu Başkan Yardımcısını Eleştirdi",
         "summary": "Kanada'da düzenlenen FIFA Kongresi'nde Filistin Futbol Federasyonu (FA) başkanı, İsrail Futbol Federasyonu başkan yardımcısına yönelik sert eleştirilerde bulundu. Kongrede Filistin ve İsrail temsilcilerinin birbirine yakın sıralarda oturduğu belirtildi. Bu olay, iki taraf arasındaki siyasi gerilimin uluslararası bir spor platformunda da kendini gösterdiğini ortaya koydu. Eleştirilerin içeriği ve İsrail tarafından gelen yanıtlar hakkında detay verilmedi.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777403457514uxxu9",
-        "title": "BM'den İsrail'e İşgal Altındaki Suriye Golan Tepeleri'ndeki Yerleşim Planlarını Durdurma Çağrısı",
-        "summary": "Birleşmiş Milletler, İsrail'in işgal altındaki Suriye Golan Tepeleri'nde yerleşim yerlerini genişletme planlarını durdurması gerektiğini belirtti. Birleşmiş Milletler sözcüsü, İsrail'in bu yöndeki rapor edilen planlarının derhal son bulması gerektiğini vurguladı. Bu çağrı, bölgedeki uluslararası hukuka aykırı yerleşim faaliyetlerine ilişkin endişeleri bir kez daha gündeme getirdi. Golan Tepeleri, 1967'deki Altı Gün Savaşı'ndan bu yana İsrail işgali altında bulunuyor ve uluslararası toplum tarafından Suriye toprağı olarak kabul ediliyor. BM, yerleşimlerin uluslararası hukuka göre yasa dışı olduğunu hatırlattı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33924951/pexels-photo-33924951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T19:10:57.514Z",
-        "location": {
-            "lat": 33,
-            "lng": 35.8,
-            "name": "Golan Tepeleri"
-        },
-        "source": "https://www.aa.com.tr/en/world/israel-must-stop-plans-to-expand-settlements-in-occupied-syrian-golan-heights-un/3920853",
         "trendScore": 85,
         "isBreaking": false
     }
