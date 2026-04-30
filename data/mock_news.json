@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777530743191cjo83",
+        "title": "Yeni Zelanda Mahkemesi, Christchurch Camii Saldırganının Temyiz Başvurusunu Reddetti",
+        "summary": "Yeni Zelanda'da bir mahkeme, 2019 yılında Christchurch'teki iki camide 51 Müslüman ibadet edeni, aralarında çocukların da bulunduğu kişileri öldüren Brenton Tarrant'ın mahkumiyetine itiraz başvurusunu reddetti. Tarrant, söz konusu saldırılarda işlediği cinayetler nedeniyle ömür boyu hapis cezasına çarptırılmıştı. Mahkemenin bu kararı, saldırganın cezasının onanması anlamına geliyor ve kurban yakınları ile Müslüman topluluklar için adalet arayışında önemli bir adım olarak değerlendiriliyor. Olay, dünya genelindeki Müslüman topluluklarında derin üzüntü ve endişe yaratmıştı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36409327/pexels-photo-36409327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T06:32:23.191Z",
+        "location": {
+            "lat": -43.5321,
+            "lng": 172.6362,
+            "name": "Christchurch, Yeni Zelanda"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "17775214255839ztz8",
         "title": "Trump'tan İran'a 'Vazgeç' Çağrısı; Ghalibaf ABD Stratejisini Eleştirdi",
         "summary": "İranlı yetkili Mohammad Bagher Ghalibaf, ABD'nin İran'a yönelik ekonomik baskı kampanyasını alaya aldı. Bu eleştiriler, petrol fiyatlarının yükseldiği ve Hürmüz Boğazı'ndaki gerilimin devam ettiği bir dönemde geldi. ABD Başkanı Trump'ın Tahran'a 'vazgeçme' çağrısı yaptığı belirtildi. Ghalibaf, ABD'nin stratejisinin hedeflerine ulaşmadığını ima ederek, mevcut durumu küçümsedi. Bölgedeki gerilim, küresel enerji piyasaları üzerindeki etkisini sürdürüyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-prime-minister-returns-to-court-for-1st-time-in-2-months-to-answer-corruption-charges/3920239",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17773617655445l6k6",
-        "title": "İran'ın Hürmüz Boğazı Teklifine Rağmen Petrol Fiyatları Yükseldi",
-        "summary": "İran'ın nükleer müzakerelerin ertelenmesi karşılığında Hürmüz Boğazı'nı yeniden açma teklifine rağmen, Brent petrolün varil fiyatı yüzde 1'den fazla artış gösterdi. Bu durum, küresel enerji piyasalarında devam eden belirsizliği ve jeopolitik risk algısını yansıttı. İran'ın stratejik su yolunu açma önerisi, bölgedeki gerilimi azaltma potansiyeli taşısa da, piyasalar bu gelişmeye olumlu tepki vermedi. Analistler, yükselişteki temel nedenlerin küresel arz endişeleri ve artan talep beklentileri olduğunu belirtiyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/20014443/pexels-photo-20014443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T07:36:05.544Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
