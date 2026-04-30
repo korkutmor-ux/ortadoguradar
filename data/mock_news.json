@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777562848852e7z7f",
+        "title": "Suudi Arabistan LIV Golf Finansmanını Sonlandırıyor, Lig Yeni Başkan Atadı",
+        "summary": "Suudi Arabistan'ın Kamu Yatırım Fonu (PIF) tarafından desteklenen LIV Golf ligi, Suudi Arabistan'ın doğrudan finansmanını sonlandıracağını açıkladı. Lig yönetimi, gelecekte çok sayıda ortak ve takım franchise'larını içeren yeni bir yatırım modeline geçiş yapmayı hedeflediğini duyurdu. Bu stratejik değişiklik, LIV Golf'ün finansal yapısında önemli bir dönüşüme işaret ediyor. Aynı zamanda lig, yönetim kadrosunda da değişikliğe giderek yeni bir başkan atadı. Bu adımların, LIV Golf'ün sürdürülebilirliğini ve küresel büyümesini sağlamak amacıyla atıldığı belirtiliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8358133/pexels-photo-8358133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T15:27:28.852Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6061,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17775476602799ewri",
         "title": "Somali, küresel güvenlik forumlarında kendi kaderini belirliyor",
         "summary": "Haber, Somali'nin Birleşmiş Milletler ve Afrika Birliği'ndeki yeni rolleriyle uluslararası arenadaki konumunu güçlendirdiğini belirtiyor. Ülke, daha önce kararların konusu olmaktan çıkarak, artık bu kararların şekillendirilmesine aktif olarak katkıda bulunuyor. Bu değişim, Somali'nin küresel güvenlik meselelerinde daha etkin bir aktör olma yolunda önemli bir adım olarak değerlendiriliyor. Yeni roller, Somali'nin uluslararası ilişkilerde ve bölgesel güvenlik dinamiklerinde artan etkisini yansıtıyor.",
@@ -780,22 +796,6 @@
             "name": "Sana'a, Yemen"
         },
         "source": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777378317537wdkug",
-        "title": "ABD-İsrail Çatışması İran'a Yönelik Yaptırım Rejimini Zayıflatıyor",
-        "summary": "ABD ile İsrail arasındaki mevcut çatışmanın, İran'a uygulanan uluslararası yaptırım rejimini zayıflattığı belirtiliyor. Habere göre, İran'a yönelik yaptırımları aşma mekanizmaları zaten mevcut durumdaydı. Ancak bölgedeki bu çatışma, daha fazla kuruluşun bu mekanizmalar aracılığıyla İran ile iş yapmaya teşvik olmasına neden oluyor. Bu durum, yaptırım rejiminin etkinliğini azaltarak çöküşüne yol açabileceği değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T12:11:57.537Z",
-        "location": {
-            "lat": 33,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
