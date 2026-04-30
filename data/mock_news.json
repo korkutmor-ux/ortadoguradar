@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777507094774oo5ri",
+        "title": "Suriye davası, Esad'ın mağdurları için uzun bir yolun ilk adımı olarak görülüyor",
+        "summary": "Suriye'nin başkenti Şam'da, eski üst düzey rejim yetkilisi Atef Necip'in mahkemeye çıkarılmasıyla gergin anlar yaşandı. Bu dava, Esad rejiminin mağdurları için adalet arayışında uzun bir yolun ilk adımı olarak değerlendiriliyor. Necip'in duruşmadaki görünümü, Suriye'deki çatışmaların ardından yaşanan hukuki süreçlerin önemini bir kez daha gözler önüne serdi. Olay, bölgedeki insan hakları ve hesap verebilirlik tartışmalarını yeniden gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6065248/pexels-photo-6065248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T23:58:14.774Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777507115931f2zv3",
+        "title": "Yetkililer: İsrail'in 'çifte vuruş' saldırısında Lübnan'da üç kurtarma görevlisi hayatını kaybetti",
+        "summary": "Lübnan'da yetkililer, İsrail'in gerçekleştirdiği 'çifte vuruş' saldırısında üç kurtarma görevlisinin yaşamını yitirdiğini bildirdi. Salı günü meydana gelen bu saldırılar, toplamda dokuz kişinin ölümüne neden oldu. İsrail ordusu, söz konusu saldırıların bir Hizbullah komutanını hedef aldığını açıkladı. Olay, bölgedeki gerilimi artırırken, uluslararası toplumdan tepkiler gelmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429604/pexels-photo-7429604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T23:58:35.931Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1777507215353awrns",
+        "title": "İsrail Donanması, Gazze'ye Giden 'Global Sumud Filosu' Gemilerini Durdurdu",
+        "summary": "İsrail donanması, Gazze Şeridi'ne doğru ilerleyen 'Global Sumud Filosu'na ait gemilere müdahale etti. Aktivistler, İsrail güçlerinin Girit yakınlarında gemileri kuşattığını, silah doğrulttuğunu ve iletişimlerini engellediğini iddia etti. Olay, Gazze'ye uygulanan ablukayı delmeyi amaçlayan insani yardım girişimleri kapsamında gerçekleşti. İsrail, Gazze'ye yönelik deniz ablukasını güvenlik gerekçeleriyle sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32995076/pexels-photo-32995076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T00:00:15.353Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/world/israeli-navy-intercepts-global-sumud-flotilla-vessels-heading-to-gaza/3922262",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17775019345887dpm8",
         "title": "İsrail, Gazze'ye Giden Global Sumud Filosu Yardım Gemilerine Müdahale Ediyor",
         "summary": "Gazze'ye insani yardım taşıyan Global Sumud Filosu'na ait gemilerin İsrail askeri sürat tekneleri tarafından durdurulduğu bildirildi. Yardım misyonunun organizatörleri, gemilerinin İsrail güçleri tarafından uluslararası sularda engellendiğini açıkladı. Bu müdahale, İsrail'in Gazze Şeridi'ne uyguladığı ablukayı delmeye çalışan önceki yardım filolarına yönelik operasyonlarını anımsatıyor. Bölgedeki insani durumun kötüleştiği bir dönemde gerçekleşen bu olay, uluslararası kamuoyunun dikkatini çekiyor ve gerilimi artırma potansiyeli taşıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-hit-southern-lebanon-as-drones-fly-over-beirut/3919983",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17773618487133f859",
-        "title": "PROFİL - Irak'ın uzlaşmacı başbakan adayı Ali el-Zaidi kimdir?",
-        "summary": "Irak'ta hükümet kurma sürecini tehdit eden siyasi çıkmazın ardından, bankacılık yöneticisi ve kurumsal yönetici Ali el-Zaidi, başbakanlık için uzlaşmacı bir aday olarak belirlendi. Bu gelişme, ülkedeki siyasi aktörler arasında yaşanan anlaşmazlıkların aşılması yönünde atılan önemli bir adım olarak kaydedildi. Haberde, el-Zaidi'nin geçmiş kariyeri ve siyasi duruşu hakkında detaylı bilgiler sunularak, kendisinin bu kritik göreve nasıl geldiği ele alınıyor. Adaylığının, Irak'ın gelecekteki siyasi yöneliminde belirleyici bir rol oynaması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8847155/pexels-photo-8847155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T07:37:28.713Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/profile-who-is-ali-al-zaidi-iraq-s-compromise-choice-for-prime-minister/3919928",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777361876129iq12e",
-        "title": "Bahreyn, savaş sırasında İran'a 'sempati' gösterdiği gerekçesiyle 69 kişinin vatandaşlığını iptal etti",
-        "summary": "Bahreyn hükümeti, savaş sırasında İran'a 'sempati' gösterdiği iddia edilen 69 kişinin vatandaşlığını iptal ettiğini duyurdu. Devlet haber ajansının bildirdiğine göre, vatandaşlığı iptal edilenler arasında İran'ın 'düşmanca eylemlerini' övmekle suçlanan kişilerin aileleri de bulunuyor. Bu karar, Bahreyn'in iç güvenlik endişeleri ve İran ile olan gergin ilişkileri bağlamında değerlendiriliyor. Söz konusu uygulama, ülkedeki siyasi muhaliflere yönelik baskıların bir parçası olarak yorumlanırken, insan hakları örgütleri tarafından eleştirilere neden olabileceği belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30766222/pexels-photo-30766222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T07:37:56.129Z",
-        "location": {
-            "lat": 26.2,
-            "lng": 50.6,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-strips-69-of-citizenship-over-sympathy-for-iran-during-war/3919926",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777352252755g5ug1",
-        "title": "Nijerya'nın Kuzeydoğusunda Silahlı Saldırıda En Az 29 Kişi Hayatını Kaybetti",
-        "summary": "Nijerya'nın kuzeydoğusundaki Adamawa eyaletine bağlı Guyaku köyünde düzenlenen silahlı saldırıda en az 29 kişi yaşamını yitirdi. Birkaç saat süren saldırının sorumluluğunu terör örgütü IŞİD (DEAŞ) üstlendi. Bölgedeki güvenlik durumu endişe yaratmaya devam ederken, saldırı örgütün Afrika kıtasındaki faaliyetlerinin bir göstergesi olarak değerlendiriliyor. Olay, Nijerya'nın kuzeydoğusunda terör örgütlerinin neden olduğu şiddet olaylarının devam ettiğini gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15626454/pexels-photo-15626454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T04:57:32.755Z",
-        "location": {
-            "lat": 9.2,
-            "lng": 12.48,
-            "name": "Guyaku Köyü, Adamawa Eyaleti, Nijerya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/28/gunmen-kill-at-least-29-in-nigerias-northeast-adamawa-state?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
