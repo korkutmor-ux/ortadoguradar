@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777579015991ucq0y",
+        "title": "FIFA Başkanı Infantino'dan İran'ın Dünya Kupası Katılımına Onay",
+        "summary": "FIFA Başkanı Gianni Infantino, İran'ın 2026 Dünya Kupası'nda yer alacağını doğruladı. İran'ın ABD ile birlikte ev sahipliği yapacak olan turnuvadaki konumu, ülkeye yönelik ABD-İsrail savaşı nedeniyle belirsizliğini koruyordu. Bu açıklama, İran'ın uluslararası spor sahnesindeki yerini güvence altına alırken, ülkenin karşı karşıya kaldığı siyasi gerilimlerin spor üzerindeki potansiyel etkilerini de gündeme getiriyor. Infantino'nun onayı, sporun siyasi gerilimlerden ayrı tutulması yönündeki uluslararası çabaların bir göstergesi olarak yorumlanabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12618167/pexels-photo-12618167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T19:56:55.991Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777579118216mzqiu",
+        "title": "ABD'den İsrail'e 6.500 Tonluk Yeni Askeri Yardım Sevkiyatı Ulaştı",
+        "summary": "İsrail Savunma Bakanlığı'ndan yapılan açıklamaya göre, Amerika Birleşik Devletleri'nden gönderilen 6.500 ton askeri yardım taşıyan iki kargo gemisi, İsrail'in Aşdod ve Hayfa limanlarında boşaltıldı. Bu sevkiyat, ABD'nin İsrail'e yönelik askeri desteğinin devam ettiğini gösteriyor. Yardımın içeriği hakkında detay verilmezken, sevkiyatın bölgesel güvenlik dinamikleri açısından önem taşıdığı belirtildi. Bu gelişme, iki ülke arasındaki stratejik işbirliğinin bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7985547/pexels-photo-7985547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T19:58:38.216Z",
+        "location": {
+            "lat": 31.795,
+            "lng": 34.645,
+            "name": "Aşdod, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/americas/new-us-shipment-of-6-500-tons-of-military-aid-arrives-in-israel/3923646",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777568560782lnp97",
         "title": "İsrail Saldırılarında Lübnan'da Yaklaşık 2.600 Kişi Hayatını Kaybetti",
         "summary": "Lübnan Sağlık Bakanlığı tarafından yapılan açıklamaya göre, 2 Mart tarihinden bu yana İsrail'in Lübnan topraklarına düzenlediği saldırılarda yaklaşık 2.600 kişi hayatını kaybetti. Bakanlık yetkilileri, aynı süreçte 8.000'den fazla kişinin de yaralandığını belirtti. Bu rakamlar, bölgedeki çatışmaların yol açtığı insani kaybın boyutunu ortaya koyuyor. Lübnan ve İsrail arasındaki gerilim, Orta Doğu'daki güvenlik durumunu etkilemeye devam ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177739649003448irr",
-        "title": "BM yetkilisi, kırılgan ateşkes ortamında Gazze'deki durumun 'istikrarlı bir şekilde kötüleştiği' uyarısında bulundu",
-        "summary": "Birleşmiş Milletler Orta Doğu Genel Sekreter Yardımcısı, Gazze'deki durumun \"istikrarlı bir şekilde kötüleştiği\" konusunda uyarıda bulundu. Yetkili, bölgedeki ateşkesin \"kırılgan\" olduğunu vurguladı. Açıklamasına göre, Filistin toplulukları rutin olarak ölümcül şiddet, vandalizm ve tacizle karşı karşıya kalmaktadır. Bu olayların sıklıkla İsrail askerlerinin varlığında veya onların katılımıyla gerçekleştiği belirtildi. BM yetkilisi, bölgedeki gerilimin ve insani zorlukların devam ettiğine dikkat çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T17:14:50.034Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-official-warns-gaza-situation-steadily-worsening-amid-fragile-ceasefire/3920726",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777396527732bm4q2",
-        "title": "BM Genel Kurul Başkanı, İran ve Gazze Savaşları Ortasında BM'ye Destek İçin Bölgeler Arası İttifak Çağrısı Yaptı",
-        "summary": "Birleşmiş Milletler Genel Kurulu Başkanı, İran ve Gazze'deki devam eden savaşların ortasında Birleşmiş Milletler'e destek olmak amacıyla bölgeler arası bir ittifak kurulması çağrısında bulundu. 80. Genel Kurul Başkanı Annalena Baerbock, bu önemli açıklamaları Hindistan ziyareti sırasında gerçekleştirdi. Baerbock, uluslararası toplumun bu kritik dönemde BM'nin küresel barış ve güvenliği koruma misyonunu güçlendirmesi gerektiğini vurguladı. Bu çağrı, Orta Doğu'daki mevcut gerilimlerin ve çatışmaların uluslararası iş birliğinin önemini bir kez daha ortaya koydu. BM'nin bu bölgelerdeki insani ve diplomatik çabalarının sürdürülebilirliği için geniş tabanlı bir desteğin gerekliliği üzerinde duruldu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T17:15:27.732Z",
-        "location": {
-            "lat": 28.6139,
-            "lng": 77.209,
-            "name": "Yeni Delhi, Hindistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-general-assembly-president-urges-cross-regional-alliance-to-support-un-amid-iran-gaza-wars/3920694",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
