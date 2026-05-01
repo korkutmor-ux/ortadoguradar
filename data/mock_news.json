@@ -1,5 +1,101 @@
 [
     {
+        "id": "1777621307252tbpyc",
+        "title": "Rusya, Ukrayna'ya Gece Boyunca Saldırılar Düzenledi",
+        "summary": "Rusya, Ukrayna genelindeki hedeflere gece boyunca hava saldırıları düzenledi. Karadeniz kıyısındaki ve orta Ukrayna'daki yerleşim yerlerini hedef alan saldırılarda bir sivil hayatını kaybederken, çok sayıda kişi de yaralandı. Ukrayna makamları, saldırıların altyapı ve sivil bölgeleri hedef aldığını belirtti. Bu son saldırılar, iki ülke arasındaki devam eden çatışmaların bir parçası olarak kayıtlara geçti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T07:41:47.252Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777621353873e3qq7",
+        "title": "Gazze'de İşçiler 1 Mayıs'ta Geçim Kaynağı Arayışında",
+        "summary": "Gazze Şeridi'nde yaşanan derin ekonomik çöküş, bölgedeki işçileri son derece zorlu ve tehlikeli koşullar altında çalışmaya itiyor. Süregelen yıkım ve abluka nedeniyle işsizlik oranları rekor seviyelere ulaşmış durumda. 1 Mayıs İşçi Bayramı'nda dahi Gazze'deki emekçiler, ailelerini geçindirebilmek için bulabildikleri her türlü gelir kaynağına yönelmek zorunda kalıyor. Bölgedeki insani durumun kötüleşmesi, iş gücünün büyük bir kısmını güvencesiz ve tehlikeli işlere mahkum ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/13748651/pexels-photo-13748651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T07:42:33.873Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17776213762087h8xl",
+        "title": "Somali Açıklarında Korsanlık Yeniden Yükselişte: İran Gerilimi Etkili mi?",
+        "summary": "Son bir iki hafta içinde Somali açıklarında en az dört geminin kaçırılması, bölgede korsanlık faaliyetlerinin yeniden artabileceği endişelerini gündeme getirdi. Bu durum, küresel deniz ticaret yolları üzerinde önemli bir tehdit oluştururken, özellikle Kızıldeniz ve Aden Körfezi'ndeki güvenlik durumunu sorgulatıyor. Uzmanlar, bölgedeki istikrarsızlığın ve İran ile ilgili bölgesel gerilimlerin deniz haydutluğuna zemin hazırlayıp hazırlamadığını tartışıyor. Bu gelişmeler, uluslararası denizcilik camiasında alarm zillerinin çalmasına neden oldu ve bölgeye yönelik güvenlik önlemlerinin gözden geçirilmesi çağrılarını beraberinde getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14066351/pexels-photo-14066351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T07:42:56.208Z",
+        "location": {
+            "lat": 8,
+            "lng": 49,
+            "name": "Somali Açıkları"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "177762142489592p07",
+        "title": "Lübnan Başbakanı İşgal Altındaki Toprakların Geri Alınması ve Ekonomik İyileşme Sözü Verdi",
+        "summary": "Lübnan Başbakanı Nawaf Salam, İşçi Bayramı dolayısıyla yaptığı açıklamada, ülkenin işgal altındaki topraklarının 'her karışını' geri alma kararlılığını vurguladı. Salam, bu kararlılığın ülkenin egemenliği ve toprak bütünlüğü açısından hayati önem taşıdığını belirtti. Başbakan aynı zamanda, Lübnan'ın içinde bulunduğu derin ekonomik sıkıntılara çözüm bulmak amacıyla kapsamlı reformlar yapma, istihdam yaratma ve vatandaşların yaşam koşullarını iyileştirme sözü verdi. Bu mesaj, Lübnan hükümetinin hem ulusal güvenlik hem de ekonomik istikrar konularındaki önceliklerini net bir şekilde ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14655706/pexels-photo-14655706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T07:43:44.895Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-vows-to-reclaim-every-inch-of-occupied-land-advance-economic-recovery/3923854",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777621461915f8qg0",
+        "title": "İsrail güçleri işgal altındaki Doğu Kudüs'te mahallelere baskın düzenleyerek tutuklamalar gerçekleştirdi",
+        "summary": "İsrail güçleri, işgal altındaki Doğu Kudüs'ün çeşitli mahallelerinde operasyonlar düzenledi. Bölgeden gelen haberlere göre, bu operasyonlar sırasında tutuklamalar gerçekleştirildi ve mahallelere baskınlar yapıldı. Operasyonların yerel sakinleri hedef aldığı belirtilirken, saldırılar, dükkan kapatmalar ve para cezaları uygulandığı bildirildi. Bu gelişmeler, bölgedeki gerilimin devam ettiğini göstermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/25630343/pexels-photo-25630343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T07:44:21.915Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Doğu Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-carry-out-arrests-storm-neighborhoods-across-occupied-east-jerusalem/3923796",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777621483781k9zl1",
+        "title": "Serbest Bırakılan Filistinli Gazeteci İsrail Hapishanelerini 'Yaşayan Mezarlar' Olarak Niteledi",
+        "summary": "Filistinli gazeteci Ali Samoudi, İsrail hapishanelerinden serbest bırakılmasının ardından yaşadıklarını kamuoyuyla paylaştı. Samoudi, bir yıl süren idari gözaltı süresince vücut ağırlığının yarısını kaybettiğini belirtti. Gazeteci, İsrail cezaevlerini 'yaşayan mezarlar' olarak nitelendirerek, tutukluluk koşullarının ağırlığına dikkat çekti. Bu açıklamalar, İsrail'in Filistinlilere yönelik idari gözaltı uygulamaları ve cezaevlerindeki insan hakları durumu hakkındaki tartışmaları yeniden alevlendirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9932963/pexels-photo-9932963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T07:44:43.781Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin/İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/freed-palestinian-journalist-describes-israeli-prisons-as-living-graves-/3923782",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777612175148bowc8",
         "title": "İsrail'in Gazze Yardım Filosuna Müdahalesi Uluslararası Tepkilere Yol Açtı",
         "summary": "İsrail, uluslararası sularda Gazze'ye insani yardım taşıyan gemilere müdahale etmesi nedeniyle dünya genelinde kınamalarla karşılaştı. Olay, Gazze Şeridi'ne uygulanan ablukanın devam ettiği bir dönemde, yardım malzemelerini bölgeye ulaştırmayı hedefleyen bir filoya yönelik gerçekleşti. İsrail güçlerinin müdahalesi sırasında yaşananlar, uluslararası kamuoyunda geniş yankı buldu ve birçok ülke ile uluslararası kuruluş tarafından sert bir dille eleştirildi. Bu gelişme üzerine, dünya genelinde İsrail'in eylemlerini protesto eden gösteriler düzenlendi ve diplomatik gerilimler yaşandı. Uluslararası toplum, Gazze'deki insani durumun iyileştirilmesi ve ablukanın kaldırılması çağrılarını yineledi.",
@@ -702,101 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": true
-    },
-    {
-        "id": "17774255044235cn51",
-        "title": "ABD Başkanı Trump: İran, Deniz Ablukasının Kaldırılmasını İstedi; İsrail Sağlık Görevlilerini Öldürdü",
-        "summary": "ABD Başkanı Donald Trump, İran'ın Washington yönetimine başvurarak İran limanlarına uygulanan deniz ablukasının kaldırılmasını talep ettiğini açıkladı. Bu gelişme, ABD ile İran arasındaki gerilimin devam ettiği bir dönemde yaşandı. Haber başlığında ayrıca \"İran savaşı canlı\" ifadesi ve İsrail'in sağlık görevlilerini öldürdüğü bilgisi de yer aldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10945150/pexels-photo-10945150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T01:18:24.423Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1777425544501qkx5v",
-        "title": "ABD-İran Görüşmeleri Çıkmaza Girerken Uzmanlar Uzun Vadeli Kesintiler Konusunda Uyarıyor",
-        "summary": "ABD ile İran arasındaki nükleer müzakerelerin durma noktasına gelmesi, küresel piyasalarda endişeleri artırıyor. İki ülke arasındaki gerilimin devam etmesiyle birlikte, uluslararası petrol fiyatları yükselişini sürdürüyor. Uzmanlar, bu siyasi çıkmazın uzun vadede enerji arzında ve bölgesel istikrarda ciddi aksaklıklara yol açabileceği konusunda uyarıyor. Görüşmelerdeki tıkanıklık, küresel enerji güvenliği üzerindeki baskıyı artırmaya devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36488785/pexels-photo-36488785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T01:19:04.501Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777425634788g86kg",
-        "title": "İİT, BM Güvenlik Konseyi'ne Gazze'de 'Adil ve Kalıcı Barış' Çağrısı Yaptı",
-        "summary": "İslam İşbirliği Teşkilatı (İİT), Birleşmiş Milletler Güvenlik Konseyi'ne Gazze'deki ateşkesin 'adil ve kalıcı bir barışa' dönüştürülmesi için çağrıda bulundu. Teşkilat, İsrail'in Ramazan ve Paskalya dönemlerinde kutsal mekanlara yönelik ihlallerinin 'ibadet özgürlüğüne ciddi bir tecavüz' teşkil ettiğini belirtti. Ahmet Yıldız tarafından yapılan açıklamada, bu tür eylemlerin bölgedeki gerilimi artırdığı ve uluslararası hukukun ihlali olduğu vurgulandı. İİT, Güvenlik Konseyi'nden bölgede kalıcı bir çözüm ve tüm taraflar için güvenlik sağlayacak somut adımlar atmasını talep etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T01:20:34.788Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oic-urges-un-security-council-to-turn-gaza-ceasefire-into-just-and-lasting-peace/3921036",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17774189417091pef1",
-        "title": "İsrailli Asker, Gazze'nin Beyt Hanun Bölgesindeki Yıkımı Görüntüledi",
-        "summary": "İsrailli bir asker tarafından çekilen video kaydı, Gazze Şeridi'nin kuzeyinde yer alan Beyt Hanun bölgesindeki geniş çaplı yıkımı gözler önüne serdi. Görüntülerde, bölgenin tamamen yerle bir olduğu ve büyük bir tahribatın yaşandığı belirtildi. Bu durum, bölgedeki çatışmaların şiddetini ve insani durumu bir kez daha gündeme getirdi. Video, bölgedeki altyapı ve yerleşim alanlarının aldığı hasarın boyutunu ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4592430/pexels-photo-4592430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T23:29:01.709Z",
-        "location": {
-            "lat": 31.56,
-            "lng": 34.52,
-            "name": "Beyt Hanun, Gazze Şeridi"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777413690629d5gqf",
-        "title": "PSG, Şampiyonlar Ligi Yarı Final İlk Maçında Bayern Münih'i Mağlup Etti",
-        "summary": "UEFA Şampiyonlar Ligi yarı final ilk maçında Paris Saint-Germain (PSG), kendi sahasında Bayern Münih'i 5-4 mağlup etti. Son şampiyon PSG, maçta üç farklı öne geçmesine rağmen rakibinin geri dönüşüne izin verdi ancak skoru korumayı başararak galibiyete ulaştı. Bu sonuçla PSG, rövanş maçı öncesi avantaj elde ederken, futbolseverler gol düellosu şeklinde geçen heyecanlı bir mücadeleye tanık oldu. Kulübün Katarlı sahipliği nedeniyle haberin Orta Doğu ile dolaylı bir bağlantısı bulunmaktadır.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/9935391/pexels-photo-9935391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T22:01:30.629Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/28/psg-beat-bayern-5-4-in-record-breaking-champions-league-semifinal-first-leg?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777413858503yx4bg",
-        "title": "RÖPORTAJ – 'Ülke çökmüş durumda': İsrail'den ayrılan gazeteci artan güvensizliğe karşı uyarıyor",
-        "summary": "Eski Haaretz gazetecisi Asaf Ronel, İsrail'den ayrıldıktan sonra ülkedeki mevcut duruma ilişkin çarpıcı açıklamalarda bulundu. Ronel, Gazze'deki olayların sadece devletin değil, aynı zamanda toplumun da çökmüş olduğunu açıkça gösterdiğini belirtti. Gazeteci, bu durumun İsrail'de derin bir toplumsal ve yönetimsel krizin yaşandığına işaret ettiğini ifade etti. Bu açıklamalar, bölgedeki mevcut gerilimin İsrail içindeki yansımalarını ve toplumsal algıyı gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5807072/pexels-photo-5807072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T22:04:18.503Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/interview-the-country-is-broken-journalist-who-left-israel-warns-of-growing-insecurity/3920866",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
