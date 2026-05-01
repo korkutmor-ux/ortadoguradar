@@ -1,5 +1,21 @@
 [
     {
+        "id": "17776375501234t2qu",
+        "title": "Gazze Yardım Filosu Gemileri İsrail Müdahalesi Sonrası Girit'e Götürüldü",
+        "summary": "İsrail ordusu, Gazze'ye insani yardım taşıyan Global Sumud Filosu'na ait 22 gemiye müdahale etti. Uluslararası sularda gerçekleştiği belirtilen operasyonla gemilerin ele geçirildiği bildirildi. Müdahalenin ardından yardım gemileri, Yunanistan'ın Girit adasına götürüldü. Olay, Gazze'ye yönelik ablukanın delinmesi girişimlerine karşı İsrail'in askeri müdahalesini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11651607/pexels-photo-11651607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T12:12:30.123Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777633775778agemy",
         "title": "ABD-İran Ateşkesi, Savaş Yetkileri Yasası Süresini Sıfırladı mı?",
         "summary": "ABD Savunma Bakanı, ABD ile İran arasındaki düşmanlıkların sona erdiğini iddia etti. Ancak, ABD'li yasa koyucular, hava saldırılarının durmasına rağmen ABD güçlerinin bölgede aktif kalmaya devam ettiğini belirtiyor. Bu durum, ABD'nin Savaş Yetkileri Yasası kapsamındaki askeri angajmanının yasal süresi ve geleceği hakkında tartışmaları yeniden alevlendirdi. Kongre üyeleri, yönetimin askeri faaliyetlerinin yasal dayanağını sorguluyor.",
@@ -780,22 +796,6 @@
             "name": "Abu Dabi, Birleşik Arap Emirlikleri"
         },
         "source": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17774921727236umbn",
-        "title": "BM: Gazze'deki Ailelerin %60'ı Devam Eden Saldırılar Nedeniyle Temiz Suya Erişemiyor",
-        "summary": "Birleşmiş Milletler (BM) tarafından yapılan açıklamaya göre, Gazze Şeridi'nde devam eden çatışmalar ve saldırılar, bölgedeki insani durumu ciddi şekilde kötüleştiriyor. BM sözcüsü, Gazze'deki ailelerin %60'ının günlük temiz suya erişimden mahrum kaldığını belirtti. Açıklamada, Gazze Şeridi genelinde süregelen saldırıların konut alanlarını hedef almaya devam ettiği ve temel hizmetleri aksattığı vurgulandı. Bu durum, bölgedeki sivil halkın yaşam koşullarını olumsuz etkileyerek insani krizi derinleştiriyor. Uluslararası kuruluşlar, bölgedeki insani yardım çabalarının artırılması çağrısında bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T19:49:32.723Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-says-60-of-gaza-families-lack-daily-access-to-clean-water-amid-ongoing-strikes/3922101",
         "trendScore": 85,
         "isBreaking": false
     }
