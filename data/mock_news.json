@@ -1,5 +1,21 @@
 [
     {
+        "id": "17776481900775jcs4",
+        "title": "Trump'ın Tehdidi: ABD'nin Avrupa'daki Askerlerini Azaltmak Neden Kolay Olmayacak?",
+        "summary": "ABD Başkanı Trump'ın, Almanya'daki Amerikan askerlerinin sayısını azaltma tehdidinde bulunduğu bildirildi. Bu tehdidin, Atlantik ötesi ilişkilerde yaşanan gerilimler zemininde ortaya çıktığı belirtiliyor. Söz konusu gerilimlerin temelinde ise \"İran savaşı\" meselesinin yattığı ifade ediliyor. Haber, Trump'ın bu adımının Avrupa'daki müttefiklerle İran politikası üzerindeki anlaşmazlıkların bir sonucu olduğunu ve uygulanmasının kolay olmayabileceğini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5825466/pexels-photo-5825466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T15:09:50.077Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777643997469h166k",
         "title": "Howe: Suudi Sahiplerinin Newcastle'daki Başarı Arzusu Değişmedi",
         "summary": "Newcastle United Teknik Direktörü Eddie Howe, kulübün Suudi sahiplerinin başarıya olan arzusunun değişmediğini belirtti. Bu açıklama, Suudi Arabistan Kamu Yatırım Fonu'nun (PIF) 2026 sezonu sonunda LIV Golf'e sağladığı finansmanı keseceğini duyurmasının ardından geldi. Suudi Arabistan'ın egemen varlık fonu olan PIF, spor ve eğlence sektörleri dahil olmak üzere çeşitli alanlarda önemli yatırımlar yapmaktadır. Fonun LIV Golf'ten çekilme kararı, genel yatırım stratejilerindeki potansiyel değişiklikleri veya önceliklendirmeleri yansıtabilirken, Newcastle United'ın Suudi sahipliği kulübün gelecekteki hedefleri açısından önemini koruyor.",
@@ -780,22 +796,6 @@
             "name": "İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777492000578cphcd",
-        "title": "Güvenlik Kameraları İsrail'in Gazze'de Filistinlileri Hedef Alan Saldırısını Kaydetti",
-        "summary": "Cuma günü Gazze Şeridi'nde meydana gelen bir olayda, güvenlik kameraları İsrail'in bir grup Filistinliyi hedef alan saldırısını kaydetti. Görüntülerde, Gazze Şehri'nde gerçekleşen saldırının anı net bir şekilde görülüyor. Saldırının nedenleri ve sonuçlarına ilişkin detaylar henüz tam olarak açıklanmadı. Bölgedeki gerilimin devam ettiği belirtilirken, olayın uluslararası yankıları takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952901/pexels-photo-5952901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T19:46:40.578Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/29/cctv-footage-shows-moment-israeli-strike-targets-palestinians?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
