@@ -1,5 +1,69 @@
 [
     {
+        "id": "1777633775778agemy",
+        "title": "ABD-İran Ateşkesi, Savaş Yetkileri Yasası Süresini Sıfırladı mı?",
+        "summary": "ABD Savunma Bakanı, ABD ile İran arasındaki düşmanlıkların sona erdiğini iddia etti. Ancak, ABD'li yasa koyucular, hava saldırılarının durmasına rağmen ABD güçlerinin bölgede aktif kalmaya devam ettiğini belirtiyor. Bu durum, ABD'nin Savaş Yetkileri Yasası kapsamındaki askeri angajmanının yasal süresi ve geleceği hakkında tartışmaları yeniden alevlendirdi. Kongre üyeleri, yönetimin askeri faaliyetlerinin yasal dayanağını sorguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803716/pexels-photo-15803716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T11:09:35.778Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777633852840mdzli",
+        "title": "İran'a Yönelik Gerilimin Sona Erme İşareti Olmadan Petrol Fiyatları Yeniden Yükseldi",
+        "summary": "Küresel petrol piyasalarında Brent ham petrol fiyatları yükselişini sürdürüyor. Perşembe günü Brent varil fiyatı 126,41 dolara ulaşarak hafta içinde yüzde 5'lik bir artış kaydetti. Bu yükselişin, İran'a yönelik devam eden gerilimlerin veya olası bir çatışmanın sona ereceğine dair işaretlerin bulunmamasıyla ilişkilendirildiği belirtiliyor. Orta Doğu'daki jeopolitik riskler ve bölgedeki istikrarsızlık endişeleri, enerji fiyatları üzerinde baskı oluşturmaya devam ediyor. Bu durum, küresel enerji arzı ve fiyatları üzerinde önemli etkilere yol açıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/1381806/pexels-photo-1381806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T11:10:52.840Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777633900007z4mr5",
+        "title": "Gazze'ye Yönelik Filo, İsrail'den Kalan Aktivistleri Serbest Bırakmasını İstedi",
+        "summary": "Küresel Sumud Filosu, Gazze'ye yönelik seyrinde İsrail tarafından engellenen katılımcılarının çoğunun Girit'te serbest bırakıldığını duyurdu. Filo, İsrail'in hala gözaltında tuttuğu iki aktivistin derhal serbest bırakılmasını talep etti. Uluslararası topluma, İsrail üzerinde kalan tutukluların bırakılması için baskı yapma çağrısında bulunuldu. Bu olay, Gazze ablukasına dikkat çekme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34501700/pexels-photo-34501700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T11:11:40.007Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gaza-bound-flotilla-demands-israel-to-release-remaining-2-activists/3924132",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777633924388nahgl",
+        "title": "BM, İsrail'i Sumud filosu engellemesinin ardından Gazze'ye 'tüm yollarla' hayat kurtaran yardımların girişine izin vermeye çağırdı",
+        "summary": "Birleşmiş Milletler, İsrail'e Gazze Şeridi'ne hayat kurtaran yardımların 'tüm yollarla' ulaştırılmasına izin vermesi çağrısında bulundu. Bu çağrı, Sumud yardım filosunun İsrail tarafından engellenmesinin ardından geldi. Bir insan hakları ofisi sözcüsü Anadolu Ajansı'na yaptığı açıklamada, uluslararası hukukun açık denizlerde seyrüsefer serbestliğini öngördüğünü ve yabancı sivil gemilerin engellenmesine izin vermediğini belirtti. Bu durum, Gazze'ye insani yardım ulaştırılması konusundaki gerilimi ve uluslararası hukukun ihlali iddialarını gündeme taşıyor. BM, bölgedeki insani krizin derinleştiği bir dönemde bu tür engellemelerin kabul edilemez olduğunu vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34501700/pexels-photo-34501700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T11:12:04.388Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-urges-israel-to-allow-life-saving-aid-into-gaza-through-all-means-after-interception-of-sumud-flotilla/3924120",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17776289546303pkzt",
         "title": "Tahran ana havalimanından ticari uçuşlar temkinli normalleşme ile yeniden başladı",
         "summary": "Tahran'daki ana havalimanından ticari uçuşlar yeniden başladı. Bu gelişme, bölgedeki havacılık faaliyetlerinde temkinli bir normalleşme sürecine işaret ediyor. Yetkililer, uçuşların kademeli olarak yeniden başladığını ancak yerdeki belirsizliklerin devam ettiğini bildirdi. Bu durum, havalimanı operasyonlarının tam kapasiteye ulaşmasının zaman alabileceğini ve güvenlik önlemlerinin sürdüğünü gösteriyor. Havacılık sektöründeki bu adım, ülkenin uluslararası bağlantıları açısından önem taşıyor.",
@@ -732,70 +796,6 @@
             "name": "Gazze Şeridi, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/un-says-60-of-gaza-families-lack-daily-access-to-clean-water-amid-ongoing-strikes/3922101",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777492242880ygjlj",
-        "title": "Türk istihbarat servisi, Humeyni'nin Türkiye'deki kalışına ilişkin belge yayımladı",
-        "summary": "Türk istihbarat servisi, İran İslam Devrimi'nin lideri Ayetullah Ruhullah Humeyni'nin 1964-1965 yılları arasında Türkiye'de geçirdiği döneme ilişkin yeni bir belgeyi kamuoyuyla paylaştı. Yayımlanan arşiv dosyasında, Humeyni'nin Türkiye'deki ikameti süresince MİT tarafından nasıl takip edildiği ve farklı bir isim kullandığına dair detaylar yer alıyor. Bu tarihi belge, Humeyni'nin sürgün yıllarındaki yaşamına ve Türk yetkililerle olan ilişkilerine ışık tutarak dönemin siyasi atmosferi hakkında önemli bilgiler sunuyor. Belgenin yayımlanması, iki ülke arasındaki tarihi bağlamı ve istihbarat faaliyetlerini yeniden gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/13174034/pexels-photo-13174034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T19:50:42.880Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/turkish-intel-service-releases-document-on-khomeini-s-stay-in-turkiye/3921844",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777479414402jz979",
-        "title": "İsrail Dışişleri Bakanı, Trump ile İran Konusunda Görüş Ayrılıklarını Kabul Etti",
-        "summary": "İsrail Dışişleri Bakanı Gideon Saar, eski ABD Başkanı Donald Trump'ın yönetimiyle İran politikaları konusunda farklı görüşlere sahip olduklarını belirtti. Bakan Saar, İsrail'in İran'da rejim değişikliğini teşvik etmek için net bir fırsat ortaya çıkması halinde harekete geçeceğini ifade etti. Bu açıklama, İsrail'in İran'a yönelik uzun vadeli stratejik hedeflerini ve bölgedeki potansiyel müdahale niyetini ortaya koymaktadır. Söz konusu durum, Orta Doğu'daki güç dengeleri ve bölgesel güvenlik dinamikleri üzerinde önemli etkilere sahip olabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4502492/pexels-photo-4502492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T16:16:54.402Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-foreign-minister-acknowledges-differences-with-trump-over-iran/3921828",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17774794525057cdty",
-        "title": "İran Para Birimi, ABD ile Süregelen Gerilimler Ortasında Değer Kaybetti",
-        "summary": "İran'ın para birimi riyal, ABD ile devam eden çatışmalar ve piyasalardaki oynaklık nedeniyle dolar karşısında önemli ölçüde değer kaybetti. İran medyası, riyalin son iki günde dolar karşısında %14'ten fazla düşüş yaşadığını bildirdi. Bu durum, ülkenin ekonomik istikrarına yönelik endişeleri artırırken, piyasalardaki belirsizliğin bir göstergesi olarak yorumlanıyor. Değer kaybı, ABD ile süregelen siyasi ve ekonomik gerilimlerin doğrudan bir yansıması olarak görülüyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/30413636/pexels-photo-30413636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T16:17:32.505Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-currency-further-weakens-amid-ongoing-conflict-with-us/3921713",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777471593356t6v95",
-        "title": "Lübnan'da İsrail Saldırısı: Beş Aile Üyesi Hayatını Kaybetti",
-        "summary": "İsrail'in Lübnan topraklarına düzenlediği bir hava saldırısında aynı aileden beş kişinin yaşamını yitirdiği bildirildi. Saldırının, Lübnan'ın güney bölgelerinde gerçekleştiği ve hayatını kaybedenlerin sivil olduğu belirtildi. Bu olay, İsrail ile Lübnan arasındaki sınır hattında devam eden gerilimin ve çatışmaların bir parçası olarak değerlendiriliyor. Bölgedeki güvenlik durumu, bu tür saldırılarla daha da karmaşık bir hal alırken, uluslararası toplumdan itidal çağrıları yükseliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952899/pexels-photo-5952899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T14:06:33.356Z",
-        "location": {
-            "lat": 33.8547,
-            "lng": 35.8623,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
