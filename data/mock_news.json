@@ -1,5 +1,37 @@
 [
     {
+        "id": "17775985939686wkyp",
+        "title": "İran savaşı canlı: Tahran, ABD liman kuşatmasını 'dayanılmaz' olarak nitelendirdi; Trump eylemi değerlendiriyor",
+        "summary": "Yerel medya kaynaklarından edinilen bilgilere göre, İsrail'in Lübnan'a yönelik devam eden saldırıları ciddi insani kayıplara neden oldu. 2 Mart'tan bu yana en az 2.586 kişi yaşamını yitirirken, 8.000'den fazla kişi de yaralandı. Bu gelişmeler, Orta Doğu'daki genel gerilimin yüksek seyrini koruduğu bir döneme denk geliyor. Özellikle, İran'ın ABD limanlarına yönelik olası bir kuşatmayı 'dayanılmaz' olarak nitelendirmesi ve eski ABD Başkanı Trump'ın bölgedeki duruma ilişkin eylem seçeneklerini değerlendirmesi, bölgesel dinamikleri daha da karmaşık hale getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798300/pexels-photo-36798300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T01:23:13.968Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1777598685042vvqoc",
+        "title": "ABD'li Yetkiliye Göre, İran'a Yönelik Düşmanlıklar Sona Erdi",
+        "summary": "ABD'li bir yetkili, 28 Şubat'tan bu yana İran'a karşı süren düşmanlıkların sona erdiğini bildirdi. NBC News'e konuşan bir kaynağa göre, taraflar 7 Nisan'da iki haftalık bir ateşkes üzerinde anlaşmaya vardı. Bu ateşkesin o tarihten bu yana uzatıldığı belirtildi. Gelişme, ABD ile İran arasındaki gerilimin azalmasına yönelik önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/821065/pexels-photo-821065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T01:24:45.042Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-has-determined-that-hostilities-against-iran-since-feb-28-have-ended-says-official-report/3923778",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777591823180mkf48",
         "title": "Eski ABD Yetkilileri, İran'daki Ölümcül Okul Saldırısı Konusunda Pentagon'un Sessizliğini Eleştirdi",
         "summary": "Eski Amerikalı yetkililer, İran'da meydana gelen ve ölümcül sonuçlar doğuran bir okul saldırısına ilişkin Pentagon'un sessizliğini eleştirdi. Olayın üzerinden iki ay geçmesine rağmen, ABD Savunma Bakanlığı'nın bu konuda yalnızca bir soruşturma yürütüldüğünü belirtmesi dikkat çekti. Bu durum, ABD'nin İran'daki bu tür olaylara yaklaşımındaki şeffaflık ve hesap verebilirlik eksikliği konusunda endişeleri artırdı. Eski yetkililer, Pentagon'dan daha net bir açıklama ve hızlı bir yanıt beklediklerini ifade etti.",
@@ -764,38 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17774093959493k5wp",
-        "title": "Körfez Liderleri Hürmüz Boğazı'nda Serbest Seyrüsefer Çağrısı Yaptı, Ücretleri Reddetti",
-        "summary": "Körfez ülkeleri liderleri, Hürmüz Boğazı'ndan geçen gemilere herhangi bir ücret uygulanmasını kesin bir dille reddetti ve uluslararası hukuka uygun olarak serbest seyrüseferin devam etmesi çağrısında bulundu. Körfez İşbirliği Konseyi (KİK) liderleri, İran'ın Hürmüz Boğazı'nı kapatma girişimini 'yasa dışı' olarak nitelendirerek bu adıma karşı çıktıklarını belirtti. Bu açıklamalar, küresel enerji ve ticaret için hayati önem taşıyan boğazın güvenliği ve statüsü üzerindeki bölgesel gerilimi gözler önüne serdi. Liderler, boğazın tüm gemilere açık kalmasının bölgesel ve küresel istikrar için kritik olduğunu vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4345477/pexels-photo-4345477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T20:49:55.949Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gulf-leaders-reject-any-fees-on-ships-transiting-hormuz-call-for-free-navigation/3920925",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777403316576k7gnk",
-        "title": "Suriye'de Esad ve Eski Yetkililerin Yargılanmasında Sembolik Adalet Arayışı",
-        "summary": "Suriye'de Beşar Esad ve eski yetkililerin yargılanmasıyla ilgili haber, ülkedeki adalet arayışının sembolik bir boyutunu ortaya koyuyor. Daha önce ölüm cezasına çarptırılan Yargıç el-Aryan'ın bu davaya başkanlık etmesi, sürecin dikkat çekici ve ironik bir yönü olarak öne çıkıyor. Bu durum, Suriye'deki geçiş dönemi adaletinin henüz tamamlanmaktan uzak olduğunu ve karmaşık zorluklarla karşı karşıya olduğunu gösteriyor. Haber, yargılamanın sembolik önemini ve ülkenin geleceği için taşıdığı anlamı vurguluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9724830/pexels-photo-9724830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T19:08:36.576Z",
-        "location": {
-            "lat": 33.513056,
-            "lng": 36.291944,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
