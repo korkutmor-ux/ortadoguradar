@@ -1,5 +1,21 @@
 [
     {
+        "id": "17777322640264v935",
+        "title": "Gazze'deki Yeni Lüks Kafe ve Restoranların Karanlık Yüzü",
+        "summary": "Gazze Şeridi'nde son dönemde açılan yeni lüks kafe ve restoranlar dikkat çekmektedir. Ancak haber, bu yeni işletmelerin, bölgedeki yıkım ve insani krizin gölgesinde farklı bir gerçekliği gözler önüne serdiğini belirtmektedir. İçerik, bu tür mekanların ortaya çıkışının, 'yeni bir soykırımcı gerçekliği' yansıttığını iddia etmektedir. Bu durum, Gazze'deki yaşamın karmaşık ve çelişkili yönlerini vurgulamakta, bölgedeki mevcut koşullara dair tartışmaları alevlendirmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36850172/pexels-photo-36850172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T14:31:04.026Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777727986933bgj5f",
         "title": "İsrail'in Güney Lübnan'a Hava Saldırılarında 10 Kişi Hayatını Kaybetti",
         "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında 10 kişi yaşamını yitirdi. Saldırılarda insansız hava araçları ve savaş uçakları kullanılarak bölgedeki birçok kasaba hedef alındı. Bu eylemler, 17 Nisan'dan bu yana yürürlükte olan ateşkesin ihlal edildiği şeklinde yorumlandı. Yaşanan bu gerilimin ardından, Lübnan merkezli Hizbullah örgütü saldırılarına devam edeceğini duyurdu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1777598685042vvqoc",
-        "title": "ABD'li Yetkiliye Göre, İran'a Yönelik Düşmanlıklar Sona Erdi",
-        "summary": "ABD'li bir yetkili, 28 Şubat'tan bu yana İran'a karşı süren düşmanlıkların sona erdiğini bildirdi. NBC News'e konuşan bir kaynağa göre, taraflar 7 Nisan'da iki haftalık bir ateşkes üzerinde anlaşmaya vardı. Bu ateşkesin o tarihten bu yana uzatıldığı belirtildi. Gelişme, ABD ile İran arasındaki gerilimin azalmasına yönelik önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/821065/pexels-photo-821065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T01:24:45.042Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-has-determined-that-hostilities-against-iran-since-feb-28-have-ended-says-official-report/3923778",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
