@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777748702602c8clt",
+        "title": "İspanya, İsrail'den Gazze filosu mürettebat üyesini serbest bırakmasını talep etti",
+        "summary": "İspanya, İsrail'den, Gazze'ye yardım götürmeyi amaçlayan filonun mürettebat üyesi Saif Abukeshek'i serbest bırakmasını talep etti. Abukeshek, İsrail güçlerinin Yunanistan açıklarında 'Global Sumid Filosu'na düzenlediği baskın sırasında gözaltına alınarak İsrail'e götürülmüştü. Bu olay, Gazze Şeridi'ne uygulanan ablukayı delmeyi hedefleyen insani yardım girişimleriyle ilgili gerilimi bir kez daha gündeme getirdi. İspanya'nın bu talebi, uluslararası alanda İsrail'in Gazze'ye yönelik politikalarına karşı çıkan sesleri yansıtıyor ve diplomatik bir krize işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11912586/pexels-photo-11912586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T19:05:02.602Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777748722635kdi1t",
+        "title": "İsrail'in Güney Lübnan'a Hava Saldırıları 'Ateşkes'e Rağmen Devam Ediyor",
+        "summary": "İsrail'in Güney Lübnan'a yönelik hava saldırıları, bölgede ilan edilen 'ateşkes'e rağmen devam ediyor. Son 24 saat içinde İsrail güçleri, Güney Lübnan'a 50 hava saldırısı düzenlediği bildirildi. Bu saldırılar sonucunda en az 41 kişinin hayatını kaybettiği belirtildi. Bölgedeki yıkım ve can kayıpları, devam eden gerilimin boyutunu gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32702229/pexels-photo-32702229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T19:05:22.635Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17777487596232acvd",
+        "title": "İran Ekonomisi Savaşın Gölgesinde Zorlanıyor, Fiyatlar Yükseliyor",
+        "summary": "İran ekonomisi, devam eden savaşın etkisiyle zorlu bir dönemden geçiyor. Ülkede fiyat artışları yaşanırken, istihdam piyasasında da daralmalar gözlemleniyor. Yeni Yüksek Lider Mojtaba Khamenei, bu koşullar altında yaptığı açıklamada, ülkenin ekonomik ve kültürel alanda düşmanlarına karşı mücadele etmesi ve onları yenmesi gerektiğini vurguladı. Bu durum, İran'ın mevcut ekonomik sıkıntılarını ve liderliğin bu duruma yönelik stratejisini ortaya koyuyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/29031562/pexels-photo-29031562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T19:05:59.623Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17777441352654b6mv",
         "title": "Yemen, Kaçırılan Petrol Tankerinin Somali'ye Doğru İlerlediğini Bildirdi",
         "summary": "Yemen'den gelen haberlere göre, bir petrol tankeri kaçırıldı ve Somali'ye doğru ilerliyor. Bu olay, son haftalarda Somali açıklarında yaşanan en az dördüncü gemi kaçırma vakası olarak kayıtlara geçti. Bölgedeki deniz güvenliği endişeleri artarken, uluslararası toplumun korsanlıkla mücadele çabaları yeniden gündeme geldi. Olayın detayları ve müdahale çalışmaları hakkında henüz ek bilgi verilmedi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17776213762087h8xl",
-        "title": "Somali Açıklarında Korsanlık Yeniden Yükselişte: İran Gerilimi Etkili mi?",
-        "summary": "Son bir iki hafta içinde Somali açıklarında en az dört geminin kaçırılması, bölgede korsanlık faaliyetlerinin yeniden artabileceği endişelerini gündeme getirdi. Bu durum, küresel deniz ticaret yolları üzerinde önemli bir tehdit oluştururken, özellikle Kızıldeniz ve Aden Körfezi'ndeki güvenlik durumunu sorgulatıyor. Uzmanlar, bölgedeki istikrarsızlığın ve İran ile ilgili bölgesel gerilimlerin deniz haydutluğuna zemin hazırlayıp hazırlamadığını tartışıyor. Bu gelişmeler, uluslararası denizcilik camiasında alarm zillerinin çalmasına neden oldu ve bölgeye yönelik güvenlik önlemlerinin gözden geçirilmesi çağrılarını beraberinde getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14066351/pexels-photo-14066351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T07:42:56.208Z",
-        "location": {
-            "lat": 8,
-            "lng": 49,
-            "name": "Somali Açıkları"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177762142489592p07",
-        "title": "Lübnan Başbakanı İşgal Altındaki Toprakların Geri Alınması ve Ekonomik İyileşme Sözü Verdi",
-        "summary": "Lübnan Başbakanı Nawaf Salam, İşçi Bayramı dolayısıyla yaptığı açıklamada, ülkenin işgal altındaki topraklarının 'her karışını' geri alma kararlılığını vurguladı. Salam, bu kararlılığın ülkenin egemenliği ve toprak bütünlüğü açısından hayati önem taşıdığını belirtti. Başbakan aynı zamanda, Lübnan'ın içinde bulunduğu derin ekonomik sıkıntılara çözüm bulmak amacıyla kapsamlı reformlar yapma, istihdam yaratma ve vatandaşların yaşam koşullarını iyileştirme sözü verdi. Bu mesaj, Lübnan hükümetinin hem ulusal güvenlik hem de ekonomik istikrar konularındaki önceliklerini net bir şekilde ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14655706/pexels-photo-14655706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T07:43:44.895Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-vows-to-reclaim-every-inch-of-occupied-land-advance-economic-recovery/3923854",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777621461915f8qg0",
-        "title": "İsrail güçleri işgal altındaki Doğu Kudüs'te mahallelere baskın düzenleyerek tutuklamalar gerçekleştirdi",
-        "summary": "İsrail güçleri, işgal altındaki Doğu Kudüs'ün çeşitli mahallelerinde operasyonlar düzenledi. Bölgeden gelen haberlere göre, bu operasyonlar sırasında tutuklamalar gerçekleştirildi ve mahallelere baskınlar yapıldı. Operasyonların yerel sakinleri hedef aldığı belirtilirken, saldırılar, dükkan kapatmalar ve para cezaları uygulandığı bildirildi. Bu gelişmeler, bölgedeki gerilimin devam ettiğini göstermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/25630343/pexels-photo-25630343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T07:44:21.915Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Doğu Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-carry-out-arrests-storm-neighborhoods-across-occupied-east-jerusalem/3923796",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
