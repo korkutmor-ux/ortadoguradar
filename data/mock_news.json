@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777722599250l886f",
+        "title": "Spirit Airlines Yakıt Krizi Nedeniyle Faaliyetlerini Durdurdu, Tüm Uçuşlarını İptal Etti",
+        "summary": "ABD merkezli düşük maliyetli havayolu şirketi Spirit Airlines, jet yakıtı fiyatlarındaki iki katına çıkan artış nedeniyle faaliyetlerini durdurma kararı aldı. Şirket, tüm uçuşlarını iptal ettiğini duyurdu. Bu gelişme, binlerce kişinin işini kaybetmesine yol açacak ve havacılık sektöründe artan yakıt maliyetlerinin yarattığı baskıyı gözler önüne serdi. Havayolu sektöründeki bu çöküş, küresel enerji piyasalarındaki dalgalanmaların şirketler üzerindeki etkisini bir kez daha gösterdi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/12969078/pexels-photo-12969078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T11:49:59.250Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1777719386675rrcu0",
         "title": "İsrail'in Güney Lübnan Saldırılarında 13 Kişi Hayatını Kaybetti",
         "summary": "İsrail'in Güney Lübnan'a düzenlediği hava saldırılarında 13 kişinin yaşamını yitirdiği bildirildi. Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, hayatını kaybedenler arasında dört kadın ve bir çocuk bulunuyor. Bu saldırılar, İsrail ile İran destekli Hizbullah arasındaki çatışmaların devam ettiği bir dönemde gerçekleşti. Bölgede ilan edilen ateşkese rağmen taraflar arasındaki gerilim ve çatışmaların sürdüğü belirtildi.",
@@ -780,22 +796,6 @@
             "name": "Toronto, Kanada"
         },
         "source": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777588220371dc60k",
-        "title": "ABD'de benzin fiyatları yükseldi; Trump, İran savaşı sonrası düşüş öngörüyor",
-        "summary": "ABD'de benzin fiyatları, Hürmüz Boğazı'ndaki abluka ve İran ile yaşanan diplomatik çıkmazın etkisiyle bir haftada yaklaşık 30 sent artarak galon başına 4,30 dolara yükseldi. Bu artış, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji piyasaları üzerindeki doğrudan etkisini gösteriyor. Eski ABD Başkanı Donald Trump ise, İran ile olası bir savaşın ardından benzin fiyatlarının düşeceğini iddia etti. Bu açıklama, bölgedeki güvenlik endişelerini ve enerji politikalarını bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T22:30:20.371Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
