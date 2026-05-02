@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777702144156i1f16",
+        "title": "Trump: ABD Güçleri İran Petrolünü Alan 'Korsanlar Gibi'",
+        "summary": "Eski ABD Başkanı Donald Trump, ABD güçlerinin Hürmüz Boğazı yakınlarında İran gemilerini ve kargosunu ele geçirerek 'korsanlar gibi' davrandığını iddia etti. Trump'ın bu açıklaması, bölgedeki denizcilik faaliyetleri ve uluslararası hukuk tartışmalarını yeniden gündeme getirdi. Dünya petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı'nda yaşanan bu tür olaylar, ABD ile İran arasındaki gerilimi artırma potansiyeli taşıyor. İddialar, uluslararası arenada dikkatle takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36488785/pexels-photo-36488785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T06:09:04.156Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777702166823px3xy",
+        "title": "İran Savaşı Protestocusu Washington Köprüsü Üzerinden El Cezire'ye Konuştu",
+        "summary": "Amerika Birleşik Devletleri'nin başkenti Washington'da 45 yaşındaki bir adam, Frederick Douglass Anıt Köprüsü'nün tepesine çıkarak İran'a karşı olası bir savaşı protesto etti. Eylemini sürdüren protestocu, bu yüksek noktadan El Cezire televizyonuna açıklamalarda bulundu. Bu dikkat çekici protesto, İran ile ilgili jeopolitik gerilimlere dair süregelen endişeleri bir kez daha gündeme getirdi. Olay, kamuoyunun ve medyanın dikkatini çekerken, bölgedeki potansiyel çatışma risklerine yönelik muhalif seslerin yükseldiğini gösterdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30766222/pexels-photo-30766222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T06:09:26.823Z",
+        "location": {
+            "lat": 38.87,
+            "lng": -77,
+            "name": "Washington, D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "17777023299585s9kr",
+        "title": "İsrailli Hukuk Grubu, Gözaltına Alınan Filo Aktivistlerinin Yerini Açıklamasını Talep Etti",
+        "summary": "İsrailli bir hukuk grubu, Tel Aviv yönetiminden gözaltına alınan iki filo aktivistinin nerede olduğunu açıklamasını talep etti. Adalah adlı grup, İsrail'in uluslararası sularda gerçekleştirdiği bu eylemleri \"yabancı sivillerin yasal yetki olmaksızın kaçırılması\" olarak nitelendirdi. Bu talep, İsrail'in uluslararası hukuk ve insan hakları yükümlülükleri çerçevesindeki eylemlerine ilişkin tartışmaları yeniden gündeme getirdi. Olayın, Gazze ablukasıyla ilgili geçmiş filo olaylarıyla bağlantılı olduğu düşünülüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11651607/pexels-photo-11651607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T06:12:09.958Z",
+        "location": {
+            "lat": 32.1,
+            "lng": 34.8,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-legal-group-demands-tel-aviv-reveal-whereabouts-of-2-detained-flotilla-activists/3924638",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777693280592zk764",
         "title": "Trump: İran Savaşı Erken Bitmeyecek, Tahran'ın Teklifinden Memnun Değilim",
         "summary": "ABD Başkanı Donald Trump, İran ile yaşanan gerilime ilişkin açıklamalarda bulundu. Trump, İran ile devam eden 'savaşın' erken bir son bulmayacağını ve Tahran'ın sunduğu tekliflerden memnun olmadığını belirtti. Öte yandan, Beyaz Saray'dan Kongre'ye gönderilen bir bildirimde, İran ile düşmanlıkların sona erdiği ifade edildi. Bu açıklama, ABD'nin Orta Doğu'daki askeri varlığını sürdürmesine rağmen yapıldı. Bu durum, ABD yönetiminin İran politikasına dair çelişkili mesajlar verdiğini ortaya koyuyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/9-killed-13-injured-in-israeli-airstrikes-in-southern-lebanon-in-new-ceasefire-violation/3922816",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1777547879712kk3sf",
-        "title": "AB, Batı Şeria'da İsrailli işgalcilerin şiddetine maruz kalanlar için yardım programı başlattı",
-        "summary": "Avrupa Birliği (AB), Batı Şeria'da İsrailli işgalcilerin uyguladığı şiddetten etkilenen mağdurlar için yeni bir yardım programı başlattığını duyurdu. AB yetkilileri, bu girişimin bölgedeki artan şiddet olayları karşısında Filistinlilerin korunmasını güçlendirmeyi hedeflediğini belirtti. Programın, şiddet mağdurlarına yönelik insani yardımları ve destek mekanizmalarını kapsayacağı ifade edildi. Bu adım, Batı Şeria'daki gerilimin tırmandığı bir dönemde geldi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36193759/pexels-photo-36193759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T11:17:59.712Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/eu-launches-aid-program-for-victims-of-violence-by-israeli-occupiers-in-west-bank/3922753",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777530743191cjo83",
-        "title": "Yeni Zelanda Mahkemesi, Christchurch Camii Saldırganının Temyiz Başvurusunu Reddetti",
-        "summary": "Yeni Zelanda'da bir mahkeme, 2019 yılında Christchurch'teki iki camide 51 Müslüman ibadet edeni, aralarında çocukların da bulunduğu kişileri öldüren Brenton Tarrant'ın mahkumiyetine itiraz başvurusunu reddetti. Tarrant, söz konusu saldırılarda işlediği cinayetler nedeniyle ömür boyu hapis cezasına çarptırılmıştı. Mahkemenin bu kararı, saldırganın cezasının onanması anlamına geliyor ve kurban yakınları ile Müslüman topluluklar için adalet arayışında önemli bir adım olarak değerlendiriliyor. Olay, dünya genelindeki Müslüman topluluklarında derin üzüntü ve endişe yaratmıştı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36409327/pexels-photo-36409327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T06:32:23.191Z",
-        "location": {
-            "lat": -43.5321,
-            "lng": 172.6362,
-            "name": "Christchurch, Yeni Zelanda"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "17775214255839ztz8",
-        "title": "Trump'tan İran'a 'Vazgeç' Çağrısı; Ghalibaf ABD Stratejisini Eleştirdi",
-        "summary": "İranlı yetkili Mohammad Bagher Ghalibaf, ABD'nin İran'a yönelik ekonomik baskı kampanyasını alaya aldı. Bu eleştiriler, petrol fiyatlarının yükseldiği ve Hürmüz Boğazı'ndaki gerilimin devam ettiği bir dönemde geldi. ABD Başkanı Trump'ın Tahran'a 'vazgeçme' çağrısı yaptığı belirtildi. Ghalibaf, ABD'nin stratejisinin hedeflerine ulaşmadığını ima ederek, mevcut durumu küçümsedi. Bölgedeki gerilim, küresel enerji piyasaları üzerindeki etkisini sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12618167/pexels-photo-12618167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T03:57:05.583Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
