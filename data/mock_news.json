@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777836853383xmsvz",
+        "title": "İsrail güçleri işgal altındaki Batı Şeria'nın Nablus kentinde Filistinli bir adamı öldürdü",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da yer alan Nablus kentine bir operasyon düzenledi. Operasyon sırasında 26 yaşında bir Filistinli erkek hayatını kaybetti. Olay, bölgedeki güvenlik durumunu bir kez daha gündeme getirdi. İsrail ve Filistin arasındaki gerilim devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13115050/pexels-photo-13115050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T19:34:13.383Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777836929403e5to8",
+        "title": "İsrail, Gazze yardım filosunu durdurmasının ardından Yunanistan'daki aktivistlerin çoğunu serbest bıraktı",
+        "summary": "İsrail, Gazze'ye yardım götürmeyi amaçlayan bir filoyu durdurdu. Olayın ardından Yunanistan'da bulunan aktivistlerden ikisi hariç tamamı serbest bırakıldı. 'Küresel Sumud Filosu' adlı grup, bu müdahaleyi 'korsanlık' olarak nitelendirdi. İsrail Dışişleri Bakanlığı ise söz konusu filoyu bir 'halkla ilişkiler gösterisi' olarak değerlendirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11902475/pexels-photo-11902475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T19:35:29.403Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17778320167484qg37",
         "title": "İran, ABD'nin 'savaşı sona erdirme' teklifine verdiği yanıtı incelediğini duyurdu",
         "summary": "İran, ABD'den 'savaşı sona erdirme' yönündeki kendi teklifine ilişkin bir yanıt aldığını ve bu yanıtı incelediğini bildirdi. Tahran yönetimi, ABD'nin cevabının Pakistanlı arabulucular aracılığıyla kendilerine ulaştırıldığını belirtti. İranlı yetkililer, bu gelişmenin mevcut nükleer müzakerelerle ilgili olmadığını özellikle vurguladı. Söz konusu diplomatik temas, iki ülke arasındaki gerilimin azaltılmasına yönelik çabalar kapsamında değerlendiriliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/us-approves-possible-military-sales-to-qatar-kuwait-uae/3924646",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17777095584966lzmg",
-        "title": "İran, Washington'ın Politika Değiştirmesi Halinde Müzakerelere Devam Etmeye İstekli Olduğunu Belirtti",
-        "summary": "İran, ABD ile müzakerelere yeniden başlama konusunda istekli olduğunu bildirdi. Tahran yönetimi, Washington'ın mevcut politikasını değiştirmesi halinde görüşmelere hazır olduğunu belirtti. Bu diplomatik adım, İran'ın arabulucu Pakistan'a yeni bir teklif sunmasıyla ortaya çıktı. Teklifin, bölgesel bir ateşkesin devam ettiği bir dönemde yapıldığı kaydedildi. Bu gelişme, iki ülke arasındaki gerilimi azaltma ve diplomatik çözüm arayışlarını güçlendirme potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T08:12:38.496Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-signals-willingness-to-resume-talks-if-washington-changes-course/3924644",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777702144156i1f16",
-        "title": "Trump: ABD Güçleri İran Petrolünü Alan 'Korsanlar Gibi'",
-        "summary": "Eski ABD Başkanı Donald Trump, ABD güçlerinin Hürmüz Boğazı yakınlarında İran gemilerini ve kargosunu ele geçirerek 'korsanlar gibi' davrandığını iddia etti. Trump'ın bu açıklaması, bölgedeki denizcilik faaliyetleri ve uluslararası hukuk tartışmalarını yeniden gündeme getirdi. Dünya petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı'nda yaşanan bu tür olaylar, ABD ile İran arasındaki gerilimi artırma potansiyeli taşıyor. İddialar, uluslararası arenada dikkatle takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36488785/pexels-photo-36488785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T06:09:04.156Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
