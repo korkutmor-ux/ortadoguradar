@@ -1,5 +1,37 @@
 [
     {
+        "id": "17778088354415sa6d",
+        "title": "İran'ın Savaşı Bitirmeye Yönelik 14 Maddelik Önerisi Ne? Trump Kabul Edecek mi?",
+        "summary": "ABD Başkanı Trump'ın, İran'ın mevcut bir savaşı sona erdirmeye yönelik sunduğu son öneriyi değerlendirdiği bildirildi. İran tarafından sunulan 14 maddelik bu teklifin detayları henüz kamuoyuna açıklanmadı. Ancak, iki taraf arasındaki derin güvensizliğin, bu önerinin kabul edilmesinin önündeki en büyük engellerden biri olduğu belirtiliyor. Teklifin, bölgedeki mevcut bir çatışmayı veya gerilimi sona erdirmeyi amaçladığı tahmin ediliyor. Washington ve Tahran arasındaki ilişkilerdeki mevcut durum göz önüne alındığında, bu diplomatik girişimin geleceği belirsizliğini koruyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T11:47:15.441Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777808889432okhap",
+        "title": "Kuveyt Dışişleri Bakanı Pazartesi Türkiye'yi Ziyaret Edecek",
+        "summary": "Kuveyt Dışişleri Bakanı Şeyh Jarrah Al-Ahmad Al-Sabah, Pazartesi günü Türkiye'ye resmi bir ziyaret gerçekleştirecek. Ziyaret kapsamında Türk Dışişleri Bakanı Hakan Fidan ile bir araya gelecek olan Kuveytli Bakan, ikili ilişkilerin yanı sıra savunma ve bölgesel krizleri ele alacak. Görüşmelerde, iki ülke arasındaki işbirliği alanlarının geliştirilmesi hedefleniyor. Ankara'nın ABD-İran görüşmelerine verdiği destek de gündemdeki konular arasında yer alacak. Bu ziyaretin, Orta Doğu'daki güncel gelişmeler ve bölgesel istikrar açısından önemli mesajlar içermesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T11:48:09.432Z",
+        "location": {
+            "lat": 39.9,
+            "lng": 32.8,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/kuwaits-foreign-minister-to-visit-turkiye-on-monday/3925578",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777804309898u7eet",
         "title": "Somali Korsanları 2026'da Geri mi Dönüyor?",
         "summary": "Somali açıklarında deniz haydutluğu faaliyetlerinin 2026 yılında yeniden artış gösterebileceği belirtiliyor. 2010 yılında zirveye ulaşan Somali korsanlığı, uluslararası çabalar sayesinde 2013 yılına gelindiğinde büyük ölçüde ortadan kalkmıştı. Ancak son değerlendirmeler, bölgedeki güvenlik durumunun ve ekonomik koşulların değişmesiyle birlikte korsanlık tehdidinin yeniden canlanma potansiyeli taşıdığına işaret ediyor. Bu durum, küresel deniz ticaret yolları ve özellikle Orta Doğu'ya ulaşan gemiler için yeni riskler oluşturabilir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17776481900775jcs4",
-        "title": "Trump'ın Tehdidi: ABD'nin Avrupa'daki Askerlerini Azaltmak Neden Kolay Olmayacak?",
-        "summary": "ABD Başkanı Trump'ın, Almanya'daki Amerikan askerlerinin sayısını azaltma tehdidinde bulunduğu bildirildi. Bu tehdidin, Atlantik ötesi ilişkilerde yaşanan gerilimler zemininde ortaya çıktığı belirtiliyor. Söz konusu gerilimlerin temelinde ise \"İran savaşı\" meselesinin yattığı ifade ediliyor. Haber, Trump'ın bu adımının Avrupa'daki müttefiklerle İran politikası üzerindeki anlaşmazlıkların bir sonucu olduğunu ve uygulanmasının kolay olmayabileceğini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5825466/pexels-photo-5825466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T15:09:50.077Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777643997469h166k",
-        "title": "Howe: Suudi Sahiplerinin Newcastle'daki Başarı Arzusu Değişmedi",
-        "summary": "Newcastle United Teknik Direktörü Eddie Howe, kulübün Suudi sahiplerinin başarıya olan arzusunun değişmediğini belirtti. Bu açıklama, Suudi Arabistan Kamu Yatırım Fonu'nun (PIF) 2026 sezonu sonunda LIV Golf'e sağladığı finansmanı keseceğini duyurmasının ardından geldi. Suudi Arabistan'ın egemen varlık fonu olan PIF, spor ve eğlence sektörleri dahil olmak üzere çeşitli alanlarda önemli yatırımlar yapmaktadır. Fonun LIV Golf'ten çekilme kararı, genel yatırım stratejilerindeki potansiyel değişiklikleri veya önceliklendirmeleri yansıtabilirken, Newcastle United'ın Suudi sahipliği kulübün gelecekteki hedefleri açısından önemini koruyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/8369765/pexels-photo-8369765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T13:59:57.469Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
