@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777829166619rat7q",
+        "title": "UKMTO: İran Açıklarında Dökme Yük Gemisine Saldırı Düzenlendi",
+        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), İran açıklarında bir dökme yük gemisinin çok sayıda küçük tekne tarafından saldırıya uğradığını bildirdi. Sirik'in 11 deniz mili (yaklaşık 20 kilometre) batısında meydana gelen olayın ardından gemi mürettebatının güvende olduğu ve herhangi bir çevresel hasar rapor edilmediği açıklandı. Bu tür olaylar, bölgedeki deniz güvenliği endişelerini artırmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29823922/pexels-photo-29823922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T17:26:06.619Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 57,
+            "name": "Sirik, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777829205992urw8s",
+        "title": "İsrail, ateşkesin bozulmasıyla silahsızlanmayı zorlamak için Gazze'de savaşın yeniden başlayacağı tehdidinde bulundu",
+        "summary": "İsrail, Gazze'deki ateşkesin bozulmaya başlamasıyla birlikte, bölgedeki Filistinli grupların silahsızlandırılmasını sağlamak amacıyla savaşın yeniden başlayabileceği tehdidinde bulundu. Bu tehdit, Filistinli grupların ABD destekli, insani yardımları silah bırakmaya bağlayan planları reddetmesinin ardından geldi. Filistinli gruplar, söz konusu planları kabul etmeyerek, bunun yerine ileriye dönük net bir siyasi yol haritası talep ediyor. Bölgedeki gerilim, taraflar arasındaki anlaşmazlıkların derinleştiğini ve mevcut durumun kırılganlığını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T17:26:45.992Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza, Palestine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1777824604119nkkp7",
         "title": "Dünya Basın Özgürlüğü Günü'nde Papa, Savaş Bölgelerinde Öldürülen Gazetecileri Andı",
         "summary": "Dünya Basın Özgürlüğü Günü dolayısıyla Papa Leo XIV, inananlara gerçeğin peşinde koşarken hayatını kaybeden gazetecileri anma çağrısında bulundu. Papa, özellikle savaş bölgelerinde görev yaparken yaşamını yitiren basın mensuplarının fedakarlıklarına dikkat çekti. Bu çağrı, gazetecilik mesleğinin zorluklarına ve tehlikelerine vurgu yaparak, basın özgürlüğünün evrensel önemini bir kez daha gündeme getirdi. Çatışma bölgelerinde çalışan gazetecilerin karşılaştığı yüksek riskler, bu tür anma etkinlikleriyle dünya kamuoyunun dikkatine sunulmaktadır.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
         "trendScore": 70,
         "isBreaking": false
-    },
-    {
-        "id": "17777023299585s9kr",
-        "title": "İsrailli Hukuk Grubu, Gözaltına Alınan Filo Aktivistlerinin Yerini Açıklamasını Talep Etti",
-        "summary": "İsrailli bir hukuk grubu, Tel Aviv yönetiminden gözaltına alınan iki filo aktivistinin nerede olduğunu açıklamasını talep etti. Adalah adlı grup, İsrail'in uluslararası sularda gerçekleştirdiği bu eylemleri \"yabancı sivillerin yasal yetki olmaksızın kaçırılması\" olarak nitelendirdi. Bu talep, İsrail'in uluslararası hukuk ve insan hakları yükümlülükleri çerçevesindeki eylemlerine ilişkin tartışmaları yeniden gündeme getirdi. Olayın, Gazze ablukasıyla ilgili geçmiş filo olaylarıyla bağlantılı olduğu düşünülüyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11651607/pexels-photo-11651607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T06:12:09.958Z",
-        "location": {
-            "lat": 32.1,
-            "lng": 34.8,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-legal-group-demands-tel-aviv-reveal-whereabouts-of-2-detained-flotilla-activists/3924638",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777693280592zk764",
-        "title": "Trump: İran Savaşı Erken Bitmeyecek, Tahran'ın Teklifinden Memnun Değilim",
-        "summary": "ABD Başkanı Donald Trump, İran ile yaşanan gerilime ilişkin açıklamalarda bulundu. Trump, İran ile devam eden 'savaşın' erken bir son bulmayacağını ve Tahran'ın sunduğu tekliflerden memnun olmadığını belirtti. Öte yandan, Beyaz Saray'dan Kongre'ye gönderilen bir bildirimde, İran ile düşmanlıkların sona erdiği ifade edildi. Bu açıklama, ABD'nin Orta Doğu'daki askeri varlığını sürdürmesine rağmen yapıldı. Bu durum, ABD yönetiminin İran politikasına dair çelişkili mesajlar verdiğini ortaya koyuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T03:41:20.592Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
