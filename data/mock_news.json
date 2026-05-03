@@ -1,5 +1,37 @@
 [
     {
+        "id": "17778143172611kuk3",
+        "title": "Spirit Airlines'ın Çöküşünde İran Savaşı'nın Rolü Tartışılıyor",
+        "summary": "Bütçe havayolu şirketi Spirit Airlines, 34 yıllık faaliyetinin ardından kapanarak 17.000 çalışanını işsiz bıraktı. Şirketin çöküşüyle ilgili tartışmalar sürerken, haber başlığında 'İran savaşının' bu kapanışta son darbe olup olmadığı sorgulanıyor. Bu durum, Orta Doğu'daki jeopolitik gelişmelerin küresel ekonomiye ve şirketlere olası etkilerini bir kez daha gündeme getirdi. Havayolu sektöründeki bu önemli gelişme, geniş çaplı ekonomik sonuçlar doğurabilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T13:18:37.261Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17778144027097zb02",
+        "title": "İşgal Altındaki Batı Şeria'da İsrail Saldırılarında 1 Filistinli Hayatını Kaybetti, Yaralılar Var",
+        "summary": "İşgal altındaki Batı Şeria'da İsrail güçleri tarafından düzenlenen yeni saldırılarda bir Filistinli hayatını kaybetti, çok sayıda kişi yaralandı. Nablus kentinde gerçekleşen olaylarda bir kişi yaşamını yitirirken, dört kişi de yaralandı. Doğu Kudüs'te ise bir başka kişinin yaralandığı bildirildi. Bu saldırılar, Tel Aviv'in bölgedeki devam eden operasyonları kapsamında gerçekleşti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T13:20:02.709Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-attacks-in-occupied-west-bank-kill-1-palestinian-injure-several-others/3925655",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17778088354415sa6d",
         "title": "İran'ın Savaşı Bitirmeye Yönelik 14 Maddelik Önerisi Ne? Trump Kabul Edecek mi?",
         "summary": "ABD Başkanı Trump'ın, İran'ın mevcut bir savaşı sona erdirmeye yönelik sunduğu son öneriyi değerlendirdiği bildirildi. İran tarafından sunulan 14 maddelik bu teklifin detayları henüz kamuoyuna açıklanmadı. Ancak, iki taraf arasındaki derin güvensizliğin, bu önerinin kabul edilmesinin önündeki en büyük engellerden biri olduğu belirtiliyor. Teklifin, bölgedeki mevcut bir çatışmayı veya gerilimi sona erdirmeyi amaçladığı tahmin ediliyor. Washington ve Tahran arasındaki ilişkilerdeki mevcut durum göz önüne alındığında, bu diplomatik girişimin geleceği belirsizliğini koruyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777653511864olsaf",
-        "title": "Türk polisi 1 Mayıs mitinginde göz yaşartıcı gaz kullandı, yüzlerce kişiyi gözaltına aldı",
-        "summary": "İstanbul'da 1 Mayıs İşçi Bayramı kutlamaları sırasında gerginlik yaşandı. Taksim Meydanı'nda toplanmak isteyen göstericilere Türk güvenlik güçleri müdahale etti. Polis, göstericilere karşı göz yaşartıcı gaz kullanırken, yüzlerce kişinin gözaltına alındığı bildirildi. Yetkililer, Taksim Meydanı'nın bu tür etkinliklere kapalı olduğunu daha önce belirtmişti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11622837/pexels-photo-11622837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T16:38:31.864Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1777653564689ww369",
-        "title": "Kudüs'te Rahibeye Saldırı Sonrası Bir Kişi Gözaltına Alındı",
-        "summary": "Kudüs'te bir Fransız rahibenin saldırıya uğramasının ardından İsrail polisi bir kişiyi gözaltına aldı. Görünüşe göre sebepsiz yere gerçekleşen saldırıda rahibe itilerek tekmelendi. Bu olay, şehirde Yahudi aşırılık yanlıları tarafından Hristiyanlara yönelik taciz vakalarının arttığı bir döneme denk geldi. Saldırı, Kudüs'teki dini gruplar arasındaki gerilimi bir kez daha gündeme getirdi. İsrail makamları olaya ilişkin soruşturma başlattı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10246103/pexels-photo-10246103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T16:39:24.689Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
