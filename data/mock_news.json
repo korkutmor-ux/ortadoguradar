@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777782492663gfm8p",
+        "title": "BAE, İran Savaşı'ndan Bu Yana Uygulanan Tüm Hava Trafiği Kısıtlamalarını Kaldırdı",
+        "summary": "Birleşik Arap Emirlikleri havacılık otoritesi, İran Savaşı'ndan bu yana yürürlükte olan tüm hava trafiği kısıtlamalarını kaldırdığını duyurdu. Bu karar, BAE hava sahasında uygulanan sınırlamaların sona erdiğini ve bölgesel hava ulaşımında normalleşme adımı atıldığını gösteriyor. Açıklama, Orta Doğu genelinde seyahat sektörünün toparlanmasının son işareti olarak değerlendiriliyor. Bu gelişme, bölgedeki havacılık faaliyetlerinin canlanması ve ekonomik hareketliliğin artması açısından önemli bir adım olarak görülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34145/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T04:28:12.663Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1777782515974tsaj9",
+        "title": "Trump, İran'ın Barış Önerisini Değerlendiriyor, 'Kabul Edilebilir' Olduğundan Şüphe Duyuyor",
+        "summary": "ABD Başkanı Donald Trump, İran tarafından sunulan 14 maddelik barış önerisini incelediğini açıkladı. Trump, söz konusu planın 'kabul edilebilir' olup olmadığı konusunda şüphelerini dile getirdi. ABD lideri, Tahran'ın 'yanlış adımlar atması' durumunda askeri operasyonların yeniden başlayabileceği yönünde sert bir uyarıda bulundu. Bu açıklama, Washington ile Tahran arasındaki gerilimin sürdüğünü ve diplomatik girişimlerin yanı sıra potansiyel çatışma riskinin de gündemde olduğunu ortaya koydu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T04:28:35.974Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777756145682ai059",
         "title": "Spirit Airlines, İran'a Yönelik Savaşın Tetiklediği Artan Yakıt Maliyetleri Nedeniyle Faaliyetlerini Durdurdu",
         "summary": "ABD merkezli düşük maliyetli havayolu şirketi Spirit Airlines, hükümetle yapılan kurtarma paketi görüşmelerinin başarısızlıkla sonuçlanmasının ardından faaliyetlerini durdurduğunu açıkladı. Şirketin kapanma kararının temelinde, başlıkta belirtildiği üzere, İran'a yönelik bir savaşın tetiklediği artan yakıt maliyetleri yatıyor. Bu durum, küresel enerji piyasalarındaki dalgalanmaların ve jeopolitik gerilimlerin havayolu sektörüne doğrudan etkilerini gözler önüne seriyor. Spirit Airlines'ın çöküşü, Orta Doğu'daki potansiyel veya mevcut çatışmaların dünya genelindeki ekonomik sonuçlarına dair önemli bir örnek teşkil ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupier-arrested-on-suspicion-of-assaulting-nun-in-occupied-east-jerusalem/3924047",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17776290759434c8kz",
-        "title": "Filistin Futbol Federasyonu Başkanı, FIFA Kongresi'nde İsrailli Mevkidaşıyla El Sıkışmayı Reddetti",
-        "summary": "Filistin Futbol Federasyonu Başkanı Cibril Racub, FIFA kongresinde İsrailli mevkidaşıyla el sıkışmayı reddetti. Racub, bu hareketini \"ulusal onurun protokole tabi olmadığını\" belirterek açıkladı. Olay, iki taraf arasındaki siyasi gerilimin spor platformlarına yansıması olarak yorumlandı. Racub ayrıca, yasa dışı yerleşim yerlerindeki kulüplerin durumuyla ilgili olarak spor mahkemesine yapılan itirazı da teyit etti. Bu durum, Filistin-İsrail ihtilafının spor dünyasındaki yansımalarını bir kez daha gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9488837/pexels-photo-9488837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T09:51:15.943Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin/İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-fa-chief-refuses-handshake-with-israeli-counterpart-at-fifa-congress/3924011",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777629096665tzg4b",
-        "title": "Güney Lübnan'da İsrail Hava Saldırısında 2 Ölü, 10 Yaralı",
-        "summary": "Güney Lübnan'da İsrail tarafından gerçekleştirilen bir hava saldırısında iki kişinin hayatını kaybettiği, on kişinin ise yaralandığı bildirildi. Nabatiye el-Fawqa bölgesini hedef alan saldırı, bölgedeki gerilimi tırmandırdı. Devam eden ateşkes ihlalleri ortamında meydana gelen bu olay, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Saldırının ardından bölgede tansiyonun yükseldiği ve uluslararası toplumdan itidal çağrıları geldiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5147810/pexels-photo-5147810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T09:51:36.665Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Nabatiye el-Fawqa, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-killed-10-injured-in-fresh-israeli-airstrike-in-southern-lebanon/3923822",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
