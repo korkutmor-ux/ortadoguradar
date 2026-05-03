@@ -1,5 +1,53 @@
 [
     {
+        "id": "17778185715511dysh",
+        "title": "İsrail Tarafından Gözaltına Alınan İki Gazze Filosu Aktivisti Kimler?",
+        "summary": "İsrail, Gazze ablukasını delmeyi amaçlayan bir filodaki 175 aktivisti gözaltına aldı. Gözaltına alınanlar arasında İspanyol vatandaşı Saif Abu Keshek ve Brezilyalı Thiago Avila da bulunuyor. Bu olay, İsrail'in Gazze'ye yönelik ablukasına karşı uluslararası sivil toplum tepkilerini ve İsrail'in bu tür girişimlere karşı uyguladığı politikaları bir kez daha gündeme getirdi. Aktivistlerin farklı uyruklardan olması, meselenin uluslararası boyutunu vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32995076/pexels-photo-32995076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T14:29:31.551Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/who-are-the-two-gaza-flotilla-activists-abducted-by-israel?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777818598473rd9yp",
+        "title": "ABD, İran Gerilimi Nedeniyle Almanya'daki Asker Sayısını Azaltacak",
+        "summary": "ABD ile Almanya arasındaki ilişkilerde, ABD Başkanı Trump ve Almanya Başbakanı Merz arasında İran'a yönelik olası bir savaş konusunda derinleşen anlaşmazlık nedeniyle gerilim yaşanmaktadır. Bu diplomatik anlaşmazlık, ABD'nin Almanya'daki askeri varlığını gözden geçirmesine yol açmıştır. Haber ajanslarına göre, ABD bu gerilimin bir sonucu olarak Almanya'daki asker sayısını azaltma kararı almıştır. Bu gelişme, hem NATO içindeki müttefik ilişkilerini hem de Orta Doğu'daki potansiyel çatışma dinamiklerini etkileyebilecek önemli bir adım olarak değerlendirilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17487313/pexels-photo-17487313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T14:29:58.473Z",
+        "location": {
+            "lat": 52.52,
+            "lng": 13.405,
+            "name": "Berlin, Almanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777818638764hxbnh",
+        "title": "Arap Kaynaklarının ABD İttifakına Yönlendirilmesi Sorgulanıyor",
+        "summary": "Arap dünyasında, Amerika Birleşik Devletleri ile mevcut ittifaklara daha fazla kaynak aktarılmasının mantıksız olduğu yönünde değerlendirmeler yapılıyor. Bu görüşe göre, ABD'nin dış politikasında İsrail'in çıkarları, Arap dünyasının çıkarlarının önünde yer almaktadır. Haberde, bölgedeki tüm taraflar için kalıcı güvenliğin tesis edilmesinin yegane yolunun Arap birliği olduğu belirtiliyor. Bu durum, Arap ülkelerinin bölgesel ve uluslararası ittifak stratejilerini gözden geçirmeleri gerektiği tartışmalarını gündeme getiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14469873/pexels-photo-14469873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T14:30:38.764Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/5/3/it-does-not-make-sense-to-invest-more-arab-resources-in-a-us-alliance?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17778143172611kuk3",
         "title": "Spirit Airlines'ın Çöküşünde İran Savaşı'nın Rolü Tartışılıyor",
         "summary": "Bütçe havayolu şirketi Spirit Airlines, 34 yıllık faaliyetinin ardından kapanarak 17.000 çalışanını işsiz bıraktı. Şirketin çöküşüyle ilgili tartışmalar sürerken, haber başlığında 'İran savaşının' bu kapanışta son darbe olup olmadığı sorgulanıyor. Bu durum, Orta Doğu'daki jeopolitik gelişmelerin küresel ekonomiye ve şirketlere olası etkilerini bir kez daha gündeme getirdi. Havayolu sektöründeki bu önemli gelişme, geniş çaplı ekonomik sonuçlar doğurabilir.",
@@ -748,54 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.aa.com.tr/en/middle-east/trump-says-he-is-not-satisfied-with-irans-proposal-citing-demands-he-cannot-agree-to/3924527",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777669014486uzbgd",
-        "title": "Filistinli Futbol Federasyonu Başkanı FIFA Etkinliğinde İsrailli Temsilciyle El Sıkışmayı Reddetti",
-        "summary": "Filistin Futbol Federasyonu Başkanı Cibril Racub, bir FIFA etkinliğinde İsrailli Futbol Federasyonu temsilcisiyle el sıkışmayı reddetti. Racub, bu ret kararının nedenlerini kamuoyuna açıkladı. Bu olay, İsrail-Filistin arasındaki siyasi gerilimin spor diplomasisi alanına yansıması olarak değerlendirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6170758/pexels-photo-6170758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T20:56:54.486Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin/İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17776690707914hjkb",
-        "title": "ABD yargıcı, Trump'ın Yemen vatandaşları için korumalı statüyü sonlandırmasını engelledi",
-        "summary": "Bir ABD yargıcı, eski Trump yönetiminin Yemen vatandaşları için Geçici Koruma Statüsü'nü (TPS) sonlandırma girişimini engelledi. Bu karar, Trump yönetiminin göçmenlik politikaları kapsamında 13 farklı ülkenin vatandaşlarına sağlanan geçici korumaları iptal etme çabalarının bir parçasıydı. Yargıcın hükmü, Yemenli bireylerin ABD'de kalmaya devam etmelerini sağlayarak, ülkedeki göçmenlik kısıtlamalarına karşı önemli bir hukuki zafer olarak değerlendirildi. Karar, ABD'nin göçmenlik politikaları ve insani korumalar konusundaki süregelen tartışmaları bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/37197253/pexels-photo-37197253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T20:57:50.791Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "San'a, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777658534521c7ygy",
-        "title": "İsrail, Gazze Yardım Filosunu Durdurduktan Sonra Aktivistleri Serbest Bıraktı",
-        "summary": "İsrail, Gazze'ye yardım götüren \"Global Sumud Filosu\"nu durdurdu. Olayın ardından filodaki aktivistlerin çoğu Yunanistan'da serbest bırakılırken, iki aktivistin durumu belirsizliğini koruyor. Filo organizatörleri bu müdahaleyi \"korsanlık\" olarak nitelendirirken, İsrail Dışişleri Bakanlığı filoyu bir \"halkla ilişkiler gösterisi\" olarak değerlendirdi. Bu olay, Gazze'ye yönelik ablukanın ve uluslararası yardım çabalarının yarattığı gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31259994/pexels-photo-31259994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T18:02:14.521Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
