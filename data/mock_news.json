@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777865725638wrngv",
+        "title": "BAE açıklarında tankere 'kimliği belirsiz mermilerle' saldırı",
+        "summary": "Birleşik Arap Emirlikleri'nin Füceyre kenti açıklarında bir tankerin 'kimliği belirsiz mermilerle' hedef alındığı bildirildi. İngiliz denizcilik yetkilileri tarafından rapor edilen olayın, kentin kuzeyindeki sularda meydana geldiği belirtildi. Saldırıya rağmen tanker mürettebatının güvende olduğu ve herhangi bir çevresel hasarın oluşmadığı açıklandı. Olayın detaylarına ilişkin soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29792898/pexels-photo-29792898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T03:35:25.638Z",
+        "location": {
+            "lat": 25.1167,
+            "lng": 56.35,
+            "name": "Füceyre, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/tanker-hit-by-unknown-projectiles-near-uae-s-fujairah-crew-safe/3925976",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1777865764814mct9a",
+        "title": "İranlı milletvekili, ABD'nin Hürmüz Boğazı planının ateşkes ihlali olacağı uyarısında bulundu",
+        "summary": "İranlı üst düzey bir milletvekili, ABD'nin Hürmüz Boğazı'na yönelik olası herhangi bir planının veya boğazın yeni denizcilik rejimine müdahalesinin ateşkes ihlali anlamına geleceği konusunda uyarıda bulundu. Milletvekili, Amerikan tarafının bu stratejik su yolundaki adımlarının mevcut bir anlaşmayı veya zımni bir uzlaşmayı bozacağını belirtti. Hürmüz Boğazı, küresel enerji ticareti için hayati öneme sahip olup, Basra Körfezi'ni Umman Denizi'ne bağlamaktadır. Bu açıklama, ABD ile İran arasındaki bölgesel gerilimlerin ve deniz güvenliği konusundaki anlaşmazlıkların devam ettiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T03:36:04.814Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-lawmaker-warns-that-any-us-plan-for-hormuz-strait-would-be-ceasefire-violation/3925966",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777852436820gcuq8",
         "title": "Suriye ve Mısır Ekonomik İşbirliğini Artırmak İçin Ortak İş Konseyi Kurdu",
         "summary": "Suriye ve Mısır, iki ülke arasındaki ekonomik işbirliğini güçlendirmek amacıyla ortak bir iş konseyi oluşturdu. Bu önemli gelişme, Suriye Dışişleri Bakanı'nın Mısır'a gerçekleştirdiği ilk resmi ziyaretle eş zamanlı olarak duyuruldu. Konseyin temel hedefi, iki ülke arasındaki ticari ilişkileri geliştirmek, yatırım fırsatlarını artırmak ve ekonomik entegrasyonu teşvik etmektir. Bu adım, bölgesel ilişkilerde normalleşme çabalarının bir parçası olarak değerlendirilmekte ve Suriye'nin uluslararası arenadaki konumunu güçlendirme potansiyeli taşımaktadır.",
@@ -764,38 +796,6 @@
             "name": "Tehran, Iran"
         },
         "source": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777709419526nqqmp",
-        "title": "İran'da Tutuklanan İngiliz Çift: 'Uzun Süre Burada Kalacağız Gibi Görünüyor'",
-        "summary": "Lindsay ve Craig Foreman adlı İngiliz çift, geçen yıl motosiklet turu sırasında İran'da tutuklanmalarının ardından 10 yıl hapis cezasına çarptırıldı. Çift, bu uzun süreli hapis cezasının gerçekliğiyle yüzleşiyor ve durumlarının uzun süreceğini belirtiyor. Olay, İngiltere ile İran arasındaki diplomatik ilişkilerde gerilime neden olabilir. Uluslararası insan hakları örgütleri ve İngiliz yetkililerin konuyu yakından takip ettiği bildirildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10475175/pexels-photo-10475175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T08:10:19.526Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777709441399fugkb",
-        "title": "Suriye'de Esad Rejimi Yetkilisinin Yargılanması Mağdurlar İçin İlk Adım Olarak Görüldü",
-        "summary": "Suriye'nin başkenti Şam'da, eski üst düzey rejim yetkilisi Atef Necip'in mahkemeye çıkarılmasıyla dikkat çekici gelişmeler yaşandı. Duruşma salonunda gergin anlar kaydedildiği belirtildi. Bu yargılamanın, Esad rejiminin mağdurları için adalet arayışında uzun bir sürecin başlangıcı olarak değerlendirildiği ifade ediliyor. Gözlemciler, davanın Suriye'deki hesap verebilirlik çabaları açısından sembolik bir öneme sahip olduğunu vurguluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8693571/pexels-photo-8693571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T08:10:41.399Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
