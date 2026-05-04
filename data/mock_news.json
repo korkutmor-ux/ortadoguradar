@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777923924093t3yin",
+        "title": "Hürmüz Boğazı'nda İran ve ABD Arasında Savaş Gemisi Gerilimi",
+        "summary": "İran, donanmasının Hürmüz Boğazı'nda bir ABD savaş gemisini geri çevirdiğini iddia etti. Washington ise bu iddiaları yalanlayarak herhangi bir çatışma yaşanmadığını belirtti. Küresel petrol ticareti için hayati öneme sahip olan Hürmüz Boğazı'ndaki bu tür olaylar, bölgedeki gerilimi artırma potansiyeli taşıyor. İki ülke arasındaki bu tür karşılıklı iddialar, bölgenin güvenlik dinamikleri üzerindeki etkileriyle yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32421253/pexels-photo-32421253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T19:45:24.093Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777916631051ru9th",
         "title": "Hürmüz Boğazı'nda Güvenlik Endişesi: Kaptanlardan Uyarı",
         "summary": "Kaptan Raman Kapoor, Hürmüz Boğazı'ndan geçişin güvenliği konusunda önemli bir uyarıda bulundu. Kapoor, güvenlik güvencesi olmadan hiçbir geminin boğazdan çıkış yapmaya teşebbüs etmeyeceğini belirtti. Bu açıklama, dünyanın en kritik deniz geçiş noktalarından biri olan Hürmüz Boğazı'ndaki denizcilik güvenliğine ilişkin artan endişeleri yansıtıyor. Küresel petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolundaki herhangi bir aksaklık, bölgesel ve küresel ekonomiler üzerinde ciddi etkilere yol açabilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-sets-one-month-deadline-for-us-to-end-naval-blockade-wars-in-iran-lebanon/3925361",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777792116124ps3qw",
-        "title": "Ürdün, Suriye'nin Güneyindeki Uyuşturucu ve Silah Kaçakçılığı Bölgelerini Vurdu",
-        "summary": "Ürdün ordusu, Suriye'nin güneyinde yer alan uyuşturucu ve silah kaçakçılığına ait bölgelere hava saldırıları düzenledi. Suriye devlet medyası, Ürdün savaş uçaklarının Süveyda vilayetindeki bazı mevzileri hedef aldığını bildirdi. Bu operasyonların, Ürdün'e yönelik kaçakçılık faaliyetlerini engelleme amacı taşıdığı belirtiliyor. Bölgedeki güvenlik durumu, bu tür sınır ötesi müdahalelerle gerginliğini koruyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28309862/pexels-photo-28309862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T07:08:36.124Z",
-        "location": {
-            "lat": 32.7,
-            "lng": 36.5,
-            "name": "Süveyda, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-strikes-drug-arms-smuggling-sites-in-southern-syria/3925354",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
