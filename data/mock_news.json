@@ -1,5 +1,149 @@
 [
     {
+        "id": "1777893760531qz06x",
+        "title": "NATO Genel Sekreteri: Avrupalılar Trump'ın Savunma Mesajını Aldı",
+        "summary": "NATO Genel Sekreteri, Avrupalı müttefiklerin ABD Başkanı Trump'ın savunma harcamaları konusundaki mesajını 'aldığını' belirtti. Trump, daha önce bazı NATO ülkelerini savunma bütçelerine yeterince katkı sağlamamakla eleştirmişti. Haberin içeriğinde, ABD Başkanı'nın bu eleştirilerinin, bazı NATO ülkelerinin ABD-İsrail'in İran'a karşı olası bir savaşına yeterince destek vermemesiyle ilgili olduğu ifade ediliyor. Bu durum, NATO içindeki yük paylaşımı tartışmalarının yanı sıra, Orta Doğu'daki bölgesel gerilimlerin ittifak üzerindeki etkilerini de gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:22:40.531Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893787932lwdsz",
+        "title": "'Bacağımı Hissetmiyorum': İsrail Ateşi Batı Şeria'da Gençleri Sakat Bıraktı",
+        "summary": "El Cezire'nin haberine göre, işgal altındaki Batı Şeria'da bulunan bir mülteci kampında İsrail askerlerinin açtığı ateş sonucu birçok genç hayatını kaybetti veya sakat kaldı. Haberde, İsrail güçlerinin müdahaleleri sırasında gençlerin ciddi şekilde yaralandığı ve bazılarının kalıcı engellerle yaşamak zorunda kaldığı belirtiliyor. Özellikle bacaklarından vurulan gençlerin yaşadığı travma ve fiziksel kayıplar vurgulanıyor. Bölgedeki insan hakları örgütleri, İsrail askerlerinin orantısız güç kullanımını eleştirirken, İsrail ordusu ise güvenlik operasyonları kapsamında hareket ettiğini savunuyor. Bu olaylar, İsrail-Filistin çatışmasının Batı Şeria'daki insani boyutunu bir kez daha gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7395450/pexels-photo-7395450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:23:07.932Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893811109lon9f",
+        "title": "ABD Başkanı Trump'tan Hürmüz Boğazı'na Yeni Misyon Emri",
+        "summary": "ABD Başkanı Donald Trump, İran'ın barış önerisine Washington'dan yanıt aldığını açıklamasının ardından Hürmüz Boğazı'na yönelik yeni bir misyon emri verdi. Bu karar, bölgedeki gerilimin tırmandığı bir dönemde geldi. Misyonun detayları henüz kamuoyuyla paylaşılmazken, Hürmüz Boğazı'nda seyrüsefer güvenliğinin sağlanması ve İran ile ABD arasındaki potansiyel çatışma riskinin yönetilmesi hedefleniyor. Gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:23:31.109Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1777893835963n2mwu",
+        "title": "İran, ABD'yi Hürmüz Boğazı'ndan Uzak Durması Konusunda Uyardı",
+        "summary": "ABD Başkanı Donald Trump'ın, Hürmüz Boğazı'nda mahsur kalan gemilere rehberlik etmek amacıyla \"Özgürlük Projesi\"ni başlatacaklarını duyurması üzerine İran'dan sert bir tepki geldi. Tahran yönetimi, Washington'ı Hürmüz Boğazı'ndan uzak durması konusunda uyardı. Bu açıklama, bölgedeki gerilimi tırmandırma potansiyeli taşıyor. Hürmüz Boğazı, küresel petrol ve gaz ticareti için hayati öneme sahip stratejik bir deniz geçidi olarak biliniyor ve geçmişte de benzer gerilimlere sahne olmuştu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:23:55.963Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893856042a1j01",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 13 Kişi Hayatını Kaybetti",
+        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Güney Lübnan'a düzenlediği saldırılarda aralarında dört kadın ve bir çocuğun da bulunduğu 13 kişi yaşamını yitirdi. Ateşkes anlaşmasına rağmen İsrail ile İran destekli Hizbullah arasındaki çatışmalar devam ediyor. Bölgedeki gerilim, sivil kayıpların artmasına neden oluyor. Uluslararası toplum, taraflara gerilimi düşürme çağrısı yapıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:24:16.042Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 35.5,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893877637kj2in",
+        "title": "İngiliz Çift İran'da 10 Yıl Hapse Mahkum Edildi",
+        "summary": "İngiliz vatandaşları Lindsay ve Craig Foreman, geçen yıl motosiklet turu sırasında İran'da tutuklanmalarının ardından 10 yıllık hapis cezasıyla yüzleşiyor. Çift, İran'da uzun bir süre kalacaklarını ifade etti. Bu durum, yabancı uyruklu vatandaşların İran'da tutuklanması ve yargılanmasıyla ilgili endişeleri yeniden gündeme getirdi. Olayın, Birleşik Krallık ile İran arasındaki diplomatik ilişkilerde potansiyel bir gerilim kaynağı olabileceği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7714862/pexels-photo-7714862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:24:37.637Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893911818umbb0",
+        "title": "Roma savcıları, İsrail'in Gazze yardım filosunu durdurması sırasında gözaltına alınan 2 İtalyan hakkında soruşturma başlattı",
+        "summary": "İtalya'nın başkenti Roma'daki savcılar, İsrail'in Gazze'ye yardım taşıyan bir filoyu durdurması sırasında gözaltına alınan iki İtalyan vatandaşının durumu hakkında bir soruşturma başlattı. Bu soruşturma, aralarında iki İtalyan aktivistin de bulunduğu üç resmi şikayet üzerine açıldı. Olay, uluslararası sularda gerçekleşen ve Gazze ablukasını delmeyi amaçlayan yardım konvoylarına yönelik İsrail müdahaleleri bağlamında değerlendiriliyor. Soruşturmanın, İtalyan vatandaşlarının gözaltına alınma koşulları ve uluslararası hukuka uygunluğu üzerine odaklanması bekleniyor. Bu gelişme, İsrail ile İtalya arasındaki ilişkilerde potansiyel diplomatik yansımalara yol açabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14091894/pexels-photo-14091894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:25:11.818Z",
+        "location": {
+            "lat": 41.9,
+            "lng": 12.5,
+            "name": "Roma, İtalya"
+        },
+        "source": "https://www.aa.com.tr/en/europe/rome-prosecutors-probe-detention-of-2-italians-during-israeli-interception-of-gaza-aid-flotilla/3926429",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893935622kqj2h",
+        "title": "İsrail, işgal altındaki Batı Şeria'daki yerleşim yolları için 270 milyon dolarlık bütçeyi onayladı",
+        "summary": "İsrail hükümeti, işgal altındaki Batı Şeria'da bulunan yasa dışı yerleşim birimlerini birbirine bağlayacak yolların inşası için 270 milyon dolarlık bir bütçe ayırma kararı aldı. Bu planın, bölgedeki yerleşim yerleri arasındaki bağlantıyı güçlendirmeyi hedeflediği belirtildi. Uluslararası hukuka göre yasa dışı kabul edilen bu yerleşim birimlerinin genişletilmesi ve altyapısının güçlendirilmesi, Filistinliler ve uluslararası toplum tarafından eleştirilere neden oluyor. Söz konusu bütçe, bölgedeki gerilimi artırabilecek bir adım olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6497226/pexels-photo-6497226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:25:35.622Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-approves-270m-budget-for-settlement-roads-in-occupied-west-bank/3926363",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777893971619acofv",
+        "title": "Dubai Havalimanları, BAE Hava Sahasının Tamamen Restore Edilmesinin Ardından Operasyonları Artırıyor",
+        "summary": "Dubai Havalimanları CEO'su, Birleşik Arap Emirlikleri hava sahasının tamamen restore edilmesinin ardından operasyonların ölçeğini büyüttüklerini duyurdu. Havalimanları, Şubat ayının sonundan bu yana 6 milyondan fazla yolcuya hizmet verdi. Aynı dönemde 32.000 uçuş gerçekleştirilirken, 213.000 ton kargo taşındı. Bu durum, bölgedeki hava trafiğinin ve lojistik faaliyetlerinin normalleşme sürecine girdiğini gösteriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/6861306/pexels-photo-6861306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T11:26:11.619Z",
+        "location": {
+            "lat": 25.2048,
+            "lng": 55.2708,
+            "name": "Dubai, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/dubai-airports-scaling-up-operations-after-uae-airspace-fully-restored-ceo/3926272",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777886580842vvreg",
         "title": "Japonya Başbakanı: Hürmüz Boğazı'nın Kapanması Asya-Pasifik'i 'Büyük Ölçüde Etkiliyor'",
         "summary": "Japonya Başbakanı, Hürmüz Boğazı'nın fiili kapanmasının Asya-Pasifik bölgesi üzerinde \"muazzam bir etki\" yarattığını ifade etti. Bu açıklama, küresel enerji tedariki ve uluslararası ticaret için hayati önem taşıyan boğazın stratejik konumunu bir kez daha gündeme getirdi. Orta Doğu'daki gerilimler nedeniyle zaman zaman kapanma tehditleriyle karşı karşıya kalan Hürmüz Boğazı, dünya petrolünün önemli bir kısmının geçiş güzergahıdır. Japonya gibi enerji ithalatına bağımlı Asya ülkeleri için boğazdaki herhangi bir aksaklık, ciddi ekonomik ve stratejik sonuçlar doğurabilir. Başbakanın bu ifadeleri, bölgesel istikrarın ve deniz yollarının güvenliğinin korunmasının önemine dikkat çekiyor.",
@@ -653,150 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-submits-14-point-response-to-us-proposal-on-ending-war-via-pakistan-tasnim-news-agency/3925302",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1777748702602c8clt",
-        "title": "İspanya, İsrail'den Gazze filosu mürettebat üyesini serbest bırakmasını talep etti",
-        "summary": "İspanya, İsrail'den, Gazze'ye yardım götürmeyi amaçlayan filonun mürettebat üyesi Saif Abukeshek'i serbest bırakmasını talep etti. Abukeshek, İsrail güçlerinin Yunanistan açıklarında 'Global Sumid Filosu'na düzenlediği baskın sırasında gözaltına alınarak İsrail'e götürülmüştü. Bu olay, Gazze Şeridi'ne uygulanan ablukayı delmeyi hedefleyen insani yardım girişimleriyle ilgili gerilimi bir kez daha gündeme getirdi. İspanya'nın bu talebi, uluslararası alanda İsrail'in Gazze'ye yönelik politikalarına karşı çıkan sesleri yansıtıyor ve diplomatik bir krize işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11912586/pexels-photo-11912586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T19:05:02.602Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777748722635kdi1t",
-        "title": "İsrail'in Güney Lübnan'a Hava Saldırıları 'Ateşkes'e Rağmen Devam Ediyor",
-        "summary": "İsrail'in Güney Lübnan'a yönelik hava saldırıları, bölgede ilan edilen 'ateşkes'e rağmen devam ediyor. Son 24 saat içinde İsrail güçleri, Güney Lübnan'a 50 hava saldırısı düzenlediği bildirildi. Bu saldırılar sonucunda en az 41 kişinin hayatını kaybettiği belirtildi. Bölgedeki yıkım ve can kayıpları, devam eden gerilimin boyutunu gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32702229/pexels-photo-32702229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T19:05:22.635Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17777487596232acvd",
-        "title": "İran Ekonomisi Savaşın Gölgesinde Zorlanıyor, Fiyatlar Yükseliyor",
-        "summary": "İran ekonomisi, devam eden savaşın etkisiyle zorlu bir dönemden geçiyor. Ülkede fiyat artışları yaşanırken, istihdam piyasasında da daralmalar gözlemleniyor. Yeni Yüksek Lider Mojtaba Khamenei, bu koşullar altında yaptığı açıklamada, ülkenin ekonomik ve kültürel alanda düşmanlarına karşı mücadele etmesi ve onları yenmesi gerektiğini vurguladı. Bu durum, İran'ın mevcut ekonomik sıkıntılarını ve liderliğin bu duruma yönelik stratejisini ortaya koyuyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/29031562/pexels-photo-29031562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T19:05:59.623Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17777441352654b6mv",
-        "title": "Yemen, Kaçırılan Petrol Tankerinin Somali'ye Doğru İlerlediğini Bildirdi",
-        "summary": "Yemen'den gelen haberlere göre, bir petrol tankeri kaçırıldı ve Somali'ye doğru ilerliyor. Bu olay, son haftalarda Somali açıklarında yaşanan en az dördüncü gemi kaçırma vakası olarak kayıtlara geçti. Bölgedeki deniz güvenliği endişeleri artarken, uluslararası toplumun korsanlıkla mücadele çabaları yeniden gündeme geldi. Olayın detayları ve müdahale çalışmaları hakkında henüz ek bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7047322/pexels-photo-7047322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T17:48:55.265Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 47.5,
-            "name": "Aden Körfezi, Somali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777744239238i6nzc",
-        "title": "İran'dan ABD'ye Nükleer Anlaşma Suçlaması",
-        "summary": "İran, ABD'nin nükleer silahların yayılmasını önleme anlaşmasına uymadığını iddia etti. İran'ın Birleşmiş Milletler Daimi Temsilciliği'nden yapılan açıklamada, Uluslararası Atom Enerjisi Ajansı (UAEA) denetiminde yapıldığı sürece uranyum zenginleştirme seviyesine yasal bir kısıtlama olmadığı belirtildi. Açıklamada, İran'ın kendi nükleer programının da UAEA denetiminde olduğu hatırlatılarak, bu durumun yasalara uygun olduğu vurgulandı. Bu gelişme, İran'ın nükleer programı etrafındaki uluslararası tartışmaları ve ABD ile süregelen anlaşmazlıkları yeniden gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34126111/pexels-photo-34126111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T17:50:39.238Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-not-complying-with-nuclear-non-proliferation-treaty/3925118",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777740876022omxna",
-        "title": "İran saldırılarının Orta Doğu'daki 16 ABD askeri tesisine zarar verdiği iddia edildi",
-        "summary": "CNN tarafından yayımlanan bir rapora göre, İran'ın Orta Doğu'daki ABD askeri tesislerine yönelik saldırıları, bölgedeki ABD askeri konumlarının çoğunluğunu oluşturan 16 tesiste hasara yol açtı. Bu iddia, bölgedeki gerilimin boyutunu ve ABD'nin askeri varlığının kırılganlığını bir kez daha gözler önüne seriyor. Söz konusu hasarın, ABD'nin bölgedeki operasyonel kapasitesini ne ölçüde etkilediği ise henüz netlik kazanmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11823877/pexels-photo-11823877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T16:54:36.022Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-strikes-damaged-16-us-military-sites-in-middle-east-report-claims/3925162",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777737092058kldom",
-        "title": "İsrail'deki Filistin Kasabalarında Suç Salgını ve 'İki Kademeli' Polislik İddiaları",
-        "summary": "İsrail'deki Filistinlilere ait yerleşim yerlerinde cinayet oranlarında endişe verici bir artış yaşanmaktadır. Bu durum, İsrail devletinin Filistinli topluluklardaki suçlara karşı ihmalkar davrandığı ve hatta suç ortaklığı yaptığı yönündeki iddiaları gündeme getirmiştir. Haber, İsrail'in bu bölgelerde 'iki kademeli' bir polislik sistemi uyguladığı ve bunun güvenlik sorunlarını derinleştirdiği eleştirilerine dikkat çekmektedir. Artan şiddet olayları, Filistinli kasabalardaki yaşam kalitesini ve toplumsal düzeni olumsuz etkilemektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10464436/pexels-photo-10464436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T15:51:32.058Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17777322640264v935",
-        "title": "Gazze'deki Yeni Lüks Kafe ve Restoranların Karanlık Yüzü",
-        "summary": "Gazze Şeridi'nde son dönemde açılan yeni lüks kafe ve restoranlar dikkat çekmektedir. Ancak haber, bu yeni işletmelerin, bölgedeki yıkım ve insani krizin gölgesinde farklı bir gerçekliği gözler önüne serdiğini belirtmektedir. İçerik, bu tür mekanların ortaya çıkışının, 'yeni bir soykırımcı gerçekliği' yansıttığını iddia etmektedir. Bu durum, Gazze'deki yaşamın karmaşık ve çelişkili yönlerini vurgulamakta, bölgedeki mevcut koşullara dair tartışmaları alevlendirmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36850172/pexels-photo-36850172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T14:31:04.026Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777727986933bgj5f",
-        "title": "İsrail'in Güney Lübnan'a Hava Saldırılarında 10 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında 10 kişi yaşamını yitirdi. Saldırılarda insansız hava araçları ve savaş uçakları kullanılarak bölgedeki birçok kasaba hedef alındı. Bu eylemler, 17 Nisan'dan bu yana yürürlükte olan ateşkesin ihlal edildiği şeklinde yorumlandı. Yaşanan bu gerilimin ardından, Lübnan merkezli Hizbullah örgütü saldırılarına devam edeceğini duyurdu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33333373/pexels-photo-33333373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T13:19:46.933Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
