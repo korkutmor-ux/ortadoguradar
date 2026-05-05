@@ -823,3 +823,42 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+// =========================================
+// HABER PAYLAŞMA MANTIĞI (WEB SHARE API)
+// =========================================
+window.shareNews = async function(newsId) {
+    // Paylaşılacak haberi bul
+    const item = STATE.news.find(n => n.id === newsId);
+    if (!item) return;
+
+    // Paylaşım metnini hazırla
+    const shareTitle = "Orta Doğu Radar | " + item.title;
+    // Özeti biraz kırpalım ki çok uzun olmasın
+    const shortSummary = item.summary.length > 150 ? item.summary.substring(0, 150) + "..." : item.summary;
+    const shareText = `📌 ${item.title}\n\n${shortSummary}\n\n`;
+    
+    // Geçerli URL'yi al
+    const shareUrl = window.location.href.split('#')[0];
+
+    // Modern tarayıcıların paylaşım menüsünü tetikle
+    if (navigator.share) {
+        try {
+            await navigator.share({
+                title: shareTitle,
+                text: shareText,
+                url: shareUrl
+            });
+            console.log('Başarıyla paylaşıldı');
+        } catch (err) {
+            console.log('Paylaşım iptal edildi veya desteklenmiyor.', err);
+        }
+    } else {
+        // Eğer cihaz bunu desteklemiyorsa (eski masaüstü vs.) linki panoya kopyala
+        const fallbackText = `${shareText}\nHaberi Oku: ${shareUrl}`;
+        navigator.clipboard.writeText(fallbackText).then(() => {
+            alert("Haber metni ve linki panoya kopyalandı! İstediğin yere yapıştırabilirsin.");
+        }).catch(err => {
+            alert("Kopyalama başarısız oldu.");
+        });
+    }
+};
