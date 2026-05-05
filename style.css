@@ -1574,3 +1574,17 @@ body {
     transition: background-color 5000s ease-in-out 0s;
     -webkit-text-fill-color: var(--text-primary) !important;
 }
+/* =========================================
+   ARAMA ÇUBUĞU GENİŞLİK DÜZELTMESİ
+   ========================================= */
+.search-bar {
+    flex: 1 !important; /* Mümkün olan tüm boş alanı kapla */
+    min-width: 250px !important; /* Yazının sığması için minimum genişlik */
+    max-width: 500px !important; /* Çok da uzamasın */
+    width: 100% !important; /* İçeriğin tam oturması için */
+}
+
+.search-bar input {
+    width: 100% !important; /* Yazı alanının çubuğu tam doldurmasını sağla */
+    text-overflow: ellipsis; /* Çok uzun yazı yazılırsa taşmasın, üç nokta koysun */
+}
