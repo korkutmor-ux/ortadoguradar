@@ -14,6 +14,7 @@ if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);
 }
 const db = firebase.firestore(); // Bulut Veritabanı hazır
+
 /* =========================================
    Orta Doğu Radar - Main App Logic
    ========================================= */
@@ -52,10 +53,6 @@ const MIDDLE_EAST_COUNTRIES = [
     "IRAK", "İRAN", "KUVEYT", "KATAR", "BAE", "UMMAN", "YEMEN", 
     "SUUDİ ARABİSTAN", "AFGANİSTAN", "PAKİSTAN"
 ];
-
-// Icons Mapping for Categories
-
-
 
 // Icons Mapping for Categories
 const CAT_ICONS = {
@@ -139,7 +136,9 @@ function renderNewsCards() {
         const cardClass = item.isBreaking ? 'news-card breaking' : 'news-card';
         const breakingBadge = item.isBreaking ? `<span class="breaking-tag"><i class="fa-solid fa-bolt"></i> Son Dakika</span>` : '';
         const imageHTML = (item.imageUrl && item.imageUrl.includes('pexels')) ? `<img src="${item.imageUrl}" alt="Haber Görseli" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px 8px 0 0; display: block; border-bottom: 1px solid #333;">` : '';
-const cardHTML = `
+        
+        // DİKKAT: Etkileşim (beğeni, yorum, alıntı) butonları tamamen temizlendi
+        const cardHTML = `
             <article class="${cardClass}">
                 ${imageHTML}
                 <div class="card-header">
@@ -153,24 +152,6 @@ const cardHTML = `
                 <div class="card-body">
                     <h3>${item.title}</h3>
                     <p>${item.summary}</p>
-                    
-                   <div class="card-interactions" style="display: flex; gap: 25px; margin-top: 15px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05);">
-                        
-                        <button onclick="handleNewsLike('${item.id}')" class="int-btn" id="news-like-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
-                            <i class="fa-regular fa-heart"></i> <span class="count">0</span>
-                        </button>
-                        
-                        <button onclick="toggleNewsComments('${item.id}')" class="int-btn" id="news-comm-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
-                            <i class="fa-regular fa-comment"></i> <span class="count">0</span>
-                        </button>
-                        
-                        <button onclick="handleQuote('${item.id}')" class="int-btn" id="news-quote-btn-${item.id}" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem;">
-                            <i class="fa-solid fa-retweet"></i> <span class="count">0</span>
-                        </button>
-                    </div>
-
-                    <div id="comments-area-${item.id}" class="hidden" style="margin-top: 10px; background: #0c0c0c; border-radius: 8px; border: 1px solid #1a1a1a; overflow: hidden;">
-                    </div>
                 </div>
                 
                 <div class="card-footer">
@@ -180,16 +161,14 @@ const cardHTML = `
                     <div class="card-actions">
                         <button class="action-btn" title="Yerini Göster (Rasathane)"
                         onclick="if(window.focusMapOnItem) window.focusMapOnItem('${item.id}')"><i class="fa-solid fa-location-dot"></i></button>
-                        <button class="action-btn" title="Paylaş"><i class="fa-regular fa-share-from-square"></i></button>
                     </div>
                 </div>
             </article>
         `;
         DOM.feedContainer.insertAdjacentHTML('beforeend', cardHTML);
     });
-  // 189. satırdaki }); işaretinden hemen sonra burayı yapıştır:
-    STATE.filteredNews.forEach(item => updateNewsInteractionsUI(item.id));
 }
+
 function renderTrends() {
     DOM.trendList.innerHTML = '';
 
@@ -218,7 +197,7 @@ function renderCategories() {
     listItems.forEach(li => {
         const cat = li.getAttribute('data-cat');
 
-                // Update counts (only if not 'Tümü')
+        // Update counts (only if not 'Tümü')
         const badge = li.querySelector('.badge');
         if (badge && cat !== 'Tümü' && badge.tagName) {
             const count = STATE.news.filter(n => n.category === cat).length;
@@ -263,109 +242,82 @@ function setupEventListeners() {
         STATE.searchQuery = '';
         DOM.searchInput.value = '';
         await fetchNewsData();
-      await fetchRadarPosts();
         updateUI(); 
         switchView('feed');
         document.querySelector('.feed-container').scrollTop = 0;
     });
-     // Category Clicks
-  DOM.categoryList.addEventListener('click', (e) => {
-      const li = e.target.closest('li');
-      if (!li) return;
 
-      if (li.id === 'btnShowCountries') {
-          DOM.categoryList.classList.add('hidden');
-          DOM.countryList.classList.remove('hidden');
-       DOM.categoriesTitleText.innerHTML = 'Ülkeler';
+    // Category Clicks
+    DOM.categoryList.addEventListener('click', (e) => {
+        const li = e.target.closest('li');
+        if (!li) return;
 
-          DOM.btnCloseCountries.classList.remove('hidden');
+        if (li.id === 'btnShowCountries') {
+            DOM.categoryList.classList.add('hidden');
+            DOM.countryList.classList.remove('hidden');
+            DOM.categoriesTitleText.innerHTML = 'Ülkeler';
+            DOM.btnCloseCountries.classList.remove('hidden');
+            STATE.activeCategory = 'Tümü';
+            renderCategories();
+            applyFilters();
+            return;
+        }
 
-          STATE.activeCategory = 'Tümü';
-          renderCategories(); // reset visual active class on categories
-          applyFilters(); // Apply filter since category was reset
-          return;
-      }
+        STATE.activeCategory = li.getAttribute('data-cat');
+        applyFilters();
+    });
 
-      STATE.activeCategory = li.getAttribute('data-cat');
-      applyFilters();
-  });
+    // Close Countries List
+    if (DOM.btnCloseCountries) {
+        DOM.btnCloseCountries.addEventListener('click', () => {
+            DOM.countryList.classList.add('hidden');
+            DOM.categoryList.classList.remove('hidden');
+            DOM.categoriesTitleText.innerHTML = '<i class="fa-solid fa-layer-group"></i> Kategoriler';
+            DOM.btnCloseCountries.classList.add('hidden');
+            
+            STATE.activeCountry = '';
+            applyFilters();
+        });
+    }
 
-  // Close Countries List
-  if (DOM.btnCloseCountries) {
-      DOM.btnCloseCountries.addEventListener('click', () => {
-          DOM.countryList.classList.add('hidden');
-          DOM.categoryList.classList.remove('hidden');
-          DOM.categoriesTitleText.innerHTML = '<i class="fa-solid fa-layer-group"></i> Kategoriler';
-          DOM.btnCloseCountries.classList.add('hidden');
-          
-          STATE.activeCountry = '';
-          applyFilters();
-      });
-  }
+    // Country Clicks
+    if (DOM.countryList) {
+        DOM.countryList.addEventListener('click', (e) => {
+            const li = e.target.closest('li');
+            if (!li) return;
 
-  // Country Clicks
-  if (DOM.countryList) {
-      DOM.countryList.addEventListener('click', (e) => {
-          const li = e.target.closest('li');
-          if (!li) return;
-
-          STATE.activeCountry = li.getAttribute('data-country') || '';
-          renderCountries(); // to update active class
-          applyFilters();
-      });
-  }
-
+            STATE.activeCountry = li.getAttribute('data-country') || '';
+            renderCountries();
+            applyFilters();
+        });
+    }
 
     // Search Input
     DOM.searchInput.addEventListener('input', (e) => {
-        STATE.searchQuery = e.target.value; // Ham veriyi al
+        STATE.searchQuery = e.target.value;
         applyFilters();
     });
 
     // View Toggles (Feed vs Map)
-    // Akış (Haberler) Butonu
     DOM.btnFeed.addEventListener('click', () => {
         document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
         DOM.btnFeed.classList.add('active');
-        const socialBtn = document.getElementById('btn-social');
-        if (socialBtn) socialBtn.classList.remove('active');
-        
         switchView('feed');
-        renderNewsCards(); // Haberleri geri getirir
+        renderNewsCards();
     });
 
-    // Rasathane (Harita) Butonu
     DOM.btnMap.addEventListener('click', () => {
         document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
         DOM.btnMap.classList.add('active');
-        const socialBtn = document.getElementById('btn-social');
-        if (socialBtn) socialBtn.classList.remove('active');
-
         switchView('map');
-        renderNewsCards(); // Yan taraftaki akışı geri getirir
+        renderNewsCards();
     });
-  // Radar Akışı (Sosyal Akış) Butonu
-    const socialBtn = document.getElementById('btn-social');
-    if (socialBtn) {
-        socialBtn.addEventListener('click', () => {
-            // Diğer butonların aktifliğini kaldır
-            document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
-            // Bu butonu aktif yap
-            socialBtn.classList.add('active');
-            
-            // Görünümü Radar Akışına çevir
-            switchView('social'); 
-            
-            // İŞTE KRİTİK NOKTA: Google Bulut'tan verileri çek
-            fetchRadarPosts(); 
-        });
-    }
 }
 
 function applyFilters() {
     let result = [...STATE.news];
 
-        // Filter by Category
+    // Filter by Category
     if (STATE.activeCategory !== 'Tümü' && STATE.activeCategory !== null) {
         result = result.filter(n => n.category === STATE.activeCategory);
     }
@@ -385,7 +337,6 @@ function applyFilters() {
 
     // Filter by Search (GELİŞMİŞ TÜRKÇE VE "İ" DESTEĞİ)
     if (STATE.searchQuery.trim() !== '') {
-        // Türkçe karakterleri (İ/I) manuel olarak güvenli hale getiren fonksiyon
         const trLower = (str) => {
             if (!str) return '';
             return str.replace(/İ/g, "i").replace(/I/g, "ı").toLowerCase().trim();
@@ -409,23 +360,21 @@ function switchView(view) {
     const mapSec = document.getElementById('mapContainer');
     const btnFeed = document.getElementById('btn-feed');
     const btnMap = document.getElementById('btn-map');
+
     if (view === 'map') {
         btnFeed.classList.remove('active');
         btnMap.classList.add('active');
-        // Rasathane Aktif: Harita Merkeze, Canlı Akış Sağ Sütuna
         mainApp.classList.add('map-active');
         mapSec.classList.remove('hidden');
         feedSec.style.gridColumn = "2"; 
-               feedSec.classList.remove('hidden');
+        feedSec.classList.remove('hidden');
 
-        
         if (typeof window.invalidateMapSize === 'function') {
             window.invalidateMapSize();
         }
     } else {
         btnMap.classList.remove('active');
         btnFeed.classList.add('active');
-        // Normal Mod: Akış Merkeze, Kategoriler Sağa
         mainApp.classList.remove('map-active');
         mapSec.classList.add('hidden');
         feedSec.style.gridColumn = "1";
@@ -460,26 +409,11 @@ function googleTranslateElementInit() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Dil değiştiğinde çalışacak kod
     const langSelect = document.getElementById('languageSelect');
-    const langIcon = document.getElementById('langIcon'); // Bayrak ikonu için ekledik
     
-    // Hangi dile hangi bayrak gelecek
-    const flags = {
-        'tr': '🇹🇷',
-        'en': '🇬🇧',
-        'ar': '🇸🇦'
-    };
-
     if (langSelect) {
         langSelect.addEventListener('change', (e) => {
             const targetLang = e.target.value;
-            
-            // Menünün yanındaki bayrağı anında güncelle
-            if (langIcon && flags[targetLang]) {
-                langIcon.textContent = flags[targetLang];
-            }
-
             const selectElement = document.querySelector('.goog-te-combo');
             if (selectElement) {
                 selectElement.value = targetLang;
@@ -489,9 +423,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
-
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initApp);
+
 // =========================================
 // ENVANTER (ARSENAL) SAYFASI MANTIĞI
 // =========================================
@@ -508,28 +442,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const mainApp = document.querySelector('.app-main');
     const sidebar = document.querySelector('.sidebar-right');
 
-    // Butona Tıklanınca Envanter Sayfasını Aç
     if(btnArsenal) {
         btnArsenal.addEventListener('click', () => {
-            // Buton aktiflik durumları
             btnFeed.classList.remove('active');
             btnMap.classList.remove('active');
             if(btnQuiz) btnQuiz.classList.remove('active');
             btnArsenal.classList.add('active');
 
-            // Ekranları gizle
             secFeed.classList.add('hidden');
             secMap.classList.add('hidden');
             if(secQuiz) secQuiz.classList.add('hidden');
             if(sidebar) sidebar.classList.add('hidden');
             mainApp.classList.remove('map-active');
 
-            // Envanteri Göster
             secArsenal.classList.remove('hidden');
         });
     }
 
-    // Diğer sekmelere tıklandığında Envanteri Gizle
     const hideArsenal = () => {
         if(secArsenal) secArsenal.classList.add('hidden');
         if(btnArsenal) btnArsenal.classList.remove('active');
@@ -596,14 +525,12 @@ function renderArsenal(filterCountry) {
     });
 }
 
-// Filtre Butonları Dinleyicisi
 document.addEventListener('DOMContentLoaded', () => {
-    loadArsenal(); // Sayfa yüklenince JSON'ı çek
+    loadArsenal(); 
     
     const filterButtons = document.querySelectorAll('.filter-btn');
     filterButtons.forEach(btn => {
         btn.addEventListener('click', (e) => {
-            // Aktif buton stilini değiştir
             filterButtons.forEach(b => {
                 b.classList.remove('active');
                 b.style.background = '#2a2a2a';
@@ -613,14 +540,13 @@ document.addEventListener('DOMContentLoaded', () => {
             e.target.style.background = 'var(--accent-blue)';
             e.target.style.border = 'none';
             
-            // Tıklanan ülkeye göre filtrele
             const country = e.target.getAttribute('data-country');
             renderArsenal(country);
         });
     });
 });
 
-// --- GİRİŞ/KAYIT SİSTEMİ (TEK PARÇA VE HATASIZ) ---
+// --- GİRİŞ/KAYIT SİSTEMİ (TEMEL KİMLİK DOĞRULAMA İÇİN BIRAKILDI) ---
 
 let isLoginMode = true;
 const btnSwitch = document.getElementById('btnSwitchAuth');
@@ -628,7 +554,6 @@ const authTitle = document.getElementById('authTitle');
 const authPrimaryBtn = document.getElementById('authPrimaryBtn');
 const authSwitchText = document.getElementById('authSwitchText');
 
-// Modal Kontrolleri
 window.openAuthModal = function() {
     const modal = document.getElementById('authModal');
     if (modal) modal.classList.remove('hidden');
@@ -639,7 +564,6 @@ window.closeAuthModal = function() {
     if (modal) modal.classList.add('hidden');
 };
 
-// Mod Değiştirme (Giriş <-> Kayıt)
 if (btnSwitch) {
     btnSwitch.onclick = function() {
         isLoginMode = !isLoginMode;
@@ -657,10 +581,8 @@ if (btnSwitch) {
     };
 }
 
-// --- BULUT DESTEKLİ GİRİŞ/KAYIT SİSTEMİ ---
 if (authPrimaryBtn) {
     authPrimaryBtn.onclick = async function() {
-        // Kullanıcı adını küçük harfe çeviriyoruz ki giriş yaparken sorun çıkmasın
         const username = document.getElementById('authUsername').value.trim().toLowerCase();
         const password = document.getElementById('authPassword').value.trim();
 
@@ -673,7 +595,6 @@ if (authPrimaryBtn) {
 
         try {
             if (!isLoginMode) {
-                // --- KAYIT OLMA (BULUTA YAZMA) ---
                 const doc = await userRef.get();
                 if (doc.exists) {
                     alert("Bu kullanıcı adı alınmış, başka bir tane dene.");
@@ -683,11 +604,10 @@ if (authPrimaryBtn) {
                         password: password,
                         createdAt: firebase.firestore.FieldValue.serverTimestamp()
                     });
-                    alert(`Hoş geldin ${username}! Artık her yerden girebilirsin.`);
+                    alert(`Hoş geldin ${username}!`);
                     loginUser(username);
                 }
             } else {
-                // --- GİRİŞ YAPMA (BULUTTAN OKUMA) ---
                 const doc = await userRef.get();
                 if (doc.exists) {
                     const userData = doc.data();
@@ -708,7 +628,6 @@ if (authPrimaryBtn) {
     };
 }
 
-// Kullanıcı Arayüzünü Güncelle
 function loginUser(username) {
     localStorage.setItem('currentUser', username);
     closeAuthModal();
@@ -719,7 +638,6 @@ function loginUser(username) {
     }
 }
 
-// Sayfa Yüklendiğinde Oturum Kontrolü
 window.addEventListener('load', () => {
     const savedSession = localStorage.getItem('currentUser');
     if (savedSession) {
@@ -727,476 +645,6 @@ window.addEventListener('load', () => {
     }
 });
 
-
-// --- 1. KULLANICI KONTROLÜ (BU KALSIN) ---
-function checkAuthAction(action) {
-    const user = localStorage.getItem('currentUser');
-    if (!user) {
-        alert(`🚨 Dur bakalım kral! ${action} yapabilmek için önce giriş yapman lazım.`);
-        window.openAuthModal();
-        return false;
-    }
-    return true;
-}
-
-// --- 2. BULUTTAN VERİLERİ ÇEKME ---
-async function fetchRadarPosts() {
-    try {
-        const snapshot = await db.collection("posts").orderBy("timestamp", "desc").get();
-        const posts = snapshot.docs.map(doc => ({ 
-            id: doc.id, 
-            ...doc.data() 
-        }));
-        renderSocialFeed(posts);
-    } catch (error) {
-        console.error("Bulut verileri çekilemedi:", error);
-    }
-}
-
-// --- 3. SOSYAL AKIŞI RENDER ETME (GÜNCEL VERSİYON) ---
-function renderSocialFeed(posts) {
-    DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
-    
-    // Kimin giriş yaptığını kontrol et
-    const currentUser = localStorage.getItem('currentUser');
-
-    posts.forEach(post => {
-        // --- POST BEĞENİ KONTROLÜ ---
-        const isPostLiked = post.likedBy && post.likedBy.includes(currentUser);
-        const postHeartClass = isPostLiked ? 'fa-solid' : 'fa-regular';
-        const postHeartColor = isPostLiked ? '#ff4757' : '#555';
-
-        let commentsHTML = "";
-        if (post.comments && post.comments.length > 0) {
-            commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.25); border-radius: 8px; border: 1px solid #222;">`;
-            
-            post.comments.forEach(cmt => {
-                // --- YORUM BEĞENİ KONTROLÜ ---
-                const isCmtLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
-                const cmtHeartClass = isCmtLiked ? 'fa-solid' : 'fa-regular';
-                const cmtHeartColor = isCmtLiked ? '#ff4757' : '#555';
-
-                commentsHTML += `
-                    <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px;">
-                        <div style="font-size: 0.92rem;">
-                            <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
-                            <span style="color: #ddd;">${cmt.text}</span>
-                        </div>
-                        <div style="display: flex; gap: 15px; margin-top: 5px; padding-left: 5px;">
-                            <button onclick="handleCommentLike('${post.id}', '${cmt.id}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:4px;">
-                                <i class="${cmtHeartClass} fa-heart" style="color: ${cmtHeartColor}"></i> 
-                                <span>${cmt.likes || 0}</span>
-                            </button>
-                            <button onclick="handleCommentReply('${post.id}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem;">
-                                <i class="fa-solid fa-reply"></i> Yanıtla
-                            </button>
-                        </div>
-                    </div>`;
-            });
-            commentsHTML += `</div>`;
-        }
-
-        // --- ALINTI KUTUSU GÜNCELLEMESİ (Haber mi, Post mu?) ---
-        let quoteBoxHTML = "";
-        if (post.quotedPost) {
-            // Başka bir kullanıcının analizini alıntıladıysa
-            quoteBoxHTML = `
-                <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor: pointer;">
-                    <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
-                    <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic;">"${post.quotedPost.content}"</p>
-                </div>`;
-        } else if (post.originalNews) {
-            // Canlı Akış'tan bir haberi alıntıladıysa (Yeni Eklenen Kısım)
-            quoteBoxHTML = `
-                <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid var(--accent-blue); border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(30, 60, 114, 0.1); border-left: 4px solid var(--accent-blue); cursor: pointer;">
-                    <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;"><i class="fa-solid fa-newspaper"></i> Haber Alıntısı:</strong>
-                    <p style="margin: 0; font-size: 0.95rem; color: #eee; font-weight: 500;">${post.originalNews.title}</p>
-                    <span style="font-size: 0.75rem; color: var(--accent-blue); margin-top: 5px; display: block;">Habere gitmek için tıkla →</span>
-                </div>`;
-        }
-
-        const postHTML = `
-            <div id="${post.id}" class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue);">
-                <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-                    <div style="width: 35px; height: 35px; background: #222; border: 1px solid var(--accent-blue); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: var(--accent-blue);">${post.author ? post.author[0].toUpperCase() : 'R'}</div>
-                    <div><strong style="color: white;">@${post.author || "Anonim"}</strong></div>
-                </div>
-                <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px;">${post.content}</p>
-                ${quoteBoxHTML}
-                <div class="post-interactions" style="display: flex; gap: 30px; margin-top:15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
-                    <button onclick="handleLike(event, '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display: flex; align-items: center; gap: 5px;">
-                        <i class="${postHeartClass} fa-heart" style="color: ${postHeartColor}"></i> 
-                        <span>${post.likes || 0}</span>
-                    </button>
-                    <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display: flex; align-items: center; gap: 5px;">
-                        <i class="fa-regular fa-comment"></i> <span>${post.comments ? post.comments.length : 0}</span>
-                    </button>
-                    <button onclick="handleQuote('${post.originalNews?.id || 'general'}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;">
-                        <i class="fa-solid fa-retweet"></i>
-                    </button>
-                </div>
-                ${commentsHTML}
-            </div>`;
-        DOM.feedContainer.insertAdjacentHTML('beforeend', postHTML);
-    });
-}
-
-// --- 4. BULUTA ANALİZ KAYDETME ---
-window.handleQuote = async function(newsId, quotedId = null) {
-    if (!checkAuthAction("Alıntıla")) return;
-    const userComment = prompt("Bu analiz üzerine ne eklemek istersin kral?");
-    if (!userComment) return;
-
-    const currentUser = localStorage.getItem('currentUser');
-    const newsItem = STATE.news.find(n => n.id === newsId) || { title: "Genel Analiz", id: "general" };
-    let quotedData = null;
-
-    if (quotedId) {
-        const doc = await db.collection("posts").doc(quotedId).get();
-        if (doc.exists) {
-            quotedData = { id: quotedId, author: doc.data().author, content: doc.data().content };
-        }
-    }
-
-    const newPost = {
-        author: currentUser,
-        content: userComment,
-        originalNews: newsItem,
-        quotedPost: quotedData,
-        timestamp: firebase.firestore.FieldValue.serverTimestamp()
-    };
-
-    await db.collection("posts").add(newPost);
-  // Haberin alıntı sayısını 1 artır
-        if (newsId && newsId !== 'general') {
-            await db.collection("news_interactions").doc(newsId).set({
-                quoteCount: firebase.firestore.FieldValue.increment(1)
-            }, { merge: true });
-            updateNewsInteractionsUI(newsId);
-        }
-    fetchRadarPosts();
-};
-
-// --- 5. BULUTA YORUM KAYDETME ---
-window.handleComment = async function(postId, manualText = null) {
-    if (!checkAuthAction("Yorum Yapma")) return;
-    
-    // Eğer dışarıdan metin gelmediyse (yanıtla değilse) prompt aç
-    const userComment = manualText || prompt("Yorumun nedir kral?");
-    if (!userComment || userComment.trim() === "") return;
-
-    const currentUser = localStorage.getItem('currentUser');
-    const postRef = db.collection("posts").doc(postId);
-    
-    try {
-        const doc = await postRef.get();
-        if (doc.exists) {
-            const comments = doc.data().comments || [];
-            comments.push({
-                id: 'cmt_' + Date.now(),
-                author: currentUser,
-                text: userComment,
-                likes: 0, // Yeni yorum sıfır beğeniyle başlar
-                timestamp: new Date().toISOString()
-            });
-            await postRef.update({ comments: comments });
-            fetchRadarPosts();
-        }
-    } catch (e) {
-        console.error("Yorum kaydedilemedi:", e);
-    }
-};
-
-
-// BU YENİ FONKSİYON: Alıntıya tıklayınca oraya kaydırır
-window.scrollToPost = function(postId) {
-    const target = document.getElementById(postId);
-    if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        target.style.boxShadow = "0 0 20px var(--accent-blue)";
-        setTimeout(() => target.style.boxShadow = "none", 2000);
-    } else {
-        alert("Bu post akışta çok geride kalmış olabilir kral!");
-    }
-};
-
-
-// Sosyal akıştan ana habere yönlendirme
-window.goToNews = function(newsId) {
-    // 1. Ana Akış butonuna tıkla (Sayfayı haber moduna döndür)
-    const btnFeed = document.getElementById('btn-feed');
-    if (btnFeed) btnFeed.click();
-
-    // 2. Küçük bir gecikmeyle haberi bul ve oraya kaydır
-    setTimeout(() => {
-        const targetCard = document.querySelector(`[onclick*="${newsId}"]`)?.closest('.news-card');
-        if (targetCard) {
-            targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            targetCard.style.boxShadow = "0 0 20px var(--accent-blue)"; // Haberi parlat
-            setTimeout(() => targetCard.style.boxShadow = "none", 2000); // 2 sn sonra ışığı kapat
-        }
-    }, 300);
-};
-// --- FIREBASE BEĞENİ FONKSİYONU ---
-window.handleLike = async function(event, postId) {
-    if (!checkAuthAction("Beğeni")) return;
-    const currentUser = localStorage.getItem('currentUser');
-    const postRef = db.collection("posts").doc(postId);
-
-    try {
-        const doc = await postRef.get();
-        if (doc.exists) {
-            let likedBy = doc.data().likedBy || [];
-            
-            if (likedBy.includes(currentUser)) {
-                // Kullanıcı zaten beğenmiş, listeden çıkar (Unlike)
-                likedBy = likedBy.filter(user => user !== currentUser);
-            } else {
-                // Kullanıcı ilk kez beğeniyor, listeye ekle (Like)
-                likedBy.push(currentUser);
-            }
-
-            await postRef.update({ 
-                likedBy: likedBy,
-                likes: likedBy.length // Beğeni sayısı listenin uzunluğu olur
-            });
-            fetchRadarPosts(); // Görünümü güncellemek için akışı tazele
-        }
-    } catch (e) {
-        console.error("Beğeni işlemi başarısız:", e);
-    }
-};
-
-// Sayfa ilk açıldığında ne olacağını belirleyen kısım
-document.addEventListener('DOMContentLoaded', () => {
-    // Önce Haberleri (Ana Sayfayı) yükle
-    switchView('feed'); 
-    
-    // Arka planda Google'a selam ver ama ekrana basma
-    if (typeof db !== 'undefined') {
-        db.collection("posts").orderBy("timestamp", "desc").limit(1).get().then(() => {
-            console.log("Bulut bağlantısı hazır.");
-        });
-    }
-});
-// --- YORUM BEĞENİ FONKSİYONU ---
-window.handleCommentLike = async function(postId, commentId) {
-    if (!checkAuthAction("Yorum Beğeni")) return;
-    const currentUser = localStorage.getItem('currentUser');
-    const postRef = db.collection("posts").doc(postId);
-
-    try {
-        const doc = await postRef.get();
-        if (doc.exists) {
-            let comments = doc.data().comments || [];
-            comments = comments.map(cmt => {
-                if (cmt.id === commentId) {
-                    let likedBy = cmt.likedBy || [];
-                    if (likedBy.includes(currentUser)) {
-                        likedBy = likedBy.filter(u => u !== currentUser);
-                    } else {
-                        likedBy.push(currentUser);
-                    }
-                    return { ...cmt, likedBy: likedBy, likes: likedBy.length };
-                }
-                return cmt;
-            });
-
-            await postRef.update({ comments: comments });
-            fetchRadarPosts();
-        }
-    } catch (e) {
-        console.error("Yorum beğenisi başarısız:", e);
-    }
-};
-
-// --- YORUM YANITLAMA (ETİKETLEME) ---
-window.handleCommentReply = function(postId, targetAuthor) {
-    if (!checkAuthAction("Yanıt verme")) return;
-    
-    // Yanıt penceresini açarken @etiketini otomatik yazıyoruz
-    const replyPrefix = `@${targetAuthor} `;
-    const userComment = prompt(`@${targetAuthor} kullanıcısına yanıtın nedir kral?`, replyPrefix);
-    
-    // Eğer boşsa veya sadece @etiket duruyorsa iptal et
-    if (!userComment || userComment.trim() === replyPrefix.trim()) return;
-
-    // Güncellediğimiz handleComment'i hazır metinle çağır
-    window.handleComment(postId, userComment);
-};
-// =========================================
-// ANA AKIŞ (HABERLER) ETKİLEŞİM MANTIĞI
-// =========================================
-
-// --- HABER BEĞENİSİ ---
-window.handleNewsLike = async function(newsId) {
-    if (!checkAuthAction("Beğeni")) return;
-    const currentUser = localStorage.getItem('currentUser');
-    const newsRef = db.collection("news_interactions").doc(newsId);
-
-    try {
-        const doc = await newsRef.get();
-        let likedBy = (doc.exists && doc.data().likedBy) ? doc.data().likedBy : [];
-
-        if (likedBy.includes(currentUser)) {
-            likedBy = likedBy.filter(u => u !== currentUser);
-        } else {
-            likedBy.push(currentUser);
-        }
-
-        await newsRef.set({ likedBy: likedBy }, { merge: true });
-        updateNewsInteractionsUI(newsId); // Sayıyı ekranda hemen güncelle
-    } catch (e) { console.error("Haber beğenilemedi:", e); }
-};
-
-// --- YORUM PANELİNİ AÇ/KAPAT ---
-window.toggleNewsComments = async function(newsId) {
-    const container = document.getElementById(`comments-area-${newsId}`);
-    if (!container.classList.contains('hidden')) {
-        container.classList.add('hidden');
-        return;
-    }
-
-    container.classList.remove('hidden');
-    container.innerHTML = `<div style="padding:15px; color:#888; font-size:0.8rem;"><i class="fa-solid fa-spinner fa-spin"></i> Yorumlar yükleniyor...</div>`;
-
-    const doc = await db.collection("news_interactions").doc(newsId).get();
-    const comments = (doc.exists && doc.data().comments) ? doc.data().comments : [];
-    renderNewsComments(newsId, comments);
-};
-
-// --- HABER YORUMLARINI EKRANA BASMA ---
-function renderNewsComments(newsId, comments) {
-    const container = document.getElementById(`comments-area-${newsId}`);
-    const currentUser = localStorage.getItem('currentUser');
-    
-    let html = `
-        <div style="padding: 15px; border-top: 1px solid #222; background: #0c0c0c;">
-            <button onclick="handleNewsComment('${newsId}')" style="width:100%; padding:10px; background:var(--accent-blue); border:none; border-radius:6px; color:white; font-weight:bold; margin-bottom:15px; cursor:pointer; font-size:0.85rem;">
-                <i class="fa-solid fa-pen-nib"></i> Analizini Ekle
-            </button>
-    `;
-
-    if (!comments || comments.length === 0) {
-        html += `<div style="color:#555; font-size:0.85rem; text-align:center; padding:10px;">Henüz analiz yapılmamış kral.</div>`;
-    } else {
-        comments.forEach(cmt => {
-            const isLiked = cmt.likedBy && cmt.likedBy.includes(currentUser);
-            html += `
-                <div style="margin-bottom:15px; padding-bottom:12px; border-bottom:1px solid #1a1a1a;">
-                    <div style="font-size:0.92rem; color: #eee; line-height: 1.4; margin-bottom: 8px;">
-                        <strong style="color:var(--accent-blue);">@${cmt.author || 'anonim'}</strong>: 
-                        <span>${cmt.text || cmt.content || '...'}</span>
-                    </div>
-                    <div style="display:flex; gap:18px; align-items:center;">
-                        <button onclick="handleNewsCommentLike('${newsId}', '${cmt.id}')" style="background:none; border:none; color:${isLiked ? '#ff4757' : '#555'}; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:5px;">
-                            <i class="${isLiked ? 'fa-solid' : 'fa-regular'} fa-heart"></i> 
-                            <span>${cmt.likedBy ? cmt.likedBy.length : 0}</span>
-                        </button>
-                        <button onclick="handleNewsCommentReply('${newsId}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:5px;">
-                            <i class="fa-solid fa-reply"></i> Yanıtla
-                        </button>
-                    </div>
-                </div>`;
-        });
-    }
-
-    html += `<button onclick="toggleNewsComments('${newsId}')" style="width:100%; background:none; border:none; color:#444; font-size:0.75rem; margin-top:5px; cursor:pointer;">Kapat ▲</button></div>`;
-    container.innerHTML = html;
-}
-
-// --- HABER YORUMU BEĞENİ MOTORU ---
-window.handleNewsCommentLike = async function(newsId, commentId) {
-    if (!checkAuthAction("Yorum Beğeni")) return;
-    const currentUser = localStorage.getItem('currentUser');
-    const newsRef = db.collection("news_interactions").doc(newsId);
-    const doc = await newsRef.get();
-    if (doc.exists) {
-        let comments = doc.data().comments || [];
-        comments = comments.map(cmt => {
-            if (cmt.id === commentId) {
-                let likedBy = cmt.likedBy || [];
-                if (likedBy.includes(currentUser)) likedBy = likedBy.filter(u => u !== currentUser);
-                else likedBy.push(currentUser);
-                return { ...cmt, likedBy: likedBy };
-            }
-            return cmt;
-        });
-        await newsRef.update({ comments: comments });
-        renderNewsComments(newsId, comments);
-    }
-};
-
-// --- HABER YORUMU KAYDETME ---
-window.handleNewsComment = async function(newsId, manualText = null) {
-    if (!checkAuthAction("Yorum Yapma")) return;
-    const userComment = manualText || prompt("Haber hakkındaki analizin nedir kral?");
-    if (!userComment) return;
-
-    const currentUser = localStorage.getItem('currentUser');
-    const newsRef = db.collection("news_interactions").doc(newsId);
-
-    const doc = await newsRef.get();
-    let comments = (doc.exists && doc.data().comments) ? doc.data().comments : [];
-
-    comments.push({
-        id: 'ncmt_' + Date.now(),
-        author: currentUser,
-        text: userComment,
-        likedBy: [],
-        timestamp: new Date().toISOString()
-    });
-
-    await newsRef.set({ comments: comments }, { merge: true });
-    renderNewsComments(newsId, comments);
-    updateNewsInteractionsUI(newsId);
-};
-
-// --- HABER YORUMU YANITLAMA ---
-window.handleNewsCommentReply = function(newsId, targetAuthor) {
-    if (!checkAuthAction("Yanıt verme")) return;
-    const replyPrefix = `@${targetAuthor} `;
-    const userComment = prompt(`@${targetAuthor} kullanıcısına yanıtın nedir kral?`, replyPrefix);
-    if (!userComment || userComment.trim() === replyPrefix.trim()) return;
-    window.handleNewsComment(newsId, userComment);
-};
-
-// --- EKRANDAKİ SAYILARI GÜNCELLEME (BEĞENİ, YORUM, ALINTI) ---
-async function updateNewsInteractionsUI(newsId) {
-    const doc = await db.collection("news_interactions").doc(newsId).get();
-    if (doc.exists) {
-        const data = doc.data();
-        const currentUser = localStorage.getItem('currentUser');
-
-        // 1. BEĞENİ GÜNCELLEME
-        const likeBtn = document.querySelector(`#news-like-btn-${newsId}`);
-        if (likeBtn) {
-            const likedBy = data.likedBy || [];
-            likeBtn.querySelector('.count').textContent = likedBy.length;
-            const icon = likeBtn.querySelector('i');
-            if (likedBy.includes(currentUser)) {
-                icon.className = 'fa-solid fa-heart';
-                icon.style.color = '#ff4757';
-            } else {
-                icon.className = 'fa-regular fa-heart';
-                icon.style.color = '#888';
-            }
-        }
-
-        // 2. YORUM SAYISI GÜNCELLEME
-        const commBtn = document.querySelector(`#news-comm-btn-${newsId}`);
-        if (commBtn) {
-            commBtn.querySelector('.count').textContent = (data.comments || []).length;
-        }
-
-        // 3. ALINTI SAYISI GÜNCELLEME (YENİ)
-        const quoteBtn = document.querySelector(`#news-quote-btn-${newsId}`);
-        if (quoteBtn) {
-            // Veritabanında quoteCount yoksa 0 yazdırıyoruz
-            quoteBtn.querySelector('.count').textContent = data.quoteCount || 0;
-        }
-    }
-}
 // --- BÜLTEN AÇMA/KAPATMA MOTORU ---
 window.openNewsletterModal = function() {
     const modal = document.getElementById('newsletter-modal');
@@ -1213,9 +661,9 @@ window.closeNewsletterModal = function() {
         modal.style.display = 'none';
     }
 };
+
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-// Anahtarı 3 parça yapıyoruz ki GitHub botları uyusun
 const k1 = "AIzaSyBr"; 
 const k2 = "27n23NtYhKW7G"; 
 const k3 = "eWbe3yrl2FqrpDeGA0"; 
@@ -1238,7 +686,6 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
  try {
-        // ARTIK HEDEF NET: gemini-2.5-flash
         const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
         const response = await fetch(apiUrl, {
@@ -1264,13 +711,13 @@ async function sendMessage() {
         const loader = document.getElementById(loadingId);
         if (loader) loader.remove();
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Hata: ${error.message}</div>`;
-    } finally { // <--- BURADAKİ FAZLA PARANTEZİ SİLDİM, DOĞRUSU BUDUR
+    } finally { 
         input.disabled = false;
         input.focus();
         chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
-} // sendMessage fonksiyonunu kapatan parantez tek olmalı
-// Bot kontrolleri
+} 
+
 function toggleChat() {
     const win = document.getElementById('chat-window');
     if (win) win.classList.toggle('hidden');
