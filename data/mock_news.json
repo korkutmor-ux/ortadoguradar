@@ -1,5 +1,53 @@
 [
     {
+        "id": "1778020257274iuqzb",
+        "title": "CENTCOM: Hürmüz Boğazı'nda Güvenli Geçiş ve İran'ın Ablukası ABD Önceliği",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) sözcüsü Tim Hawkins, 'Özgürlük Projesi' kapsamında Hürmüz Boğazı'ndaki ana önceliklerinin güvenli geçiş yollarını sağlamak ve İran'ı ablukaya almak olduğunu belirtti. Hawkins, bu stratejik su yolunun uluslararası denizcilik için kritik önem taşıdığını vurguladı. Açıklama, bölgedeki deniz güvenliği ve İran ile ilişkilerdeki gerilimi bir kez daha gündeme getirdi. ABD'nin bölgedeki askeri varlığının ve operasyonlarının temel hedeflerini ortaya koyan bu ifadeler, uluslararası kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29699838/pexels-photo-29699838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T22:30:57.274Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778020342487kfakr",
+        "title": "Trump'ın Hürmüz Boğazı'ndaki 'Özgürlük Projesi' Hakkında Bilinenler",
+        "summary": "Haber, ABD'nin eski başkanı Trump döneminde Hürmüz Boğazı'nda planlanan veya uygulanan 'Özgürlük Projesi' adlı bir operasyonu ele almaktadır. Bu operasyonun içeriği ve potansiyel sonuçları merak konusu olmuştur. Özellikle, projenin bölgede yeniden çatışmalara yol açıp açmayacağı endişesi taşınmaktadır. Hürmüz Boğazı, küresel enerji ticareti için stratejik öneme sahip bir geçiş noktasıdır ve bu tür askeri girişimler bölgedeki gerilimi artırma potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T22:32:22.487Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17780203977624a6er",
+        "title": "İsrail Dışişleri Bakanı, İran'ın nükleer silah edinmesini engelleme ihtiyacını vurguladı",
+        "summary": "İsrail Dışişleri Bakanı Gideon Saar, İran'ın nükleer silah edinmesinin engellenmesi gerektiğini belirtti. Saar, İran rejiminin bölgedeki tüm komşularına karşı sergilediği tutumun bu ihtiyacı açıkça ortaya koyduğunu ifade etti. Bu açıklama, İsrail'in İran'ın nükleer programına yönelik derin endişelerini bir kez daha dile getirdi. Bölgesel güvenlik ve istikrar açısından kritik öneme sahip olan bu konu, uluslararası arenada da yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33848674/pexels-photo-33848674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T22:33:17.762Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-foreign-minister-highlights-need-to-prevent-iran-from-obtaining-nuclear-weapons/3928324",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778015170694nil9k",
         "title": "İsrail'in Gazze polis karakoluna düzenlediği saldırıda bir çocuk hayatını kaybetti, memurlar yaralandı",
         "summary": "İsrail güçlerinin Gazze Şeridi'ndeki bir polis karakoluna düzenlediği saldırıda can kaybı yaşandı. Saldırıda 15 yaşındaki Mahmoud Sahweil isimli bir çocuğun hayatını kaybettiği bildirildi. Olayda ayrıca bazı polis memurlarının da yaralandığı belirtildi. Bu gelişme, bölgedeki güvenlik durumunu ve gerilimi yeniden gündeme getirdi.",
@@ -748,54 +796,6 @@
             "name": "Nablus, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777836929403e5to8",
-        "title": "İsrail, Gazze yardım filosunu durdurmasının ardından Yunanistan'daki aktivistlerin çoğunu serbest bıraktı",
-        "summary": "İsrail, Gazze'ye yardım götürmeyi amaçlayan bir filoyu durdurdu. Olayın ardından Yunanistan'da bulunan aktivistlerden ikisi hariç tamamı serbest bırakıldı. 'Küresel Sumud Filosu' adlı grup, bu müdahaleyi 'korsanlık' olarak nitelendirdi. İsrail Dışişleri Bakanlığı ise söz konusu filoyu bir 'halkla ilişkiler gösterisi' olarak değerlendirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11902475/pexels-photo-11902475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T19:35:29.403Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17778320167484qg37",
-        "title": "İran, ABD'nin 'savaşı sona erdirme' teklifine verdiği yanıtı incelediğini duyurdu",
-        "summary": "İran, ABD'den 'savaşı sona erdirme' yönündeki kendi teklifine ilişkin bir yanıt aldığını ve bu yanıtı incelediğini bildirdi. Tahran yönetimi, ABD'nin cevabının Pakistanlı arabulucular aracılığıyla kendilerine ulaştırıldığını belirtti. İranlı yetkililer, bu gelişmenin mevcut nükleer müzakerelerle ilgili olmadığını özellikle vurguladı. Söz konusu diplomatik temas, iki ülke arasındaki gerilimin azaltılmasına yönelik çabalar kapsamında değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T18:13:36.748Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-is-reviewing-us-response-to-its-proposal-to-end-war/3925829",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777829166619rat7q",
-        "title": "UKMTO: İran Açıklarında Dökme Yük Gemisine Saldırı Düzenlendi",
-        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), İran açıklarında bir dökme yük gemisinin çok sayıda küçük tekne tarafından saldırıya uğradığını bildirdi. Sirik'in 11 deniz mili (yaklaşık 20 kilometre) batısında meydana gelen olayın ardından gemi mürettebatının güvende olduğu ve herhangi bir çevresel hasar rapor edilmediği açıklandı. Bu tür olaylar, bölgedeki deniz güvenliği endişelerini artırmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29823922/pexels-photo-29823922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T17:26:06.619Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 57,
-            "name": "Sirik, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
