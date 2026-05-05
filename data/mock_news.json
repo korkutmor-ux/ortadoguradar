@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778004148282o7890",
+        "title": "BM: Gazze'de Ateşkes Sonrası En Yüksek Güvenlik Olaylarından Biri Yaşandı",
+        "summary": "Birleşmiş Milletler (BM), Gazze Şeridi'nde ateşkesin yürürlüğe girmesinden bu yana en yüksek güvenlik olaylarından birinin kaydedildiğini bildirdi. BM sözcüsü, iki ayrı olayda insani yardım tesislerinin ateşe maruz kaldığını belirtti. Bu durum, bölgedeki kırılgan güvenlik ortamının devam ettiğini ve insani yardım çalışmalarının risk altında olduğunu gösteriyor. Rapor, ateşkesin ardından bölgedeki istikrarsızlığın endişe verici boyutlara ulaştığına dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934175/pexels-photo-35934175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T18:02:28.282Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gaza-sees-one-of-highest-numbers-of-security-incidents-since-ceasefire-un/3928101",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1778004170653d05fq",
+        "title": "BM: Güney Lübnan'da Ateşkes Sonrası En Yoğun Çatışmalar Yaşanıyor",
+        "summary": "Birleşmiş Milletler, Güney Lübnan'da ateşkesin yürürlüğe girmesinden bu yana en yoğun karşılıklı ateş açma olaylarının kaydedildiğini duyurdu. Birleşmiş Milletler Geçici Görev Gücü (UNIFIL) tarafından tutulan kayıtlara göre, bölgede İsrail ordusu tarafından yüzlerce atış gerçekleştirildiği ve buna karşılık misilleme ateşi açıldığı belirtildi. Bu durum, sınır hattındaki gerilimin önemli ölçüde arttığını gösteriyor. UNIFIL, taraflara itidal çağrısında bulunarak bölgedeki istikrarın korunmasının önemini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T18:02:50.653Z",
+        "location": {
+            "lat": 33.36,
+            "lng": 35.58,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-says-southern-lebanon-sees-highest-exchanges-of-fire-since-ceasefire/3928096",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17779700104951947n",
         "title": "İsrail Güvenlik Birimleri Yerleşimcilerin Faaliyetleri Hakkında Alarm Verdi",
         "summary": "İsrail güvenlik birimleri, Batı Şeria'daki yerleşimcilerin artan şiddet eylemleri konusunda endişelerini dile getirdi. Yetkililer, bu tür şiddetin devletin güvenliğini tehdit ettiğini belirtirken, bölgedeki saldırılar, toprak gaspları ve ablukaların devam ettiğine dikkat çekti. Bu durum, İsrail'in iç güvenlik dinamikleri ve Filistinlilerle olan ilişkileri üzerinde ciddi etkiler yaratıyor. Haftalık değerlendirmelerde, Batı Şeria'daki gerilimin tırmanmaya devam ettiği vurgulandı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777818638764hxbnh",
-        "title": "Arap Kaynaklarının ABD İttifakına Yönlendirilmesi Sorgulanıyor",
-        "summary": "Arap dünyasında, Amerika Birleşik Devletleri ile mevcut ittifaklara daha fazla kaynak aktarılmasının mantıksız olduğu yönünde değerlendirmeler yapılıyor. Bu görüşe göre, ABD'nin dış politikasında İsrail'in çıkarları, Arap dünyasının çıkarlarının önünde yer almaktadır. Haberde, bölgedeki tüm taraflar için kalıcı güvenliğin tesis edilmesinin yegane yolunun Arap birliği olduğu belirtiliyor. Bu durum, Arap ülkelerinin bölgesel ve uluslararası ittifak stratejilerini gözden geçirmeleri gerektiği tartışmalarını gündeme getiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14469873/pexels-photo-14469873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T14:30:38.764Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/5/3/it-does-not-make-sense-to-invest-more-arab-resources-in-a-us-alliance?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17778143172611kuk3",
-        "title": "Spirit Airlines'ın Çöküşünde İran Savaşı'nın Rolü Tartışılıyor",
-        "summary": "Bütçe havayolu şirketi Spirit Airlines, 34 yıllık faaliyetinin ardından kapanarak 17.000 çalışanını işsiz bıraktı. Şirketin çöküşüyle ilgili tartışmalar sürerken, haber başlığında 'İran savaşının' bu kapanışta son darbe olup olmadığı sorgulanıyor. Bu durum, Orta Doğu'daki jeopolitik gelişmelerin küresel ekonomiye ve şirketlere olası etkilerini bir kez daha gündeme getirdi. Havayolu sektöründeki bu önemli gelişme, geniş çaplı ekonomik sonuçlar doğurabilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T13:18:37.261Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
