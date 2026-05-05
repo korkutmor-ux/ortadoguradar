@@ -1,5 +1,21 @@
 [
     {
+        "id": "17779700104951947n",
+        "title": "İsrail Güvenlik Birimleri Yerleşimcilerin Faaliyetleri Hakkında Alarm Verdi",
+        "summary": "İsrail güvenlik birimleri, Batı Şeria'daki yerleşimcilerin artan şiddet eylemleri konusunda endişelerini dile getirdi. Yetkililer, bu tür şiddetin devletin güvenliğini tehdit ettiğini belirtirken, bölgedeki saldırılar, toprak gaspları ve ablukaların devam ettiğine dikkat çekti. Bu durum, İsrail'in iç güvenlik dinamikleri ve Filistinlilerle olan ilişkileri üzerinde ciddi etkiler yaratıyor. Haftalık değerlendirmelerde, Batı Şeria'daki gerilimin tırmanmaya devam ettiği vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7835238/pexels-photo-7835238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T08:33:30.495Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777961977487lxhg7",
         "title": "İran, ABD Ordusunu Hürmüz Boğazı'nda Yolcu Teknelerine Saldırmakla Suçladı",
         "summary": "İranlı yetkililer, ABD ordusunun Hürmüz Boğazı'nda yolcu teknelerine saldırı düzenlediğini ve bu saldırılarda beş sivilin hayatını kaybettiğini iddia etti. İranlı bir komutan, Pazartesi günü gerçekleşen olayda ABD güçlerinin hedef aldığı gemilerin Devrim Muhafızları'na ait olmadığını, aksine sivil yolcu tekneleri olduğunu belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek nitelikte bir suçlama olarak değerlendiriliyor ve iki ülke arasındaki tansiyonu yükseltme potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17778144027097zb02",
-        "title": "İşgal Altındaki Batı Şeria'da İsrail Saldırılarında 1 Filistinli Hayatını Kaybetti, Yaralılar Var",
-        "summary": "İşgal altındaki Batı Şeria'da İsrail güçleri tarafından düzenlenen yeni saldırılarda bir Filistinli hayatını kaybetti, çok sayıda kişi yaralandı. Nablus kentinde gerçekleşen olaylarda bir kişi yaşamını yitirirken, dört kişi de yaralandı. Doğu Kudüs'te ise bir başka kişinin yaralandığı bildirildi. Bu saldırılar, Tel Aviv'in bölgedeki devam eden operasyonları kapsamında gerçekleşti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T13:20:02.709Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-attacks-in-occupied-west-bank-kill-1-palestinian-injure-several-others/3925655",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
