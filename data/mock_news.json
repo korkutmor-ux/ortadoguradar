@@ -1,5 +1,21 @@
 [
     {
+        "id": "17779523044301akun",
+        "title": "İsrail Saldırısı Gazze Şeridi'nin Kuzeyinde Yangına Neden Oldu",
+        "summary": "Gazze Şeridi'nin kuzey kesiminde İsrail tarafından gerçekleştirilen bir saldırı sonucunda yangın çıktığı bildirildi. Bölgeden gelen video görüntülerinde, İsrail'in sivilleri hedef aldığı belirtilen saldırının ardından alevlerin yükseldiği görüldü. Olayın Gazze Şeridi'nin kuzeyindeki Gazze şehrinde meydana geldiği ve bölgedeki gerilimi artırdığı kaydedildi. Saldırının detayları ve olası can kayıpları hakkında henüz net bir bilgi bulunmuyor. Bölgedeki durum yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850211/pexels-photo-36850211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T03:38:24.430Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17779390465264aui4",
         "title": "Hürmüz Boğazı'nda Gerilim Tırmanıyor: ABD ve İran'dan Karşılıklı Açıklamalar",
         "summary": "ABD askeri yetkilileri, gemilerin Hürmüz Boğazı'ndan geçişini teşvik ettiklerini duyurdu. Ancak İran, stratejik su yolunun tam kontrolünün kendisinde olduğunu iddia etti. ABD Başkanı Donald Trump'ın İran'a yönelik tehditleriyle birlikte bölgedeki gerilim tırmanışa geçti. Bu gelişmeler, Hürmüz Boğazı'ndaki tansiyonu ateşkesi tehlikeye atacak seviyeye taşıdı. Taraflar arasındaki bu karşılıklı açıklamalar, bölgedeki güvenlik endişelerini artırıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/turkiye/kuwaits-foreign-minister-to-visit-turkiye-on-monday/3925578",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777804309898u7eet",
-        "title": "Somali Korsanları 2026'da Geri mi Dönüyor?",
-        "summary": "Somali açıklarında deniz haydutluğu faaliyetlerinin 2026 yılında yeniden artış gösterebileceği belirtiliyor. 2010 yılında zirveye ulaşan Somali korsanlığı, uluslararası çabalar sayesinde 2013 yılına gelindiğinde büyük ölçüde ortadan kalkmıştı. Ancak son değerlendirmeler, bölgedeki güvenlik durumunun ve ekonomik koşulların değişmesiyle birlikte korsanlık tehdidinin yeniden canlanma potansiyeli taşıdığına işaret ediyor. Bu durum, küresel deniz ticaret yolları ve özellikle Orta Doğu'ya ulaşan gemiler için yeni riskler oluşturabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15161982/pexels-photo-15161982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T10:31:49.898Z",
-        "location": {
-            "lat": 2,
-            "lng": 45,
-            "name": "Somali kıyıları, Somali"
-        },
-        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/3/are-somali-pirates-on-a-comeback-in-2026?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
