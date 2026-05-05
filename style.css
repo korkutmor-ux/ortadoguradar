@@ -1523,3 +1523,31 @@ body {
 .logo h1, .logo span, .radar-icon {
     display: none !important;
 }
+/* =========================================
+   HEADER BUTONLARI KOYU TEMA DÜZELTMESİ
+   ========================================= */
+
+.app-header button, 
+.app-header .toggle-btn,
+.app-header select {
+    background-color: transparent !important; /* Beyaz arkaplanı kaldır */
+    color: var(--text-primary) !important;    /* Yazıları gri/beyaz yap */
+    border: 1px solid transparent;            /* Sınırları şimdilik gizle */
+}
+
+/* Sadece aktif olan butona veya üzerine gelindiğinde koyu bir vurgu verelim */
+.app-header .toggle-btn:hover,
+.app-header .toggle-btn.active {
+    background-color: var(--bg-surface-hover) !important; 
+    border: 1px solid var(--border-color) !important;
+}
+
+/* Bültene Abone Ol butonunun mavi çerçevesini koruyalım */
+.app-header button[onclick="openNewsletterModal()"] {
+    border: 1px solid #3498db !important;
+    color: #3498db !important;
+}
+
+.app-header button[onclick="openNewsletterModal()"]:hover {
+    background-color: rgba(52, 152, 219, 0.1) !important;
+}
