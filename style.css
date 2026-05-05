@@ -1502,3 +1502,53 @@ body {
         bottom: 75px;
     }
 }
+/* =========================================
+   LOGO & HEADER FIX (TAMİR KODLARI)
+   ========================================= */
+
+/* 1. Logonun olduğu alanı serbest bırakalım ve hizalayalım */
+#siteLogo, .logo {
+    min-width: auto !important; /* Eski zorlamayı kaldır */
+    width: auto !important;
+    display: flex !important;
+    align-items: center !important;
+    flex-shrink: 0 !important; /* Logonun küçülmesini engelle */
+}
+
+/* 2. Logo görselinin boyutunu ve netliğini ayarla */
+.logo img {
+    height: 40px !important; /* Ekran görüntüne göre en ideal yükseklik */
+    width: auto !important;
+    display: block !important;
+    object-fit: contain !important;
+}
+
+/* 3. Header Container'ı tekrar yan yana dizilmesi için zorla */
+.header-container {
+    display: flex !important;
+    flex-direction: row !important; /* Alt alta inmeyi engelle */
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 15px !important; /* Elemanlar arası nefes payı */
+    overflow: visible !important; /* Kesilmeleri engelle */
+}
+
+/* 4. Arama çubuğunu esnek yap ki diğerlerini itmesin */
+.search-bar {
+    flex: 1 1 300px !important; /* Boşluğa göre uzasın/kısalsın */
+    max-width: 400px !important;
+    min-width: 150px !important;
+}
+
+/* 5. Navigasyon butonlarının (Akış, Rasathane vb.) hizasını düzelt */
+.view-toggles {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-shrink: 0 !important;
+    gap: 8px !important;
+}
+
+/* 6. Gereksiz metin stillerini temizle (Artık logo kullandığımız için) */
+.logo h1, .logo span, .radar-icon {
+    display: none !important;
+}
