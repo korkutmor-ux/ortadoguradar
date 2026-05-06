@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778110091064gezd8",
+        "title": "ABD'li Milletvekilleri, İsrail'in Nükleer Kapasitesi Konusunda Şeffaflık Talep Etti",
+        "summary": "ABD'li milletvekilleri, İsrail'in nükleer yetenekleri hakkında şeffaflık çağrısında bulundu. Bu nadir adım, ABD'nin İsrail'in nükleer programı konusundaki belirsizlik politikasının bölgedeki riskleri artırdığı endişesiyle atıldı. Milletvekilleri, özellikle ABD ve İsrail'in İran'a karşı yürüttüğü 'savaş' ortamında bu belirsizliğin tehlikeli olduğunu vurguladı. Bu talep, İsrail'in nükleer programına yönelik uluslararası denetim ve açıklık ihtiyacını gündeme getirerek Orta Doğu'daki stratejik dengeler ve nükleer yayılma konularında yeni bir tartışma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32966555/pexels-photo-32966555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T23:28:11.064Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778110194920tn1ow",
+        "title": "İsrail hava saldırısı güney Lübnan'da 3 kişiyi öldürdü, 7 kişiyi yaraladı",
+        "summary": "Güney Lübnan'da İsrail tarafından düzenlenen bir hava saldırısında 3 kişi hayatını kaybetti, 7 kişi ise yaralandı. Saldırı, Ansariya kasabasını hedef aldı. Bu olay, İsrail'in güney ve doğu Lübnan'a düzenlediği ölümcül saldırıların ve Beyrut'un güney banliyölerine yönelik hava saldırısının ardından saatler sonra gerçekleşti. Bölgedeki gerilim devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T23:29:54.920Z",
+        "location": {
+            "lat": 33.433333,
+            "lng": 35.383333,
+            "name": "Ansariya, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-3-wounds-7-in-southern-lebanon/3929592",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1778106419330ryv9x",
         "title": "Trump: ABD, Hürmüz Boğazı'ndaki Gemi Rehberlik Operasyonunu Duraklatacak",
         "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda gemilere rehberlik etme amacıyla başlatılan bir operasyonun askıya alınacağını duyurdu. Pazartesi günü başlayan ve \"Özgürlük Projesi\" olarak adlandırılan bu operasyonun durdurulma nedeni olarak, ABD ile İran arasında bir anlaşmaya yönelik kaydedilen ilerleme gösterildi. Bu karar, bölgedeki denizcilik güvenliği ve iki ülke arasındaki ilişkiler açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893911818umbb0",
-        "title": "Roma savcıları, İsrail'in Gazze yardım filosunu durdurması sırasında gözaltına alınan 2 İtalyan hakkında soruşturma başlattı",
-        "summary": "İtalya'nın başkenti Roma'daki savcılar, İsrail'in Gazze'ye yardım taşıyan bir filoyu durdurması sırasında gözaltına alınan iki İtalyan vatandaşının durumu hakkında bir soruşturma başlattı. Bu soruşturma, aralarında iki İtalyan aktivistin de bulunduğu üç resmi şikayet üzerine açıldı. Olay, uluslararası sularda gerçekleşen ve Gazze ablukasını delmeyi amaçlayan yardım konvoylarına yönelik İsrail müdahaleleri bağlamında değerlendiriliyor. Soruşturmanın, İtalyan vatandaşlarının gözaltına alınma koşulları ve uluslararası hukuka uygunluğu üzerine odaklanması bekleniyor. Bu gelişme, İsrail ile İtalya arasındaki ilişkilerde potansiyel diplomatik yansımalara yol açabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14091894/pexels-photo-14091894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:25:11.818Z",
-        "location": {
-            "lat": 41.9,
-            "lng": 12.5,
-            "name": "Roma, İtalya"
-        },
-        "source": "https://www.aa.com.tr/en/europe/rome-prosecutors-probe-detention-of-2-italians-during-israeli-interception-of-gaza-aid-flotilla/3926429",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893935622kqj2h",
-        "title": "İsrail, işgal altındaki Batı Şeria'daki yerleşim yolları için 270 milyon dolarlık bütçeyi onayladı",
-        "summary": "İsrail hükümeti, işgal altındaki Batı Şeria'da bulunan yasa dışı yerleşim birimlerini birbirine bağlayacak yolların inşası için 270 milyon dolarlık bir bütçe ayırma kararı aldı. Bu planın, bölgedeki yerleşim yerleri arasındaki bağlantıyı güçlendirmeyi hedeflediği belirtildi. Uluslararası hukuka göre yasa dışı kabul edilen bu yerleşim birimlerinin genişletilmesi ve altyapısının güçlendirilmesi, Filistinliler ve uluslararası toplum tarafından eleştirilere neden oluyor. Söz konusu bütçe, bölgedeki gerilimi artırabilecek bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6497226/pexels-photo-6497226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:25:35.622Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-approves-270m-budget-for-settlement-roads-in-occupied-west-bank/3926363",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
