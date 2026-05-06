@@ -1,5 +1,53 @@
 [
     {
+        "id": "1778089443211ju533",
+        "title": "BM, İsrail'den Filo Aktivistlerini Derhal Serbest Bırakmasını Talep Etti",
+        "summary": "Birleşmiş Milletler, İsrail'e Gazze'ye gitmekte olan bir filoda gözaltına alınan iki aktivisti derhal serbest bırakması çağrısında bulundu. Bu çağrı, uluslararası toplumun Gazze ablukası ve insani yardım girişimleri konusundaki endişelerini yansıtıyor. Aktivistlerin gözaltına alınması, bölgedeki gerilimi artırabilecek bir gelişme olarak değerlendirilmektedir. BM, İsrail'in uluslararası hukuka uygun hareket etmesi gerektiğini vurgulayarak, bu tür olayların barışçıl çözümlere zarar verdiğini belirtti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19985056/pexels-photo-19985056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T17:44:03.211Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778089605378aog7e",
+        "title": "Lübnan Başbakanı: İsrail ile normalleşme değil, barış arayışındayız",
+        "summary": "Lübnan Başbakanı Nawaf Salam, ülkesinin İsrail ile ilişkiler konusundaki tutumunu netleştirdi. Salam, Lübnan'ın İsrail ile normalleşme değil, kalıcı bir barış hedeflediğini belirtti. Başbakan, İsrail ile herhangi bir üst düzey toplantının gerçekleşebilmesi için kapsamlı hazırlıkların zorunlu olduğunu vurguladı. Bu açıklama, iki ülke arasındaki mevcut diplomatik gerilimi ve ilişkilerin karmaşıklığını bir kez daha ortaya koydu. Lübnan'ın bu duruşu, Orta Doğu'daki bölgesel siyasi dengeler açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T17:46:45.378Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanon-seeks-peace-not-normalization-with-israel-says-premier/3929337",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778089649614gibqh",
+        "title": "İran Saldırıları Orta Doğu'daki ABD Askeri Tesislerine Beklenenden Fazla Hasar Verdi: Rapor",
+        "summary": "Washington Post tarafından yapılan bir analize göre, İran'ın Orta Doğu'daki ABD askeri tesislerine yönelik saldırılarının, daha önce kamuoyuna açıklanandan çok daha fazla hasara yol açtığı bildirildi. Uydu görüntüleri incelenerek hazırlanan raporda, toplam 228 ABD askeri noktasının bu saldırılardan etkilendiği belirtildi. Analiz, Bahreyn ve Kuveyt'teki tesislerin en çok zarar görenler arasında olduğunu ortaya koydu. Bu bulgular, bölgedeki askeri gerilimin ve İran'ın askeri kapasitesinin etkilerine dair yeni bir perspektif sunmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849398/pexels-photo-11849398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T17:47:29.614Z",
+        "location": {
+            "lat": 27.5,
+            "lng": 49,
+            "name": "Bahreyn, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-strikes-damaged-228-us-military-sites-in-middle-east-more-than-acknowledged-report/3929285",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778066752849mg2hb",
         "title": "Sudan, İHA Saldırılarından Etiyopya ve BAE'yi Sorumlu Tuttu",
         "summary": "Sudan hükümeti, son dönemde yaşanan insansız hava aracı (İHA) saldırılarından Etiyopya ve Birleşik Arap Emirlikleri'ni (BAE) sorumlu tuttuğunu açıkladı. Bu suçlamaların ardından Sudan, Etiyopya'nın başkenti Addis Ababa'daki büyükelçisini geri çağırma kararı aldı. Yıllar süren iç savaşın ardından ülkede yeniden ortaya çıkan bu saldırılar, bölgedeki gerilimi tırmandırarak göreceli sakinliği bozdu. Gelişmeler, Sudan'ın iç istikrarı ve bölgesel ilişkileri üzerinde önemli etkiler yaratma potansiyeli taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Pakistan"
         },
         "source": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777886664410rynmi",
-        "title": "Japonya Başbakanı, İran Savaşı Petrol Krizinin Asya Pasifik'te 'Büyük Etki' Yarattığını Belirtti",
-        "summary": "Japonya Başbakanı Sanae Takaichi, Avustralya ziyareti sırasında yaptığı açıklamalarda, İran'da yaşanabilecek bir savaşın tetikleyeceği petrol krizinin Asya Pasifik bölgesinde \"büyük bir etki\" yaratacağını vurguladı. Takaichi, Avustralya ile enerji tedarik anlaşmaları imzaladığı sırada bu kritik değerlendirmelerde bulundu. Bu açıklamalar, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji piyasaları üzerindeki potansiyel yıkıcı etkilerini ve uluslararası toplumun bu tür krizlere karşı hazırlıklı olma ihtiyacını bir kez daha gündeme getirdi. Japonya'nın enerji güvenliği konusundaki endişeleri, bölgedeki istikrarsızlığın küresel ekonomiye yansımalarını ortaya koymaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6150117/pexels-photo-6150117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T09:24:24.410Z",
-        "location": {
-            "lat": -35.28,
-            "lng": 149.13,
-            "name": "Canberra, Avustralya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17778866981240yc92",
-        "title": "İran'da Halk, Rejimin Gücünü Artırdığı ve Baskıyı Yoğunlaştıracağı Endişesi Taşıyor",
-        "summary": "İran'da sıradan vatandaşlar, ülkedeki rejimin daha da kök saldığına ve muhaliflere karşı intikam almaya hazırlandığına dair endişelerini dile getiriyor. Halk, yetkililerin baskıcı politikalarını savaş sonrası dönemde daha da artıracağından kaygı duyuyor. Bu durum, İran toplumunda artan bir korku ve belirsizlik ortamı yaratıyor. Vatandaşlar, rejimin gücünü pekiştirmesiyle birlikte kişisel özgürlüklerin daha da kısıtlanmasından endişe ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/31468385/pexels-photo-31468385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T09:24:58.124Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777886762523dyg2c",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda İki Kişi Hayatını Kaybetti",
-        "summary": "İsrail güçleri, Lübnan'ın güneyindeki Shahour bölgesine hava saldırıları gerçekleştirdi. Yerel kaynaklardan alınan bilgilere göre, bu saldırılarda en az iki kişi yaşamını yitirdi. Olay, bölgede yürürlükte olan ateşkes anlaşmasına rağmen meydana geldi. Tel Aviv'in bu eylemleri, mevcut ateşkesin ihlali olarak değerlendiriliyor ve bölgedeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20021300/pexels-photo-20021300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T09:26:02.523Z",
-        "location": {
-            "lat": 33.15,
-            "lng": 35.35,
-            "name": "Shahour, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-kill-at-least-2-people-in-southern-lebanon-despite-ceasefire/3926261",
         "trendScore": 85,
         "isBreaking": false
     }
