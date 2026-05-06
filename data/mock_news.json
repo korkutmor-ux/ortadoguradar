@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778038280938oy9ay",
+        "title": "ABD, İran ile Hürmüz Boğazı Operasyonunu Duraklattı, Görüşmeler Sürüyor",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda İran ile yaşanan gerilimin ardından bir operasyonun duraklatıldığını ve ABD ile Tahran arasında görüşmelerin devam ettiğini duyurdu. ABD Savunma Bakanı Pete Hegseth de Hürmüz Boğazı'ndaki artan gerilimlere rağmen İran ile ateşkesin yürürlükte kaldığını ifade etti. Bu açıklamalar, bölgedeki potansiyel çatışma riskinin geçici olarak azaldığına işaret ediyor. Ancak iki ülke arasındaki temel sorunlar ve stratejik su yolundaki tansiyonun devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10546956/pexels-photo-10546956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T03:31:20.938Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778038413754ph1xe",
+        "title": "İsrail Ordusu, İşgal Altındaki Batı Şeria'da Hristiyan Kutlamacılara Müdahale Etti",
+        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da bulunan Beytüllahim kentinde Aziz George Günü kutlamalarına müdahale etti. Edinilen bilgilere göre, İsrail askerleri dini bir etkinlik için toplanan Hristiyan kutlamacılara göz yaşartıcı gaz ve ses bombasıyla saldırdı. Olay, bölgedeki gerilimi tırmandırırken, kutlamacılar dini özgürlüklerinin ihlal edildiğini belirtti. Müdahale sonucunda yaralanan olup olmadığına dair henüz resmi bir açıklama yapılmadı. Bu olay, İsrail güçlerinin Filistin topraklarındaki sivil halka yönelik uygulamalarını bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33026804/pexels-photo-33026804.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T03:33:33.754Z",
+        "location": {
+            "lat": 31.705,
+            "lng": 35.205,
+            "name": "Beytüllahim, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-assaults-christian-celebrants-in-occupied-west-bank/3928268",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
         "id": "177802511188100opk",
         "title": "Rubio, Vatikan Ziyareti Öncesi Trump'ın İran Hakkındaki Papa Leo Yorumlarını Savundu",
         "summary": "ABD'li Senatör Marco Rubio, Vatikan'a yapacağı ziyaret öncesinde, eski Başkan Donald Trump'ın İran ile ilgili Papa Leo hakkındaki yorumlarını savundu. Rubio'nun bu açıklamaları, Perşembe günü Vatikan'da Papa Leo XIV ile gerçekleştireceği görüşme öncesinde geldi. Trump'ın daha önceki yorumlarının içeriği belirtilmese de, İran'ın nükleer programı veya bölgesel politikaları gibi konularla ilgili olduğu tahmin ediliyor. Rubio'nun bu savunması, ABD'nin İran politikası ve uluslararası ilişkilerdeki dini liderlerin rolü üzerine devam eden tartışmaları yansıtmaktadır. Söz konusu görüşmenin, ABD-Vatikan ilişkileri ve Orta Doğu'daki gelişmeler açısından önem taşıdığı düşünülüyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777841420216pj64y",
-        "title": "İsrail'in Ateşkes Sonrası Gazze'ye Genişlemesi İddiaları Tartışılıyor",
-        "summary": "İsrail'in ateşkesin ardından Gazze Şeridi'ndeki varlığını genişlettiği iddiaları uluslararası kamuoyunda tartışılıyor. Redi Tlhabi, Forensic Architecture'dan Ray Adams Row Farr ile bu konuyu detaylı bir şekilde ele aldı. Görüşmede, İsrail'in Gazze'deki faaliyetlerinin ateşkes anlaşmalarına uygunluğu ve bölgedeki mevcut durum değerlendirildi. Forensic Architecture'ın bu yöndeki analizleri ve bulguları, bölgedeki gerilimin seyrini anlamak açısından önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934252/pexels-photo-35934252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T20:50:20.217Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777841458390ncycm",
-        "title": "İsrail'in 'sürekli savaş' stratejisi: Zamana karşı bir yarış mı?",
-        "summary": "Siyasi analist Daniel Levy, ABD politikasının İsrail anlatılarıyla o kadar iç içe geçtiğini ve bu iki unsurun birbirinden ayırt edilemez hale geldiğini belirtti. Levy, İsrail'in 'sürekli savaş' stratejisinin ABD dış politikasını derinden etkilediğini ve bu durumun zamana karşı bir yarış olup olmadığı sorusunu gündeme getirdiğini ifade etti. Bu analiz, ABD'nin Orta Doğu'daki yaklaşımlarının İsrail'in güvenlik ve bölgesel stratejileriyle ne denli örtüştüğüne dair önemli tartışmaları beraberinde getiriyor. Değerlendirme, iki ülke arasındaki siyasi ve stratejik bağların derinliğini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15635395/pexels-photo-15635395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T20:50:58.390Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
