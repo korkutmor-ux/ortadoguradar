@@ -1,5 +1,69 @@
 [
     {
+        "id": "1778059541996ttpez",
+        "title": "'Bir Stres Testi': İran Savaşı Sürerken ABD-Almanya Arasındaki Gerilim Artıyor",
+        "summary": "ABD ile Almanya arasındaki ilişkilerde, devam eden İran savaşı nedeniyle belirgin bir gerilim yaşandığı bildirildi. Bir Alman yetkilisinin açıklamasına göre, ABD-Avrupa ilişkileri bu süreçte ciddi bir \"stres testinden\" geçiyor. Öte yandan, muhalefetten bir milletvekili Berlin'in bu konuda \"tarafsız olmadığını\" dile getirdi. Bu gelişmeler, İran'daki çatışmaların uluslararası ittifaklar ve diplomatik ilişkiler üzerindeki derin etkilerini ortaya koyuyor. Washington ile Berlin arasındaki bu görüş ayrılıkları, bölgesel krizlerin küresel çapta yarattığı baskıyı gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T09:25:41.996Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778059567850tzw4u",
+        "title": "İran'da Alışveriş Merkezi Yangınında En Az Sekiz Kişi Hayatını Kaybetti",
+        "summary": "İran'da bir alışveriş merkezinde çıkan yangında en az sekiz kişi hayatını kaybetti. Yetkililer, olayın ardından geniş çaplı bir soruşturma başlattı. Yangın, itfaiye ekiplerinin yoğun çabaları sonucu kontrol altına alınırken, soğutma çalışmalarının devam ettiği bildirildi. Olay yerine çok sayıda sağlık ekibi sevk edildi ve yaralıların olduğu belirtildi. Hayatını kaybedenlerin kimlik tespit çalışmaları sürüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6388756/pexels-photo-6388756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T09:26:07.850Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/6/shopping-centre-fire-kills-at-least-eight-people-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17780596632054rgii",
+        "title": "BBC, İsrail'in Lübnan'a Yönelik Bombardımanının Yıkıcı Etkilerini Araştırdı",
+        "summary": "BBC tarafından yapılan bir araştırma, İsrail'in Lübnan'a yönelik 10 dakikalık bir bombardımanının ülkedeki yıkıcı etkilerini ortaya koydu. Habere göre, öğleden sonra saat 14:15'te başlayan bombalama, ülke genelinde geniş çaplı kaos ve tahribata yol açtı. Bu olay, askeri operasyonların sivil bölgeler üzerindeki yıkıcı sonuçlarını bir kez daha gözler önüne serdi. Araştırma, söz konusu saldırının anlık ve uzun vadeli etkilerine ışık tutmayı hedefliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19893295/pexels-photo-19893295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T09:27:43.205Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778059743448cfpuy",
+        "title": "Pakistan'dan ABD-İran Anlaşması İçin Umut Mesajı",
+        "summary": "ABD Başkanı Trump, Salı günü yaptığı açıklamada, ABD ordusunun Hürmüz Boğazı'nda ticari gemilerin seyrüsefer serbestliğini yeniden tesis etme çabası olan \"Project Freedom\" misyonunu geçici olarak durdurduğunu duyurdu. Bu kararın ardından Pakistan, ABD ile İran arasında \"kalıcı barış ve istikrar\" için \"kalıcı\" bir anlaşma sağlanması konusunda \"umutlu\" olduğunu bildirdi. Pakistan, böyle bir anlaşmanın bölgedeki gerilimi azaltarak uzun süreli bir istikrar ortamı yaratacağına inandığını ifade etti. Hürmüz Boğazı, küresel enerji ticareti açısından kritik öneme sahip stratejik bir su yoludur.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T09:29:03.448Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/pakistan-hopeful-for-lasting-us-iran-pact-for-durable-peace-stability-after-trump-pauses-hormuz-mission/3928658",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778038280938oy9ay",
         "title": "ABD, İran ile Hürmüz Boğazı Operasyonunu Duraklattı, Görüşmeler Sürüyor",
         "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda İran ile yaşanan gerilimin ardından bir operasyonun duraklatıldığını ve ABD ile Tahran arasında görüşmelerin devam ettiğini duyurdu. ABD Savunma Bakanı Pete Hegseth de Hürmüz Boğazı'ndaki artan gerilimlere rağmen İran ile ateşkesin yürürlükte kaldığını ifade etti. Bu açıklamalar, bölgedeki potansiyel çatışma riskinin geçici olarak azaldığına işaret ediyor. Ancak iki ülke arasındaki temel sorunlar ve stratejik su yolundaki tansiyonun devam ettiği belirtiliyor.",
@@ -732,70 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/hearing-in-corruption-trial-of-israels-netanyahu-canceled-after-overnight-message-from-his-lawyer-to-court/3926198",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777865725638wrngv",
-        "title": "BAE açıklarında tankere 'kimliği belirsiz mermilerle' saldırı",
-        "summary": "Birleşik Arap Emirlikleri'nin Füceyre kenti açıklarında bir tankerin 'kimliği belirsiz mermilerle' hedef alındığı bildirildi. İngiliz denizcilik yetkilileri tarafından rapor edilen olayın, kentin kuzeyindeki sularda meydana geldiği belirtildi. Saldırıya rağmen tanker mürettebatının güvende olduğu ve herhangi bir çevresel hasarın oluşmadığı açıklandı. Olayın detaylarına ilişkin soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29792898/pexels-photo-29792898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T03:35:25.638Z",
-        "location": {
-            "lat": 25.1167,
-            "lng": 56.35,
-            "name": "Füceyre, BAE"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/tanker-hit-by-unknown-projectiles-near-uae-s-fujairah-crew-safe/3925976",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1777865764814mct9a",
-        "title": "İranlı milletvekili, ABD'nin Hürmüz Boğazı planının ateşkes ihlali olacağı uyarısında bulundu",
-        "summary": "İranlı üst düzey bir milletvekili, ABD'nin Hürmüz Boğazı'na yönelik olası herhangi bir planının veya boğazın yeni denizcilik rejimine müdahalesinin ateşkes ihlali anlamına geleceği konusunda uyarıda bulundu. Milletvekili, Amerikan tarafının bu stratejik su yolundaki adımlarının mevcut bir anlaşmayı veya zımni bir uzlaşmayı bozacağını belirtti. Hürmüz Boğazı, küresel enerji ticareti için hayati öneme sahip olup, Basra Körfezi'ni Umman Denizi'ne bağlamaktadır. Bu açıklama, ABD ile İran arasındaki bölgesel gerilimlerin ve deniz güvenliği konusundaki anlaşmazlıkların devam ettiğini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T03:36:04.814Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-lawmaker-warns-that-any-us-plan-for-hormuz-strait-would-be-ceasefire-violation/3925966",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777852436820gcuq8",
-        "title": "Suriye ve Mısır Ekonomik İşbirliğini Artırmak İçin Ortak İş Konseyi Kurdu",
-        "summary": "Suriye ve Mısır, iki ülke arasındaki ekonomik işbirliğini güçlendirmek amacıyla ortak bir iş konseyi oluşturdu. Bu önemli gelişme, Suriye Dışişleri Bakanı'nın Mısır'a gerçekleştirdiği ilk resmi ziyaretle eş zamanlı olarak duyuruldu. Konseyin temel hedefi, iki ülke arasındaki ticari ilişkileri geliştirmek, yatırım fırsatlarını artırmak ve ekonomik entegrasyonu teşvik etmektir. Bu adım, bölgesel ilişkilerde normalleşme çabalarının bir parçası olarak değerlendirilmekte ve Suriye'nin uluslararası arenadaki konumunu güçlendirme potansiyeli taşımaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T23:53:56.820Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-forms-joint-business-council-with-egypt-to-enhance-economic-cooperation/3925944",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777841398692ukzaw",
-        "title": "Gazze'de Dünya Basın Özgürlüğü Günü, Gazeteci Kayıpları Artarken Anıldı",
-        "summary": "Gazze Şeridi'ndeki Filistinli gazeteciler, Dünya Basın Özgürlüğü Günü'nü özel bir etkinlikle kutladı. Bu anlamlı günde, İsrail tarafından öldürülen veya hedef alınan meslektaşlarını anarak saygı duruşunda bulundular. Bölgedeki çatışmalar sırasında hayatını kaybeden gazetecilerin sayısının artması, basın özgürlüğü ve gazetecilerin güvenliği konusundaki endişeleri bir kez daha gündeme getirdi. Gazeteciler, görevlerini yaparken karşılaştıkları zorluklara ve risklere dikkat çekerek uluslararası toplumu bu konuda adım atmaya çağırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/2479958/pexels-photo-2479958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T20:49:58.692Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
