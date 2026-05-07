@@ -1,5 +1,53 @@
 [
     {
+        "id": "1778116676098l0ud9",
+        "title": "Washington Köprüsü'nde Beş Gün Kalan Savaş Karşıtı Protestocu Gözaltına Alındı",
+        "summary": "Washington'da Frederick Douglass Köprüsü üzerinde beş gün süren eylemini sonlandıran savaş karşıtı bir protestocu polis tarafından gözaltına alındı. Protestocu, köprü üzerinde oturma eylemi yaparak savaş karşıtı mesajlar vermişti. Olay, başkent Washington'da dikkat çeken bir güvenlik operasyonuyla sona erdi. Gözaltına alınan kişinin kimliği ve eyleminin spesifik hedefi hakkında detay verilmedi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/27499944/pexels-photo-27499944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T01:17:56.098Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1778116719636zbeir",
+        "title": "İran Dışişleri Bakanı Pekin'de: ABD Anlaşması İçin Çin'den Destek Talebi",
+        "summary": "İran Dışişleri Bakanı Abbas Araghchi, ABD ile yürütülen bir anlaşma konusunda destek arayışıyla Çin'in başkenti Pekin'i ziyaret ediyor. Ziyaretin temel gündem maddesi, Tahran'ın Washington ile olan ilişkilerinde ve özellikle nükleer anlaşma çerçevesindeki pozisyonunda Çin'in diplomatik desteğini sağlamak. İran, uluslararası arenada ABD'nin uyguladığı yaptırımlara karşı müttefik arayışını sürdürürken, Çin'in bu süreçteki rolü önem taşıyor. Pekin'deki görüşmelerin, İran'ın bölgesel ve küresel politikalarındaki konumunu güçlendirmeye yönelik olduğu belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T01:18:39.636Z",
+        "location": {
+            "lat": 39.9,
+            "lng": 116.4,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778116790812bmea9",
+        "title": "ABD ve İran, savaşı sona erdirecek tek sayfalık bir anlaşmaya yakınlaşıyor: Rapor",
+        "summary": "ABD ve İran'ın, bölgedeki gerilimi sona erdirecek tek sayfalık bir anlaşmaya yakınlaştığı bildirildi. Axios'un haberine göre, Washington yönetimi Tahran'dan kilit konularda 48 saat içinde yanıt bekliyor. Bu gelişme, iki ülke arasındaki uzun süreli anlaşmazlıkların çözümüne yönelik diplomatik çabaların hızlandığını gösteriyor. Anlaşmanın içeriği ve detayları henüz netleşmezken, tarafların müzakerelerde ilerleme kaydettiği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6949994/pexels-photo-6949994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T01:19:50.812Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-iran-getting-close-to-one-page-agreement-to-end-war-report/3929600",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1778110091064gezd8",
         "title": "ABD'li Milletvekilleri, İsrail'in Nükleer Kapasitesi Konusunda Şeffaflık Talep Etti",
         "summary": "ABD'li milletvekilleri, İsrail'in nükleer yetenekleri hakkında şeffaflık çağrısında bulundu. Bu nadir adım, ABD'nin İsrail'in nükleer programı konusundaki belirsizlik politikasının bölgedeki riskleri artırdığı endişesiyle atıldı. Milletvekilleri, özellikle ABD ve İsrail'in İran'a karşı yürüttüğü 'savaş' ortamında bu belirsizliğin tehlikeli olduğunu vurguladı. Bu talep, İsrail'in nükleer programına yönelik uluslararası denetim ve açıklık ihtiyacını gündeme getirerek Orta Doğu'daki stratejik dengeler ve nükleer yayılma konularında yeni bir tartışma başlattı.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1777893835963n2mwu",
-        "title": "İran, ABD'yi Hürmüz Boğazı'ndan Uzak Durması Konusunda Uyardı",
-        "summary": "ABD Başkanı Donald Trump'ın, Hürmüz Boğazı'nda mahsur kalan gemilere rehberlik etmek amacıyla \"Özgürlük Projesi\"ni başlatacaklarını duyurması üzerine İran'dan sert bir tepki geldi. Tahran yönetimi, Washington'ı Hürmüz Boğazı'ndan uzak durması konusunda uyardı. Bu açıklama, bölgedeki gerilimi tırmandırma potansiyeli taşıyor. Hürmüz Boğazı, küresel petrol ve gaz ticareti için hayati öneme sahip stratejik bir deniz geçidi olarak biliniyor ve geçmişte de benzer gerilimlere sahne olmuştu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:23:55.963Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893856042a1j01",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 13 Kişi Hayatını Kaybetti",
-        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Güney Lübnan'a düzenlediği saldırılarda aralarında dört kadın ve bir çocuğun da bulunduğu 13 kişi yaşamını yitirdi. Ateşkes anlaşmasına rağmen İsrail ile İran destekli Hizbullah arasındaki çatışmalar devam ediyor. Bölgedeki gerilim, sivil kayıpların artmasına neden oluyor. Uluslararası toplum, taraflara gerilimi düşürme çağrısı yapıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:24:16.042Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 35.5,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893877637kj2in",
-        "title": "İngiliz Çift İran'da 10 Yıl Hapse Mahkum Edildi",
-        "summary": "İngiliz vatandaşları Lindsay ve Craig Foreman, geçen yıl motosiklet turu sırasında İran'da tutuklanmalarının ardından 10 yıllık hapis cezasıyla yüzleşiyor. Çift, İran'da uzun bir süre kalacaklarını ifade etti. Bu durum, yabancı uyruklu vatandaşların İran'da tutuklanması ve yargılanmasıyla ilgili endişeleri yeniden gündeme getirdi. Olayın, Birleşik Krallık ile İran arasındaki diplomatik ilişkilerde potansiyel bir gerilim kaynağı olabileceği belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7714862/pexels-photo-7714862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:24:37.637Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
