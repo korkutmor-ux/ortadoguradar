@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778166830589qaocm",
+        "title": "ABD-İsrail'in İran'a Karşı Savaşı Ürdün'deki Petra'yı Turistlerden Mahrum Bıraktı",
+        "summary": "Ortadoğu'da devam eden çatışmalar, özellikle ABD ve İsrail'in İran'a yönelik olası bir savaşı, Ürdün'ün tarihi Petra antik kentindeki turizmi derinden etkiledi. Bölgedeki gerilimin artmasıyla birlikte turistler Petra'dan uzak durmaya başladı. Bu durum, bir zamanlar hareketli olan antik kentin neredeyse tamamen boş kalmasına neden oldu. Turist akışının durması, Petra ve çevresindeki Ürdünlülerin gelir kaybıyla karşı karşıya kalmasına ve ekonomik olarak zor günler geçirmesine yol açtı. Bölgedeki güvenlik endişeleri, turizm sektörünün toparlanmasını engelliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15997882/pexels-photo-15997882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T15:13:50.589Z",
+        "location": {
+            "lat": 30.33,
+            "lng": 35.44,
+            "name": "Petra, Ürdün"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/5/7/us-israel-war-on-iran-leaves-jordans-petra-nearly-empty-of-tourists?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17781668562877l6c8",
+        "title": "PSG'nin Şampiyonlar Ligi Zaferi Paris'te Şiddet Olaylarıyla Gölgelendi",
+        "summary": "Paris Saint-Germain'in Bayern Münih'i 6-5 mağlup ederek Şampiyonlar Ligi yarı finalinde elde ettiği galibiyet, Fransa'nın başkenti Paris'te ciddi iç karışıklıklara neden oldu. Maç sonrası kutlamalar sırasında şehirde geniş çaplı şiddet olayları, yağma ve isyanlar yaşandı. Bu olaylar, kulübün sportif başarısının önüne geçerek kamuoyunda güvenlik endişelerini artırdı ve yetkililerin müdahalesini gerektirdi. Paris polisi, olaylara karışan çok sayıda kişiyi gözaltına alırken, şehirde güvenlik önlemleri artırıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4646818/pexels-photo-4646818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T15:14:16.287Z",
+        "location": {
+            "lat": 48.9,
+            "lng": 2.4,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1778156297416dnvnp",
         "title": "İrlandalı Futbolcular ve Ünlüler İsrail Maçlarının Boykot Edilmesi İçin Çağrı Yaptı",
         "summary": "İrlandalı futbolcular ve ünlülerden oluşan bir grup, İsrail'in Gazze'deki eylemleri nedeniyle İsrail maçlarının boykot edilmesi çağrısında bulundu. İrlandalı kampanya grubu, UEFA Uluslar Ligi maçları öncesinde İsrail'i Gazze'deki savaşta 'soykırım' yapmakla suçladı. Bu çağrı, Gazze'deki çatışmaların uluslararası alandaki yansımalarını ve spor etkinlikleri üzerindeki potansiyel etkilerini gündeme getirdi. Boykot talebi, İsrail'e yönelik uluslararası baskıyı artırma amacı taşıyor ve insan hakları ihlallerine dikkat çekmeyi hedefliyor.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777961977487lxhg7",
-        "title": "İran, ABD Ordusunu Hürmüz Boğazı'nda Yolcu Teknelerine Saldırmakla Suçladı",
-        "summary": "İranlı yetkililer, ABD ordusunun Hürmüz Boğazı'nda yolcu teknelerine saldırı düzenlediğini ve bu saldırılarda beş sivilin hayatını kaybettiğini iddia etti. İranlı bir komutan, Pazartesi günü gerçekleşen olayda ABD güçlerinin hedef aldığı gemilerin Devrim Muhafızları'na ait olmadığını, aksine sivil yolcu tekneleri olduğunu belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek nitelikte bir suçlama olarak değerlendiriliyor ve iki ülke arasındaki tansiyonu yükseltme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3706659/pexels-photo-3706659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-05T06:19:37.487Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17779620356289em80",
-        "title": "Devletler, krizden çıkış için petrol şirketlerinin beklenmedik kârlarını vergilendirmeli",
-        "summary": "Küresel çapta yaşanan büyük bir ekonomik kriz, enerji sektöründeki kârları önemli ölçüde artırmaktadır. Uzmanlar, devletlerin bu beklenmedik yüksek kârları vergilendirmesi gerektiğini belirtiyor. Bu vergilendirme, ülkelerin mevcut ekonomik zorlukların üstesinden gelmesine yardımcı olabilir. Ayrıca, elde edilecek gelirler sayesinde ülkeler, gelecekteki ekonomik şoklara karşı daha dirençli hale gelebilir ve sürdürülebilir bir ekonomik yapıya kavuşabilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/7111577/pexels-photo-7111577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-05T06:20:35.628Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Bölgesel"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
