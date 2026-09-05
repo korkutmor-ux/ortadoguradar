@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788651453745v0z5k",
+        "title": "İran'ın Batısında Yakıt Tankeri Patlaması: En Az 10 Ölü",
+        "summary": "İran'ın batı kesiminde, Hamedan-Sanandaj otoyolunda meydana gelen bir yakıt tankeri patlaması sonucu en az 10 kişi hayatını kaybetti. Yetkililer, olayın ardından yaptıkları açıklamada, patlamada altı kişinin de yaralandığını bildirdi. Kaza, bölgede büyük paniğe yol açarken, olay yerine çok sayıda acil durum ekibi sevk edildi. Patlamanın nedeni henüz belirlenemezken, olayla ilgili geniş çaplı bir soruşturma başlatıldığı kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4062506/pexels-photo-4062506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T23:37:33.745Z",
+        "location": {
+            "lat": 34.8,
+            "lng": 48.51,
+            "name": "Hamedan, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
         "id": "1788644116459q347w",
         "title": "ABD, Suriye'nin Süveyda Vilayetindeki Gerilime Karşı İtidal Çağrısı Yaptı",
         "summary": "ABD, Suriye'nin güneyindeki Süveyda vilayetinde yeniden tırmanan gerilimler üzerine taraflara itidal çağrısında bulundu. ABD özel elçisi, bölgedeki durumdan duydukları derin üzüntüyü dile getirerek, gerilimin yeniden artmasından endişe duyduklarını belirtti. Süveyda vilayeti, Suriye'deki iç savaş boyunca zaman zaman çatışmalara sahne olan stratejik bir bölge konumunda. Washington, bölgedeki istikrarın korunması ve sivil halkın güvenliğinin sağlanması gerektiğini vurguluyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/beijing-urges-us-to-lift-iran-related-sanctions-on-chinese-companies/4046575",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17884515559559arzv",
-        "title": "İsrail Ordusu İşgal Altındaki Golan Tepeleri'nde Tatbikat Düzenledi",
-        "summary": "İsrail ordusu, işgal altında tuttuğu Golan Tepeleri'nde geniş çaplı bir askeri tatbikat gerçekleştirdi. Ordu kaynaklarından yapılan açıklamaya göre, tatbikat kapsamında 7 Ekim olayları da dahil olmak üzere onlarca farklı senaryo simüle edildi. Bu tatbikatın, bölgedeki güvenlik tehditlerine karşı operasyonel hazırlığı artırmayı hedeflediği belirtildi. Tatbikatın, özellikle kuzey sınırındaki potansiyel çatışma durumlarına karşı bir hazırlık niteliği taşıdığı ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7993115/pexels-photo-7993115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T16:05:55.955Z",
-        "location": {
-            "lat": 33,
-            "lng": 35.7,
-            "name": "Golan Tepeleri, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-conducts-drill-in-occupied-golan-heights/4046548",
         "trendScore": 85,
         "isBreaking": false
     }
