@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788644116459q347w",
+        "title": "ABD, Suriye'nin Süveyda Vilayetindeki Gerilime Karşı İtidal Çağrısı Yaptı",
+        "summary": "ABD, Suriye'nin güneyindeki Süveyda vilayetinde yeniden tırmanan gerilimler üzerine taraflara itidal çağrısında bulundu. ABD özel elçisi, bölgedeki durumdan duydukları derin üzüntüyü dile getirerek, gerilimin yeniden artmasından endişe duyduklarını belirtti. Süveyda vilayeti, Suriye'deki iç savaş boyunca zaman zaman çatışmalara sahne olan stratejik bir bölge konumunda. Washington, bölgedeki istikrarın korunması ve sivil halkın güvenliğinin sağlanması gerektiğini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T21:35:16.459Z",
+        "location": {
+            "lat": 32.68,
+            "lng": 36.72,
+            "name": "Süveyda, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-urges-restraint-amid-renewed-tensions-in-syria-s-southern-suwayda-province/4048482",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788644139166145ud",
+        "title": "Türk ve İran Dışişleri Bakanları ABD ile Süren Görüşmeleri Ele Aldı",
+        "summary": "Türk Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Araghchi arasında önemli bir telefon görüşmesi gerçekleşti. Türk diplomatik kaynaklarından edinilen bilgilere göre, görüşmenin ana gündem maddesi ABD ile devam eden müzakereler oldu. İki ülke bakanları, bu görüşmelerin bölgesel ve uluslararası yansımalarını değerlendirirken, diplomatik temasların sürdürülmesinin önemine vurgu yaptı. Bu tür üst düzey görüşmelerin, Orta Doğu'daki siyasi dinamikler açısından kritik öneme sahip olduğu belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T21:35:39.166Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkish-iranian-foreign-ministers-discuss-ongoing-talks-with-us/4048467",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788635943870syzj2",
         "title": "Yunanistan'da Hava Gösterisi Sırasında Savaş Uçağı Düştü: İki Pilot Hayatını Kaybetti",
         "summary": "Yunanistan'da bir hava gösterisi sırasında F-4 Phantom tipi savaş uçağının düşmesi sonucu iki pilot yaşamını yitirdi. Yunan yetkililerinden yapılan açıklamaya göre, olay ülkenin batısında meydana geldi. Kazanın nedenine ilişkin soruşturma başlatıldığı bildirildi. Düşen uçağın Yunan Hava Kuvvetleri'ne ait olduğu ve rutin bir eğitim uçuşu veya gösteri sırasında kaza geçirdiği belirtildi. Bu olay, Yunanistan'ın askeri envanterindeki eskiyen uçakların güvenliği konusunda endişeleri gündeme getirdi.",
@@ -764,38 +796,6 @@
             "name": "Golan Tepeleri, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-conducts-drill-in-occupied-golan-heights/4046548",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788451590979uxxtd",
-        "title": "Yemen Ordusu, Taiz Vilayetinde Karşı Saldırıda 18 Husi Militanını Öldürdü",
-        "summary": "Yemen ordusu, ülkenin batısındaki Taiz vilayetinde Husilere yönelik bir karşı saldırı başlattı. Çatışmalarda 18 Husi militanının öldürüldüğü bildirildi. Devlet televizyonu, söz konusu çatışmalar sırasında ele geçirildiği iddia edilen esirlerin görüntülerini yayınladı. Bölgedeki gerilimin devam ettiği ve taraflar arasındaki mücadelenin sürdüğü belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T16:06:30.979Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-launches-counterattack-killing-18-houthi-militants-in-western-taiz-province/4046520",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17884352282375qubb",
-        "title": "Kırgızistan, küresel jeopolitik değişimlerin ortasında kritik ŞİÖ zirvesine ev sahipliği yapıyor",
-        "summary": "Kırgızistan, küresel jeopolitik değişimlerin yaşandığı bir dönemde kritik bir Şanghay İşbirliği Örgütü (ŞİÖ) zirvesine ev sahipliği yapmaktadır. Bu zirve, Orta Asya ülkesinin küresel güçlerle ilişkilerini dengeleme çabalarını yansıtmaktadır. Kırgızistan, coğrafi konumunu ekonomik ve siyasi fırsatlar elde etmek için stratejik olarak kullanmaktadır. ŞİÖ'nün genişleyen yapısı ve İran gibi Orta Doğu ülkelerinin tam üye olması, zirvenin bölgesel ve küresel etkisini artırmaktadır. Bu durum, Orta Doğu'daki güç dengeleri ve uluslararası ilişkiler açısından da önem taşımaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9228982/pexels-photo-9228982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:33:48.237Z",
-        "location": {
-            "lat": 42.87,
-            "lng": 74.57,
-            "name": "Bişkek, Kırgızistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
