@@ -1,5 +1,117 @@
 [
     {
+        "id": "17886970817239dlg1",
+        "title": "Gazze'de Enkazdan Çıkarılan 100 Filistinli İçin Cenaze Töreni Düzenlendi",
+        "summary": "Gazze Şeridi'nin Zeitoun mahallesinde, enkaz altından çıkarılan 100 Filistinlinin cansız bedenleri için toplu cenaze töreni düzenlendi. Hayatını kaybedenlerin aileleri ve bölge halkından çok sayıda kişi cenaze törenine katıldı. Bu olay, bölgedeki çatışmaların ardından ortaya çıkan insani krizin derinliğini bir kez daha gözler önüne serdi. Kurtarma ekipleri, uzun süren çalışmaların ardından bu kişilerin enkazdan çıkarıldığını belirtmişti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8865139/pexels-photo-8865139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:18:01.723Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1788697104034nq50i",
+        "title": "ABD ve İran Arasında Hürmüz Boğazı'nda Tanker Gerilimi",
+        "summary": "Amerika Birleşik Devletleri ve İran, stratejik Hürmüz Boğazı'nda tankerlere yönelik saldırılarla karşı karşıya gelmektedir. İki taraf, küresel enerji tedarik zinciri için hayati önem taşıyan bu su yolu üzerindeki kontrolünü pekiştirmeye çalışmaktadır. Aylardır devam eden bu çatışma, bölgedeki denizcilik güvenliğini ciddi şekilde tehdit etmekte ve uluslararası kamuoyunun dikkatini çekmektedir. Gerilimin nereye varacağı merak konusu olmaya devam etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3840446/pexels-photo-3840446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:18:24.034Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1788697124748m0zd2",
+        "title": "Gazze'deki Filistinliler, enkazdan çıkarılan 100 kişinin kalıntılarını defnetti",
+        "summary": "Gazze Şeridi'nde devam eden arama kurtarma çalışmaları kapsamında, enkaz altında kalan kişilere ait olduğu düşünülen kalıntılar çıkarılmaya devam ediyor. Son olarak, bölgedeki yıkılmış binaların enkazından çıkarılan 100 kişinin cenazesi defnedildi. Yetkililer, bölgedeki çatışmalar ve yıkımın boyutu göz önüne alındığında, binlerce kişinin daha yıkılmış ve hasar görmüş binaların altında gömülü olduğuna inanıldığını belirtti. Bu durum, Gazze'deki insani krizin ve çatışmaların yol açtığı trajedinin boyutunu bir kez daha gözler önüne seriyor. Enkaz kaldırma ve kayıp kişileri arama çalışmaları zorlu koşullar altında sürdürülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8832577/pexels-photo-8832577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:18:44.748Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1788697151444u7jcy",
+        "title": "İsrail, Ürdün Sınırı Yakınlarında Büyük Çaplı Askeri Tatbikat Düzenleyecek",
+        "summary": "İsrail ordusu, Ürdün sınırı yakınlarında büyük çaplı bir askeri tatbikat gerçekleştireceğini duyurdu. Eilat ve Arava Vadisi bölgelerinde yapılacak olan tatbikatın, hava, deniz ve kara sızma senaryolarını içereceği belirtildi. Ordu kaynakları, tatbikatın bölgedeki güvenlik hazırlıklarını artırmayı hedeflediğini ifade etti. Bu tür tatbikatlar, İsrail'in bölgesel tehditlere karşı savunma kapasitesini test etmesi açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/188037/pexels-photo-188037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:19:11.444Z",
+        "location": {
+            "lat": 29.5577,
+            "lng": 34.9519,
+            "name": "Eilat, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-to-hold-large-scale-military-drill-near-jordan-border/4048824",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788697172171mo6yc",
+        "title": "Katar Başbakanı Çin'i ziyaret etmeye hazırlanıyor",
+        "summary": "Katar Başbakanı Şeyh Muhammed bin Abdurrahman Al Sani'nin Çin'i ziyaret etmesi bekleniyor. Ziyaret kapsamında, Katar Başbakanı Çinli yetkililerle bir araya gelecek. Görüşmelerde iki ülke arasındaki ikili ilişkilerin yanı sıra bölgesel gelişmelerin ele alınması planlanıyor. Bu ziyaret, Katar'ın Asya'daki önemli ortaklarıyla diplomatik ilişkilerini güçlendirme çabasının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:19:32.171Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aa.com.tr/en/politics/qatari-premier-set-to-visit-china/4048809",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788697194375c516a",
+        "title": "İsrail Hava Saldırıları Güney Lübnan'da Bir Hastaneyi Tamamen Yıktı",
+        "summary": "Lübnan Sağlık Bakanlığı, İsrail'in güney Lübnan'a yönelik gerçekleştirdiği hava saldırılarında bir hastanenin tamamen yıkıldığını bildirdi. Bakanlık yetkilileri, 2 Mart tarihinden bu yana devam eden İsrail saldırıları neticesinde toplam 17 sağlık kuruluşunun hasar gördüğünü açıkladı. Bu durum, bölgedeki sağlık hizmetlerinin aksamasına yol açarak insani krizi derinleştirme potansiyeli taşıyor. Saldırılar, sivil altyapıya yönelik endişeleri artırırken, uluslararası toplumdan tepkiler gelmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:19:54.375Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrikes-completely-destroyed-hospital-in-southern-lebanon-health-ministry/4048808",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17886972302274gpip",
+        "title": "Gazze'de İsrail Saldırılarında Yıkılan Evlerin Enkazından Çıkarılan 100 Filistinli İçin Cenaze Töreni Düzenlendi",
+        "summary": "Gazze Şeridi'nde, İsrail saldırıları sonucu yıkılan evlerin enkazından çıkarılan 100 Filistinlinin cenaze töreni gerçekleştirildi. Cenazeler, Gazze Şehri'nin Zeitoun mahallesinde bulunan ve İsrail güçleri tarafından hedef alınan konutların kalıntılarından kısa süre önce çıkarılmıştı. Toplu cenaze töreni, bölgedeki insani krizin derinliğini ve çatışmaların sivil halk üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Bu gelişme, Gazze'deki çatışmaların ardından ortaya çıkan kayıpların boyutunu ve enkaz kaldırma çalışmalarının devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7317882/pexels-photo-7317882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T12:20:30.227Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gaza-holds-funeral-for-100-palestinians-recovered-from-rubble-of-destroyed-homes/4048688",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788683333980roi3p",
         "title": "Mısırlı TV sunucusu Sarah Khalifa uyuşturucu davasında idama mahkum edildi",
         "summary": "Mısır'ın başkenti Kahire'de görülen bir davada, tanınmış televizyon sunucusu Sarah Khalifa ve 11 kişi, uyuşturucu kaçakçılığı suçlamasıyla idama mahkum edildi. Kahire Mahkemesi tarafından verilen kararda, sanıkların büyük çaplı bir uyuşturucu şebekesinin üyesi olduğu belirtildi. Bu karar, Mısır yargı sisteminin uyuşturucu suçlarına karşı uyguladığı sert politikaları bir kez daha gözler önüne serdi. Ülke genelinde geniş yankı uyandıran dava, özellikle medya dünyasından bir ismin bu denli ağır bir cezayla karşılaşması nedeniyle dikkat çekti.",
@@ -685,118 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788511567557zjpdx",
-        "title": "ABD, İran'daki Düğüne Füze İsabet Edip Etmediğini Araştırıyor",
-        "summary": "ABD'nin, İran'da bir düğün törenine füze isabet edip etmediğini araştırdığı bildirildi. İran Kızılayı (IRCS) tarafından yapılan açıklamada, Salı günü gerçekleşen olayda bir füzeden gelen şarapnelin törene isabet ettiği belirtildi. Açıklamada, bu olay sonucunda dört kişinin hayatını kaybettiği ifade edildi. ABD'nin bu konudaki soruşturması devam ederken, olayın detayları ve sorumluları hakkında henüz net bir bilgi bulunmuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T08:46:07.557Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788511589523ed6sw",
-        "title": "İsrail'in Lübnan'da Üç Çiftçiyi Gözaltına Aldığı İddia Edildi",
-        "summary": "Lübnanlı bir köy lideri, İsrail güçlerinin Lübnan topraklarında üç çiftçiyi gözaltına aldığını bildirdi. Söz konusu gözaltılar, ABD liderliğindeki Uluslararası İzleme ve Uygulama Mekanizması'na rapor edildi. İsrail ordusu ise olayla ilgili henüz resmi bir açıklama yapmadı. Bu gelişme, İsrail ile Lübnan arasındaki sınır hattındaki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10475004/pexels-photo-10475004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T08:46:29.523Z",
-        "location": {
-            "lat": 33.36,
-            "lng": 35.58,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17885116188389gm66",
-        "title": "İran, ABD Saldırısında Düğünde Dört Kişinin Öldüğünü İddia Etti; ABD Sivilleri Hedef Aldığını Reddetti",
-        "summary": "İran, ABD'nin gerçekleştirdiği bir saldırıda bir düğünde dört kişinin hayatını kaybettiğini ve bu olayı 'savaş suçu' olarak nitelendirdiğini açıkladı. ABD ise sivilleri hedef aldığı iddialarını reddetti. İran medyası, bir eve isabet eden şarapnel parçaları nedeniyle ölenler arasında iki çocuğun da bulunduğunu bildirdi. Bu gelişmelerin ardından İran, Orta Doğu'daki ABD hedeflerine füze ve insansız hava araçlarıyla misilleme saldırıları düzenledi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T08:46:58.838Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788511645147pgqki",
-        "title": "Doğu Kudüs'te İsrail Polisi Filistinli Bir Erkeği Vurarak Öldürdü",
-        "summary": "İşgal altındaki Doğu Kudüs'te İsrail polisi tarafından bir Filistinli erkek vurularak öldürüldü. Filistin haber ajansı Wafa'ya göre, İsrail güçleri olayın ardından bölgede askeri abluka uyguladı. Bu abluka nedeniyle Filistinlilerin sabah namazı kılmak için camiye ulaşmaları engellendi. Olay, bölgedeki gerilimi daha da artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35728304/pexels-photo-35728304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T08:47:25.147Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Doğu Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-police-shoot-kill-palestinian-man-in-occupied-east-jerusalem/4047144",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1788511665953igpn4",
-        "title": "Yemen'in batısında hükümet yanlısı güçler Husilerle çatıştı",
-        "summary": "Yemen'in batı kesimlerinde hükümet yanlısı güçler ile Husiler arasında şiddetli çatışmalar yaşandığı bildirildi. Ulusal Direniş Güçleri'nden yapılan açıklamaya göre, çatışmalar Husilerin stratejik öneme sahip Dabbas Dağı'na doğru ilerlemesiyle yoğunlaştı. Bölgedeki gerilimin arttığı ve taraflar arasındaki mücadelenin devam ettiği belirtildi. Çatışmaların, ülkedeki mevcut insani krizi daha da derinleştirebileceği endişesi dile getiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37568123/pexels-photo-37568123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T08:47:45.953Z",
-        "location": {
-            "lat": 13.58,
-            "lng": 44.03,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/government-aligned-forces-clash-with-houthis-in-western-yemen/4046991",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1788493283573ev42x",
-        "title": "Trump, Siyonizm Karşıtı Yahudi Liderlerle Görüştü",
-        "summary": "ABD Başkanı Donald Trump'ın, İsrail'deki askeri zorunlu askerlik uygulamasına yönelik protestoların devam ettiği bir dönemde altı Siyonizm karşıtı hahamla özel bir görüşme yaptığı öğrenildi. Bu buluşma, ABD'nin Orta Doğu politikaları ve İsrail-Filistin meselesi üzerindeki potansiyel etkileri açısından dikkat çekiyor. Siyonizm karşıtı gruplar, İsrail devletinin politikalarına ve varlığına ideolojik olarak karşı çıkışlarıyla biliniyor. Eski Başkan Trump'ın bu görüşmesi, ABD'nin bölgedeki farklı aktörlerle olan ilişkilerini ve iç kamuoyundaki çeşitli görüşleri yansıtması açısından önem arz ediyor. Görüşmenin içeriği hakkında detaylı bilgi verilmedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T03:41:23.573Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788493322350k60f0",
-        "title": "Uluslararası Ceza Mahkemesi Liderleri, Uluslararası Hukuk Düzenini Aşındırma Çabalarını Kınadı",
-        "summary": "Uluslararası Ceza Mahkemesi (UCM) liderleri, küresel hukukun üstünlüğünü baltalamayı amaçlayan UCM'yi izole etme çabalarını şiddetle kınadı. Mahkeme yetkilileri, bu tür girişimlerin uluslararası hukuk düzeninin temelini sarsma riski taşıdığını belirtti. Açıklamada, uluslararası adalet mekanizmalarının korunmasının, dünya genelinde barış ve istikrar için kritik öneme sahip olduğu vurgulandı. UCM, savaş suçları, insanlığa karşı suçlar ve soykırım gibi en ağır uluslararası suçları yargılamakla görevli bir kurumdur. Bu kınama, mahkemenin bağımsızlığına ve yetkisine yönelik tehditlere karşı bir duruş sergilemektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36207469/pexels-photo-36207469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T03:42:02.350Z",
-        "location": {
-            "lat": 52.0786638,
-            "lng": 4.3003604,
-            "name": "Lahey, Hollanda"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
