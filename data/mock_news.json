@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788665941861dzwz7",
+        "title": "Netanyahu'dan Katar'ın Gazze Fonları Açıklaması",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, Katar'ın Gazze Şeridi'ne gönderdiği paranın kendi aracılığıyla gerçekleştiğini açıkladı. Netanyahu, bu fonların İsrail güvenlik ajansları tarafından tavsiye edildiğini ve insani yardım amaçlı kullanıldığını belirtti. Bu açıklama, Gazze'ye yönelik mali yardımların İsrail'in güvenlik değerlendirmeleri doğrultusunda yapıldığına işaret ediyor. Katar, uzun süredir Gazze'ye insani ve kalkınma yardımları sağlayan önemli bir aktör konumunda bulunuyor. Başbakan'ın bu sözleri, Gazze'deki fon akışına dair geçmişteki tartışmaları yeniden gündeme getirdi ve İsrail'in bölgedeki politikalarına ışık tuttu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12625109/pexels-photo-12625109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T03:39:01.861Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1788651453745v0z5k",
         "title": "İran'ın Batısında Yakıt Tankeri Patlaması: En Az 10 Ölü",
         "summary": "İran'ın batı kesiminde, Hamedan-Sanandaj otoyolunda meydana gelen bir yakıt tankeri patlaması sonucu en az 10 kişi hayatını kaybetti. Yetkililer, olayın ardından yaptıkları açıklamada, patlamada altı kişinin de yaralandığını bildirdi. Kaza, bölgede büyük paniğe yol açarken, olay yerine çok sayıda acil durum ekibi sevk edildi. Patlamanın nedeni henüz belirlenemezken, olayla ilgili geniş çaplı bir soruşturma başlatıldığı kaydedildi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/tel-aviv-threatens-iran-with-strikes-on-energy-facilities-if-it-attacks-israel/4046618",
         "trendScore": 95,
         "isBreaking": true
-    },
-    {
-        "id": "1788451532486mdo5e",
-        "title": "Çin, ABD'ye İran'la İlgili Yaptırımları Kaldırma Çağrısı Yaptı",
-        "summary": "Çin Ticaret Bakanlığı, ABD'ye Çinli şirketlere yönelik İran'la ilgili yaptırımları kaldırması çağrısında bulundu. Bakanlık, uluslararası hukuka dayanmayan veya Birleşmiş Milletler Güvenlik Konseyi'nden yetki almayan tek taraflı yaptırımlara karşı olduklarını belirtti. Bu çağrı, Pekin'in Washington'ın İran'a uyguladığı baskıya karşı duruşunu yansıtırken, Çinli firmaların bu yaptırımlardan etkilenmesini engellemeyi hedefliyor. Gelişme, ABD-Çin ilişkilerindeki gerilimi ve İran nükleer anlaşması etrafındaki uluslararası tartışmaları bir kez daha gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34358895/pexels-photo-34358895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T16:05:32.486Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/beijing-urges-us-to-lift-iran-related-sanctions-on-chinese-companies/4046575",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
