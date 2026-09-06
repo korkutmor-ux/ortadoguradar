@@ -1,5 +1,37 @@
 [
     {
+        "id": "178872735249912z4h",
+        "title": "ABD, İran'daki Düğüne Füze İsabet Edip Etmediğini Araştırıyor",
+        "summary": "Amerika Birleşik Devletleri, İran'da bir düğün törenine füze isabet edip etmediğini araştırıyor. İran Kızılayı (IRCS) tarafından yapılan açıklamaya göre, Salı günü meydana gelen olayda bir füzeden fırlayan şarapnel parçaları töreni vurarak dört kişinin ölümüne neden oldu. ABD'li yetkililer, bu iddiaları doğrulamak ve olayın detaylarını aydınlatmak üzere inceleme başlattı. Soruşturma, olayın niteliği ve sorumluları hakkında bilgi toplamayı hedefliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T20:42:32.499Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17887274367802r436",
+        "title": "İsrail Ordu Komutanı Tüm Cephelerde 'Gergin ve Değişken Bir Dönem' Konusunda Uyardı",
+        "summary": "İsrail Ordu Komutanı Eyal Zamir, ülkenin tüm cephelerinde 'gergin ve değişken bir döneme' girildiğini belirterek uyarılarda bulundu. Zamir, ordunun olası bir sürpriz saldırıya karşı hazırlık yaptığını ifade etti. Bu kapsamda, İsrail ordusunun çok cepheli bir savaşı simüle eden tatbikatlar başlattığı bildirildi. Tatbikatların, bölgedeki güvenlik durumunun ciddiyetini yansıttığı kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6546113/pexels-photo-6546113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-06T20:43:56.780Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-chief-warns-of-tense-volatile-period-across-all-fronts/4048903",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17886970817239dlg1",
         "title": "Gazze'de Enkazdan Çıkarılan 100 Filistinli İçin Cenaze Töreni Düzenlendi",
         "summary": "Gazze Şeridi'nin Zeitoun mahallesinde, enkaz altından çıkarılan 100 Filistinlinin cansız bedenleri için toplu cenaze töreni düzenlendi. Hayatını kaybedenlerin aileleri ve bölge halkından çok sayıda kişi cenaze törenine katıldı. Bu olay, bölgedeki çatışmaların ardından ortaya çıkan insani krizin derinliğini bir kez daha gözler önüne serdi. Kurtarma ekipleri, uzun süren çalışmaların ardından bu kişilerin enkazdan çıkarıldığını belirtmişti.",
@@ -764,38 +796,6 @@
             "name": "Cenin, Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/amnesty-warns-israel-escalating-west-bank-annexation-with-new-land-seizures/4047350",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788528005539n1qqn",
-        "title": "BM raporu, Batı Şeria'daki 3 mülteci kampında 'etnik temizlik' endişelerini dile getirdi",
-        "summary": "Birleşmiş Milletler tarafından hazırlanan bir rapor, Batı Şeria'daki Cenin, Nur Şems ve Tulkarim mülteci kamplarında 'etnik temizlik' endişelerini dile getirdi. Rapora göre, İsrail'in bölgede gerçekleştirdiği operasyonların ardından 33.000'den fazla Filistinli zorla yerinden edilmiş durumda ve bu kişiler hala evlerine dönemedi. Bu durum, yerinden edilen Filistinlilerin insani koşullarına ve geri dönüş haklarına ilişkin ciddi soruları gündeme getiriyor. Uluslararası toplum, söz konusu iddiaların araştırılması ve bölgedeki gerilimin azaltılması yönünde çağrılar yapıyor. Rapor, İsrail-Filistin çatışmasının hassas boyutlarını ve insan hakları ihlali potansiyelini bir kez daha vurguluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9493590/pexels-photo-9493590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:20:05.540Z",
-        "location": {
-            "lat": 32.4667,
-            "lng": 35.2917,
-            "name": "Cenin, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-report-raises-concerns-of-ethnic-cleansing-in-3-west-bank-refugee-camps/4047298",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1788511545949h6444",
-        "title": "Güney Lübnan'da İsrail Yıkım Operasyonları 'Gece Gündüz' Devam Ediyor",
-        "summary": "Güney Lübnan'da İsrail güçleri tarafından gerçekleştirilen yıkım operasyonları aralıksız sürüyor. Yerel kaynaklar, yıkımların 'gece gündüz' devam ettiğini belirtiyor. Froun kasabasında meydana gelen patlamalar, bölge sakinleri arasında endişeye yol açarken, günlük yaşamın ciddi şekilde aksadığı bildiriliyor. İsrail'in bölgedeki bu faaliyetleri, güney Lübnan'da gerilimi artırmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15105588/pexels-photo-15105588.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T08:45:45.949Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.4,
-            "name": "Froun, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
