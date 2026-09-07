@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788815852664ynrkg",
+        "title": "Almanya'da aşırı sağcı AfD'nin yükselişi: Almanya ve Avrupa için olası etkileri",
+        "summary": "Almanya'da aşırı sağcı Almanya için Alternatif (AfD) partisinin bölgesel bir seçimde çoğunluğa yaklaşması, ülkenin ve Avrupa'nın siyasi geleceği hakkında endişeleri artırdı. Partinin göçmen karşıtı ve AB şüphecisi politikaları, Almanya'nın iç ve dış politikalarında önemli değişikliklere yol açabilir. Bu durum, özellikle Orta Doğu'dan gelen göçmen ve mültecilere yönelik politikaları doğrudan etkileyerek, bu grupların hakları ve statüleri üzerinde ciddi sonuçlar doğurabilir. AfD'nin yükselişi, Almanya'nın Orta Doğu ile olan diplomatik ve insani ilişkilerini de dolaylı yoldan şekillendirme potansiyeli taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T21:17:32.664Z",
+        "location": {
+            "lat": 52.52,
+            "lng": 13.4,
+            "name": "Almanya"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1788802674377r8495",
         "title": "Gazze: Gerçek Zamanlı Soykırım mı Tartışması Gündemde",
         "summary": "Gazze Şeridi'nde devam eden çatışmaların ortasında, bölgedeki durumun 'gerçek zamanlı bir soykırım' olup olmadığına dair tartışmalar yoğunlaşıyor. İsrailli insan hakları örgütü B'Tselem'in yöneticileri gibi birçok uluslararası ve yerel kuruluş, Gazze'deki sivil kayıplar, insani kriz ve uluslararası hukukun ihlali iddiaları hakkında derin endişelerini dile getiriyor. Bu iddialar, uluslararası toplumda geniş yankı bulurken, bölgedeki insan hakları durumu ve sivillerin korunması konuları öncelikli gündem maddeleri arasında yer alıyor. Gelişmeler, uluslararası hukuk ve insan hakları örgütleri tarafından yakından izlenmeye devam ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178857944414234rsp",
-        "title": "Pretoria Barış Anlaşması Sonrası Etiyopya'nın Tigray Bölgesi'ndeki Eski Düşmanlar Yeni Zemin Buluyor",
-        "summary": "2022'de imzalanan Pretoria barış anlaşması Etiyopya'nın Tigray bölgesindeki savaşı sona erdirmiş olsa da, bazı temel anlaşmazlıkları çözümsüz bıraktı. Bu durum, gerilimin yeniden yükselmesiyle birlikte Tigray Halk Kurtuluş Cephesi'ne (TPLF) yeniden toparlanma alanı sağladı. Bölgedeki barışın kırılganlığı devam ederken, taraflar arasındaki çözülemeyen sorunlar yeni çatışma potansiyeli taşıyor. Uluslararası toplum, bölgedeki istikrarın sağlanması için gelişmeleri yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T03:37:24.142Z",
-        "location": {
-            "lat": 13.5,
-            "lng": 39.5,
-            "name": "Tigray, Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
