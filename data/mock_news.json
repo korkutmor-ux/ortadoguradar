@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788760232783cic6j",
+        "title": "İran, Hürmüz Boğazı dışında kısıtlı bölge ilan edecek",
+        "summary": "İran Güvenlik Şefi Muhsin Rızai, Tahran'ın Hürmüz Boğazı çevresinde kısıtlı bir bölge ilan edeceğini duyurdu. Bu açıklama, dünyanın en önemli deniz geçiş noktalarından biri olan Hürmüz Boğazı'ndaki denizcilik güvenliği ve uluslararası gemi trafiği açısından önemli bir gelişme olarak değerlendiriliyor. Bölgedeki gerilimi artırma potansiyeli taşıyan bu karar, uluslararası toplum ve özellikle Körfez ülkeleri tarafından yakından takip ediliyor. İran'ın bu adımıyla bölgedeki askeri ve stratejik konumunu güçlendirmeyi hedeflediği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T05:50:32.783Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1788760270153tbdmz",
+        "title": "Bağdat Uluslararası Kitap Fuarı'na 28 Ülkeden Rekor Katılım",
+        "summary": "Bağdat Uluslararası Kitap Fuarı'nın 27. edisyonu, 28 farklı ülkeden rekor düzeyde katılım sağladı. Etkinlik kapsamında 600'den fazla yayıncı ve kurum, on binlerce yeni eseri okuyucuların beğenisine sundu. Fuar, Irak'ın kültürel yaşamındaki canlılığı ve bölgesel yayıncılık sektörünün gelişimini gözler önüne serdi. Bu katılım, kültürel alışverişin ve edebi faaliyetlerin önemini vurguladı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13933248/pexels-photo-13933248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T05:51:10.153Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/baghdad-international-book-fair-draws-record-participation-from-28-countries/4049196",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "178874199666823vrr",
         "title": "İran, Hürmüz Boğazı'nda Yeni Denizcilik Rotası Açıklayacak",
         "summary": "İran'ın önümüzdeki günlerde Hürmüz Boğazı'nda yeni bir denizcilik rotası açıklayacağı bildirildi. Bu gelişme, İran'ın baş müzakerecisinin ABD'nin İran petrol tankerlerine yönelik saldırılarının ardından yeni saldırılara daha sert yanıtlar verileceği uyarısında bulunmasıyla eş zamanlı olarak yaşanıyor. Bölgedeki gerilimin tırmandığı bir dönemde, Tahran'ın bu hamlesi uluslararası denizcilik ve enerji güvenliği açısından kritik önem taşıyor. Yeni rota duyurusunun, ABD ile yaşanan gerilimlere karşı bir misilleme ve stratejik bir adım olarak değerlendirildiği belirtiliyor.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/-israeli-opinion-piece-proposes-debt-forgiveness-for-young-americans-to-enlist-in-iran-war/4047405",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788527937264r5nwp",
-        "title": "'Onlar insan bile değil': Hukuk uzmanları, İsrail retoriğinin soykırım niyeti kanıtı olabileceğini belirtiyor",
-        "summary": "Hukuk uzmanları, İsrailli yetkililerin Filistinlilere yönelik söylemlerinin soykırım niyeti kanıtı olarak kullanılabileceği uyarısında bulundu. İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in her gün '30 ila 40' Filistinlinin öldürülmesi çağrısı yaptığı belirtildi. Haberde ayrıca, bazı İsrailli figürlerin Filistin halkının varlığını inkâr ettiği ifade edildi. Uzmanlar, bu tür açıklamaların uluslararası hukuk açısından ciddi sonuçlar doğurabileceğine dikkat çekiyor. Bu durum, bölgedeki gerilimi ve uluslararası hukukun uygulanabilirliğini tartışmaya açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33754917/pexels-photo-33754917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:18:57.264Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/theyre-not-even-people-israeli-rhetoric-could-serve-as-evidence-of-genocidal-intent-legal-experts-say/4047392",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17885279586080l22p",
-        "title": "Husilerin komutanı Yemen ordusuyla çatışmada öldürüldü",
-        "summary": "Yemen devlet medyasına göre, Husilerin önde gelen komutanlarından Mohammed Harith Ali Mutlaq al-Alawi, ülkenin batı kesimlerinde Yemen ordusuyla çıkan çatışmalarda yaşamını yitirdi. Al-Alawi'nin ölümü, Yemen'deki uzun süreli iç savaşın ve taraflar arasındaki şiddetli çatışmaların devam ettiğini gösteriyor. Bölgedeki güvenlik durumu gerginliğini korurken, bu tür kayıplar çatışmaların yoğunluğunu bir kez daha gözler önüne seriyor. Olay, Yemen'deki askeri operasyonların ve güç dengelerinin kırılganlığını vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803716/pexels-photo-15803716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:19:18.608Z",
-        "location": {
-            "lat": 14.8,
-            "lng": 42.95,
-            "name": "Batı Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/houthi-commander-killed-in-clashes-with-yemeni-army/4047381",
         "trendScore": 85,
         "isBreaking": false
     }
