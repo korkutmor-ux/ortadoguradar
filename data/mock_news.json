@@ -1,5 +1,117 @@
 [
     {
+        "id": "1788802674377r8495",
+        "title": "Gazze: Gerçek Zamanlı Soykırım mı Tartışması Gündemde",
+        "summary": "Gazze Şeridi'nde devam eden çatışmaların ortasında, bölgedeki durumun 'gerçek zamanlı bir soykırım' olup olmadığına dair tartışmalar yoğunlaşıyor. İsrailli insan hakları örgütü B'Tselem'in yöneticileri gibi birçok uluslararası ve yerel kuruluş, Gazze'deki sivil kayıplar, insani kriz ve uluslararası hukukun ihlali iddiaları hakkında derin endişelerini dile getiriyor. Bu iddialar, uluslararası toplumda geniş yankı bulurken, bölgedeki insan hakları durumu ve sivillerin korunması konuları öncelikli gündem maddeleri arasında yer alıyor. Gelişmeler, uluslararası hukuk ve insan hakları örgütleri tarafından yakından izlenmeye devam ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:37:54.377Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1788802728755jrz2k",
+        "title": "Kosova, ABD liderliğindeki Gazze istikrar gücüne katıldı",
+        "summary": "Balkan ülkesi Kosova, ABD liderliğindeki Gazze istikrar gücüne katılma kararı aldı. Bu kararla birlikte Kosova, Filistin yerleşim bölgesine barış gücü göndermeyi kabul eden az sayıda ülkeden biri oldu. ABD'nin öncülük ettiği bu gücün amacı, Gazze'deki istikrarı sağlamak olarak belirtiliyor. Kosova'nın bu uluslararası misyona katılımı, bölgedeki güvenlik çabalarına destek niteliği taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30541594/pexels-photo-30541594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:38:48.755Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788802751554gaxl3",
+        "title": "İsrail'in Lübnan Sırtını Ele Geçirme İddiası Müzakere Dinamiklerini Yeniden Şekillendiriyor",
+        "summary": "İsrail'in Lübnan'a yönelik devam eden saldırıları, Lübnan'ın zorlu bir barış anlaşması ve istikrar arayışını sekteye uğratmaktadır. İsrail'in Lübnan sınırındaki stratejik bir sırtı ele geçirdiği yönündeki iddialar, iki ülke arasındaki müzakere süreçlerinin dinamiklerini önemli ölçüde değiştirmektedir. Bu gelişme, bölgedeki gerilimi artırarak diplomatik çabaları daha da karmaşık hale getirmektedir. Taraflar arasındaki mevcut durum, kalıcı bir çözüm bulma çabalarını zorlaştırmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:39:11.554Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.55,
+            "name": "Lübnan-İsrail Sınırı"
+        },
+        "source": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1788802773670sq61t",
+        "title": "İran'dan ABD Saldırılarına Karşı 'Daha Hızlı, Daha Ağır, Daha Acı Verici' Yanıt Uyarısı",
+        "summary": "İran, ABD'nin bölgedeki İran petrol tankerlerine yönelik saldırılarına karşı 'daha hızlı, daha ağır ve daha acı verici bir yanıt' vereceği uyarısında bulundu. Bu açıklama, Washington'ın Tahran'ın ABD savaş gemilerine yönelik saldırılarına misilleme olarak İran petrol tankerlerini vurduğunu duyurmasından bir gün sonra geldi. Gerilim, ABD ve İran arasındaki bölgesel denizcilik faaliyetleri ve karşılıklı saldırılarla tırmanıyor. Her iki taraf da birbirlerinin bölgedeki çıkarlarını hedef alarak tansiyonu artırıyor. Bu durum, Orta Doğu'da güvenlik endişelerini yükseltiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:39:33.670Z",
+        "location": {
+            "lat": 27,
+            "lng": 51,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788802797757naqhl",
+        "title": "Nauru, İsrail Büyükelçiliğini Kudüs'te Açtı",
+        "summary": "Güney Pasifik ada ülkesi Nauru, İsrail'deki büyükelçiliğini uluslararası kararlara aykırı olarak işgal altındaki Kudüs'te açtı. Bu hamle, geniş uluslararası muhalefete rağmen Kudüs'te büyükelçilik açan dokuzuncu ülke olmasını sağladı. Uluslararası toplumun büyük bir kısmı, Kudüs'ün statüsünün İsrail-Filistin barış görüşmeleriyle belirlenmesi gerektiğini savunuyor. Nauru'nun bu kararı, Kudüs'ün statüsü konusundaki diplomatik tartışmaları yeniden alevlendirdi ve uluslararası hukukun ihlali olarak yorumlandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37585921/pexels-photo-37585921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:39:57.757Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/nauru-opens-israel-embassy-in-occupied-jerusalem-in-violation-of-international-resolutions/4050041",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788802834293utzwq",
+        "title": "Lübnan Dışişleri Bakanı: İsrail'in saldırılarını durdurmanın en iyi yolu müzakereler",
+        "summary": "Lübnan Dışişleri Bakanı Youssef Rajji, İsrail'in saldırılarını durdurmanın en etkili yolunun müzakereler olduğunu belirtti. Rajji, ABD arabuluculuğunda yürütülecek görüşmelerin, İsrail'i uluslararası tanınmış sınırlara çekilmeye zorlayacağını ifade etti. Bu müzakerelerin, bölgedeki gerilimi azaltma ve kalıcı bir çözüm bulma potansiyeli taşıdığı vurgulandı. Lübnan'ın, uluslararası hukuka uygun bir şekilde sınırlarının korunması konusundaki kararlılığı dile getirildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4963359/pexels-photo-4963359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:40:34.293Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-foreign-minister-says-negotiations-with-israel-best-way-to-halt-its-attacks/4049994",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788802869852p1hg0",
+        "title": "Yemen medyası: Kuzey Yemen'de onlarca Husi hükümet güçlerine teslim oldu",
+        "summary": "Yemen'in kuzeyinde, hükümet güçlerinin Al-Jawf bölgesinde başlattığı askeri operasyonun ardından onlarca Husi savaşçının hükümet güçlerine teslim olduğu bildirildi. Yemen medyası tarafından duyurulan bu gelişme, bölgedeki çatışmaların seyrinde önemli bir ilerleme olarak değerlendiriliyor. Operasyonun, hükümetin Husi kontrolündeki bölgeleri geri alma çabalarının bir parçası olduğu belirtiliyor. Teslim olan Husi savaşçıların sayısı ve operasyonun detayları hakkında henüz daha fazla bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10932618/pexels-photo-10932618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T17:41:09.852Z",
+        "location": {
+            "lat": 16.8,
+            "lng": 45.5,
+            "name": "Al-Jawf, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/dozens-of-houthis-surrender-to-government-forces-in-northern-yemen-yemeni-media/4049943",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "178878258567760jcs",
         "title": "İsrail'in Güney Lübnan Köyüne Düzenlediği Saldırılarda Dokuz Kişi Hayatını Kaybetti",
         "summary": "İsrail'in güney Lübnan'da bir köye düzenlediği saldırılarda dokuz kişi yaşamını yitirdi. Lübnan makamları, bu son İsrail tırmanışının, İsrail ile Hizbullah arasındaki çatışmayı sona erdirmeyi amaçlayan ABD arabuluculuğundaki ateşkese ciddi şekilde zarar verdiğini belirtti. Yaşanan bu olay, bölgedeki gerilimi daha da artırarak, mevcut ateşkesin sürdürülebilirliği konusunda endişeleri beraberinde getirdi. Taraflar arasındaki tansiyonun yükselmesi, bölgesel istikrarı tehdit eden yeni bir dönemin başlangıcı olabileceği yorumlarına yol açıyor.",
@@ -684,118 +796,6 @@
             "name": "Tigray, Etiyopya"
         },
         "source": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788565712619n15ev",
-        "title": "Tunus'ta Hükümet Eleştirmenlerine Yönelik Baskı Ortamında Gazeteci Tutuklandı",
-        "summary": "Tunus, Cumhurbaşkanı Kays Said yönetimi altında gazetecilere yönelik kovuşturmaların devam etmesi nedeniyle uluslararası alanda eleştirilerle karşı karşıya. Son olarak, hükümet eleştirmenlerine yönelik artan baskıların bir parçası olarak bir gazetecinin tutuklandığı bildirildi. Bu durum, Tunus'taki basın özgürlüğü ve insan hakları durumuyla ilgili endişeleri derinleştiriyor. Uluslararası kuruluşlar, Tunus hükümetini gazetecilere yönelik uygulamalarını gözden geçirmeye çağırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36946519/pexels-photo-36946519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T23:48:32.619Z",
-        "location": {
-            "lat": 36.8065,
-            "lng": 10.1815,
-            "name": "Tunus, Tunus"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788565750431xkzxo",
-        "title": "İsrail Polisi Kudüs'te Filistinliyi Öldürdü, Ordu Qusra'ya Yardımı Engelledi",
-        "summary": "İsrail polisi, Kudüs'te bir Filistinliyi öldürdü. Aynı zamanda, İsrail ordusu Batı Şeria'daki Qusra köyüne insani yardım ulaştırılmasını engelledi. İsrail güçleri, İsrailli ve Filistinli aktivistlerin yerleşimciler tarafından kuşatılan evlere gıda ve ilaç götürmesine izin vermedi. Bu gelişmeler, bölgedeki gerilimin ve insani erişim sorunlarının devam ettiğini gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35651041/pexels-photo-35651041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T23:49:10.431Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, Filistin/İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17885498585690mslx",
-        "title": "Beş AB Ülkesi Göçmen 'Geri Dönüş Merkezleri' Anlaşmasına Yaklaşıyor",
-        "summary": "Almanya, Avusturya, Yunanistan, Danimarka ve Hollanda'nın, 2027 yılına kadar göçmen 'geri dönüş merkezleri' kurulmasına yönelik bir anlaşmaya varmak üzere olduğu bildirildi. Bu merkezlerin, Avrupa Birliği'ne ulaşan ancak sığınma hakkı kazanamayan veya kabul edilemez bulunan göçmenlerin menşe ülkelerine veya transit ülkelere geri gönderilme süreçlerini kolaylaştırması hedefleniyor. Söz konusu beş ülke, merkezlerin tam olarak nerede konumlandırılacağına dair henüz bir açıklama yapmadı. Bu girişim, Avrupa'nın göç yönetimi politikalarında önemli bir adım olarak değerlendirilirken, Orta Doğu'dan gelen veya bu bölge üzerinden geçen göçmenleri de dolaylı olarak etkileyecek potansiyele sahip.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/17559644/pexels-photo-17559644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T19:24:18.569Z",
-        "location": {
-            "lat": 50.8503,
-            "lng": 4.3517,
-            "name": "Avrupa Birliği"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788549897422pbamp",
-        "title": "Batı Şeria'da Evleri Yıkılan Köylüler Yeniden İnşa Sözü Verdi",
-        "summary": "Batı Şeria'nın Khirbet el-Tabban köyünde İsrail güçleri tarafından gerçekleştirilen operasyonda 12 ev yıkıldı. Yıkım kararı, bölge sakinlerinin topraklarında kalma ve evlerini yeniden inşa etme kararlılığını artırdı. Köylüler, yaşanan yıkıma rağmen yerlerinden ayrılmayacaklarını ve yaşam alanlarını yeniden kuracaklarını belirtti. Bu olay, İsrail-Filistin çatışması bağlamında Batı Şeria'daki Filistinlilerin karşılaştığı zorlukları ve insan hakları ihlallerini bir kez daha gündeme getirdi. Uluslararası toplumdan, bu tür uygulamalara karşı adımlar atılması yönünde çağrılar yapılıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11461011/pexels-photo-11461011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T19:24:57.422Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 35.1,
-            "name": "Khirbet al-Tabban, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788541084964vlsqj",
-        "title": "Cezayir'de Kuyuya Düşen 10 Yaşındaki Çocuğu Kurtarma Yarışı",
-        "summary": "Cezayir'de 10 yaşındaki Ayoub isimli bir çocuk, düştüğü derin bir kuyuda mahsur kaldı. Kurtarma ekipleri, çocuğu kurtarmak için zamanla yarışıyor. Olay yerine sevk edilen uzman ekipler, Ayoub'a ulaşmak amacıyla yoğun çalışmalar yürütüyor. Kuyunun derinliği ve dar yapısı, kurtarma operasyonunu zorlaştırırken, kamuoyu gelişmeleri yakından takip ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/29906339/pexels-photo-29906339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T16:58:04.964Z",
-        "location": {
-            "lat": 28,
-            "lng": 1,
-            "name": "Cezayir"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17885277853262rzmx",
-        "title": "ABD Elçileri Arabuluculuk İçin Rusya ve Ukrayna'ya Gidiyor",
-        "summary": "Washington'dan gelen müzakerecilerin Rusya ve Ukrayna'ya yönelmesi, Moskova'nın Ukrayna'ya karşı yürüttüğü savaşı sona erdirecek bir uzlaşmaya doğru ilerleme umutlarını artırdı. ABD'nin bu diplomatik girişimi, çatışmanın çözümüne yönelik uluslararası çabalara yeni bir ivme kazandırmayı hedefliyor. Taraflar arasında yeniden başlatılacak arabuluculuk görüşmeleri, bölgedeki gerilimi azaltma ve kalıcı bir barış anlaşmasına zemin hazırlama potansiyeli taşıyor. Bu gelişme, küresel enerji ve gıda piyasaları üzerindeki baskıyı hafifletme potansiyeli nedeniyle Orta Doğu ülkeleri için de dolaylı öneme sahiptir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7579320/pexels-photo-7579320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:16:25.326Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beirut, Lebanon"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788527806316unil1",
-        "title": "Çin-ABD Yapay Zeka Yarışı Kahire'ye Ulaşırken, Mısır Stratejik Bir Kararla Karşı Karşıya",
-        "summary": "Mısır, yapay zeka veri merkezi geliştirme alanında Çin ve ABD arasındaki rekabetin ortasında hassas bir denge politikası izlemektedir. Her iki süper gücün de bu alandaki hakimiyet mücadelesi Kahire'ye ulaşmış durumdadır. Bu durum, Mısır'ı stratejik bir karar alma eşiğine getirmiştir. Ülke, yapay zeka teknolojileri ve altyapısı konusunda hangi tarafla iş birliği yapacağı konusunda önemli bir tercih yapmak zorunda kalmıştır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8566470/pexels-photo-8566470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:16:46.316Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
