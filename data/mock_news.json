@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788824506662r822f",
+        "title": "İsrail Üniversitelerinden Gazze Savaşı Eleştirisi Nedeniyle 100 Filistinli Öğrenci İhraç Edildi İddiası",
+        "summary": "Bir insan hakları örgütü olan Adalah'ın raporuna göre, İsrail üniversitelerinde öğrenim gören 100 Filistinli öğrenci, Gazze Savaşı'nı eleştirdikleri gerekçesiyle okullarından uzaklaştırıldı. Örgüt, bazı durumlarda sadece bir sosyal medya gönderisini beğenmenin, kişisel hesapta Filistin bayrağı göstermenin veya \"Filistin\" kelimesini kullanmanın disiplin soruşturmalarını tetiklemek için yeterli olduğunu belirtti. Bu durum, İsrail eğitim kurumlarındaki ifade özgürlüğü ve akademik haklar konusunda endişeleri gündeme getiriyor. Adalah, bu ihraçların öğrencilerin temel haklarını ihlal ettiğini savunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/34526414/pexels-photo-34526414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T23:41:46.662Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.7,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/100-palestinian-students-expelled-from-israeli-universities-for-criticizing-gaza-war-rights-group/4050185",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788815852664ynrkg",
         "title": "Almanya'da aşırı sağcı AfD'nin yükselişi: Almanya ve Avrupa için olası etkileri",
         "summary": "Almanya'da aşırı sağcı Almanya için Alternatif (AfD) partisinin bölgesel bir seçimde çoğunluğa yaklaşması, ülkenin ve Avrupa'nın siyasi geleceği hakkında endişeleri artırdı. Partinin göçmen karşıtı ve AB şüphecisi politikaları, Almanya'nın iç ve dış politikalarında önemli değişikliklere yol açabilir. Bu durum, özellikle Orta Doğu'dan gelen göçmen ve mültecilere yönelik politikaları doğrudan etkileyerek, bu grupların hakları ve statüleri üzerinde ciddi sonuçlar doğurabilir. AfD'nin yükselişi, Almanya'nın Orta Doğu ile olan diplomatik ve insani ilişkilerini de dolaylı yoldan şekillendirme potansiyeli taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemen-targets-houthi-positions-with-15-airstrikes-in-taiz-al-hudaydah-provinces/4047893",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788579421694hyyb6",
-        "title": "Trump, Rusya ve Ukrayna'ya Yeni Barış Planıyla Elçiler Gönderiyor",
-        "summary": "ABD Başkanı Donald Trump'ın, Rusya ve Ukrayna arasındaki çatışmaya yönelik yeni bir barış planı kapsamında özel elçiler gönderdiği bildirildi. Al Jazeera muhabiri Kimberly Halkett'in haberine göre, Trump'ın bu göreve Jared Kushner ve Steve Witkoff'u atadığı belirtildi. Bu diplomatik girişim, eski başkanın Ukrayna'daki savaşı sona erdirme çabalarının bir parçası olarak değerlendiriliyor. Kushner'in daha önce Orta Doğu barış süreçlerindeki rolü göz önüne alındığında, bu yeni görevlendirme küresel diplomasi sahnesinde dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9627168/pexels-photo-9627168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T03:37:01.694Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
