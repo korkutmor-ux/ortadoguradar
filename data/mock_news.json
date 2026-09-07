@@ -1,5 +1,21 @@
 [
     {
+        "id": "178874199666823vrr",
+        "title": "İran, Hürmüz Boğazı'nda Yeni Denizcilik Rotası Açıklayacak",
+        "summary": "İran'ın önümüzdeki günlerde Hürmüz Boğazı'nda yeni bir denizcilik rotası açıklayacağı bildirildi. Bu gelişme, İran'ın baş müzakerecisinin ABD'nin İran petrol tankerlerine yönelik saldırılarının ardından yeni saldırılara daha sert yanıtlar verileceği uyarısında bulunmasıyla eş zamanlı olarak yaşanıyor. Bölgedeki gerilimin tırmandığı bir dönemde, Tahran'ın bu hamlesi uluslararası denizcilik ve enerji güvenliği açısından kritik önem taşıyor. Yeni rota duyurusunun, ABD ile yaşanan gerilimlere karşı bir misilleme ve stratejik bir adım olarak değerlendirildiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28966473/pexels-photo-28966473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T00:46:36.668Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178872735249912z4h",
         "title": "ABD, İran'daki Düğüne Füze İsabet Edip Etmediğini Araştırıyor",
         "summary": "Amerika Birleşik Devletleri, İran'da bir düğün törenine füze isabet edip etmediğini araştırıyor. İran Kızılayı (IRCS) tarafından yapılan açıklamaya göre, Salı günü meydana gelen olayda bir füzeden fırlayan şarapnel parçaları töreni vurarak dört kişinin ölümüne neden oldu. ABD'li yetkililer, bu iddiaları doğrulamak ve olayın detaylarını aydınlatmak üzere inceleme başlattı. Soruşturma, olayın niteliği ve sorumluları hakkında bilgi toplamayı hedefliyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Yemen"
         },
         "source": "https://www.aa.com.tr/en/middle-east/houthi-commander-killed-in-clashes-with-yemeni-army/4047381",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788527981279uka5d",
-        "title": "Af Örgütü: İsrail, Batı Şeria'da Yeni Toprak Kamulaştırmalarıyla İlhakı Tırmandırıyor",
-        "summary": "Uluslararası Af Örgütü, İsrail'in Batı Şeria'da yeni toprak kamulaştırmalarıyla ilhak çabalarını artırdığı uyarısında bulundu. Hak örgütü, Temmuz ayında alınan kararların Cenin vilayetindeki A ve C bölgelerinde yaklaşık 20 hektarlık bir alanı kapsadığını belirtti. Bu eylemlerin, İsrail'in Batı Şeria'daki varlığını genişletme ve yerleşim birimlerini artırma stratejisinin bir parçası olduğu ifade edildi. Af Örgütü, bu tür kamulaştırmaların uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi daha da tırmandırdığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32344944/pexels-photo-32344944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:19:41.279Z",
-        "location": {
-            "lat": 32.46,
-            "lng": 35.29,
-            "name": "Cenin, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/amnesty-warns-israel-escalating-west-bank-annexation-with-new-land-seizures/4047350",
         "trendScore": 85,
         "isBreaking": false
     }
