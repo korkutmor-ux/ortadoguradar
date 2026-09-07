@@ -1,5 +1,53 @@
 [
     {
+        "id": "178878258567760jcs",
+        "title": "İsrail'in Güney Lübnan Köyüne Düzenlediği Saldırılarda Dokuz Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in güney Lübnan'da bir köye düzenlediği saldırılarda dokuz kişi yaşamını yitirdi. Lübnan makamları, bu son İsrail tırmanışının, İsrail ile Hizbullah arasındaki çatışmayı sona erdirmeyi amaçlayan ABD arabuluculuğundaki ateşkese ciddi şekilde zarar verdiğini belirtti. Yaşanan bu olay, bölgedeki gerilimi daha da artırarak, mevcut ateşkesin sürdürülebilirliği konusunda endişeleri beraberinde getirdi. Taraflar arasındaki tansiyonun yükselmesi, bölgesel istikrarı tehdit eden yeni bir dönemin başlangıcı olabileceği yorumlarına yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T12:03:05.677Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17887827105440a62u",
+        "title": "İsrail güçlerinin Batı Şeria'nın kuzeyindeki baskınında Filistinliler göz yaşartıcı gaza maruz kaldı",
+        "summary": "Kızıl Haç tarafından yapılan açıklamaya göre, İsrail güçlerinin işgal altındaki Batı Şeria'nın kuzeyinde gerçekleştirdiği bir baskın sırasında Filistinliler göz yaşartıcı gaza maruz kaldı. Baskın esnasında yaralanan genç bir adama tıbbi yardım ulaştırmak isteyen ambulans ekiplerinin İsrail askerleri tarafından engellendiği bildirildi. Bu olay, bölgedeki güvenlik durumunu ve sağlık hizmetlerine erişim engellerini bir kez daha gündeme getirdi. Yaşanan gerilim, İsrail-Filistin arasındaki hassas durumu yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T12:05:10.544Z",
+        "location": {
+            "lat": 32.2,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinians-suffer-tear-gas-inhalation-in-israeli-raid-in-northern-occupied-west-bank/4049610",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788782788587vf17q",
+        "title": "BM Raportörü: İsrail'in Gazze'deki Moloz Temizliği Vahşet Suçlarının Kanıtlarını Yok Edebilir",
+        "summary": "Birleşmiş Milletler raportörü, İsrail'in Gazze Şeridi'nde gerçekleştirdiği moloz temizleme faaliyetlerinin, işlenen vahşet suçlarına dair kanıtları ortadan kaldırma riski taşıdığı konusunda uyarıda bulundu. Raportör Francesca Albanese, moloz kaldırma işlemlerinin Filistinliler tarafından tasarlanmış bir plana uygun olarak yapılması gerektiğini vurguladı. Albanese, bu süreçte yer alan devlet aktörleri ve şirketlerin cezai sorumlulukla karşı karşıya kalabileceği konusunda ikazda bulundu. Bu uyarı, Gazze'deki çatışma sonrası adalet ve hesap verebilirlik endişelerini gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798316/pexels-photo-36798316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-07T12:06:28.588Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-rapporteur-warns-israeli-rubble-clearing-in-gaza-could-erase-evidence-of-atrocity-crimes/4049559",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788760232783cic6j",
         "title": "İran, Hürmüz Boğazı dışında kısıtlı bölge ilan edecek",
         "summary": "İran Güvenlik Şefi Muhsin Rızai, Tahran'ın Hürmüz Boğazı çevresinde kısıtlı bir bölge ilan edeceğini duyurdu. Bu açıklama, dünyanın en önemli deniz geçiş noktalarından biri olan Hürmüz Boğazı'ndaki denizcilik güvenliği ve uluslararası gemi trafiği açısından önemli bir gelişme olarak değerlendiriliyor. Bölgedeki gerilimi artırma potansiyeli taşıyan bu karar, uluslararası toplum ve özellikle Körfez ülkeleri tarafından yakından takip ediliyor. İran'ın bu adımıyla bölgedeki askeri ve stratejik konumunu güçlendirmeyi hedeflediği belirtiliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/9/4/as-the-china-us-ai-race-reaches-cairo-egypt-faces-a-strategic-decision?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788527840229p8atv",
-        "title": "Almanya'da aşırı sağcı AfD Saksonya'da yükselişte: İlk eyalet zaferine hazırlanıyor",
-        "summary": "Almanya'da aşırı sağcı Almanya için Alternatif (AfD) partisinin Saksonya eyaletinde yapılacak seçimlerde önemli bir başarı elde etme potansiyeli bulunuyor. Parti, ilk kez bir eyalet seçimini kazanmaya yakın görülüyor ve bu durum, ülkenin siyasi manzarasında önemli bir değişime işaret ediyor. Milliyetçi parti, sığınma haklarını kısıtlama vaadiyle öne çıkıyor; bu politika, Almanya'nın göçmen ve mülteci politikaları üzerinde ciddi etkiler yaratabilir. AfD'nin yükselişi, Avrupa genelindeki aşırı sağcı hareketlerin güçlenmesi eğilimini de yansıtıyor ve uluslararası alanda da dikkatle takip ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926260/pexels-photo-5926260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:17:20.229Z",
-        "location": {
-            "lat": 51.0504,
-            "lng": 13.7373,
-            "name": "Saksonya, Almanya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788527863618jpvqk",
-        "title": "Güney Kore, Hürmüz Boğazı'nda 'Katkıları' Değerlendiriyor",
-        "summary": "Güney Kore'nin, stratejik Hürmüz Boğazı'ndaki potansiyel katkıları değerlendirdiği bildirildi. Seul yönetiminin, bu önemli su yolunun kapanmasından ağır şekilde etkilendiği ve ABD'nin İran'a karşı olası bir katılım için yoğun baskısı altında olduğu belirtiliyor. Bu durum, Güney Kore'nin enerji güvenliği ve bölgesel denizcilik güvenliği açısından kritik önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9606999/pexels-photo-9606999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:17:43.618Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788527905988d1adi",
-        "title": "İsrail'den Genç Amerikalılara İran Savaşı İçin Borç Affı Önerisi",
-        "summary": "Jerusalem Post gazetesinde yayımlanan bir görüş yazısında, İsrail'den dikkat çekici bir öneri sunuldu. Yazıda, genç Amerikalıların İran ile olası bir savaşta görev almaları karşılığında öğrenci veya diğer borçlarının affedilmesi fikri ortaya atıldı. Bu teklif, ABD'nin askeri gücünü artırmak ve gençleri potansiyel bir çatışmaya katılmaya teşvik etmek amacıyla dile getirildi. Söz konusu öneri, Orta Doğu'daki gerilimin artması ve İran ile Batı arasındaki ilişkilerin seyrine dair tartışmaların yoğunlaştığı bir dönemde geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-04T13:18:25.988Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-israeli-opinion-piece-proposes-debt-forgiveness-for-young-americans-to-enlist-in-iran-war/4047405",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
