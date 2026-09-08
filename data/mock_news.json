@@ -1,5 +1,165 @@
 [
     {
+        "id": "1788873837874lpus5",
+        "title": "Liverpool, Türk Hava Yolları ile Beş Yıllık Forma Sponsorluğu Anlaşması İmzaladı",
+        "summary": "İngiltere Premier Lig ekiplerinden Liverpool Futbol Kulübü, Türk Hava Yolları (THY) ile beş yıllık bir forma sponsorluğu anlaşması yaptığını duyurdu. Anlaşmanın değerinin 405 milyon doların üzerinde olduğu belirtiliyor. Bu rakamın, Premier Lig tarihindeki en kazançlı sponsorluk anlaşmaları arasında yer alacağı ifade edildi. Söz konusu anlaşma, Türk Hava Yolları'nın küresel marka bilinirliğini artırırken, Liverpool'a da önemli bir finansal destek sağlayacak.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/33454725/pexels-photo-33454725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:23:57.874Z",
+        "location": {
+            "lat": 41.0082,
+            "lng": 28.9784,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/9/8/liverpool-announce-five-year-shirt-sponsorship-deal-with-turkish-airlines?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788873861147kjunh",
+        "title": "Katar, Hürmüz Boğazı'nın Koşulsuz Yeniden Açılmasının Öncelik Olduğunu Bildirdi",
+        "summary": "Katar Dışişleri Bakanlığı, Hürmüz Boğazı'nın \"koşulsuz\" olarak yeniden açılmasının öncelikleri arasında yer aldığını duyurdu. Bakanlık, Doha'nın ABD'nin İran'a yönelik olası bir savaşına son vermek amacıyla diplomatik çözümler üzerinde çalıştığını belirtti. Bu açıklama, Körfez bölgesindeki gerilimin azaltılmasına yönelik Katar'ın arabuluculuk ve diplomatik çabalarını vurguluyor. Küresel petrol ticaretinin kilit geçiş noktası olan Hürmüz Boğazı'nın güvenliği, bölgesel ve uluslararası istikrar için hayati önem taşıyor. Katar, ABD ile İran arasındaki mevcut gerilimi düşürme ve diplomatik yollarla kalıcı bir çözüm bulma gayretlerini sürdürüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8072488/pexels-photo-8072488.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:24:21.147Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "17888738839640ur61",
+        "title": "Birleşik Krallık'tan Yasa Dışı İsrail Yerleşim Birimlerine Yaptırım Kararı",
+        "summary": "Birleşik Krallık, yasa dışı İsrail yerleşim birimlerine yönelik yeni yaptırımlar uygulama kararı aldı. İngiltere Parlamentosu'nda İşçi Partisi Gölge Dışişleri Bakanı Ed Miliband tarafından yapılan açıklamaya göre, bu yerleşim birimlerinden gelen mallara ithalat yasağı getirilecek. Bu adım, uluslararası hukuka aykırı kabul edilen İsrail yerleşim faaliyetlerine karşı Birleşik Krallık'ın net bir duruşunu sergiliyor. Karar, İsrail-Filistin çatışması bağlamında önemli bir diplomatik gelişme olarak değerlendiriliyor ve bölgedeki siyasi dinamikleri etkilemesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/27374653/pexels-photo-27374653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:24:43.964Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788873903937q27kk",
+        "title": "Sudan'da Sağlık Sistemi Çöküşün Eşiğinde",
+        "summary": "Sınır Tanımayan Doktorlar (MSF) örgütü, Sudan'ın sağlık sisteminin çöküşün eşiğinde olduğu konusunda uyarıda bulundu. Tıbbi yardım kuruluşu, ülkedeki sağlık tesislerinin üçte birinden fazlasının işlevsiz durumda olduğunu belirtti. Yardım kesintilerinin krizi derinleştirdiğini ifade eden MSF, insani durumun giderek kötüleştiğine dikkat çekti. Bu durum, milyonlarca Sudanlının temel sağlık hizmetlerine erişimini ciddi şekilde tehdit ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10974209/pexels-photo-10974209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:25:03.937Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.5,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788873926105oehq7",
+        "title": "BRICS Zirvesi, İran İçin Yeni Bir Ateşkesin Sağlanabileceği Tek Yer Olabilir",
+        "summary": "BRICS zirvesinin, İran ile ilgili potansiyel bir ateşkesin müzakere edilebileceği tek platform olabileceği değerlendiriliyor. Habere göre, BRICS üyesi ülkeler ve ortakları, bugüne kadar İran'ı ilgilendiren tüm ateşkes anlaşmalarına aracılık etmiş ve bir sonraki anlaşmayı inşa etmek için gerekli diplomatik ilişkilere sahip. Bu durum, grubun bölgesel çatışmaların çözümündeki arabuluculuk ve diplomatik rolünü öne çıkarıyor. Zirvenin, İran'daki mevcut gerilimi azaltma ve istikrarı sağlama çabalarında kritik bir adım teşkil etmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:25:26.105Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "178887395344134rgj",
+        "title": "Filistin'in Taybeh Kasabası, İşgalcilere Karşı ABD Mahkemelerinde Adalet Arıyor",
+        "summary": "İşgal altındaki Batı Şeria'da bulunan Filistin'in Hristiyan kasabası Taybeh, işgalcilere karşı ABD mahkemelerinde hukuk davaları açmaya hazırlanıyor. Taybeh Belediye Başkanı'nın Anadolu Ajansı'na yaptığı açıklamaya göre, kasaba sakinleri saldırılar ve toprak gaspları nedeniyle mağduriyet yaşıyor. Açılacak davalarla, bu mağduriyetlerin giderilmesi ve adaletin sağlanması hedefleniyor. Taybeh, İsrail işgalinden etkilenen Batı Şeria bölgelerinden biri olarak biliniyor ve bu davalarla uluslararası alanda dikkat çekmeyi amaçlıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19544047/pexels-photo-19544047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:25:53.441Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.3,
+            "name": "Taybeh, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/interview-palestinian-christian-town-taybeh-seeks-justice-in-us-courts-over-occupier-terrorism-mayor/4050904",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17888739774024ingj",
+        "title": "Pakistan, Husilerin Suudi Arabistan'a Yönelik Saldırılarını Kınadı",
+        "summary": "Pakistan Başbakanı Şahbaz Şerif, Yemen'deki Husilerin Suudi Arabistan topraklarına düzenlediği saldırıları şiddetle kınadıklarını açıkladı. Şerif, Pakistan'ın Suudi Arabistan liderliği ve halkıyla 'sarsılmaz' bir dayanışma içinde olduğunu vurguladı. Bu açıklama, bölgedeki gerilimi artıran füze ve insansız hava aracı saldırılarının ardından geldi. Pakistan, bölgesel barış ve güvenliğin korunması adına Suudi Arabistan'a tam destek verdiğini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7777518/pexels-photo-7777518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:26:17.402Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/pakistan-condemns-houthi-attacks-on-saudi-arabia/4050803",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788873998056vpdut",
+        "title": "Katar, ABD-İran Geriliminde 'Ne Savaş Ne Barış' Durumunu Kabul Edilemez Buldu, Hürmüz Boğazı'nın Koşulsuz Açılmasını İstedi",
+        "summary": "Katar, ABD ile İran arasındaki 'ne savaş ne barış' durumunun kabul edilemez olduğunu belirtti. Doha yönetimi, stratejik su yolunun bir koz olarak kullanılmasının sona ermesi gerektiğini vurguladı. Katar, Hürmüz Boğazı'nın koşulsuz olarak yeniden açılması çağrısında bulundu. Ayrıca, bölgesel krizin diyalog yoluyla çözülmesi gerektiğini ifade etti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36263106/pexels-photo-36263106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:26:38.056Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-no-war-no-peace-between-us-iran-unacceptable-urges-unconditional-reopening-of-hormuz/4050798",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17888740197623bwsv",
+        "title": "BM Raporu: Hürmüz Boğazı'ndaki Kesintiler KOBİ'leri Küresel Değer Zincirlerinden Çıkarma Riski Taşıyor",
+        "summary": "Birleşmiş Milletler Ticaret ve Kalkınma Örgütü (UNCTAD) tarafından yayımlanan bir rapor, Hürmüz Boğazı'nda yaşanabilecek aksaklıkların küresel tedarik zincirleri üzerindeki potansiyel etkilerine dikkat çekti. Rapora göre, boğazdaki olası kesintiler, özellikle gelişmekte olan ekonomilerdeki küçük ve orta ölçekli işletmeleri (KOBİ'ler) küresel değer zincirlerinin dışına itme riski taşıyor. UNCTAD, artan enerji, navlun, sigorta ve finansman maliyetlerinin KOBİ'ler üzerinde orantısız bir yük oluşturduğunu vurguladı. Bu durumun, küresel ticaret ve ekonomik istikrar açısından önemli riskler barındırdığı belirtildi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/35024006/pexels-photo-35024006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:26:59.762Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-disruptions-risk-pushing-smaller-firms-out-of-global-value-chains-un-report/4050797",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788874040869u8but",
+        "title": "Katar ve Çinli Diplomatlar Hürmüz Boğazı'nda Seyrüsefer Serbestisini Görüştü",
+        "summary": "Katar ve Çin'in üst düzey diplomatları, Hürmüz Boğazı'nda seyrüsefer serbestisi konusunu ele almak üzere bir araya geldi. Katar Başbakanı ve Dışişleri Bakanı Şeyh Muhammed bin Abdurrahman bin Casim Al Sani, Çinli mevkidaşı Wang Yi ile Pekin'de görüştü. Görüşmede, küresel ticaret için hayati önem taşıyan bu stratejik su yolunda güvenli ve serbest geçişin sağlanmasının önemi vurgulandı. İki ülke, bölgesel istikrar ve uluslararası denizcilik hukukuna saygı konularında iş birliğini artırma taahhüdünde bulundu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T13:27:20.869Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/top-qatari-chinese-diplomats-discuss-freedom-of-navigation-in-strait-of-hormuz/4050766",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788856991231yq10y",
         "title": "Yemen'de Husiler ile Suudi Destekli Güçler Arasında Çatışmalar Şiddetlendi",
         "summary": "Yemen'de uluslararası tanınmış hükümete bağlı güçler ile Husiler arasında şiddetli çatışmalar devam ediyor. Hükümet yanlısı güçler, ülkenin başkenti Sana'yı ele geçirme hedefini yineledi. Suudi Arabistan destekli güçlerin de aktif rol aldığı bu çatışmalar, Yemen'deki uzun süreli iç savaşın kritik bir aşamasını oluşturuyor. Bölgedeki gerilimin tırmanmasıyla birlikte, insani durumun daha da kötüleşmesinden endişe ediliyor.",
@@ -636,166 +796,6 @@
             "name": "Cenin, Kalkilya, Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-gunfire-injures-2-palestinians-including-child-in-occupied-west-bank/4048559",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788665941861dzwz7",
-        "title": "Netanyahu'dan Katar'ın Gazze Fonları Açıklaması",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, Katar'ın Gazze Şeridi'ne gönderdiği paranın kendi aracılığıyla gerçekleştiğini açıkladı. Netanyahu, bu fonların İsrail güvenlik ajansları tarafından tavsiye edildiğini ve insani yardım amaçlı kullanıldığını belirtti. Bu açıklama, Gazze'ye yönelik mali yardımların İsrail'in güvenlik değerlendirmeleri doğrultusunda yapıldığına işaret ediyor. Katar, uzun süredir Gazze'ye insani ve kalkınma yardımları sağlayan önemli bir aktör konumunda bulunuyor. Başbakan'ın bu sözleri, Gazze'deki fon akışına dair geçmişteki tartışmaları yeniden gündeme getirdi ve İsrail'in bölgedeki politikalarına ışık tuttu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12625109/pexels-photo-12625109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-06T03:39:01.861Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788651453745v0z5k",
-        "title": "İran'ın Batısında Yakıt Tankeri Patlaması: En Az 10 Ölü",
-        "summary": "İran'ın batı kesiminde, Hamedan-Sanandaj otoyolunda meydana gelen bir yakıt tankeri patlaması sonucu en az 10 kişi hayatını kaybetti. Yetkililer, olayın ardından yaptıkları açıklamada, patlamada altı kişinin de yaralandığını bildirdi. Kaza, bölgede büyük paniğe yol açarken, olay yerine çok sayıda acil durum ekibi sevk edildi. Patlamanın nedeni henüz belirlenemezken, olayla ilgili geniş çaplı bir soruşturma başlatıldığı kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4062506/pexels-photo-4062506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T23:37:33.745Z",
-        "location": {
-            "lat": 34.8,
-            "lng": 48.51,
-            "name": "Hamedan, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1788644116459q347w",
-        "title": "ABD, Suriye'nin Süveyda Vilayetindeki Gerilime Karşı İtidal Çağrısı Yaptı",
-        "summary": "ABD, Suriye'nin güneyindeki Süveyda vilayetinde yeniden tırmanan gerilimler üzerine taraflara itidal çağrısında bulundu. ABD özel elçisi, bölgedeki durumdan duydukları derin üzüntüyü dile getirerek, gerilimin yeniden artmasından endişe duyduklarını belirtti. Süveyda vilayeti, Suriye'deki iç savaş boyunca zaman zaman çatışmalara sahne olan stratejik bir bölge konumunda. Washington, bölgedeki istikrarın korunması ve sivil halkın güvenliğinin sağlanması gerektiğini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T21:35:16.459Z",
-        "location": {
-            "lat": 32.68,
-            "lng": 36.72,
-            "name": "Süveyda, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-urges-restraint-amid-renewed-tensions-in-syria-s-southern-suwayda-province/4048482",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788644139166145ud",
-        "title": "Türk ve İran Dışişleri Bakanları ABD ile Süren Görüşmeleri Ele Aldı",
-        "summary": "Türk Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Araghchi arasında önemli bir telefon görüşmesi gerçekleşti. Türk diplomatik kaynaklarından edinilen bilgilere göre, görüşmenin ana gündem maddesi ABD ile devam eden müzakereler oldu. İki ülke bakanları, bu görüşmelerin bölgesel ve uluslararası yansımalarını değerlendirirken, diplomatik temasların sürdürülmesinin önemine vurgu yaptı. Bu tür üst düzey görüşmelerin, Orta Doğu'daki siyasi dinamikler açısından kritik öneme sahip olduğu belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37347/office-sitting-room-executive-sitting.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T21:35:39.166Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkish-iranian-foreign-ministers-discuss-ongoing-talks-with-us/4048467",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788635943870syzj2",
-        "title": "Yunanistan'da Hava Gösterisi Sırasında Savaş Uçağı Düştü: İki Pilot Hayatını Kaybetti",
-        "summary": "Yunanistan'da bir hava gösterisi sırasında F-4 Phantom tipi savaş uçağının düşmesi sonucu iki pilot yaşamını yitirdi. Yunan yetkililerinden yapılan açıklamaya göre, olay ülkenin batısında meydana geldi. Kazanın nedenine ilişkin soruşturma başlatıldığı bildirildi. Düşen uçağın Yunan Hava Kuvvetleri'ne ait olduğu ve rutin bir eğitim uçuşu veya gösteri sırasında kaza geçirdiği belirtildi. Bu olay, Yunanistan'ın askeri envanterindeki eskiyen uçakların güvenliği konusunda endişeleri gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27080761/pexels-photo-27080761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T19:19:03.870Z",
-        "location": {
-            "lat": 37.93,
-            "lng": 21.28,
-            "name": "Andravida, Yunanistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1788628559023g1wuk",
-        "title": "Haaland, Coventry Galibiyetiyle Man City'yi Premier Lig'in Zirvesine Taşıdı",
-        "summary": "İngiltere Premier Lig'de Manchester City, sahasında Coventry City'yi ağırladı. Norveçli golcü Erling Haaland'ın kaydettiği tek golle maçı 1-0 kazanan Manchester City, bu sonuçla ligde liderlik koltuğuna oturdu. Yeni yükselen Coventry City karşısında alınan galibiyet, kulübün ligdeki üst sıralardaki yerini pekiştirdi. Birleşik Arap Emirlikleri merkezli City Football Group'un sahibi olduğu Manchester City'nin bu başarısı, kulübün sportif hedeflerine ulaşmasında önemli bir adım olarak değerlendirildi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/39222199/pexels-photo-39222199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T17:15:59.023Z",
-        "location": {
-            "lat": 53.4808,
-            "lng": -2.2426,
-            "name": "Manchester, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788628598522lrdil",
-        "title": "İsrail, Lübnan'ın kritik Ali el-Taher sırtında kontrol sağladığını iddia etti",
-        "summary": "İsrail Savunma Bakanlığı, Lübnan'ın stratejik öneme sahip Ali el-Taher sırtında operasyonel kontrol sağladığını iddia etti. Bu iddia, İsrail ile Lübnan arasındaki sınır bölgesindeki güvenlik durumunda potansiyel bir değişime işaret ediyor. Söz konusu sırtın \"kritik\" olarak nitelendirilmesi, bölgedeki stratejik önemini vurguluyor. Lübnan'daki güçlü grup Hizbullah'tan ise konuyla ilgili henüz bir açıklama gelmedi. Bu gelişme, iki ülke arasındaki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T17:16:38.522Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "Lübnan-İsrail Sınırı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1788620415819dzlf5",
-        "title": "Çok Kutupluluk, Orta Güçlere Daha Fazla Seçenek Ancak Daha Az Garanti Sunuyor",
-        "summary": "Küresel siyasetteki çok kutuplu yapı, orta ölçekli güçlere uluslararası ilişkilerde daha geniş bir hareket alanı sağlamaktadır. Bu yeni düzen, söz konusu ülkelere büyük güçlerin baskısından kurtulma ve farklı ittifaklar kurma imkanı sunmaktadır. BRICS ve Şanghay İşbirliği Örgütü (ŞİÖ) gibi oluşumlar, bu orta güçler için alternatif platformlar olarak öne çıkmaktadır. Ancak, bu yeni yapılar ve örgütler, geleneksel askeri ittifakların sağladığı kolektif savunma garantilerini sunmamaktadır. Bu durum, orta güçlerin güvenliklerini sağlamada yeni stratejiler geliştirmelerini ve potansiyel riskleri göz önünde bulundurmalarını gerektirmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1098526/pexels-photo-1098526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T15:00:15.819Z",
-        "location": {
-            "lat": 30,
-            "lng": 40,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1788609580997zj3c2",
-        "title": "Rusya'nın Ukrayna'ya Saldırılarında En Az 5 Kişi Hayatını Kaybetti, ABD Elçileri Moskova'yı Ziyaret Ediyor",
-        "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarında en az 5 kişi yaşamını yitirdi. Bu saldırılar devam ederken, ABD elçileri diplomatik temaslarda bulunmak üzere Moskova'yı ziyaret ediyor. Ukrayna silahlı kuvvetlerine, ABD elçilerinin Kiev'e yapacakları ziyaret öncesinde Moskova'daki görüşmeleri sırasında üç günlük ateşkes uygulama emri verildi. Bu diplomatik çabaların, bölgedeki gerilimi azaltmaya yönelik olduğu belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T11:59:40.997Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788609786303qcdou",
-        "title": "Suudi Arabistan Büyükelçiliği, Londra'da bir vatandaşının bıçaklanmasının ardından soruşturma çağrısı yaptı",
-        "summary": "Suudi Arabistan'ın Londra Büyükelçiliği, İngiltere'nin başkenti Londra'nın Mayfair bölgesinde bir Suudi vatandaşının bıçaklanması olayıyla ilgili soruşturma başlatılması çağrısında bulundu. Büyükelçilikten yapılan açıklamada, cuma günü meydana gelen olayla ilgili olarak İngiliz makamlarıyla koordinasyon içinde olunduğu belirtildi. Yaralı vatandaşın sağlık durumunun yakından takip edildiği ifade edildi. Suudi Arabistan diplomatik misyonu, vatandaşlarının güvenliğinin sağlanması konusunda kararlılığını vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T12:03:06.303Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-embassy-urges-investigation-after-citizen-stabbed-in-londons-mayfair/4048134",
         "trendScore": 80,
         "isBreaking": false
     }
