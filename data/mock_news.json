@@ -1,5 +1,101 @@
 [
     {
+        "id": "1788856991231yq10y",
+        "title": "Yemen'de Husiler ile Suudi Destekli Güçler Arasında Çatışmalar Şiddetlendi",
+        "summary": "Yemen'de uluslararası tanınmış hükümete bağlı güçler ile Husiler arasında şiddetli çatışmalar devam ediyor. Hükümet yanlısı güçler, ülkenin başkenti Sana'yı ele geçirme hedefini yineledi. Suudi Arabistan destekli güçlerin de aktif rol aldığı bu çatışmalar, Yemen'deki uzun süreli iç savaşın kritik bir aşamasını oluşturuyor. Bölgedeki gerilimin tırmanmasıyla birlikte, insani durumun daha da kötüleşmesinden endişe ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T08:43:11.231Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788857066752q8bwa",
+        "title": "Filistinli Ebeveynler, Artan Yerleşimci Saldırıları Nedeniyle Çocuklarının Okulda Hayatlarından Endişe Ediyor",
+        "summary": "İşgal altındaki Batı Şeria'da Filistinli ebeveynler, artan yerleşimci saldırıları nedeniyle çocuklarının okulda güvenliğinden endişe duyuyor. Bölgedeki bir okul müdürü, bu yıl üç öğrencinin hayatını kaybetmesinin ardından okul çevresine yeni dikenli teller çektirdi. Bu durum, Filistinli çocukların eğitim haklarına yönelik tehditleri ve bölgedeki gerilimi gözler önüne seriyor. Yerleşimci şiddetinin artması, uluslararası toplumda da endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4437977/pexels-photo-4437977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T08:44:26.752Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788857107846wdcc1",
+        "title": "Gazze'de İsrail Ateşiyle 2 Kişi Hayatını Kaybetti, 2 Kişi Yaralandı; Ateşkes İhlalleri Endişesi",
+        "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail ateşi sonucu iki Gazalının hayatını kaybettiği, iki kişinin ise yaralandığı bildirildi. Bu olaylar, bölgedeki ateşkesin yeniden ihlal edildiği yönündeki endişeleri artırdı. Gazze Sağlık Bakanlığı'ndan yapılan açıklamada, bölgedeki çatışmaların yol açtığı insani krizin boyutlarına dikkat çekildi. Bakanlık, çatışmalar sonucunda yaklaşık 5.000 kişinin uzuv kaybı yaşadığını ve 10.000 hastanın uzun süreli rehabilitasyona ihtiyaç duyduğunu belirtti. Bu durum, Gazze'deki sağlık sisteminin üzerindeki yükü ve bölgedeki sivil halkın yaşadığı zorlukları gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T08:45:07.846Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-gazans-killed-2-injured-by-israeli-fire-in-fresh-ceasefire-violations/4050456",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17888571283220j394",
+        "title": "Yemen'in Marib Kentinde Husilerin Saldırısında 2 Çocuk Hayatını Kaybetti, 15 Kişi Yaralandı",
+        "summary": "Yemen'in Marib kentinde Husiler tarafından yerinden edilmiş kişilere yönelik düzenlenen saldırıda 2 çocuk yaşamını yitirdi, 15 kişi yaralandı. Yerel yetkililer, saldırının 16 barınağı tamamen yıktığını ve 23 yerinden edilmiş ailenin barınaksız kaldığını bildirdi. Olay, bölgedeki insani krizi derinleştirdi ve yerinden edilmiş sivillerin güvenliğine yönelik endişeleri artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19867687/pexels-photo-19867687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T08:45:28.322Z",
+        "location": {
+            "lat": 15.4667,
+            "lng": 45.3333,
+            "name": "Marib, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-children-killed-15-injured-in-houthi-shelling-of-displaced-people-in-yemen-s-marib/4050441",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1788857150040hrl17",
+        "title": "BM Güvenlik Konseyi, Lübnan barış gücü misyonunun geleceğine karar verecek",
+        "summary": "Birleşmiş Milletler Güvenlik Konseyi'nin, Lübnan'daki barış gücü misyonunun geleceği hakkında önemli bir karar alması bekleniyor. Bir sözcü, Anadolu Ajansı'na yaptığı açıklamada, misyonun operasyonlarının 31 Aralık 2026 tarihinde sona ereceğini belirtti. Açıklamaya göre, Birleşmiş Milletler Geçici Görev Gücü (UNIFIL), 2027 yılı boyunca kademeli ve güvenli bir şekilde bölgeden çekilmeye başlayacak. Bu karar, Lübnan'daki uzun soluklu uluslararası barış gücü varlığının sona ereceği anlamına geliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18498769/pexels-photo-18498769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T08:45:50.040Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/world/un-security-council-to-decide-future-of-lebanon-peacekeeping-mission-spokesperson/4050417",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17888571727596hdcm",
+        "title": "İsrail güçleri Batı Şeria'da bir Filistinliyi öldürdü",
+        "summary": "İsrail güçleri, Batı Şeria'daki Aqraba kasabasında bir eve baskın düzenledi. Kasabanın belediye başkanı Anadolu Ajansı'na yaptığı açıklamada, İsrail güçlerinin evi kuşattığını ve bombaladığını belirtti. Saldırı sonucunda binanın bazı kısımlarının çöktüğü bildirildi. Olayda bir Filistinlinin hayatını kaybettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33335348/pexels-photo-33335348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-08T08:46:12.759Z",
+        "location": {
+            "lat": 32.1,
+            "lng": 35.33,
+            "name": "Aqraba, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-by-israeli-forces-in-west-bank-raid/4050366",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1788824506662r822f",
         "title": "İsrail Üniversitelerinden Gazze Savaşı Eleştirisi Nedeniyle 100 Filistinli Öğrenci İhraç Edildi İddiası",
         "summary": "Bir insan hakları örgütü olan Adalah'ın raporuna göre, İsrail üniversitelerinde öğrenim gören 100 Filistinli öğrenci, Gazze Savaşı'nı eleştirdikleri gerekçesiyle okullarından uzaklaştırıldı. Örgüt, bazı durumlarda sadece bir sosyal medya gönderisini beğenmenin, kişisel hesapta Filistin bayrağı göstermenin veya \"Filistin\" kelimesini kullanmanın disiplin soruşturmalarını tetiklemek için yeterli olduğunu belirtti. Bu durum, İsrail eğitim kurumlarındaki ifade özgürlüğü ve akademik haklar konusunda endişeleri gündeme getiriyor. Adalah, bu ihraçların öğrencilerin temel haklarını ihlal ettiğini savunuyor.",
@@ -700,102 +796,6 @@
             "name": "Londra, Birleşik Krallık"
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-embassy-urges-investigation-after-citizen-stabbed-in-londons-mayfair/4048134",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788595902165z19y0",
-        "title": "Sudan'ın Güney Kordofan Bölgesi'nde isyancı grup saldırısında en az beş kişi hayatını kaybetti",
-        "summary": "Sudan'ın Güney Kordofan bölgesinde isyancı bir grubun düzenlediği saldırıda en az beş kişi yaşamını yitirdi. Sudan Doktorlar Ağı'ndan yapılan açıklamaya göre, Sudan Halk Kurtuluş Hareketi-Kuzey (SPLM-N) güçleri Dilling kasabasındaki yerleşim bölgelerini hedef aldı. Saldırıda sivillerin hayatını kaybettiği ve yaralandığı belirtildi. Bölgedeki çatışmaların devam ettiği ve insani durumun kötüleştiği bildiriliyor. Olayla ilgili detaylı soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T08:11:42.165Z",
-        "location": {
-            "lat": 14.09,
-            "lng": 29.66,
-            "name": "Dilling, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1788595942485tpfvk",
-        "title": "ABD füzesi İran petrol tankerini Harg Adası yakınlarında vurdu: Rapor",
-        "summary": "İran medyası tarafından yayımlanan raporlara göre, ABD'ye ait bir füze İran'a ait bir petrol tankerini Harg Adası yakınlarında hedef aldı. Basında yer alan bilgilere göre, vurulan geminin küçük bir tanker olduğu belirtildi. Saldırıda herhangi bir can kaybı yaşanmadığı bildirilirken, olayın detayları hakkında henüz resmi bir açıklama yapılmadı. Bu gelişme, Basra Körfezi'ndeki deniz güvenliği ve bölgedeki gerilim potansiyeli açısından yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19217421/pexels-photo-19217421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T08:12:22.485Z",
-        "location": {
-            "lat": 29.23,
-            "lng": 50.33,
-            "name": "Harg Adası, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-missile-hits-iranian-oil-tanker-near-kharg-island-report/4047983",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788595965028wxiho",
-        "title": "İsrail Gözaltısından Serbest Bırakılan Lübnanlı Genç Evine Döndü",
-        "summary": "İsrail gözaltısından serbest bırakılan Lübnanlı genç Hüseyin Ayyaş, ailesiyle yeniden bir araya geldi. Babası, oğlunun serbest kalmasının ardından büyük bir sevinç yaşadığını belirtti. Anadolu Ajansı'na konuşan baba, oğlunun İsrail sorguları sırasında işkenceye, aşağılayıcı ve insanlık dışı muameleye maruz kaldığını iddia etti. Bu olay, İsrail ve Lübnan arasındaki gerilimli ilişkilerin bir yansıması olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6065254/pexels-photo-6065254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T08:12:45.028Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-life-returned-to-me-lebanese-father-welcomes-son-home-after-release-from-israeli-detention/4047913",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17885959861176lw98",
-        "title": "Filistin futbolu, İsrail'in saldırıları sonrası yaklaşık 3 yıllık aranın ardından yeniden başlıyor",
-        "summary": "Filistin futbolu, İsrail'in saldırıları nedeniyle yaklaşık üç yıl süren bir aranın ardından yeniden başlıyor. Bu dönüş, 244 kulübün katılımıyla düzenlenecek olan 'Bin Şehit Kupası' adlı bir turnuva ile gerçekleşecek. Turnuva, İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybeden sporcuların anısına ithaf edildi. Bu organizasyon, bölgedeki spor faaliyetlerinin yeniden canlanması açısından önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38455302/pexels-photo-38455302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T08:13:06.117Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-football-returns-after-nearly-3-year-pause-due-to-israel-s-genocide/4047906",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788596009654a49l8",
-        "title": "Batı Şeria'da İsrail Askerlerinin Müdahalesi: Mughayyir Köyünde Çatışma ve Can Kaybı",
-        "summary": "Haaretz gazetesinin bildirdiğine göre, İsrail askerleri geçtiğimiz hafta Batı Şeria'daki Mughayyir köyünde Filistinlilere yönelik bir müdahalede bulundu. Olaylar sırasında en az yedi Filistinli vurulurken, bunlardan ikisi hayatını kaybetti. Haber başlığı, bölgedeki bu tür şiddet olaylarının \"tanıdık bir örüntü\" sergilediğini vurguluyor. Bu gelişmeler, İsrail güçleri ile Filistinliler arasındaki gerilimin devam ettiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19489712/pexels-photo-19489712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T08:13:29.654Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.4,
-            "name": "Mughayyir, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/entry-clashes-fire-israeli-occupier-violence-in-west-bank-village-shows-familiar-pattern/4047904",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788596033026mvelu",
-        "title": "Yemen, Taiz ve El-Hudeyde'de Husilere Hava Saldırısı Düzenledi",
-        "summary": "Yemen güçleri, ülkenin Taiz ve El-Hudeyde vilayetlerinde Husilere ait hedeflere yönelik 15 hava saldırısı gerçekleştirdi. Bu operasyon, stratejik Bab el-Mandeb Boğazı yakınlarındaki çatışmalarda Temmuz ayından bu yana askeri uçakların ilk kez kullanıldığı bir eylem olarak kayıtlara geçti. Hava saldırıları, bölgedeki askeri gerilimin yeniden tırmandığına işaret ediyor. Yemen'deki taraflar arasındaki çatışmalar, uluslararası denizcilik açısından kritik öneme sahip bu bölgede zaman zaman şiddetleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-05T08:13:53.026Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-targets-houthi-positions-with-15-airstrikes-in-taiz-al-hudaydah-provinces/4047893",
         "trendScore": 80,
         "isBreaking": false
     }
