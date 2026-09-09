@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788981770089g8zkn",
+        "title": "Dünya Genelinde Borçlanma Maliyetleri Neden Artıyor?",
+        "summary": "Küresel ekonomide tahvil getirilerindeki artış, dünya genelindeki hükümetler, işletmeler ve hane halkları için borçlanma maliyetlerini yükseltmektedir. Bu durum, finansal piyasalarda gözlemlenen önemli bir eğilimi yansıtmaktadır. Artan borçlanma maliyetleri, ülkelerin kamu harcamalarını, şirketlerin yatırım kararlarını ve tüketicilerin harcama kapasitelerini doğrudan etkileme potansiyeli taşımaktadır. Uzmanlar, bu küresel trendin ekonomik büyüme ve istikrar üzerinde geniş çaplı etkileri olabileceğini belirtmektedir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/928187/pexels-photo-928187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T19:22:50.089Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/9/9/why-are-borrowing-costs-rising-across-the-world?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788970285124f4ac4",
         "title": "İsrail, Yasa Dışı Yerleşim Yerlerine Yönelik Yaptırımlara Misilleme Yapıyor",
         "summary": "İngiltere'nin yasa dışı İsrail yerleşim yerleriyle ticareti yasaklama girişimine öncülük etmesinin ardından Birleşik Krallık ile İsrail arasında diplomatik bir gerilim yaşanmaktadır. Bu durum, İsrail'in söz konusu yaptırımlara karşı misilleme adımları atmasına yol açmıştır. İngiltere'nin bu kararı, uluslararası hukuka aykırı kabul edilen yerleşim yerleri konusundaki endişeleri yansıtırken, İsrail bunu egemenliğine müdahale olarak değerlendirmektedir. Yaşanan bu gelişmeler, iki ülke arasındaki ilişkilerde önemli bir çatlağa işaret etmekte ve Orta Doğu'daki yerleşim politikaları üzerindeki uluslararası tartışmaları yeniden gündeme getirmektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/lebanese-foreign-minister-says-negotiations-with-israel-best-way-to-halt-its-attacks/4049994",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1788802869852p1hg0",
-        "title": "Yemen medyası: Kuzey Yemen'de onlarca Husi hükümet güçlerine teslim oldu",
-        "summary": "Yemen'in kuzeyinde, hükümet güçlerinin Al-Jawf bölgesinde başlattığı askeri operasyonun ardından onlarca Husi savaşçının hükümet güçlerine teslim olduğu bildirildi. Yemen medyası tarafından duyurulan bu gelişme, bölgedeki çatışmaların seyrinde önemli bir ilerleme olarak değerlendiriliyor. Operasyonun, hükümetin Husi kontrolündeki bölgeleri geri alma çabalarının bir parçası olduğu belirtiliyor. Teslim olan Husi savaşçıların sayısı ve operasyonun detayları hakkında henüz daha fazla bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10932618/pexels-photo-10932618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T17:41:09.852Z",
-        "location": {
-            "lat": 16.8,
-            "lng": 45.5,
-            "name": "Al-Jawf, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/dozens-of-houthis-surrender-to-government-forces-in-northern-yemen-yemeni-media/4049943",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
