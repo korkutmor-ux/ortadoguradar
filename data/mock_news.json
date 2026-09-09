@@ -1,5 +1,53 @@
 [
     {
+        "id": "1788998064480an0yp",
+        "title": "Trump: ABD-İran Savaşı Ara Seçimlerden Sonra Bitecek",
+        "summary": "ABD Başkanı Donald Trump, yedi ay önce başlatılan İran'a karşı savaşın ara seçimlerin hemen ardından sona ereceğini açıkladı. Bu açıklama, ABD'nin Orta Doğu'daki politikaları ve İran ile ilişkileri açısından önemli bir dönüm noktası olabilir. Trump'ın bu sözleri, bölgedeki gerilimin seyrini ve gelecekteki diplomatik adımları etkileme potansiyeli taşıyor. Savaşın sona ermesi, Orta Doğu'daki güç dengelerini yeniden şekillendirebilecek kritik bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T23:54:24.480Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17889981466064dx9p",
+        "title": "İran, nükleer uyumsuzluk nedeniyle BM Güvenlik Konseyi'ne sevk edildi",
+        "summary": "İran, nükleer programındaki uyumsuzluk gerekçesiyle Birleşmiş Milletler Güvenlik Konseyi'ne sevk edildi. Tahran yönetimi, bu kararı kınadığını açıkladı. İran, nükleer tesislerine yönelik ABD ve İsrail tarafından gerçekleştirilen saldırıların denetimleri aksattığını ve bu durumun uyumsuzluğa yol açtığını savundu. Karar, uluslararası toplumda İran'ın nükleer faaliyetleri konusundaki endişeleri yeniden gündeme getirirken, bölgedeki diplomatik gerilimi artırma potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T23:55:46.606Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788998171803ocroe",
+        "title": "İsrail Güçleri Suriye'nin Kuneytra Vilayetindeki Bir Köyü Hedef Aldı",
+        "summary": "İsrail güçlerinin Suriye'nin güneybatısındaki Kuneytra vilayetinde bulunan bir köyü hedef aldığı bildirildi. Yerel kaynaklardan alınan bilgilere göre, saldırı Tarnaja köyünün dış mahallelerinde gerçekleşti. Bölge, İsrail ile Suriye arasındaki sınır hattında yer alması ve sık sık askeri gerilimlere sahne olmasıyla biliniyor. Saldırının detayları ve olası can veya mal kaybına ilişkin henüz resmi bir açıklama yapılmadı. Bu olay, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T23:56:11.803Z",
+        "location": {
+            "lat": 33.15,
+            "lng": 35.85,
+            "name": "Tarnaja, Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-shell-village-in-syria-s-quneitra-governorate/4052683",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788981770089g8zkn",
         "title": "Dünya Genelinde Borçlanma Maliyetleri Neden Artıyor?",
         "summary": "Küresel ekonomide tahvil getirilerindeki artış, dünya genelindeki hükümetler, işletmeler ve hane halkları için borçlanma maliyetlerini yükseltmektedir. Bu durum, finansal piyasalarda gözlemlenen önemli bir eğilimi yansıtmaktadır. Artan borçlanma maliyetleri, ülkelerin kamu harcamalarını, şirketlerin yatırım kararlarını ve tüketicilerin harcama kapasitelerini doğrudan etkileme potansiyeli taşımaktadır. Uzmanlar, bu küresel trendin ekonomik büyüme ve istikrar üzerinde geniş çaplı etkileri olabileceğini belirtmektedir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1788802773670sq61t",
-        "title": "İran'dan ABD Saldırılarına Karşı 'Daha Hızlı, Daha Ağır, Daha Acı Verici' Yanıt Uyarısı",
-        "summary": "İran, ABD'nin bölgedeki İran petrol tankerlerine yönelik saldırılarına karşı 'daha hızlı, daha ağır ve daha acı verici bir yanıt' vereceği uyarısında bulundu. Bu açıklama, Washington'ın Tahran'ın ABD savaş gemilerine yönelik saldırılarına misilleme olarak İran petrol tankerlerini vurduğunu duyurmasından bir gün sonra geldi. Gerilim, ABD ve İran arasındaki bölgesel denizcilik faaliyetleri ve karşılıklı saldırılarla tırmanıyor. Her iki taraf da birbirlerinin bölgedeki çıkarlarını hedef alarak tansiyonu artırıyor. Bu durum, Orta Doğu'da güvenlik endişelerini yükseltiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T17:39:33.670Z",
-        "location": {
-            "lat": 27,
-            "lng": 51,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788802797757naqhl",
-        "title": "Nauru, İsrail Büyükelçiliğini Kudüs'te Açtı",
-        "summary": "Güney Pasifik ada ülkesi Nauru, İsrail'deki büyükelçiliğini uluslararası kararlara aykırı olarak işgal altındaki Kudüs'te açtı. Bu hamle, geniş uluslararası muhalefete rağmen Kudüs'te büyükelçilik açan dokuzuncu ülke olmasını sağladı. Uluslararası toplumun büyük bir kısmı, Kudüs'ün statüsünün İsrail-Filistin barış görüşmeleriyle belirlenmesi gerektiğini savunuyor. Nauru'nun bu kararı, Kudüs'ün statüsü konusundaki diplomatik tartışmaları yeniden alevlendirdi ve uluslararası hukukun ihlali olarak yorumlandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37585921/pexels-photo-37585921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T17:39:57.757Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/nauru-opens-israel-embassy-in-occupied-jerusalem-in-violation-of-international-resolutions/4050041",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788802834293utzwq",
-        "title": "Lübnan Dışişleri Bakanı: İsrail'in saldırılarını durdurmanın en iyi yolu müzakereler",
-        "summary": "Lübnan Dışişleri Bakanı Youssef Rajji, İsrail'in saldırılarını durdurmanın en etkili yolunun müzakereler olduğunu belirtti. Rajji, ABD arabuluculuğunda yürütülecek görüşmelerin, İsrail'i uluslararası tanınmış sınırlara çekilmeye zorlayacağını ifade etti. Bu müzakerelerin, bölgedeki gerilimi azaltma ve kalıcı bir çözüm bulma potansiyeli taşıdığı vurgulandı. Lübnan'ın, uluslararası hukuka uygun bir şekilde sınırlarının korunması konusundaki kararlılığı dile getirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4963359/pexels-photo-4963359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T17:40:34.293Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-foreign-minister-says-negotiations-with-israel-best-way-to-halt-its-attacks/4049994",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
