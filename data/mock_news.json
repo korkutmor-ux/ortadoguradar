@@ -1,5 +1,53 @@
 [
     {
+        "id": "1788935320786zkbdp",
+        "title": "Suriye Demokratik Güçleri'nin Dağılmasıyla Kürtler Haklarını Güvence Altına Alma Yollarını Tartışıyor",
+        "summary": "Suriye'deki Kürt güçlerinin (Suriye Demokratik Güçleri - SDG) dağılmasıyla birlikte, bölgedeki Kürtlerin haklarını nasıl güvence altına alacakları konusu gündeme geldi. Uzmanlar, Kürtlerin haklarını demokratik yollarla elde edip edemeyecekleri konusunda endişelerini dile getiriyor. Bu durum, Suriye'deki Kürt toplumu için yeni bir dönemin başlangıcına işaret ederken, bölgedeki siyasi dengeler üzerinde de etkili olması bekleniyor. Gelişmeler, Kürtlerin gelecekteki statüsü ve hak arayışları açısından kritik önem taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36359108/pexels-photo-36359108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T06:28:40.786Z",
+        "location": {
+            "lat": 34.8071,
+            "lng": 38.9961,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788935362580a9rnm",
+        "title": "ABD-İran Gerilimi Hürmüz Boğazı Üzerinden Körfez Sularını Tehdit Ediyor",
+        "summary": "ABD ile İran arasındaki gerilim, Hürmüz Boğazı çevresindeki tankerlere yönelik saldırılarla tırmanıyor. Bu saldırılar, bölgedeki deniz trafiği için ciddi riskler oluşturmaktadır. Özellikle Hürmüz Boğazı ve Basra Körfezi'nde meydana gelebilecek olası petrol sızıntıları konusunda endişeler artmaktadır. Uzmanlar, bu tür sızıntıların Körfez'in ekosistemi ve kıyı şeridindeki ülkelerin ekonomileri üzerinde yıkıcı etkileri olabileceği uyarısında bulunuyor. Bölgedeki istikrarsızlık, küresel enerji tedarik zincirini de olumsuz etkileme potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/39012056/pexels-photo-39012056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T06:29:22.580Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Basra Körfezi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178893538462645uwp",
+        "title": "İsrail'in Savaşı Lübnan Okullarını Öğrenciler ve Yerinden Edilmiş Kişiler Arasında Denge Kurmaya Zorluyor",
+        "summary": "Lübnan'daki okullar 15 Eylül'de yeni eğitim-öğretim yılına başlamaya hazırlanıyor. Ancak ülkedeki birçok okul, İsrail'in neden olduğu savaş nedeniyle yerinden edilmiş kişilere ev sahipliği yapmaya devam ediyor. Bu durum, okulları hem öğrencileri kabul etme hem de yerinden edilmiş kişilerin barınma ihtiyacını karşılama arasında hassas bir denge kurma zorunluluğuyla karşı karşıya bırakıyor. Eğitim kurumları, yaklaşan akademik yıl öncesinde bu çifte yükü yönetmek için çözümler arıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10629422/pexels-photo-10629422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T06:29:44.626Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1788915970700fh7n2",
         "title": "Aşırı Sağcı AfD'nin Seçim Zaferi Sonrası Köln'de Protestolar Düzenlendi",
         "summary": "Almanya'nın Köln kentinde binlerce kişi, aşırı sağcı Almanya için Alternatif (AfD) partisinin seçim zaferini protesto etmek amacıyla bir araya geldi. Göstericiler, AfD'nin yükselişine ve politikalarına karşı tepkilerini dile getirdi. Protestolar, partinin son seçimlerde elde ettiği başarının ardından ülke genelinde artan endişeleri yansıtıyor. AfD, göçmen karşıtı söylemleri ve Avrupa Birliği'ne yönelik eleştirileriyle biliniyor. Bu gösteriler, Almanya'da aşırı sağın yükselişine karşı sivil toplumun ve muhalif kesimlerin tepkisini ortaya koyuyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1788683376415cy88v",
-        "title": "Birleşik Krallık'ın yasa dışı İsrail yerleşimleriyle bağlantılı şirketlerle milyarlarca sterlinlik sözleşmeleri bulunuyor",
-        "summary": "Al Jazeera tarafından yapılan bir araştırmaya göre, Birleşik Krallık hükümetinin yasa dışı İsrail yerleşimleriyle bağlantılı şirketlerle milyarlarca sterlin değerinde kamu sözleşmeleri imzaladığı ortaya çıktı. Araştırma, İsrail yerleşimleriyle ilişkili 17 şirketin Birleşik Krallık'ta toplam 2,1 milyar sterlinlik kamu sözleşmelerine sahip olduğunu gösterdi. Bu durum, uluslararası hukuka göre yasa dışı kabul edilen yerleşim birimleriyle ticari ilişkilerin Birleşik Krallık'ın dış politikası ve insan hakları taahhütleriyle çelişip çelişmediği sorularını gündeme getirdi. Söz konusu sözleşmelerin, Birleşik Krallık'ın yerleşim politikalarına yönelik tutumunu tartışmaya açtığı belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12446729/pexels-photo-12446729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-06T08:29:36.415Z",
-        "location": {
-            "lat": 31.9522,
-            "lng": 35.2332,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788683398414d36td",
-        "title": "ABD ve İran Arasında Gemilere Yönelik Misilleme Saldırıları Çatışmayı Alevlendirdi",
-        "summary": "ABD ve İran arasında gemilere yönelik misilleme saldırıları yaşandığı bildirildi. ABD, üç İran petrol tankerini vurduğunu açıklarken, İran ise üç ABD bağlantılı gemiyi hedef aldığını duyurdu. Bu gelişmeler, iki ülke arasındaki gerilimin denizlerde tırmandığına işaret ediyor. Söz konusu saldırılar, bölgedeki denizcilik güvenliği endişelerini artırıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-06T08:29:58.414Z",
-        "location": {
-            "lat": 27,
-            "lng": 51,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788683419802xdntv",
-        "title": "Mısır'da uyuşturucu davasında bir TV sunucusu dahil 12 kişiye idam cezası verildi",
-        "summary": "Mısır'da görülen bir uyuşturucu davasında, aralarında tanınmış bir televizyon sunucusunun da bulunduğu 12 kişiye idam cezası verildiği bildirildi. Suç konularını ele alan 'Mission Impossible' adlı programıyla bilinen Sarah Khalifa'nın da mahkumlar arasında yer aldığı belirtildi. Bu karar, Mısır yargı sisteminde uyuşturucu suçlarına verilen ağır cezaları bir kez daha gözler önüne serdi. Olay, ülke genelinde ve uluslararası alanda dikkat çekmeye devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10475172/pexels-photo-10475172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-06T08:30:19.802Z",
-        "location": {
-            "lat": 30.04,
-            "lng": 31.23,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
