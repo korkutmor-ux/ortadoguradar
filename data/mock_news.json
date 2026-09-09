@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788915970700fh7n2",
+        "title": "Aşırı Sağcı AfD'nin Seçim Zaferi Sonrası Köln'de Protestolar Düzenlendi",
+        "summary": "Almanya'nın Köln kentinde binlerce kişi, aşırı sağcı Almanya için Alternatif (AfD) partisinin seçim zaferini protesto etmek amacıyla bir araya geldi. Göstericiler, AfD'nin yükselişine ve politikalarına karşı tepkilerini dile getirdi. Protestolar, partinin son seçimlerde elde ettiği başarının ardından ülke genelinde artan endişeleri yansıtıyor. AfD, göçmen karşıtı söylemleri ve Avrupa Birliği'ne yönelik eleştirileriyle biliniyor. Bu gösteriler, Almanya'da aşırı sağın yükselişine karşı sivil toplumun ve muhalif kesimlerin tepkisini ortaya koyuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11622838/pexels-photo-11622838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T01:06:10.700Z",
+        "location": {
+            "lat": 50.9375,
+            "lng": 6.9603,
+            "name": "Köln, Almanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178891602393252paa",
+        "title": "Fransa'daki En Ölümcül Göçmen Trajedisiyle İlgili Şüpheli Kaçakçılar Yargılanıyor",
+        "summary": "Fransa'da yaşanan ve Manş Denizi'ndeki en ölümcül göçmen trajedisi olarak kayıtlara geçen olayla ilgili yargı süreci Paris'te başladı. Olayda hayatını kaybeden göçmenlerin sorumluluğu nedeniyle 14 şüpheli, adam öldürme suçlamasıyla hakim karşısına çıktı. Bu dava, Avrupa'ya ulaşmaya çalışan göçmenlerin karşılaştığı tehlikeleri ve insan kaçakçılığı şebekelerinin rolünü bir kez daha gözler önüne seriyor. Yargılamanın, benzer trajedilerin önlenmesi ve insan kaçakçılığıyla mücadelede caydırıcı bir etki yaratması bekleniyor. Olay, uluslararası kamuoyunda geniş yankı uyandırmıştı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5949428/pexels-photo-5949428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-09T01:07:03.932Z",
+        "location": {
+            "lat": 48.8566,
+            "lng": 2.3522,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/9/suspected-smugglers-on-trial-over-deadliest-migrant-tragedy-in-france?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1788898167224b8hpl",
         "title": "Batı Şeria'daki hurma çiftçileri, İngiltere'nin İsrailli yerleşimcilere yönelik yaptırımlarının etkisini değerlendiriyor",
         "summary": "İngiltere'nin İsrailli yerleşimcilere yönelik uyguladığı yaptırımlar, Batı Şeria'daki hurma çiftçileri arasında önemli tartışmalara yol açtı. Filistinliler, yerleşim birimi ürünlerine getirilen bu yasağı güçlü bir şekilde desteklerken, İsrail hükümeti kararı \"büyük bir hata\" olarak değerlendirdi. Yaptırımların bölgedeki ekonomik dengeler ve siyasi gerilimler üzerindeki potansiyel etkileri yakından izleniyor. Bu durum, İsrail-Filistin çatışmasının ekonomik boyutunu bir kez daha gündeme getirerek, uluslararası toplumun bölgeye yönelik tutumunu yansıtıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1788683442828wwdfb",
-        "title": "Batı Şeria'da Yerleşimci Saldırısında Filistinli Gençler Öldürüldü",
-        "summary": "Batı Şeria'daki Al-Mughayyir köyüne düzenlenen yerleşimci saldırısı sırasında Filistinli gençlerin hayatını kaybettiği bildirildi. Olay, bölgedeki gerilimi bir kez daha artırdı. Köy konseyi, gençlerin yerleşimcilerin koyun çalmasını engellemeye çalışırken öldürüldüğünü iddia etti. İsrail ordusu ise gençlerin kendi askerlerine taş attığını belirterek farklı bir açıklama yaptı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6907092/pexels-photo-6907092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-06T08:30:42.828Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2087,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178868347143834iav",
-        "title": "İsrail güçlerinin öldürdüğü Aysenur Ezgi Eygi'nin ailesi iki yıl sonra hala adalet bekliyor",
-        "summary": "İşgal altındaki Batı Şeria'da İsrail yerleşimlerinin genişletilmesini protesto ettiği sırada İsrail güçleri tarafından vurularak öldürülen Türk-Amerikalı aktivist Aysenur Ezgi Eygi'nin ailesi, olayın üzerinden iki yıl geçmesine rağmen hala adalet arayışında. Eygi, hayatını kaybettiğinde 26 yaşındaydı. Olay, bölgedeki yerleşim politikalarına karşı düzenlenen bir gösteri sırasında meydana gelmişti. Ailesi, sorumluların hesap vermesi için uluslararası kamuoyundan destek bekliyor. Bu durum, İsrail-Filistin çatışmasındaki insan hakları ihlalleri tartışmalarını yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8530327/pexels-photo-8530327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-06T08:31:11.438Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/2-years-after-israeli-forces-killed-aysenur-ezgi-eygi-family-still-waits-for-justice/4048589",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
