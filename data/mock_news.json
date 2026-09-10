@@ -1,5 +1,101 @@
 [
     {
+        "id": "1789046650494n41a6",
+        "title": "Husiler, Yemen'in Güney Kızıldeniz Kıyısı Boyunca İlerleyişini Sürdürüyor",
+        "summary": "Yemen'deki Husi isyancılar, Kızıldeniz kıyısı boyunca stratejik bir ilerleyiş kaydediyor. Bu hamlenin temel amacı, uluslararası denizcilik açısından kritik öneme sahip Bab el-Mandeb Boğazı üzerindeki kontrollerini ve etkilerini artırmak olarak belirtiliyor. Husilerin bu ilerleyişi, bölgedeki denizcilik güvenliği ve küresel ticaret yolları için potansiyel riskler taşıyor. Boğaz, özellikle petrol ve gaz sevkiyatı için hayati bir geçiş noktası konumunda bulunuyor. Gelişmeler, Yemen'deki çatışmanın bölgesel ve uluslararası boyutlarını bir kez daha gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T13:24:10.494Z",
+        "location": {
+            "lat": 13.5,
+            "lng": 43.5,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17890467057356lm04",
+        "title": "Sudan'ın Tawila Kampı'nda Yüz Binlerce Kişi Yetersiz Barınma Koşullarıyla Karşı Karşıya",
+        "summary": "Sudan'ın Tawila kampında yüz binlerce yerinden edilmiş kişi, yetersiz barınma koşullarıyla mücadele ediyor. Kamp sakinleri, insani yardım ve barınma olanaklarının yetersizliği nedeniyle büyük zorluklar yaşıyor. Bu durum, kampta yetersiz beslenme ve hastalıkların hızla yayılmasına yol açarak insani krizi derinleştiriyor. Uluslararası yardım kuruluşları, bölgedeki durumun aciliyetine dikkat çekiyor ve acil müdahale çağrısında bulunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19264366/pexels-photo-19264366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T13:25:05.735Z",
+        "location": {
+            "lat": 13.98,
+            "lng": 25.48,
+            "name": "Tawila, Sudan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1789046750135vkpb8",
+        "title": "Türkiye'nin Havelsan'ı, Mısırlı AOI ile ortak geliştirilen İHA için satış anlaşması imzaladı",
+        "summary": "Türk savunma sanayii şirketi Havelsan ile Mısırlı Arab Organization for Industrialization (AOI) arasında, ortaklaşa geliştirilen bir insansız hava aracı (İHA) için satış anlaşması imzalandı. \"Hamza-1\" adı verilen bu İHA, Türk otonom sistem mühendisliğini Mısır'ın yerel üretim altyapısıyla birleştiriyor. Anlaşma, dikey kalkış ve iniş (VTOL) kabiliyetine sahip bu hava aracının gelecekteki teslimatları için zemin hazırlıyor. Bu iş birliği, iki ülke arasındaki savunma ve teknoloji alanındaki ilişkilerin güçlendiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34182367/pexels-photo-34182367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T13:25:50.135Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkiye-s-havelsan-egyptian-aoi-ink-sales-deal-for-jointly-developed-drone/4053268",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1789046774256m6p1d",
+        "title": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini kesti",
+        "summary": "Cezayir, Birleşik Arap Emirlikleri (BAE) ile diplomatik ilişkilerini kestiğini duyurdu. Cezayir Dışişleri Bakanlığı'ndan yapılan açıklamada, bu kararın ikili bağları sürdürmek için 'tüm yolların tüketilmesinin' ardından alındığı belirtildi. Bakanlık, iki ülke arasındaki ilişkilerin son dönemde gergin olduğunu ve Cezayir'in bu adımı atmak zorunda kaldığını vurguladı. Bu gelişme, Kuzey Afrika ve Orta Doğu bölgesindeki diplomatik dengeler üzerinde önemli bir etki yaratması beklenen ciddi bir adım olarak değerlendiriliyor. Kararın altında yatan spesifik nedenlere dair detayların önümüzdeki günlerde kamuoyuyla paylaşılması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T13:26:14.256Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086497,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/algeria-severs-diplomatic-relations-with-united-arab-emirates/4053200",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1789046795017evxpe",
+        "title": "İsrail ordusu, işgal altındaki Batı Şeria'da 2 gazeteci dahil 33 Filistinliyi gözaltına aldı",
+        "summary": "İsrail ordusu, işgal altındaki Batı Şeria genelinde geniş çaplı operasyonlar düzenledi. Bu operasyonlar sonucunda, aralarında iki gazeteci, reşit olmayanlar ve eski tutukluların da bulunduğu toplam 33 Filistinli gözaltına alındı. Baskınlar özellikle Nablus, Beytüllahim, El Halil, Cenin, Tubas ve Tulkarem şehirlerinde yoğunlaştı. Gözaltına alınanların sorgulanmak üzere ilgili birimlere sevk edildiği bildirildi. Bu olay, bölgedeki güvenlik durumunun ve gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10476385/pexels-photo-10476385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T13:26:35.017Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-33-palestinians-in-occupied-west-bank-including-2-journalists/4053150",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1789046833200wg9ah",
+        "title": "Yemen'de Husilerin Batı Cephe Hatlarını Aşmasının Ardından Komuta Merkezi Kuruldu",
+        "summary": "Yemen'de Husilerin batı cephe hatlarını aşmasının ardından yeni bir komuta merkezi oluşturulduğu bildirildi. Haberlere göre, Husi güçleri çeşitli türde silahlar kullanarak ve yoğun ateş altında birden fazla muharebe hattını yarmayı başardı. Bu gelişme, ülkedeki mevcut çatışmaların batı bölgelerinde şiddetlendiğini gösteriyor. Yemen hükümeti veya ilgili güçlerin, bu ihlallere karşı koymak ve durumu kontrol altına almak amacıyla adımlar attığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T13:27:13.200Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/world/yemen-forms-command-center-after-houthi-forces-breach-western-front-lines/4053018",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789030050479xlyb7",
         "title": "İsrail saldırılarında kuzey Gazze'de en az dört Filistinli hayatını kaybetti",
         "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırıları devam ediyor. Son olarak kuzey Gazze'de düzenlenen saldırılarda en az dört Filistinli hayatını kaybettiği bildirildi. Bu saldırılar, Ekim ayında arabuluculukla sağlanan 'ateşkes' anlaşmasına rağmen gerçekleşiyor. Bölgedeki gerilimin sürdüğünü ve çatışmaların devam ettiğini gösteriyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178887395344134rgj",
-        "title": "Filistin'in Taybeh Kasabası, İşgalcilere Karşı ABD Mahkemelerinde Adalet Arıyor",
-        "summary": "İşgal altındaki Batı Şeria'da bulunan Filistin'in Hristiyan kasabası Taybeh, işgalcilere karşı ABD mahkemelerinde hukuk davaları açmaya hazırlanıyor. Taybeh Belediye Başkanı'nın Anadolu Ajansı'na yaptığı açıklamaya göre, kasaba sakinleri saldırılar ve toprak gaspları nedeniyle mağduriyet yaşıyor. Açılacak davalarla, bu mağduriyetlerin giderilmesi ve adaletin sağlanması hedefleniyor. Taybeh, İsrail işgalinden etkilenen Batı Şeria bölgelerinden biri olarak biliniyor ve bu davalarla uluslararası alanda dikkat çekmeyi amaçlıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19544047/pexels-photo-19544047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:25:53.441Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.3,
-            "name": "Taybeh, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/interview-palestinian-christian-town-taybeh-seeks-justice-in-us-courts-over-occupier-terrorism-mayor/4050904",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17888739774024ingj",
-        "title": "Pakistan, Husilerin Suudi Arabistan'a Yönelik Saldırılarını Kınadı",
-        "summary": "Pakistan Başbakanı Şahbaz Şerif, Yemen'deki Husilerin Suudi Arabistan topraklarına düzenlediği saldırıları şiddetle kınadıklarını açıkladı. Şerif, Pakistan'ın Suudi Arabistan liderliği ve halkıyla 'sarsılmaz' bir dayanışma içinde olduğunu vurguladı. Bu açıklama, bölgedeki gerilimi artıran füze ve insansız hava aracı saldırılarının ardından geldi. Pakistan, bölgesel barış ve güvenliğin korunması adına Suudi Arabistan'a tam destek verdiğini belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7777518/pexels-photo-7777518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:26:17.402Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/pakistan-condemns-houthi-attacks-on-saudi-arabia/4050803",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788873998056vpdut",
-        "title": "Katar, ABD-İran Geriliminde 'Ne Savaş Ne Barış' Durumunu Kabul Edilemez Buldu, Hürmüz Boğazı'nın Koşulsuz Açılmasını İstedi",
-        "summary": "Katar, ABD ile İran arasındaki 'ne savaş ne barış' durumunun kabul edilemez olduğunu belirtti. Doha yönetimi, stratejik su yolunun bir koz olarak kullanılmasının sona ermesi gerektiğini vurguladı. Katar, Hürmüz Boğazı'nın koşulsuz olarak yeniden açılması çağrısında bulundu. Ayrıca, bölgesel krizin diyalog yoluyla çözülmesi gerektiğini ifade etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36263106/pexels-photo-36263106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:26:38.056Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-no-war-no-peace-between-us-iran-unacceptable-urges-unconditional-reopening-of-hormuz/4050798",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17888740197623bwsv",
-        "title": "BM Raporu: Hürmüz Boğazı'ndaki Kesintiler KOBİ'leri Küresel Değer Zincirlerinden Çıkarma Riski Taşıyor",
-        "summary": "Birleşmiş Milletler Ticaret ve Kalkınma Örgütü (UNCTAD) tarafından yayımlanan bir rapor, Hürmüz Boğazı'nda yaşanabilecek aksaklıkların küresel tedarik zincirleri üzerindeki potansiyel etkilerine dikkat çekti. Rapora göre, boğazdaki olası kesintiler, özellikle gelişmekte olan ekonomilerdeki küçük ve orta ölçekli işletmeleri (KOBİ'ler) küresel değer zincirlerinin dışına itme riski taşıyor. UNCTAD, artan enerji, navlun, sigorta ve finansman maliyetlerinin KOBİ'ler üzerinde orantısız bir yük oluşturduğunu vurguladı. Bu durumun, küresel ticaret ve ekonomik istikrar açısından önemli riskler barındırdığı belirtildi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/35024006/pexels-photo-35024006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:26:59.762Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-disruptions-risk-pushing-smaller-firms-out-of-global-value-chains-un-report/4050797",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788874040869u8but",
-        "title": "Katar ve Çinli Diplomatlar Hürmüz Boğazı'nda Seyrüsefer Serbestisini Görüştü",
-        "summary": "Katar ve Çin'in üst düzey diplomatları, Hürmüz Boğazı'nda seyrüsefer serbestisi konusunu ele almak üzere bir araya geldi. Katar Başbakanı ve Dışişleri Bakanı Şeyh Muhammed bin Abdurrahman bin Casim Al Sani, Çinli mevkidaşı Wang Yi ile Pekin'de görüştü. Görüşmede, küresel ticaret için hayati önem taşıyan bu stratejik su yolunda güvenli ve serbest geçişin sağlanmasının önemi vurgulandı. İki ülke, bölgesel istikrar ve uluslararası denizcilik hukukuna saygı konularında iş birliğini artırma taahhüdünde bulundu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:27:20.869Z",
-        "location": {
-            "lat": 39.9042,
-            "lng": 116.4074,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/top-qatari-chinese-diplomats-discuss-freedom-of-navigation-in-strait-of-hormuz/4050766",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788856991231yq10y",
-        "title": "Yemen'de Husiler ile Suudi Destekli Güçler Arasında Çatışmalar Şiddetlendi",
-        "summary": "Yemen'de uluslararası tanınmış hükümete bağlı güçler ile Husiler arasında şiddetli çatışmalar devam ediyor. Hükümet yanlısı güçler, ülkenin başkenti Sana'yı ele geçirme hedefini yineledi. Suudi Arabistan destekli güçlerin de aktif rol aldığı bu çatışmalar, Yemen'deki uzun süreli iç savaşın kritik bir aşamasını oluşturuyor. Bölgedeki gerilimin tırmanmasıyla birlikte, insani durumun daha da kötüleşmesinden endişe ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T08:43:11.231Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
