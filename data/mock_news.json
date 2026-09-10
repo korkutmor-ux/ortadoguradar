@@ -1,5 +1,37 @@
 [
     {
+        "id": "1789059955672kftsq",
+        "title": "İsrail'in Gazze'ye Hava Saldırıları Düzenlediği Bildirildi",
+        "summary": "Jerusalem Daily gazetesinin haberine göre, İsrail güçleri Gazze Şeridi'ne yönelik hava saldırıları gerçekleştirdi. Gerçekleşen bu saldırılar sonucunda onlarca kişinin yaşamını yitirdiği ve çok sayıda kişinin yaralandığı bildirildi. Bölgede artan gerilim ve çatışmaların insani durumu olumsuz etkilediği belirtiliyor. Uluslararası kamuoyunun gelişmeleri yakından takip ettiği ve taraflara itidal çağrısı yapması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T17:05:55.672Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17890600567271ocgu",
+        "title": "Husiler Yemen'in Taiz Kentinde Sivil Bölgeleri ve Önemli Bir Yolu Hedef Aldı, Can Kayıpları Bildirildi",
+        "summary": "Yemen Ortak Kuvvetleri'nden yapılan açıklamaya göre, Husiler Yemen'in Taiz kentinde sivil yerleşim yerlerini ve Taiz'i Aden'e bağlayan stratejik bir yolu topçu ateşiyle hedef aldı. Jabal Habashi bölgesindeki sivil alanlara yönelik saldırılarda can kayıplarının yaşandığı belirtildi. Bu saldırıların, bölgedeki insani durumu daha da kötüleştirdiği ve sivillerin güvenliğini tehdit ettiği ifade edildi. Olayın ardından bölgede gerilimin arttığı gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32888175/pexels-photo-32888175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T17:07:36.727Z",
+        "location": {
+            "lat": 13.5775,
+            "lng": 44.0292,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/houthis-shell-civilian-sites-key-road-in-yemens-taiz-casualties-reported/4053538",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789046650494n41a6",
         "title": "Husiler, Yemen'in Güney Kızıldeniz Kıyısı Boyunca İlerleyişini Sürdürüyor",
         "summary": "Yemen'deki Husi isyancılar, Kızıldeniz kıyısı boyunca stratejik bir ilerleyiş kaydediyor. Bu hamlenin temel amacı, uluslararası denizcilik açısından kritik öneme sahip Bab el-Mandeb Boğazı üzerindeki kontrollerini ve etkilerini artırmak olarak belirtiliyor. Husilerin bu ilerleyişi, bölgedeki denizcilik güvenliği ve küresel ticaret yolları için potansiyel riskler taşıyor. Boğaz, özellikle petrol ve gaz sevkiyatı için hayati bir geçiş noktası konumunda bulunuyor. Gelişmeler, Yemen'deki çatışmanın bölgesel ve uluslararası boyutlarını bir kez daha gündeme getiriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788873903937q27kk",
-        "title": "Sudan'da Sağlık Sistemi Çöküşün Eşiğinde",
-        "summary": "Sınır Tanımayan Doktorlar (MSF) örgütü, Sudan'ın sağlık sisteminin çöküşün eşiğinde olduğu konusunda uyarıda bulundu. Tıbbi yardım kuruluşu, ülkedeki sağlık tesislerinin üçte birinden fazlasının işlevsiz durumda olduğunu belirtti. Yardım kesintilerinin krizi derinleştirdiğini ifade eden MSF, insani durumun giderek kötüleştiğine dikkat çekti. Bu durum, milyonlarca Sudanlının temel sağlık hizmetlerine erişimini ciddi şekilde tehdit ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10974209/pexels-photo-10974209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:25:03.937Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.5,
-            "name": "Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788873926105oehq7",
-        "title": "BRICS Zirvesi, İran İçin Yeni Bir Ateşkesin Sağlanabileceği Tek Yer Olabilir",
-        "summary": "BRICS zirvesinin, İran ile ilgili potansiyel bir ateşkesin müzakere edilebileceği tek platform olabileceği değerlendiriliyor. Habere göre, BRICS üyesi ülkeler ve ortakları, bugüne kadar İran'ı ilgilendiren tüm ateşkes anlaşmalarına aracılık etmiş ve bir sonraki anlaşmayı inşa etmek için gerekli diplomatik ilişkilere sahip. Bu durum, grubun bölgesel çatışmaların çözümündeki arabuluculuk ve diplomatik rolünü öne çıkarıyor. Zirvenin, İran'daki mevcut gerilimi azaltma ve istikrarı sağlama çabalarında kritik bir adım teşkil etmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:25:26.105Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
