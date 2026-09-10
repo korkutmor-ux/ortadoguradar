@@ -1,5 +1,149 @@
 [
     {
+        "id": "1789030050479xlyb7",
+        "title": "İsrail saldırılarında kuzey Gazze'de en az dört Filistinli hayatını kaybetti",
+        "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırıları devam ediyor. Son olarak kuzey Gazze'de düzenlenen saldırılarda en az dört Filistinli hayatını kaybettiği bildirildi. Bu saldırılar, Ekim ayında arabuluculukla sağlanan 'ateşkes' anlaşmasına rağmen gerçekleşiyor. Bölgedeki gerilimin sürdüğünü ve çatışmaların devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38317996/pexels-photo-38317996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:47:30.479Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.45,
+            "name": "Kuzey Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1789030092484jjhsm",
+        "title": "Trump: 'İran Savaşı' Kasım Seçimlerinden Sonra Bitecek, Petrol Fiyatları Düşmeyecek",
+        "summary": "ABD Başkanı Donald Trump, 'İran savaşının' kritik Kasım seçimlerinden sonra sona ereceğini öne sürdü. Trump, bu durumun ABD'deki başkanlık seçimleriyle doğrudan ilişkili olduğunu ima etti. Ayrıca, küresel petrol fiyatlarının da Kasım ayındaki seçimlerden önce düşmeyeceğini iddia eden eski başkan, bu konuda İran'ın seçimleri etkileme amacı taşıdığını belirtti. Ancak Trump, bu iddiasına dair herhangi bir kanıt sunmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7449632/pexels-photo-7449632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:48:12.484Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789030114232wbtdw",
+        "title": "Belirsizlikteki Topraklar: BBC, İsrail'in Yerleşim İçin Ayırdığı Batı Şeria Köyünü Ziyaret Etti",
+        "summary": "BBC Orta Doğu Muhabiri Lucy Williamson, İsrail'in yerleşim yeri inşası için ayırdığı Batı Şeria'daki E1 bölgesi olarak bilinen alanda bulunan Filistin topluluğu Han el-Ahmar'ı ziyaret etti. Ziyaret kapsamında, Han el-Ahmar'ın komşusu olan İsrail yerleşimi Maale Adumim de incelendi. Bu bölge, İsrail'in yerleşim politikaları nedeniyle uzun süredir uluslararası tartışmaların odağında yer alıyor. Haber, Filistinlilerin toprakları üzerindeki belirsizliği ve yerleşim genişlemesinin bölge halkı üzerindeki etkilerini gözler önüne seriyor. Söz konusu ziyaret, İsrail-Filistin çatışmasının temel meselelerinden biri olan yerleşim birimleri konusuna dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12309279/pexels-photo-12309279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:48:34.232Z",
+        "location": {
+            "lat": 31.78,
+            "lng": 35.32,
+            "name": "Han el-Ahmar, Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1789030138562e9x1f",
+        "title": "İngiltere'den İsrail'e Batı Şeria Suçlaması: ABD'nin Tepkisi Mercek Altında",
+        "summary": "İngiltere, İsrail hükümetini Batı Şeria'daki yerleşimcilerin Filistinlilere yönelik \"etnik temizliğine\" göz yummakla itham etti. Bu suçlamaların ardından İngiltere'nin İsrail'e uyguladığı yaptırımlara ABD'den gelen tepkinin \"sessiz\" kalması dikkat çekti. Londra'nın bu sert çıkışı, İsrail'in Batı Şeria politikalarına yönelik uluslararası eleştirileri artırırken, Washington'ın tutumu iki müttefik arasındaki potansiyel görüş ayrılıklarını yansıtabilir. Gözlemciler, ABD'nin bu konudaki sessizliğinin, bölgedeki mevcut gerilimi daha da karmaşık hale getirebileceği yorumunu yapıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36350203/pexels-photo-36350203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:48:58.562Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789030161385p06bi",
+        "title": "İsrail Güçleri, ABD Anlaşmasına Rağmen Güney Lübnan'da Saldırılar Düzenledi",
+        "summary": "İsrail güçleri, ABD arabuluculuğunda varılan bir anlaşmaya rağmen Güney Lübnan'da topçu saldırıları gerçekleştirdi. Bölgedeki kaynaklara göre, saldırılar Vadi el-Huceyr, Vadi el-Saluki ve Zawtar el-Şarkiye'nin dış mahallelerini hedef aldı. Ayrıca, Mansuri ve Beni Hayyan bölgelerinde de patlama sesleri duyulduğu bildirildi. Bu gelişmeler, İsrail ile Lübnan arasındaki sınır hattında devam eden gerilimi ve güvenlik durumunu bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:49:21.386Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.4,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-carry-out-artillery-strikes-explosions-in-southern-lebanon-despite-us-mediated-deal-/4052886",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178903018681096nk4",
+        "title": "Kuveyt, Netanyahu'nun Suriye'deki Hermon Dağı'na Girişini Kınadı",
+        "summary": "Kuveyt, İsrail Başbakanı Binyamin Netanyahu'nun Suriye topraklarındaki Hermon Dağı'na yönelik eylemlerini kınadığını duyurdu. Kuveyt Dışişleri Bakanlığı, Birleşmiş Milletler Güvenlik Konseyi'ne çağrıda bulunarak İsrail'in bölgedeki saldırılarını durdurmasını talep etti. Açıklamada, İsrail'in uluslararası kararlara ve 1974 tarihli ayrışma anlaşmasına tam olarak uyması gerektiği vurgulandı. Kuveyt, bu tür eylemlerin bölgesel istikrara zarar verdiğini ve uluslararası hukukun ihlali anlamına geldiğini belirtti. Uluslararası toplumu, bölgede barış ve güvenliğin sağlanması için sorumluluk almaya davet etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:49:46.810Z",
+        "location": {
+            "lat": 33.4,
+            "lng": 35.78,
+            "name": "Hermon Dağı, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/kuwait-condemns-netanyahu-s-incursion-into-mount-hermon-in-syria-/4052860",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789030207625oezbb",
+        "title": "ABD, Lübnan'ın Savaş ve Barış Kararlarındaki Yetkisini Destekliyor",
+        "summary": "Amerika Birleşik Devletleri, Lübnan'ın savaş ve barış kararları üzerindeki yetkisini desteklediğini açıkladı. ABD Büyükelçiliği tarafından yapılan açıklamada, Lübnan devlet kurumlarının Hizbullah'ın silahlı gücünün önüne geçmesi gerektiği vurgulandı. Açıklamada ayrıca, Lübnan ordusunun devlet egemenliğini sağlaması gerektiği belirtilerek, ülkenin iç istikrarı ve egemenliğine verilen önem dile getirildi. Bu tutum, Lübnan'daki siyasi ve güvenlik dengelerine yönelik uluslararası desteği yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36340594/pexels-photo-36340594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:50:07.625Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-backs-lebanon-s-authority-over-war-peace-decisions-/4052826",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789030229121j1ng7",
+        "title": "Suudi Liderliğindeki Koalisyon Yemen'in Al-Hudaydah Vilayetine Hava Saldırıları Düzenledi",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'in batısındaki stratejik Al-Hudaydah vilayetine hava saldırıları düzenledi. Yemen resmi haber ajansının bildirdiğine göre, saldırılar Al-Salif ve Al-Tuhayta bölgeleri ile Kızıldeniz'deki Kamaran Adası'nı hedef aldı. Bu operasyonlar, Yemen'deki devam eden çatışmaların bir parçası olarak gerçekleşti. Bölgedeki sivil altyapı ve insani durum üzerindeki potansiyel etkileri endişe yaratmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:50:29.121Z",
+        "location": {
+            "lat": 14.8,
+            "lng": 42.95,
+            "name": "Al-Hudaydah, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-carries-out-airstrikes-in-yemen-s-al-hudaydah/4052823",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17890302500720fcvb",
+        "title": "Suriye, IAEA'nın nükleer dosya konularını kapatma kararını memnuniyetle karşıladı",
+        "summary": "Suriye, Uluslararası Atom Enerjisi Ajansı (IAEA) tarafından ülkenin nükleer dosyasındaki açıkta kalan konuları kapatan oybirliği kararını memnuniyetle karşıladığını duyurdu. Şam yönetimi, bu önemli adımın barışçıl nükleer teknoloji alanında yeni işbirliği ufukları açtığını belirtti. Bu gelişme, Suriye'nin nükleer programına ilişkin uluslararası denetim ve işbirliği süreçlerinde önemli bir dönüm noktası olarak değerlendiriliyor. Karar, Suriye'nin nükleer faaliyetlerinin şeffaflığı ve uluslararası standartlara uygunluğu konusunda ilerleme kaydedildiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10165700/pexels-photo-10165700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T08:50:50.072Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-welcomes-iaea-consensus-decision-closing-outstanding-nuclear-file-issues-/4052787",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789011994726bka5i",
         "title": "Netanyahu, BAE'nin 7 Ekim Öncesi Uyarı İddiaları Nedeniyle Haaretz'e Dava Açıyor",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, Haaretz gazetesine 7 Ekim 2023 saldırılarından önce Birleşik Arap Emirlikleri'nin (BAE) kendisini Hamas'ın planları hakkında uyardığı iddiaları nedeniyle dava açmaya hazırlanıyor. Netanyahu, BAE Devlet Başkanı'nın kendisine böyle bir uyarıda bulunduğu yönündeki iddiaları kesin bir dille yalanladı. Haaretz'in yayınladığı bu iddialar, İsrail'de 7 Ekim saldırıları öncesindeki istihbarat ve güvenlik zafiyetlerine ilişkin tartışmaları yeniden alevlendirdi. Başbakanlık kaynakları, Netanyahu'nun gazetenin bu yayınını \"iftira\" olarak nitelendirdiğini ve hukuki yollara başvuracağını belirtti.",
@@ -652,150 +796,6 @@
             "name": "Sana, Yemen"
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788857066752q8bwa",
-        "title": "Filistinli Ebeveynler, Artan Yerleşimci Saldırıları Nedeniyle Çocuklarının Okulda Hayatlarından Endişe Ediyor",
-        "summary": "İşgal altındaki Batı Şeria'da Filistinli ebeveynler, artan yerleşimci saldırıları nedeniyle çocuklarının okulda güvenliğinden endişe duyuyor. Bölgedeki bir okul müdürü, bu yıl üç öğrencinin hayatını kaybetmesinin ardından okul çevresine yeni dikenli teller çektirdi. Bu durum, Filistinli çocukların eğitim haklarına yönelik tehditleri ve bölgedeki gerilimi gözler önüne seriyor. Yerleşimci şiddetinin artması, uluslararası toplumda da endişelere yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4437977/pexels-photo-4437977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T08:44:26.752Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788857107846wdcc1",
-        "title": "Gazze'de İsrail Ateşiyle 2 Kişi Hayatını Kaybetti, 2 Kişi Yaralandı; Ateşkes İhlalleri Endişesi",
-        "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail ateşi sonucu iki Gazalının hayatını kaybettiği, iki kişinin ise yaralandığı bildirildi. Bu olaylar, bölgedeki ateşkesin yeniden ihlal edildiği yönündeki endişeleri artırdı. Gazze Sağlık Bakanlığı'ndan yapılan açıklamada, bölgedeki çatışmaların yol açtığı insani krizin boyutlarına dikkat çekildi. Bakanlık, çatışmalar sonucunda yaklaşık 5.000 kişinin uzuv kaybı yaşadığını ve 10.000 hastanın uzun süreli rehabilitasyona ihtiyaç duyduğunu belirtti. Bu durum, Gazze'deki sağlık sisteminin üzerindeki yükü ve bölgedeki sivil halkın yaşadığı zorlukları gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T08:45:07.846Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-gazans-killed-2-injured-by-israeli-fire-in-fresh-ceasefire-violations/4050456",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17888571283220j394",
-        "title": "Yemen'in Marib Kentinde Husilerin Saldırısında 2 Çocuk Hayatını Kaybetti, 15 Kişi Yaralandı",
-        "summary": "Yemen'in Marib kentinde Husiler tarafından yerinden edilmiş kişilere yönelik düzenlenen saldırıda 2 çocuk yaşamını yitirdi, 15 kişi yaralandı. Yerel yetkililer, saldırının 16 barınağı tamamen yıktığını ve 23 yerinden edilmiş ailenin barınaksız kaldığını bildirdi. Olay, bölgedeki insani krizi derinleştirdi ve yerinden edilmiş sivillerin güvenliğine yönelik endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19867687/pexels-photo-19867687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T08:45:28.322Z",
-        "location": {
-            "lat": 15.4667,
-            "lng": 45.3333,
-            "name": "Marib, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-children-killed-15-injured-in-houthi-shelling-of-displaced-people-in-yemen-s-marib/4050441",
-        "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1788857150040hrl17",
-        "title": "BM Güvenlik Konseyi, Lübnan barış gücü misyonunun geleceğine karar verecek",
-        "summary": "Birleşmiş Milletler Güvenlik Konseyi'nin, Lübnan'daki barış gücü misyonunun geleceği hakkında önemli bir karar alması bekleniyor. Bir sözcü, Anadolu Ajansı'na yaptığı açıklamada, misyonun operasyonlarının 31 Aralık 2026 tarihinde sona ereceğini belirtti. Açıklamaya göre, Birleşmiş Milletler Geçici Görev Gücü (UNIFIL), 2027 yılı boyunca kademeli ve güvenli bir şekilde bölgeden çekilmeye başlayacak. Bu karar, Lübnan'daki uzun soluklu uluslararası barış gücü varlığının sona ereceği anlamına geliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18498769/pexels-photo-18498769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T08:45:50.040Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/world/un-security-council-to-decide-future-of-lebanon-peacekeeping-mission-spokesperson/4050417",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17888571727596hdcm",
-        "title": "İsrail güçleri Batı Şeria'da bir Filistinliyi öldürdü",
-        "summary": "İsrail güçleri, Batı Şeria'daki Aqraba kasabasında bir eve baskın düzenledi. Kasabanın belediye başkanı Anadolu Ajansı'na yaptığı açıklamada, İsrail güçlerinin evi kuşattığını ve bombaladığını belirtti. Saldırı sonucunda binanın bazı kısımlarının çöktüğü bildirildi. Olayda bir Filistinlinin hayatını kaybettiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33335348/pexels-photo-33335348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T08:46:12.759Z",
-        "location": {
-            "lat": 32.1,
-            "lng": 35.33,
-            "name": "Aqraba, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-by-israeli-forces-in-west-bank-raid/4050366",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1788824506662r822f",
-        "title": "İsrail Üniversitelerinden Gazze Savaşı Eleştirisi Nedeniyle 100 Filistinli Öğrenci İhraç Edildi İddiası",
-        "summary": "Bir insan hakları örgütü olan Adalah'ın raporuna göre, İsrail üniversitelerinde öğrenim gören 100 Filistinli öğrenci, Gazze Savaşı'nı eleştirdikleri gerekçesiyle okullarından uzaklaştırıldı. Örgüt, bazı durumlarda sadece bir sosyal medya gönderisini beğenmenin, kişisel hesapta Filistin bayrağı göstermenin veya \"Filistin\" kelimesini kullanmanın disiplin soruşturmalarını tetiklemek için yeterli olduğunu belirtti. Bu durum, İsrail eğitim kurumlarındaki ifade özgürlüğü ve akademik haklar konusunda endişeleri gündeme getiriyor. Adalah, bu ihraçların öğrencilerin temel haklarını ihlal ettiğini savunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34526414/pexels-photo-34526414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T23:41:46.662Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/100-palestinian-students-expelled-from-israeli-universities-for-criticizing-gaza-war-rights-group/4050185",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788815852664ynrkg",
-        "title": "Almanya'da aşırı sağcı AfD'nin yükselişi: Almanya ve Avrupa için olası etkileri",
-        "summary": "Almanya'da aşırı sağcı Almanya için Alternatif (AfD) partisinin bölgesel bir seçimde çoğunluğa yaklaşması, ülkenin ve Avrupa'nın siyasi geleceği hakkında endişeleri artırdı. Partinin göçmen karşıtı ve AB şüphecisi politikaları, Almanya'nın iç ve dış politikalarında önemli değişikliklere yol açabilir. Bu durum, özellikle Orta Doğu'dan gelen göçmen ve mültecilere yönelik politikaları doğrudan etkileyerek, bu grupların hakları ve statüleri üzerinde ciddi sonuçlar doğurabilir. AfD'nin yükselişi, Almanya'nın Orta Doğu ile olan diplomatik ve insani ilişkilerini de dolaylı yoldan şekillendirme potansiyeli taşıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T21:17:32.664Z",
-        "location": {
-            "lat": 52.52,
-            "lng": 13.4,
-            "name": "Almanya"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1788802674377r8495",
-        "title": "Gazze: Gerçek Zamanlı Soykırım mı Tartışması Gündemde",
-        "summary": "Gazze Şeridi'nde devam eden çatışmaların ortasında, bölgedeki durumun 'gerçek zamanlı bir soykırım' olup olmadığına dair tartışmalar yoğunlaşıyor. İsrailli insan hakları örgütü B'Tselem'in yöneticileri gibi birçok uluslararası ve yerel kuruluş, Gazze'deki sivil kayıplar, insani kriz ve uluslararası hukukun ihlali iddiaları hakkında derin endişelerini dile getiriyor. Bu iddialar, uluslararası toplumda geniş yankı bulurken, bölgedeki insan hakları durumu ve sivillerin korunması konuları öncelikli gündem maddeleri arasında yer alıyor. Gelişmeler, uluslararası hukuk ve insan hakları örgütleri tarafından yakından izlenmeye devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T17:37:54.377Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1788802728755jrz2k",
-        "title": "Kosova, ABD liderliğindeki Gazze istikrar gücüne katıldı",
-        "summary": "Balkan ülkesi Kosova, ABD liderliğindeki Gazze istikrar gücüne katılma kararı aldı. Bu kararla birlikte Kosova, Filistin yerleşim bölgesine barış gücü göndermeyi kabul eden az sayıda ülkeden biri oldu. ABD'nin öncülük ettiği bu gücün amacı, Gazze'deki istikrarı sağlamak olarak belirtiliyor. Kosova'nın bu uluslararası misyona katılımı, bölgedeki güvenlik çabalarına destek niteliği taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30541594/pexels-photo-30541594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-07T17:38:48.755Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
