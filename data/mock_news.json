@@ -1,5 +1,21 @@
 [
     {
+        "id": "17890703819489lyfj",
+        "title": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini kesecek",
+        "summary": "Cezayir Dışişleri Bakanlığı, Birleşik Arap Emirlikleri (BAE) ile diplomatik ilişkilerini kesme kararı aldığını duyurdu. Bakanlık, bu önemli adımın gerekçesine ilişkin detaylı bir açıklama yapmaktan kaçındı. Ancak yapılan açıklamada, bu yönde atılacak adımlar için tüm yolların tükendiği belirtildi. Bu gelişme, iki ülke arasındaki ilişkilerde ciddi bir gerilime işaret ederken, kararın bölgesel yansımaları olabileceği değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T19:59:41.948Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086497,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789059955672kftsq",
         "title": "İsrail'in Gazze'ye Hava Saldırıları Düzenlediği Bildirildi",
         "summary": "Jerusalem Daily gazetesinin haberine göre, İsrail güçleri Gazze Şeridi'ne yönelik hava saldırıları gerçekleştirdi. Gerçekleşen bu saldırılar sonucunda onlarca kişinin yaşamını yitirdiği ve çok sayıda kişinin yaralandığı bildirildi. Bölgede artan gerilim ve çatışmaların insani durumu olumsuz etkilediği belirtiliyor. Uluslararası kamuoyunun gelişmeleri yakından takip ettiği ve taraflara itidal çağrısı yapması bekleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "17888738839640ur61",
-        "title": "Birleşik Krallık'tan Yasa Dışı İsrail Yerleşim Birimlerine Yaptırım Kararı",
-        "summary": "Birleşik Krallık, yasa dışı İsrail yerleşim birimlerine yönelik yeni yaptırımlar uygulama kararı aldı. İngiltere Parlamentosu'nda İşçi Partisi Gölge Dışişleri Bakanı Ed Miliband tarafından yapılan açıklamaya göre, bu yerleşim birimlerinden gelen mallara ithalat yasağı getirilecek. Bu adım, uluslararası hukuka aykırı kabul edilen İsrail yerleşim faaliyetlerine karşı Birleşik Krallık'ın net bir duruşunu sergiliyor. Karar, İsrail-Filistin çatışması bağlamında önemli bir diplomatik gelişme olarak değerlendiriliyor ve bölgedeki siyasi dinamikleri etkilemesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/27374653/pexels-photo-27374653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:24:43.964Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
