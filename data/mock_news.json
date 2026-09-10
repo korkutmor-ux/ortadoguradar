@@ -1,5 +1,21 @@
 [
     {
+        "id": "17890791932044jwlp",
+        "title": "İspanya Parlamentosu, 1977 Öncesi Doğan Batı Saharalılara Vatandaşlık Verilmesini Onayladı",
+        "summary": "İspanya Parlamentosu'nun alt kanadı, 1977 yılından önce doğan on binlerce Batı Saharalıya İspanyol vatandaşlığı verilmesini öngören yasa tasarısını onayladı. Bu karar, eski İspanyol sömürgesi olan Batı Sahra'daki Sahravilerin hukuki statüsüne yönelik önemli bir adım olarak değerlendirilmektedir. Tasarı, alt meclisten geçmesinin ardından nihai onay için İspanya Senatosu'na sevk edildi. Söz konusu gelişme, Batı Sahra'nın tartışmalı statüsü ve bölgedeki siyasi dengeler açısından uluslararası kamuoyunun dikkatini çekmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/24613550/pexels-photo-24613550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-10T22:26:33.204Z",
+        "location": {
+            "lat": 24,
+            "lng": -13,
+            "name": "Batı Sahra"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17890703819489lyfj",
         "title": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini kesecek",
         "summary": "Cezayir Dışişleri Bakanlığı, Birleşik Arap Emirlikleri (BAE) ile diplomatik ilişkilerini kesme kararı aldığını duyurdu. Bakanlık, bu önemli adımın gerekçesine ilişkin detaylı bir açıklama yapmaktan kaçındı. Ancak yapılan açıklamada, bu yönde atılacak adımlar için tüm yolların tükendiği belirtildi. Bu gelişme, iki ülke arasındaki ilişkilerde ciddi bir gerilime işaret ederken, kararın bölgesel yansımaları olabileceği değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/9/8/liverpool-announce-five-year-shirt-sponsorship-deal-with-turkish-airlines?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788873861147kjunh",
-        "title": "Katar, Hürmüz Boğazı'nın Koşulsuz Yeniden Açılmasının Öncelik Olduğunu Bildirdi",
-        "summary": "Katar Dışişleri Bakanlığı, Hürmüz Boğazı'nın \"koşulsuz\" olarak yeniden açılmasının öncelikleri arasında yer aldığını duyurdu. Bakanlık, Doha'nın ABD'nin İran'a yönelik olası bir savaşına son vermek amacıyla diplomatik çözümler üzerinde çalıştığını belirtti. Bu açıklama, Körfez bölgesindeki gerilimin azaltılmasına yönelik Katar'ın arabuluculuk ve diplomatik çabalarını vurguluyor. Küresel petrol ticaretinin kilit geçiş noktası olan Hürmüz Boğazı'nın güvenliği, bölgesel ve uluslararası istikrar için hayati önem taşıyor. Katar, ABD ile İran arasındaki mevcut gerilimi düşürme ve diplomatik yollarla kalıcı bir çözüm bulma gayretlerini sürdürüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8072488/pexels-photo-8072488.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:24:21.147Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
