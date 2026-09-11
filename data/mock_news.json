@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789102911695aamrg",
+        "title": "Anthropic'in Claude Yapay Zekasının Füze Projeleri ve Küresel Casuslukta Kullanıldığı İddia Edildi",
+        "summary": "Yapay zeka şirketi Anthropic'in Claude yapay zeka modelinin füze projeleri ve küresel casusluk faaliyetlerinde kullanıldığı öne sürüldü. Yayımlanan bir rapora göre, söz konusu yapay zeka teknolojisi özellikle Yemen'de füze güdüm yazılımı geliştirmek ve siber operasyonları desteklemek amacıyla kullanıldı. Bu iddialar, yapay zekanın askeri ve güvenlik alanlarındaki potansiyel kötüye kullanımlarına ilişkin endişeleri gündeme getirdi. Rapor, yapay zeka teknolojilerinin uluslararası çatışmalardaki rolüne dair tartışmaları yoğunlaştırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-11T05:01:51.695Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789086337436p5ytz",
         "title": "İran Devrim Muhafızları Hürmüz Boğazı'nda ABD İnsansız Gemisine Saldırdı",
         "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nda bir ABD insansız deniz aracına saldırı düzenlediğini duyurdu. Bu olay, bölgedeki deniz güvenliği endişelerini artırırken, Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO) Umman açıklarında iki gemiye mermi isabet ettiğini bildirdi. Saldırının detayları ve hedef alınan gemilerin durumu hakkında araştırmalar sürdürülüyor. Stratejik Hürmüz Boğazı ve Umman Körfezi'ndeki bu gerilim, uluslararası seyrüsefer güvenliğinin önemini bir kez daha vurguladı.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1788888082991jd30e",
-        "title": "İsrail Saldırıları Gazze'de Evleri Yıktı, Aileleri Yerinden Etti",
-        "summary": "İsrail'in Gazze Şeridi'ne yönelik düzenlediği hava saldırıları, bölgenin çeşitli noktalarında etkili oldu. Saldırılar sonucunda Han Yunus kentinde çok sayıda ev yıkılırken, Bureij mülteci kampı üzerinde yoğun dumanlar yükseldi. Bu operasyonlar, Gazze genelinde ailelerin yerinden edilmesine ve altyapıda ciddi hasara yol açtı. Bölgedeki gerilim devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193757/pexels-photo-36193757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T17:21:22.991Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
