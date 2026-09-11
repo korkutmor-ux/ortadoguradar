@@ -1,5 +1,53 @@
 [
     {
+        "id": "1789086337436p5ytz",
+        "title": "İran Devrim Muhafızları Hürmüz Boğazı'nda ABD İnsansız Gemisine Saldırdı",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nda bir ABD insansız deniz aracına saldırı düzenlediğini duyurdu. Bu olay, bölgedeki deniz güvenliği endişelerini artırırken, Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO) Umman açıklarında iki gemiye mermi isabet ettiğini bildirdi. Saldırının detayları ve hedef alınan gemilerin durumu hakkında araştırmalar sürdürülüyor. Stratejik Hürmüz Boğazı ve Umman Körfezi'ndeki bu gerilim, uluslararası seyrüsefer güvenliğinin önemini bir kez daha vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28934041/pexels-photo-28934041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-11T00:25:37.436Z",
+        "location": {
+            "lat": 25.9,
+            "lng": 57,
+            "name": "Hürmüz Boğazı, Umman Körfezi"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1789086359845bbdgj",
+        "title": "BM Temsilcisi, Yemen'deki Savaşın 'Tehlikeli Bir Aşamaya' Girdiğini Uyardı",
+        "summary": "Birleşmiş Milletler Yemen Özel Temsilcisi Hans Grundberg, Güvenlik Konseyi'ne yaptığı açıklamada, Yemen'deki savaşın 'tehlikeli bir aşamaya' girdiğini belirtti. Grundberg, Husilerin tırmanan eylemleri karşısında sivillerin ve ticaret yollarının korunması için acil adımlar atılması çağrısında bulundu. Bölgedeki gerilimin artmasıyla birlikte insani durumun daha da kötüleşebileceği endişesi dile getirildi. Uluslararası toplumun, çatışmanın daha fazla yayılmasını önlemek ve barışçıl bir çözüm bulmak için çabalarını yoğunlaştırması gerektiği vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-11T00:25:59.845Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789086395524gjr5s",
+        "title": "İsrail, Lübnan'ın Ali el-Taher sırtındaki Hizbullah üssünü imha ettiğini duyurdu",
+        "summary": "İsrail ordusu, Lübnan topraklarında askeri bir operasyon gerçekleştirdiğini açıkladı. Yapılan duyuruya göre, Lübnan'ın Ali el-Taher sırtında yer alan bir Hizbullah üssü hedef alınarak imha edildi. Bu saldırılar, İsrail'in bir hafta önce stratejik öneme sahip bu sırt üzerinde operasyonel kontrol sağladığını bildirmesinin ardından geldi. Bölgedeki gerilimin devam ettiği bir dönemde gerçekleşen bu eylem, İsrail ile Hizbullah arasındaki çatışmaların seyrini yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-11T00:26:35.524Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17890791932044jwlp",
         "title": "İspanya Parlamentosu, 1977 Öncesi Doğan Batı Saharalılara Vatandaşlık Verilmesini Onayladı",
         "summary": "İspanya Parlamentosu'nun alt kanadı, 1977 yılından önce doğan on binlerce Batı Saharalıya İspanyol vatandaşlığı verilmesini öngören yasa tasarısını onayladı. Bu karar, eski İspanyol sömürgesi olan Batı Sahra'daki Sahravilerin hukuki statüsüne yönelik önemli bir adım olarak değerlendirilmektedir. Tasarı, alt meclisten geçmesinin ardından nihai onay için İspanya Senatosu'na sevk edildi. Söz konusu gelişme, Batı Sahra'nın tartışmalı statüsü ve bölgedeki siyasi dengeler açısından uluslararası kamuoyunun dikkatini çekmektedir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17888881215017rvwk",
-        "title": "İsrail Saldırıları Lübnan Şehrini Hayalet Kasabaya Çevirdi",
-        "summary": "Güney Lübnan'ın bir zamanlar ekonomik merkezi olan Nebatiye, İsrail'in bölgeye yönelik saldırılarını yoğunlaştırmasıyla birlikte adeta bir hayalet kasabaya dönüştü. Şehirde yaşayanların büyük bir kısmı, artan çatışmalar ve güvenlik endişeleri nedeniyle evlerini terk etmek zorunda kaldı. Yoğun saldırılar sonucunda Nebatiye'deki ticari faaliyetler durma noktasına gelirken, sokaklar boşaldı ve günlük yaşam felç oldu. Bölgedeki gerilimin tırmanmaya devam etmesiyle birlikte, insani durumun kötüleştiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27791225/pexels-photo-27791225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T17:22:01.501Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Nebatiye, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788888188228hdehg",
-        "title": "Suudi Arabistan, Husilerin şehirleri ve enerji tesislerini hedef almasının ardından misilleme sözü verdi",
-        "summary": "Suudi Arabistanlı yetkililer, İran destekli Yemenli Husi grubunun ülkedeki şehirlere ve enerji tesislerine yönelik saldırılar düzenlediğini bildirdi. Açıklamalara göre, bu saldırılarda 73 kişi yaralandı ve petrol tesislerinde yangınlar çıktı. Suudi Arabistan, bu saldırılara karşılık vereceğini duyurdu. Olay, bölgedeki gerilimi artırırken, uluslararası toplumun dikkatini çekmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38768198/pexels-photo-38768198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T17:23:08.228Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788873837874lpus5",
-        "title": "Liverpool, Türk Hava Yolları ile Beş Yıllık Forma Sponsorluğu Anlaşması İmzaladı",
-        "summary": "İngiltere Premier Lig ekiplerinden Liverpool Futbol Kulübü, Türk Hava Yolları (THY) ile beş yıllık bir forma sponsorluğu anlaşması yaptığını duyurdu. Anlaşmanın değerinin 405 milyon doların üzerinde olduğu belirtiliyor. Bu rakamın, Premier Lig tarihindeki en kazançlı sponsorluk anlaşmaları arasında yer alacağı ifade edildi. Söz konusu anlaşma, Türk Hava Yolları'nın küresel marka bilinirliğini artırırken, Liverpool'a da önemli bir finansal destek sağlayacak.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/33454725/pexels-photo-33454725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-08T13:23:57.874Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/9/8/liverpool-announce-five-year-shirt-sponsorship-deal-with-turkish-airlines?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
